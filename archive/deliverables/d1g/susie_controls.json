@@ -1,0 +1,174 @@
+[
+  {
+    "locus": "HMGCR_LDL",
+    "n_variants": 271,
+    "n_eur": 525,
+    "ld_condition_number": Infinity,
+    "ld_min_eigenvalue": -1.5132795042874334e-14,
+    "eqtl_lead": "rs6453133",
+    "eqtl_lead_z": 14.9667,
+    "gwas_lead": "rs12916",
+    "gwas_lead_z": 49.59267465649179,
+    "lead_r2": 0.4642252990534827,
+    "lead_distance_bp": 36237,
+    "abf_PP3": 0.9999999999899956,
+    "abf_PP4": 1.0047485198341213e-11,
+    "abf_gap": 32.231454020728734,
+    "n_cs_exposure": 1,
+    "n_cs_outcome": 5,
+    "susie_best_PP4": 0.14820088881765153,
+    "cs_pairs": [
+      {
+        "PP3": 0.9999999999806732,
+        "PP4": 1.927107051474914e-11,
+        "cs1_component": 0,
+        "cs2_component": 0,
+        "cs1_size": 1,
+        "cs2_size": 2,
+        "cs1_purity": 1.0,
+        "cs2_purity": 0.9999999999999993
+      },
+      {
+        "PP3": 0.9999999999920419,
+        "PP4": 7.942544724608169e-12,
+        "cs1_component": 0,
+        "cs2_component": 1,
+        "cs1_size": 1,
+        "cs2_size": 1,
+        "cs1_purity": 1.0,
+        "cs2_purity": 1.0
+      },
+      {
+        "PP3": 0.9999997836488553,
+        "PP4": 2.1635116462247235e-07,
+        "cs1_component": 0,
+        "cs2_component": 2,
+        "cs1_size": 1,
+        "cs2_size": 1,
+        "cs1_purity": 1.0,
+        "cs2_purity": 1.0
+      },
+      {
+        "PP3": 0.8460480377972969,
+        "PP4": 0.14820088881765153,
+        "cs1_component": 0,
+        "cs2_component": 3,
+        "cs1_size": 1,
+        "cs2_size": 24,
+        "cs1_purity": 1.0,
+        "cs2_purity": 0.5713200268131541
+      },
+      {
+        "PP3": 1.0,
+        "PP4": 1.6352051664152022e-17,
+        "cs1_component": 0,
+        "cs2_component": 4,
+        "cs1_size": 1,
+        "cs2_size": 70,
+        "cs1_purity": 1.0,
+        "cs2_purity": 0.8847759662215187
+      }
+    ]
+  },
+  {
+    "locus": "IL6R_CRP",
+    "n_variants": 167,
+    "n_eur": 525,
+    "ld_condition_number": Infinity,
+    "ld_min_eigenvalue": -1.1582467954435883e-14,
+    "eqtl_lead": "rs2229238",
+    "eqtl_lead_z": 11.5971,
+    "gwas_lead": "rs4576655",
+    "gwas_lead_z": -40.68348042038664,
+    "lead_r2": 0.18711463183239213,
+    "lead_distance_bp": 19147,
+    "abf_PP3": 1.0,
+    "abf_PP4": 7.95909704766993e-17,
+    "abf_gap": 43.97738630268145,
+    "n_cs_exposure": 2,
+    "n_cs_outcome": 4,
+    "susie_best_PP4": 0.9999979675802114,
+    "cs_pairs": [
+      {
+        "PP3": 0.9999999294182114,
+        "PP4": 5.608346594518271e-08,
+        "cs1_component": 0,
+        "cs2_component": 0,
+        "cs1_size": 11,
+        "cs2_size": 1,
+        "cs1_purity": 0.8055402675839591,
+        "cs2_purity": 1.0
+      },
+      {
+        "PP3": 0.9999901494493753,
+        "PP4": 9.836052504547246e-06,
+        "cs1_component": 0,
+        "cs2_component": 1,
+        "cs1_size": 11,
+        "cs2_size": 1,
+        "cs1_purity": 0.8055402675839591,
+        "cs2_purity": 1.0
+      },
+      {
+        "PP3": 0.9999999852334298,
+        "PP4": 2.683048771830389e-10,
+        "cs1_component": 0,
+        "cs2_component": 2,
+        "cs1_size": 11,
+        "cs2_size": 1,
+        "cs1_purity": 0.8055402675839591,
+        "cs2_purity": 1.0
+      },
+      {
+        "PP3": 0.9081546193321566,
+        "PP4": 0.003913540348392333,
+        "cs1_component": 0,
+        "cs2_component": 3,
+        "cs1_size": 11,
+        "cs2_size": 39,
+        "cs1_purity": 0.8055402675839591,
+        "cs2_purity": 0.6153684358309361
+      },
+      {
+        "PP3": 0.9979267292583759,
+        "PP4": 6.231521375047727e-05,
+        "cs1_component": 1,
+        "cs2_component": 0,
+        "cs1_size": 1,
+        "cs2_size": 1,
+        "cs1_purity": 1.0,
+        "cs2_purity": 1.0
+      },
+      {
+        "PP3": 0.993483382563592,
+        "PP4": 0.0045146068725406725,
+        "cs1_component": 1,
+        "cs2_component": 1,
+        "cs1_size": 1,
+        "cs2_size": 1,
+        "cs1_purity": 1.0,
+        "cs2_purity": 1.0
+      },
+      {
+        "PP3": 1.7255788685421087e-08,
+        "PP4": 0.9999979675802114,
+        "cs1_component": 1,
+        "cs2_component": 2,
+        "cs1_size": 1,
+        "cs2_size": 1,
+        "cs1_purity": 1.0,
+        "cs2_purity": 1.0
+      },
+      {
+        "PP3": 0.9080923205291204,
+        "PP4": 0.0019749604430576587,
+        "cs1_component": 1,
+        "cs2_component": 3,
+        "cs1_size": 1,
+        "cs2_size": 39,
+        "cs1_purity": 1.0,
+        "cs2_purity": 0.6153684358309361
+      }
+    ]
+  }
+]

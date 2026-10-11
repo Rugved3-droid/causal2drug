@@ -1,0 +1,107 @@
+gene	gwas_acc	mesh_term	n_merged	eqtl_lead_rsid	eqtl_lead_z	gwas_lead_rsid	gwas_lead_z	gwas_genome_wide_sig	lead_r2	lead_dist_bp	abf_gap	abf_PP3	abf_PP4	susie_PP4	n_cs_exposure	n_cs_outcome	dentist_rmse_eqtlgen	dentist_rmse_gwas	note
+ABAT	GCST90704647	Alzheimer Disease	560	rs13333072	-42.45	rs141728254	-2.59	False											excluded_R15_gwas_not_genome_wide_significant
+ABCA1	GCST90128518	Gallstones	369	rs2487052	-15.04	rs4149310	-3.619	False											excluded_R15_gwas_not_genome_wide_significant
+ACVR2A	GCST90473119	Anemia	340	rs11886876	28.12	rs755365	2.532	False											excluded_R15_gwas_not_genome_wide_significant
+ACVR2B	GCST90473119	Anemia	376	rs7372545	33.67	rs196375	2.321	False											excluded_R15_gwas_not_genome_wide_significant
+ADORA1	GCST90624412	Atrial Fibrillation	261	rs10920568	65.68	rs2270543	17.56	True	0.0034	67590	128.730	1	1.23978e-53	0.958662	3	4	4.946	1.286	
+AHR	GCST90472771	Psoriasis	140	rs74919529	19.88	rs13238932	-4.503	False											excluded_R15_gwas_not_genome_wide_significant
+AKR1B1	GCST90399686	Asthma	514	rs73164856	33.62	rs706153	-2.136	False											excluded_R15_gwas_not_genome_wide_significant
+ALOX5	GCST90399686	Asthma	396	rs4949006	-26.83	rs112016780	4.132	False											excluded_R15_gwas_not_genome_wide_significant
+ANGPT2	GCST90270871	Sepsis	218	rs11990038	8.986	rs112514946	2.156	False											excluded_R15_gwas_not_genome_wide_significant
+BCL2L1	GCST90472771	Psoriasis	238	rs6088962	-7.256	rs2376997	-2.32	False											excluded_R15_gwas_not_genome_wide_significant
+BMPR1A	GCST90473119	Anemia	254	rs58477734	-11.53	rs7908829	2.297	False											excluded_R15_gwas_not_genome_wide_significant
+C5AR1	GCST90270871	Sepsis	106	rs61091270	8.873	rs2694564	-2.235	False											excluded_R15_gwas_not_genome_wide_significant
+C5	GCST90399686	Asthma	694	rs10733650	76.02	rs3933326	4.474	False											excluded_R15_gwas_not_genome_wide_significant
+CA2	GCST90668013	Heart Failure	226	rs28489491	-24.41	rs76589685	-2.324	False											excluded_R15_gwas_not_genome_wide_significant
+CALCRL	GCST90668013	Heart Failure	492	rs8176580	-25.13	rs185447529	-1.822	False											excluded_R15_gwas_not_genome_wide_significant
+CCR5	GCST90704647	Alzheimer Disease	434	rs1799987	-25.43	rs4317138	-1.684	False											excluded_R15_gwas_not_genome_wide_significant
+CD4	GCST90399686	Asthma	277	rs7296859	27.5	rs7958056	2.66	False											excluded_R15_gwas_not_genome_wide_significant
+CD52	GCST90473316	Multiple Sclerosis	399	rs11577318	-23.75	rs10794534	-2.605	False											excluded_R15_gwas_not_genome_wide_significant
+CD86	GCST90473316	Multiple Sclerosis	319	rs13088702	21.82	rs4974394	3.546	False											excluded_R15_gwas_not_genome_wide_significant
+CFD	GCST90043769	Myasthenia Gravis	477	rs2930902	83.79	rs149887681	3.158	False											excluded_R15_gwas_not_genome_wide_significant
+COMT	GCST90473258	Schizophrenia	289	rs9618717	35.11	rs9306235	2.204	False											excluded_R15_gwas_not_genome_wide_significant
+CSF1R	GCST90399686	Asthma	357	rs6874087	31.47	rs6579772	-3.078	False											excluded_R15_gwas_not_genome_wide_significant
+CSNK1E	GCST90704647	Alzheimer Disease	253	rs115082049	17.49	rs2267390	-3.391	False											excluded_R15_gwas_not_genome_wide_significant
+CTLA4	GCST90473176	Diabetes Mellitus	219	rs13030124	17.73	rs13429019	1.758	False											excluded_R15_gwas_not_genome_wide_significant
+CTSC	GCST90473176	Diabetes Mellitus	795	rs3758833	-59.32	rs117735622	2.325	False											excluded_R15_gwas_not_genome_wide_significant
+DHFR	GCST90668013	Heart Failure	591	rs1478834	-49.17	rs1105524	2.216	False											excluded_R15_gwas_not_genome_wide_significant
+DHODH	GCST90473087	Aspergillosis	173	rs3213422	12.79	rs11642506	-1.892	False											excluded_R15_gwas_not_genome_wide_significant
+DPP4	GCST90473176	Diabetes Mellitus	154	rs13015258	15.73	rs149061024	-1.523	False											excluded_R15_gwas_not_genome_wide_significant
+DRD4	GCST90399720	Idiopathic Pulmonary Fibrosis	319	rs72844713	-16.07	rs2061586	-3.641	False											excluded_R15_gwas_not_genome_wide_significant
+EEF2	GCST90473091	Malaria	131	rs72976912	-14.4	rs895332	-2.535	False											excluded_R15_gwas_not_genome_wide_significant
+EGLN1	GCST90473119	Anemia	401	rs74143867	-23.77	rs6677989	1.028	False											excluded_R15_gwas_not_genome_wide_significant
+EGLN2	GCST90668013	Heart Failure	315	rs3736329	45.55	rs7252227	2.772	False											excluded_R15_gwas_not_genome_wide_significant
+EGLN3	GCST90473119	Anemia	200	rs12586857	-22	rs1244376	2.574	False											excluded_R15_gwas_not_genome_wide_significant
+EPOR	GCST90704647	Alzheimer Disease	201	rs651774	30.74	rs118081085	2.791	False											excluded_R15_gwas_not_genome_wide_significant
+ERBB2	GCST90473091	Malaria	110	rs903506	8.149	rs11078916	-1.471	False											excluded_R15_gwas_not_genome_wide_significant
+F10	GCST90270871	Sepsis	124	rs7335409	-7.214	rs2480948	-1.637	False											excluded_R15_gwas_not_genome_wide_significant
+F2R	GCST90668013	Heart Failure	402	rs250735	-42.9	rs144215134	3.649	False											excluded_R15_gwas_not_genome_wide_significant
+FAAH	GCST90473316	Multiple Sclerosis	420	rs1053624	42.37	rs141228413	-2.918	False											excluded_R15_gwas_not_genome_wide_significant
+FCGRT	GCST90043769	Myasthenia Gravis	283	rs59774409	-28.35	rs701717	-2.135	False											excluded_R15_gwas_not_genome_wide_significant
+FDPS	GCST90474133	Osteoporosis	120	rs79476744	-10.74	rs11264362	-1.592	False											excluded_R15_gwas_not_genome_wide_significant
+FGFR1	GCST90399686	Asthma	159	rs10958704	34.32	rs328296	-2.861	False											excluded_R15_gwas_not_genome_wide_significant
+FKBP1A	GCST90399686	Asthma	383	rs8392	-39.23	rs67542792	2.596	False											excluded_R15_gwas_not_genome_wide_significant
+FLT1	GCST90399720	Idiopathic Pulmonary Fibrosis	314	rs56728557	-22.57	rs17626077	-2.513	False											excluded_R15_gwas_not_genome_wide_significant
+FLT3	GCST90399720	Idiopathic Pulmonary Fibrosis	177	rs112634401	-8.759	rs11840651	-1.504	False											excluded_R15_gwas_not_genome_wide_significant
+FLT4	GCST90399720	Idiopathic Pulmonary Fibrosis	172	rs6877400	22.29	rs62407083	2.298	False											excluded_R15_gwas_not_genome_wide_significant
+GAA	GCST90473176	Diabetes Mellitus	554	rs2361724	84.38	rs9895637	-3.138	False											excluded_R15_gwas_not_genome_wide_significant
+GUCY2C	GCST90704647	Alzheimer Disease	208	rs11056020	25.78	rs77750150	2.343	False											excluded_R15_gwas_not_genome_wide_significant
+HMGCR	GCST90624053	Pneumonia	267	rs6453133	14.97	rs13356603	1.266	False											excluded_R15_gwas_not_genome_wide_significant
+IFNAR1	GCST90473316	Multiple Sclerosis	349	rs8178576	37.23	rs143562043	-3.511	False											excluded_R15_gwas_not_genome_wide_significant
+IFNG	GCST90270871	Sepsis	131	rs1118865	9.055	rs741344	-1.252	False											excluded_R15_gwas_not_genome_wide_significant
+IL11RA	GCST90399720	Idiopathic Pulmonary Fibrosis	351	rs2070074	61.59	rs4879804	-2.319	False											excluded_R15_gwas_not_genome_wide_significant
+IL17RA	GCST90399686	Asthma	264	rs3827279	25.94	rs5994134	-2.064	False											excluded_R15_gwas_not_genome_wide_significant
+IL1R1	GCST90399701	Gout	277	rs12624116	15.52	rs7569218	3.455	False											excluded_R15_gwas_not_genome_wide_significant
+IL4R	GCST90399686	Asthma	269	rs1110470	29.34	rs4787951	9.214	True	0.3382	7536	21.597	1	4.1745e-07	0.00794396	3	4	3.344	1.861	
+IL6R	GCST90399686	Asthma	225	rs10908839	12.18	rs4845372	5.405	False											excluded_R15_gwas_not_genome_wide_significant
+IMPDH1	GCST90472771	Psoriasis	116	rs28364722	15.33	rs193189360	1.303	False											excluded_R15_gwas_not_genome_wide_significant
+ITGAL	GCST90472771	Psoriasis	135	rs11150589	26.06	rs9746755	-4.649	False											excluded_R15_gwas_not_genome_wide_significant
+ITK	GCST90399686	Asthma	383	rs6876898	25.43	rs76493820	4.108	False											excluded_R15_gwas_not_genome_wide_significant
+JAK2	GCST90399686	Asthma	534	rs6476941	25.26	rs6476941	4.086	False											excluded_R15_gwas_not_genome_wide_significant
+KCNH2	GCST90624412	Atrial Fibrillation	250	rs41258144	18.38	rs2888691	-12.29	True	0.0321	18330	13.090	0.997939	0.0020607	0.998825	3	2	3.957	3.049	
+KCNN4	GCST90624412	Atrial Fibrillation	519	rs56681946	84.49	rs36099602	-3.924	False											excluded_R15_gwas_not_genome_wide_significant
+KLKB1	GCST90473176	Diabetes Mellitus	564	rs55975907	65.16	rs925451	2.359	False											excluded_R15_gwas_not_genome_wide_significant
+LEPR	GCST90704647	Alzheimer Disease	944	rs6656451	53.36	rs6672992	-2.667	False											excluded_R15_gwas_not_genome_wide_significant
+LYN	GCST90399686	Asthma	191	rs1511724	19.88	rs72651463	-2.788	False											excluded_R15_gwas_not_genome_wide_significant
+MAP2K1	GCST90704647	Alzheimer Disease	202	rs11637949	-14.85	rs4776797	2.704	False											excluded_R15_gwas_not_genome_wide_significant
+MAP2K2	GCST90704647	Alzheimer Disease	153	rs10250	22.94	rs117735655	2.639	False											excluded_R15_gwas_not_genome_wide_significant
+MC1R	GCST90270870	Candidiasis	693	rs62052183	68.96	rs141987787	2.675	False											excluded_R15_gwas_not_genome_wide_significant
+MIF	GCST90399686	Asthma	221	rs55814834	-23.95	rs5996634	2.214	False											excluded_R15_gwas_not_genome_wide_significant
+MME	GCST90668013	Heart Failure	276	rs940895	13.73	rs9860660	2.293	False											excluded_R15_gwas_not_genome_wide_significant
+MMP1	GCST90044101	Periodontitis	120	rs471994	-12.62	rs1144393	-3.239	False											excluded_R15_gwas_not_genome_wide_significant
+MMP8	GCST90474015	Osteoarthritis	166	rs1276289	-10.76	rs61895560	-1.54	False											excluded_R15_gwas_not_genome_wide_significant
+MTOR	GCST90503483	Sarcoidosis	505	rs4845986	27.51	rs2982372	-1.755	False											excluded_R15_gwas_not_genome_wide_significant
+NISCH	GCST90668013	Heart Failure	109	rs613519	-9.433	rs77716837	1.716	False											excluded_R15_gwas_not_genome_wide_significant
+PARP1	GCST90704647	Alzheimer Disease	368	rs3219023	43.19	rs12145479	-2.838	False											excluded_R15_gwas_not_genome_wide_significant
+PDCD1	GCST90270871	Sepsis	411	rs7570624	-18.82	rs7563672	-2.074	False											excluded_R15_gwas_not_genome_wide_significant
+PDE5A	GCST90399720	Idiopathic Pulmonary Fibrosis	496	rs10518336	15.53	rs10518335	-1.762	False											excluded_R15_gwas_not_genome_wide_significant
+PIK3CG	GCST90399686	Asthma	173	rs42175	12.92	rs143781448	1.57	False											excluded_R15_gwas_not_genome_wide_significant
+PNP	GCST90399701	Gout	152	rs1713427	-32.09	rs138456040	2.228	False											excluded_R15_gwas_not_genome_wide_significant
+PPARA	GCST90399720	Idiopathic Pulmonary Fibrosis	158	rs129600	-8.45	rs6007895	-2.694	False											excluded_R15_gwas_not_genome_wide_significant
+PPARG	GCST90399686	Asthma	398	rs1619599	31.81	rs138316828	5.554	True	0.0002	167154	17.587	0.995307	2.29208e-05	0.00305885	4	1	2.885	0.8549	
+PTGDR	GCST90399686	Asthma	512	rs4901230	-63.5	rs74822138	2.202	False											excluded_R15_gwas_not_genome_wide_significant
+PTGDS	GCST90399686	Asthma	342	rs885070	25.99	rs77740311	-1.845	False											excluded_R15_gwas_not_genome_wide_significant
+PTGER2	GCST90399686	Asthma	354	rs1254600	-34.76	rs28710201	-2.249	False											excluded_R15_gwas_not_genome_wide_significant
+PTGFR	GCST90473392	Conjunctivitis	298	rs12077324	-19	rs146118047	1.838	False											excluded_R15_gwas_not_genome_wide_significant
+PTGIR	GCST90503483	Sarcoidosis	242	rs75660000	-35.79	rs77298884	-3.386	False											excluded_R15_gwas_not_genome_wide_significant
+PTGS1	GCST90399701	Gout	104	rs62575596	-12.73	rs58902126	1.374	False											excluded_R15_gwas_not_genome_wide_significant
+PTGS2	GCST90399686	Asthma	205	rs689470	-29.27	rs10911912	-2.852	False											excluded_R15_gwas_not_genome_wide_significant
+RET	GCST90399720	Idiopathic Pulmonary Fibrosis	219	rs2503841	-14.94	rs74750370	-2.134	False											excluded_R15_gwas_not_genome_wide_significant
+ROCK2	GCST90399686	Asthma	474	rs12468344	20.22	rs11689991	2.521	False											excluded_R15_gwas_not_genome_wide_significant
+RYR1	GCST90668013	Heart Failure	395	rs908644	23.29	rs111779128	-4.12	False											excluded_R15_gwas_not_genome_wide_significant
+SELP	GCST90270871	Sepsis	250	rs10919218	-13.48	rs10919192	2.012	False											excluded_R15_gwas_not_genome_wide_significant
+SERPINC1	GCST90473538	Myocardial Infarction	202	rs9425780	34.87	rs2281486	2.557	False											excluded_R15_gwas_not_genome_wide_significant
+SLC12A1	GCST90668013	Heart Failure	298	rs964611	193.7	rs77447266	-2.302	False											excluded_R15_gwas_not_genome_wide_significant
+SLC18A2	GCST90473176	Diabetes Mellitus	130	rs181440	-23.88	rs28634565	1.892	False											excluded_R15_gwas_not_genome_wide_significant
+SLC9A3	GCST90668013	Heart Failure	597	rs79060451	56.71	rs7731963	3.396	False											excluded_R15_gwas_not_genome_wide_significant
+SYK	GCST90399686	Asthma	763	rs772407	-59.46	rs966411	3.869	False											excluded_R15_gwas_not_genome_wide_significant
+TBXAS1	GCST90399686	Asthma	540	rs2240395	-34.98	rs2267705	-2.995	False											excluded_R15_gwas_not_genome_wide_significant
+TEK	GCST90668013	Heart Failure	862	rs578327	58.59	rs10812528	-2.033	False											excluded_R15_gwas_not_genome_wide_significant
+TNFSF13B	GCST90043769	Myasthenia Gravis	123	rs113469631	-24.16	rs8000341	-2.18	False											excluded_R15_gwas_not_genome_wide_significant
+TNF	GCST90399686	Asthma	500	rs1121800	24.48	rs2855812	10.36	True	0.1118	62354	45.898	1	1.16662e-17				2.943	3.55	coloc_artefact_rejected
+TSHR	GCST90319319	Hyperthyroidism	407	rs179252	13.28	rs2160215	12.81	True	0.4976	25487	8.034	0.755155	0.244845		3	0	2.956	1.545	no_credible_set_pair
+TSPO	GCST90225525	Panic Disorder	209	rs739092	-30.19	rs6003065	-2.691	False											excluded_R15_gwas_not_genome_wide_significant
+TYK2	GCST90399686	Asthma	396	rs34725611	27.78	rs34031043	4.137	False											excluded_R15_gwas_not_genome_wide_significant
+TYMS	GCST90668013	Heart Failure	310	rs2015944	-16.55	rs2847602	3.247	False											excluded_R15_gwas_not_genome_wide_significant
+VDR	GCST90473203	Vitamin D Deficiency	338	rs7975232	15.75	rs11168275	-2.615	False											excluded_R15_gwas_not_genome_wide_significant
+VEGFA	GCST90399720	Idiopathic Pulmonary Fibrosis	128	rs11965885	29.54	rs4714693	2.468	False											excluded_R15_gwas_not_genome_wide_significant

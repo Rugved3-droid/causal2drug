@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140508",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "43481",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/204886Orig1s000TOC.html",
+              "date": "20140618",
+              "type": "Review"
+            },
+            {
+              "id": "10405",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/204886Orig1s000ltr.pdf",
+              "date": "20140509",
+              "type": "Letter"
+            },
+            {
+              "id": "19608",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/204886s000lbl.pdf",
+              "date": "20140512",
+              "type": "Label"
+            },
+            {
+              "id": "24484",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/204886Orig1s000SumR.pdf",
+              "date": "20140618",
+              "type": "Summary Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20150416",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "19609",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/204886s002lbl.pdf",
+              "date": "20150417",
+              "type": "Label"
+            },
+            {
+              "id": "23518",
+              "url": "http://www.fda.gov/downloads/Drugs/DrugSafety/UCM447698.pdf",
+              "date": "20150527",
+              "type": "Medication Guide"
+            },
+            {
+              "id": "32603",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/204886Orig1s002ltr.pdf",
+              "date": "20150417",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20191107",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "60805",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/204886Orig1s005ltr.pdf",
+              "date": "20191112",
+              "type": "Letter"
+            },
+            {
+              "id": "60833",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/204886s005lbl.pdf",
+              "date": "20191114",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150714",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA204886",
+      "sponsor_name": "KEY THERAP",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ZONTIVITY",
+          "active_ingredients": [
+            {
+              "name": "VORAPAXAR SULFATE",
+              "strength": "EQ 2.08MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

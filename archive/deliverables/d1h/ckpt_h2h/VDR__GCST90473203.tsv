@@ -1,0 +1,2 @@
+gene	gwas_acc	mesh_term	n_eqtlgen	n_gtex	eqtlgen_lead_z	gtex_lead_z	PP4_eqtlgen	PP3_eqtlgen	PP4_gtexblood	PP3_gtexblood	gap_eqtlgen	gap_gtex	note
+VDR	GCST90473203	Vitamin D Deficiency	338	934	15.75	4.603	0.0122072	0.0100378	0.0122343	0.0177289	6.713	7.279	

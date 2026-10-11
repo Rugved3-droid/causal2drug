@@ -1,0 +1,1917 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 11
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200519",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "63415",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/207605Orig1s000ltr.pdf",
+              "date": "20200604",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20221108",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20220906",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA207605",
+      "sponsor_name": "APOTEX",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230621",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA216949",
+      "sponsor_name": "MSN",
+      "openfda": {
+        "application_number": [
+          "ANDA216949"
+        ],
+        "brand_name": [
+          "TOLVAPTAN"
+        ],
+        "generic_name": [
+          "TOLVAPTAN"
+        ],
+        "manufacturer_name": [
+          "Novadoz Pharmaceuticals LLC",
+          "Northstar Rx LLC"
+        ],
+        "product_ndc": [
+          "72205-130",
+          "72205-131",
+          "72603-932",
+          "72603-933"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TOLVAPTAN"
+        ],
+        "rxcui": [
+          "849827",
+          "849833"
+        ],
+        "spl_id": [
+          "92ce12f1-eae0-4c83-9a4e-a5181e08fa92",
+          "3dd69146-6f15-4c54-a6d9-7408e6c41548"
+        ],
+        "spl_set_id": [
+          "92ce12f1-eae0-4c83-9a4e-a5181e08fa92",
+          "c075d517-f4c8-469a-9f51-416ef61c6a83"
+        ],
+        "package_ndc": [
+          "72205-130-11",
+          "72205-131-11",
+          "72603-932-01",
+          "72603-933-01"
+        ],
+        "nui": [
+          "N0000193181",
+          "N0000193178"
+        ],
+        "pharm_class_epc": [
+          "Vasopressin V2 Receptor Antagonist [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Vasopressin V2 Receptor Antagonists [MoA]"
+        ],
+        "unii": [
+          "21G72T1950"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220215",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "71707",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/206119Orig1s000ltr.pdf",
+              "date": "20220804",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA206119",
+      "sponsor_name": "PH HEALTH",
+      "openfda": {
+        "application_number": [
+          "ANDA206119"
+        ],
+        "brand_name": [
+          "TOLVAPTAN"
+        ],
+        "generic_name": [
+          "TOLVAPTAN"
+        ],
+        "manufacturer_name": [
+          "Par Health USA, LLC"
+        ],
+        "product_ndc": [
+          "49884-768",
+          "49884-770"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TOLVAPTAN"
+        ],
+        "rxcui": [
+          "849827",
+          "849833"
+        ],
+        "spl_id": [
+          "713b5023-b615-4d37-b25f-6d19dc2e536e"
+        ],
+        "spl_set_id": [
+          "5b14ba2b-9f80-41d6-9613-f16d3cf37d25"
+        ],
+        "package_ndc": [
+          "49884-768-52",
+          "49884-768-54",
+          "49884-770-52",
+          "49884-770-54"
+        ],
+        "nui": [
+          "N0000193181",
+          "N0000193178"
+        ],
+        "pharm_class_epc": [
+          "Vasopressin V2 Receptor Antagonist [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Vasopressin V2 Receptor Antagonists [MoA]"
+        ],
+        "unii": [
+          "21G72T1950"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20180423",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "53795",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/022275s016lbledt.pdf",
+              "date": "20180424",
+              "type": "Label"
+            },
+            {
+              "id": "53796",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/022275s016lbl.pdf#page=24",
+              "date": "20180424",
+              "type": "Medication Guide"
+            },
+            {
+              "id": "53807",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/022275Orig1s016ltr.pdf",
+              "date": "20210426",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20120914",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "application_docs": [
+            {
+              "id": "7155",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/022275Orig1s008ltr.pdf",
+              "date": "20120917",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20140228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "17185",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/022275s014lbl.pdf",
+              "date": "20140304",
+              "type": "Label"
+            },
+            {
+              "id": "29511",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/022275Orig1s014ltr.pdf",
+              "date": "20140305",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20130927",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20210422",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "67162",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/022275s017lbl.pdf",
+              "date": "20210423",
+              "type": "Label"
+            },
+            {
+              "id": "67163",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/022275s017lbl.pdf#page=19",
+              "date": "20210423",
+              "type": "Medication Guide"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20130409",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "17184",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/022275s009lbl.pdf",
+              "date": "20130416",
+              "type": "Label"
+            },
+            {
+              "id": "29510",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/022275Orig1s009ltr.pdf",
+              "date": "20130418",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20170601",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "48624",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/022275s015lbl.pdf",
+              "date": "20170601",
+              "type": "Label"
+            },
+            {
+              "id": "48642",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/022275Orig1s015ltr.pdf",
+              "date": "20170605",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20121116",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "17183",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/022275s007lbl.pdf",
+              "date": "20121119",
+              "type": "Label"
+            },
+            {
+              "id": "29509",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/022275Orig1s007ltr.pdf",
+              "date": "20121119",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20120201",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "38484",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/022275s005lbl.pdf",
+              "date": "20120202",
+              "type": "Label"
+            },
+            {
+              "id": "7154",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/022275s005ltr.pdf",
+              "date": "20120203",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20090519",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "17182",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/022275lbl.pdf",
+              "date": "20090525",
+              "type": "Label"
+            },
+            {
+              "id": "21977",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2009/022275s000TOC.html",
+              "date": "20090721",
+              "type": "Review"
+            },
+            {
+              "id": "23705",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm350203.htm",
+              "date": "20131227",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "24272",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2009/022275s000_SumR.pdf",
+              "date": "20090721",
+              "type": "Summary Review"
+            },
+            {
+              "id": "29507",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/022275s000ltr.pdf",
+              "date": "20090527",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20130502",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "7156",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/022275Orig1s011ltr.pdf",
+              "date": "20130508",
+              "type": "Letter"
+            },
+            {
+              "id": "38485",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/022275s011lbl.pdf",
+              "date": "20130521",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20110923",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "application_docs": [
+            {
+              "id": "29508",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022275s003ltr.pdf",
+              "date": "20110928",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA022275",
+      "sponsor_name": "OTSUKA",
+      "openfda": {
+        "application_number": [
+          "NDA022275"
+        ],
+        "brand_name": [
+          "SAMSCA"
+        ],
+        "generic_name": [
+          "TOLVAPTAN"
+        ],
+        "manufacturer_name": [
+          "Otsuka America Pharmaceutical, Inc."
+        ],
+        "product_ndc": [
+          "59148-020",
+          "59148-021"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TOLVAPTAN"
+        ],
+        "rxcui": [
+          "849827",
+          "849831",
+          "849833",
+          "849835"
+        ],
+        "spl_id": [
+          "96cac6b9-6a43-4a69-ae83-fa739f14237d"
+        ],
+        "spl_set_id": [
+          "5526617c-c7b9-4556-886d-729bbabbc566"
+        ],
+        "package_ndc": [
+          "59148-020-50",
+          "59148-021-50"
+        ],
+        "nui": [
+          "N0000193181",
+          "N0000193178"
+        ],
+        "pharm_class_epc": [
+          "Vasopressin V2 Receptor Antagonist [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Vasopressin V2 Receptor Antagonists [MoA]"
+        ],
+        "unii": [
+          "21G72T1950"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "SAMSCA",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "SAMSCA",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "60MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "SAMSCA",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20220906",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220328",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200519",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "62171",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/211891Orig1s000TAltr.pdf",
+              "date": "20200608",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA211891",
+      "sponsor_name": "ALKEM LABS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA211891"
+        ],
+        "brand_name": [
+          "TOLVAPTAN"
+        ],
+        "generic_name": [
+          "TOLVAPTAN"
+        ],
+        "manufacturer_name": [
+          "Ascend Laboratories, LLC"
+        ],
+        "product_ndc": [
+          "67877-635",
+          "67877-636",
+          "67877-637"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TOLVAPTAN"
+        ],
+        "rxcui": [
+          "849827",
+          "849833",
+          "2044363"
+        ],
+        "spl_id": [
+          "f75355a8-50ef-4a88-aaa0-c85c0ae5c23d"
+        ],
+        "spl_set_id": [
+          "dd71ee70-9435-4715-bee5-edbb5a8d7d7b"
+        ],
+        "package_ndc": [
+          "67877-636-02",
+          "67877-636-01",
+          "67877-636-33",
+          "67877-637-02",
+          "67877-637-01",
+          "67877-637-33",
+          "67877-635-02",
+          "67877-635-01",
+          "67877-635-33"
+        ],
+        "nui": [
+          "N0000193181",
+          "N0000193178"
+        ],
+        "pharm_class_epc": [
+          "Vasopressin V2 Receptor Antagonist [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Vasopressin V2 Receptor Antagonists [MoA]"
+        ],
+        "unii": [
+          "21G72T1950"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20251110",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA218381",
+      "sponsor_name": "APOTEX",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "45MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "90MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20260421",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA220147",
+      "sponsor_name": "ALKEM LABS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA220147"
+        ],
+        "brand_name": [
+          "TOLVAPTAN"
+        ],
+        "generic_name": [
+          "TOLVAPTAN"
+        ],
+        "manufacturer_name": [
+          "Ascend Laboratories, LLC"
+        ],
+        "product_ndc": [
+          "67877-915",
+          "67877-916",
+          "67877-917",
+          "67877-918",
+          "67877-919",
+          "67877-920",
+          "67877-921",
+          "67877-922",
+          "67877-923",
+          "67877-924"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TOLVAPTAN"
+        ],
+        "rxcui": [
+          "2044359",
+          "2044363",
+          "2044367",
+          "2044966",
+          "2044968",
+          "2044970",
+          "2274813",
+          "2274815",
+          "2719335",
+          "2719337"
+        ],
+        "spl_id": [
+          "2a51dd17-fedf-4168-be2a-337ab74667a8"
+        ],
+        "spl_set_id": [
+          "82ef58ef-ce46-434e-bf99-89fce51094f1"
+        ],
+        "package_ndc": [
+          "67877-915-30",
+          "67877-916-30",
+          "67877-917-30",
+          "67877-918-30",
+          "67877-919-30",
+          "67877-920-14",
+          "67877-920-54",
+          "67877-921-14",
+          "67877-921-54",
+          "67877-922-14",
+          "67877-922-54",
+          "67877-923-14",
+          "67877-923-54",
+          "67877-924-14",
+          "67877-924-54"
+        ],
+        "nui": [
+          "N0000193181",
+          "N0000193178"
+        ],
+        "pharm_class_epc": [
+          "Vasopressin V2 Receptor Antagonist [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Vasopressin V2 Receptor Antagonists [MoA]"
+        ],
+        "unii": [
+          "21G72T1950"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "90MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "45MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180423",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 10",
+          "submission_class_code_description": "Type 10 - New Indication Submitted as Distinct NDA - Not Consolidated",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "53813",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/204441Orig1s000ltr.pdf",
+              "date": "20180424",
+              "type": "Letter"
+            },
+            {
+              "id": "54478",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/204441Orig1s000TOC.html",
+              "date": "20180608",
+              "type": "Review"
+            },
+            {
+              "id": "55386",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/204441lbl.pdf",
+              "date": "20180905",
+              "type": "Label"
+            },
+            {
+              "id": "76351",
+              "url": "https://www.accessdata.fda.gov/scripts/cder/rems/index.cfm?event=RemsDetails.page&REMS=441",
+              "date": "20231106",
+              "type": "REMS"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20201019",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "64962",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/204441Orig1s008ltr.pdf",
+              "date": "20201021",
+              "type": "Letter"
+            },
+            {
+              "id": "65512",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/204441s008lbl.pdf",
+              "date": "20201207",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20181201",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "56631",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/204441s002lbl.pdf",
+              "date": "20181204",
+              "type": "Label"
+            },
+            {
+              "id": "56664",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/204441s002ltr.pdf",
+              "date": "20181207",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20201125",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "65360",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/204441Orig1s009ltr.pdf",
+              "date": "20201127",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20191203",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "61147",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/204441Orig1s007ltr.pdf",
+              "date": "20191204",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20260915",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "87206",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/204441Orig1s016ltr.pdf",
+              "date": "20260916",
+              "type": "Letter"
+            },
+            {
+              "id": "87221",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/204441s016lbl.pdf#page=18",
+              "date": "20260916",
+              "type": "Medication Guide"
+            },
+            {
+              "id": "87225",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/204441s016lbl.pdf",
+              "date": "20260922",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180730",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "55088",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/204441Orig1s001Ltr.pdf",
+              "date": "20180803",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20250423",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "82093",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/204441Orig1s014ltr.pdf",
+              "date": "20250501",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20241216",
+          "review_priority": "N/A",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "81734",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/204441Orig1s012lbl.pdf",
+              "date": "20250326",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20230929",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "75649",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/204441Orig1s010ltr.pdf",
+              "date": "20231003",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA204441",
+      "sponsor_name": "OTSUKA",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "JYNARQUE",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "45MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "JYNARQUE",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "JYNARQUE",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "JYNARQUE",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "Yes",
+          "brand_name": "JYNARQUE",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "90MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20220906",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20210716",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA205646",
+      "sponsor_name": "HETERO LABS LTD V",
+      "openfda": {
+        "application_number": [
+          "ANDA205646"
+        ],
+        "brand_name": [
+          "TOLVAPTAN"
+        ],
+        "generic_name": [
+          "TOLVAPTAN"
+        ],
+        "manufacturer_name": [
+          "Camber Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "31722-868",
+          "31722-869"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TOLVAPTAN"
+        ],
+        "rxcui": [
+          "849827",
+          "849833"
+        ],
+        "spl_id": [
+          "e7e86fa1-8352-5245-e053-2995a90a70f6"
+        ],
+        "spl_set_id": [
+          "6f4c5679-8490-45ec-bd34-1a569e3af850"
+        ],
+        "package_ndc": [
+          "31722-869-01",
+          "31722-869-02",
+          "31722-869-03",
+          "31722-869-04",
+          "31722-868-01",
+          "31722-868-02",
+          "31722-868-03",
+          "31722-868-04"
+        ],
+        "nui": [
+          "N0000193181",
+          "N0000193178"
+        ],
+        "pharm_class_epc": [
+          "Vasopressin V2 Receptor Antagonist [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Vasopressin V2 Receptor Antagonists [MoA]"
+        ],
+        "unii": [
+          "21G72T1950"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250423",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "76689",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/216063Orig1s000TAltr.pdf",
+              "date": "20231129",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA216063",
+      "sponsor_name": "LUPIN",
+      "openfda": {
+        "application_number": [
+          "ANDA216063"
+        ],
+        "brand_name": [
+          "TOLVAPTAN"
+        ],
+        "generic_name": [
+          "TOLVAPTAN"
+        ],
+        "manufacturer_name": [
+          "Lupin Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "70748-238",
+          "70748-240",
+          "70748-241",
+          "70748-242",
+          "70748-243",
+          "70748-244",
+          "70748-239"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TOLVAPTAN"
+        ],
+        "rxcui": [
+          "2044359",
+          "2044363",
+          "2044367",
+          "2044966",
+          "2044968",
+          "2044970",
+          "2274813",
+          "2274815",
+          "2719335",
+          "2719337"
+        ],
+        "spl_id": [
+          "3e110564-6fd2-4450-a3d2-a5de70b85f2d"
+        ],
+        "spl_set_id": [
+          "9ba38e23-ca66-4406-92af-bbb8fad00e16"
+        ],
+        "package_ndc": [
+          "70748-240-11",
+          "70748-240-13",
+          "70748-241-11",
+          "70748-241-13",
+          "70748-242-11",
+          "70748-242-13",
+          "70748-243-11",
+          "70748-243-13",
+          "70748-244-11",
+          "70748-244-13",
+          "70748-238-06",
+          "70748-239-06"
+        ],
+        "nui": [
+          "N0000193181",
+          "N0000193178"
+        ],
+        "pharm_class_epc": [
+          "Vasopressin V2 Receptor Antagonist [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Vasopressin V2 Receptor Antagonists [MoA]"
+        ],
+        "unii": [
+          "21G72T1950"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "90MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "45MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20260721",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA216933",
+      "sponsor_name": "TEVA PHARMS INC",
+      "openfda": {
+        "application_number": [
+          "ANDA216933"
+        ],
+        "brand_name": [
+          "TOLVAPTAN"
+        ],
+        "generic_name": [
+          "TOLVAPTAN"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "0480-3311",
+          "0480-3414",
+          "0480-3312",
+          "0480-3313",
+          "0480-3314"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "rxcui": [
+          "2044359",
+          "2044363",
+          "2044367",
+          "2044966",
+          "2044968",
+          "2044970",
+          "2274813",
+          "2274815",
+          "2719335",
+          "2719337"
+        ],
+        "spl_id": [
+          "55f269ec-f4f3-48c0-a7ea-b5d8a97344d9"
+        ],
+        "spl_set_id": [
+          "808a9a1f-2f58-4677-9127-e749ad007094"
+        ],
+        "package_ndc": [
+          "0480-3414-14",
+          "0480-3414-66",
+          "0480-3265-11",
+          "0480-3311-14",
+          "0480-3311-66",
+          "0480-3266-11",
+          "0480-3312-14",
+          "0480-3312-66",
+          "0480-4082-11",
+          "0480-3313-14",
+          "0480-3313-66",
+          "0480-4093-11",
+          "0480-3314-14",
+          "0480-3314-66",
+          "0480-4099-11"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "90MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "45MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TOLVAPTAN",
+          "active_ingredients": [
+            {
+              "name": "TOLVAPTAN",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        }
+      ]
+    }
+  ]
+}

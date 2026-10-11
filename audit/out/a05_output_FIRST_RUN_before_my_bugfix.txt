@@ -1,0 +1,25 @@
+[C01] in scope: 280 (no eQTL data 217, no qualifying instrument 63); out of scope unresolved: ['MIR195', 'MIR29B1', 'MIR92A1']
+[C02] GTEx tissues 49; genes in >=1 egenes file 39832
+[C03] targets whose GRCh37 ID is in no GTEx egenes file: 13
+        ADRA2B: id_change ENSG00000222040->ENSG00000274286; same_symbol=True; chr_ok=True; inside=0.9997; strand37=?/gtex=-; APPLIED
+        GDF2: id_change ENSG00000128802->ENSG00000263761; same_symbol=True; chr_ok=True; inside=1.0000; strand37=?/gtex=+; APPLIED
+        MIR122: id_change ENSG00000207778->ENSG00000284440; new ID not in GTEx v8
+        MIR126: not_in_gtex
+        MIR132: not_in_gtex
+        MIR143: id_change ENSG00000208035->ENSG00000284182; new ID not in GTEx v8
+        MIR145: id_change ENSG00000269936->ENSG00000276365; same_symbol=True; chr_ok=True; inside=1.0000; strand37=?/gtex=+; APPLIED
+        MIR208A: not_in_gtex
+        MIR21: id_change ENSG00000199004->ENSG00000284190; new ID not in GTEx v8
+        MIR33A: not_in_gtex
+        MIR499A: not_in_gtex
+        MT-ND1: not_in_gtex
+        MT-ND2: not_in_gtex
+[C04] Fenland ST3 gene start/end identical to Ensembl GRCh37.87: 4038 of 4055 comparable aptamer-genes -> build GRCh37
+[C05] categories: {'fixable-both': 69, 'fixable-protein': 24, 'fixable-tissue': 130, 'locked': 57}
+[C06] tiers: {'locked: assayed, no instrument': 22, 'locked: never assayed': 35, 'off-target-tissue rescue': 73, 'plausible rescue': 150}
+[C07] CV-tissue instrument 91; plasma cis-pQTL instrument 93 (UKB 70, deCODE 68, Fenland 57)
+[C08] locked under 'assayed = deCODE Included==Yes only': {'never': 35, 'assayed': 22}
+[C09] tier x eQTLGen status: {('locked: assayed, no instrument', 'NO_EQTL_DATA', 'autosomal'): 12, ('locked: assayed, no instrument', 'NO_EQTL_DATA', 'x_linked'): 1, ('locked: assayed, no instrument', 'NO_QUALIFYING_INSTRUMENT', ''): 9, ('locked: never assayed', 'NO_EQTL_DATA', 'autosomal'): 25, ('locked: never assayed', 'NO_EQTL_DATA', 'mitochondrial'): 2, ('locked: never assayed', 'NO_EQTL_DATA', 'x_linked'): 3, ('locked: never assayed', 'NO_QUALIFYING_INSTRUMENT', ''): 5, ('off-target-tissue rescue', 'NO_EQTL_DATA', 'autosomal'): 46, ('off-target-tissue rescue', 'NO_EQTL_DATA', 'x_linked'): 9, ('off-target-tissue rescue', 'NO_QUALIFYING_INSTRUMENT', ''): 18, ('plausible rescue', 'NO_EQTL_DATA', 'autosomal'): 105, ('plausible rescue', 'NO_EQTL_DATA', 'x_linked'): 14, ('plausible rescue', 'NO_QUALIFYING_INSTRUMENT', ''): 31}
+[C10] GTEx whole-blood-only (locked, flagged): ['SUMO1']
+[C11] rows with an UNVERIFIED cell: [('VEGFD', 'fenland')]
+[C12] locked: ['ADRB3', 'ANGPTL8', 'AVPR1B', 'AVPR2', 'BRD4', 'CASR', 'CDK5', 'CHRM1', 'CYP11B1', 'CYP11B2', 'DMD', 'FGF18', 'GABRA1', 'GDF2', 'GHRHR', 'GHSR', 'GRIN1', 'GRK2', 'GRM5', 'HCN4', 'HDAC2', 'HDAC6', 'HSD11B1', 'HSPD1', 'HTR1A', 'HTR4', 'IGF1', 'IL17A', 'IL2', 'IL21', 'IL5', 'KCNA5', 'KCNJ8', 'KIT', 'MAOB', 'MAS1', 'MIR122', 'MIR126', 'MIR132', 'MIR143', 'MIR145', 'MIR208A', 'MIR21', 'MIR33A', 'MIR499A', 'MT-ND1', 'MT-ND2', 'MTMR14', 'MTNR1A', 'NR1H4', 'NRG2', 'PLA2G10', 'PLN', 'RPE65', 'SLC10A1', 'SLC10A2', 'SUMO1']

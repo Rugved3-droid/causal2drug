@@ -1,0 +1,136 @@
+[R01] primary-set targets: 726; in scope (no eQTL data or no qualifying instrument): 280; out of scope, unresolved gene record: 3 (MIR195, MIR29B1, MIR92A1)
+[R02] GTEx v8: tissues with target rows 49; genes in any egenes file 39832, of which on chromosome X 1293 (GTEx v8 covers X)
+[R03] UKB-PPP ST3: 2941 protein rows, 2938 distinct gene symbols; multi-gene entries: AMY1A;AMY1B;AMY1C; BOLA2B;BOLA2; CGB5;CGB8;CGB3; CKMT1B;CKMT1A; CTAG1A;CTAG1B; DEFA1;DEFA1B; DEFB103B;DEFB103A; DEFB104B;DEFB104A; DEFB4A;DEFB4B; EBI3;IL27; FUT3;FUT5; IL12A;IL12B; LGALS7B;LGALS7; MICB;MICA; SPACA5B;SPACA5
+[R04] UKB-PPP ST9: 14287 rows, 1955 labelled cis
+[R04] UKB-PPP ST10: 23588 rows, 2060 labelled cis
+[R05] UKB-PPP cis rows on chromosome X (both sheets): 81
+[R06] deCODE ST01: 5284 aptamer rows; 'Included in analysis': {'Yes': 4907, 'No': 377}
+[R07] deCODE ST02: 28191 rows, 7572 labelled cis, 109 of those on chromosome X
+[R08] Fenland ST3: 4030 aptamer rows, 3870 gene symbols. Build check on single-gene aptamers with coordinates: 3933 compared; start and end identical to Ensembl GRCh37.87 for 3917; identical to GENCODE v26 (GRCh38) for 11
+[R08] Fenland build taken as GRCh37: True
+[R09] Fenland ST2 cis.trans labels: {'cis': 3233, 'trans': 7314, 'none': 127}; rows with a blank p-value (not counted): [('TP53I3', 'cis'), ('HTR6', 'trans')]; in-scope targets among them: none
+[R09] Fenland ST2: 10674 rows, 3233 labelled cis, 50 of those on chromosome X
+[R09b] CONFLICT CHECK, sub-type label vs chromosome for in-scope non-autosomal targets: {('X-linked: chromosome not analysed by eQTLGen', 'X'): 27, ('X-linked: chromosome not analysed by eQTLGen', 'MT'): 2}
+
+[R10] 1. Overall
+                                                     n  fixable-tissue fixable-protein fixable-both locked   fixable (any)
+  all in-scope targets                             280             127              24           71     58   222 (79.3%)   [X-linked: 27, of which locked 4]
+
+[R11] 2. By eQTLGen status
+                                                     n  fixable-tissue fixable-protein fixable-both locked   fixable (any)
+  no eQTL data: autosomal, not tested              188              85              16           49     38   150 (79.8%)   [X-linked: 0, of which locked 0]
+  no eQTL data: X-linked, not analysed              27              13               2            8      4   23 (85.2%)   [X-linked: 27, of which locked 4]
+  no eQTL data: mitochondrial genome (MT)            2               0               0            0      2   0 (0.0%)   [X-linked: 0, of which locked 0]
+  no qualifying instrument                          63              29               6           14     14   49 (77.8%)   [X-linked: 0, of which locked 0]
+
+[R12] 3. By highest clinical phase in the primary set
+                                                     n  fixable-tissue fixable-protein fixable-both locked   fixable (any)
+  Preclinical                                      126              49              12           31     34   92 (73.0%)   [X-linked: 10, of which locked 2]
+  Phase I                                           36              21               4            5      6   30 (83.3%)   [X-linked: 6, of which locked 1]
+  Phase II                                          66              35               4           17     10   56 (84.8%)   [X-linked: 9, of which locked 0]
+  Phase III                                         25               8               2            9      6   19 (76.0%)   [X-linked: 0, of which locked 0]
+  Launched                                          27              14               2            9      2   25 (92.6%)   [X-linked: 2, of which locked 1]
+
+[R13] 4. By indication area (a target is counted in each area it appears in)
+                                                     n  fixable-tissue fixable-protein fixable-both locked   fixable (any)
+  Lipids / atherosclerosis                          71              28               9           20     14   57 (80.3%)   [X-linked: 8, of which locked 0]
+  Ischaemic heart disease                           65              25               6           24     10   55 (84.6%)   [X-linked: 7, of which locked 1]
+  Heart failure / cardiomyopathy                    70              37               2            9     22   48 (68.6%)   [X-linked: 8, of which locked 3]
+  Arrhythmia                                        18              12               1            2      3   15 (83.3%)   [X-linked: 0, of which locked 0]
+  Hypertension                                      31              19               1            3      8   23 (74.2%)   [X-linked: 1, of which locked 1]
+  Pulmonary hypertension                            38              18               3            8      9   29 (76.3%)   [X-linked: 5, of which locked 0]
+  Thrombosis                                        22               9               4            9      0   22 (100.0%)   [X-linked: 2, of which locked 0]
+  Cerebrovascular                                   72              34               6           19     13   59 (81.9%)   [X-linked: 6, of which locked 1]
+  Other                                             94              36               6           38     14   80 (85.1%)   [X-linked: 9, of which locked 1]
+  Unspecified CV                                    57              28               3           17      9   48 (84.2%)   [X-linked: 3, of which locked 0]
+
+[R14] Strict-verified launched targets (PROVISIONAL pending manual review)
+                                                     n  fixable-tissue fixable-protein fixable-both locked   fixable (any)
+  strict-verified, Launched in primary set          13               5               2            5      1   12 (92.3%)   [X-linked: 1, of which locked 1]
+
+[R15] 5. The 13 named targets
+  AGTR1    fixable-tissue   
+           GTEx non-blood tissues with instrument: 6 (best Cells_Cultured_fibroblasts, chr3_148657314_A_G_b38, p=5.77e-41); CV-relevant: Heart_Atrial_Appendage; Artery_Tibial
+           UKB-PPP  not assayed
+           deCODE   not assayed
+           Fenland  not assayed
+  ANGPTL3  fixable-protein  
+           GTEx non-blood tissues with instrument: 0; CV-relevant: none
+           UKB-PPP  instrument: rs763015008 (chr1:62508787), p=<1e-300, 88733 bp from gene body
+           deCODE   instrument: rs773045547 (chr1:62602317), p=6.03e-269, 0 bp from gene body
+           Fenland  instrument: rs72649573 (chr1:63063616), p=2.6e-23, 0 bp from gene body
+  APOB     fixable-both     
+           GTEx non-blood tissues with instrument: 9 (best Skin_Sun_Exposed_Lower_leg, chr2_21028168_T_G_b38, p=4.6e-58); CV-relevant: Heart_Left_Ventricle; Heart_Atrial_Appendage; Artery_Tibial
+           UKB-PPP  assayed; no cis-pQTL in table
+           deCODE   instrument: rs563290 (chr2:21065354), p=2e-13, 21281 bp from gene body
+           Fenland  instrument: rs541041 (chr2:21294975), p=1.05e-13, 28030 bp from gene body
+  APOC3    fixable-protein  
+           GTEx non-blood tissues with instrument: 0; CV-relevant: none
+           UKB-PPP  not assayed
+           deCODE   instrument: rs964184 (chr11:116778201), p=2.95e-63, 51505 bp from gene body
+           Fenland  instrument: rs964184 (chr11:116648917), p=8.39e-27, 51505 bp from gene body
+  AVPR2    locked           [X] 
+           GTEx non-blood tissues with instrument: 0; CV-relevant: none
+           UKB-PPP  not assayed
+           deCODE   not assayed
+           Fenland  not assayed
+  F2       fixable-both     
+           GTEx non-blood tissues with instrument: 3 (best Artery_Tibial, chr11_46692729_T_C_b38, p=3.26e-15); CV-relevant: Artery_Tibial
+           UKB-PPP  instrument: rs1799963 (chr11:46739505), p=6.3e-127, 0 bp from gene body
+           deCODE   instrument: rs3136516 (chr11:46739206), p=4.68e-41, 0 bp from gene body
+           Fenland  instrument: rs1799963 (chr11:46761055), p=2.4e-33, 0 bp from gene body
+  PCSK9    fixable-both     
+           GTEx non-blood tissues with instrument: 6 (best Nerve_Tibial, chr1_55025188_T_C_b38, p=2.55e-64); CV-relevant: none
+           UKB-PPP  instrument: rs11591147 (chr1:55039974), p=<1e-300, 0 bp from gene body
+           deCODE   instrument: rs11591147 (chr1:55039974), p=3.98e-117, 0 bp from gene body
+           Fenland  instrument: rs11591147 (chr1:55505647), p=2.41e-64, 0 bp from gene body
+  PLG      fixable-both     
+           GTEx non-blood tissues with instrument: 1 (best Testis, chr6_160709898_T_C_b38, p=5.17e-15); CV-relevant: none
+           UKB-PPP  instrument: rs73015965 (chr6:160706469), p=<1e-300, 0 bp from gene body
+           deCODE   instrument: rs143079629 (chr6:160707780), p=1.15e-159, 0 bp from gene body
+           Fenland  instrument: rs537579467 (chr6:161155264), p=2.03e-178, 0 bp from gene body
+  REN      fixable-both     
+           GTEx non-blood tissues with instrument: 5 (best Skin_Sun_Exposed_Lower_leg, chr1_204171778_G_A_b38, p=4.33e-24); CV-relevant: none
+           UKB-PPP  instrument: rs193280350 (chr1:204179521), p=9.18e-128, 0 bp from gene body
+           deCODE   instrument: rs193280350 (chr1:204179521), p=1.12e-103, 0 bp from gene body
+           Fenland  instrument: rs141995914 (chr1:204207097), p=3.62e-34, 71632 bp from gene body
+  SLC5A1   fixable-tissue   
+           GTEx non-blood tissues with instrument: 3 (best Thyroid, chr22_31969737_G_A_b38, p=8.45e-18); CV-relevant: none
+           UKB-PPP  not assayed
+           deCODE   not assayed
+           Fenland  not assayed
+  IL1B     fixable-tissue   
+           GTEx non-blood tissues with instrument: 2 (best Testis, chr2_112837290_A_G_b38, p=6.82e-26); CV-relevant: none
+           UKB-PPP  assayed; no cis-pQTL in table
+           deCODE   assayed; no cis-pQTL in table
+           Fenland  assayed; no cis-pQTL in table
+  ITGA2B   fixable-tissue   
+           GTEx non-blood tissues with instrument: 1 (best Thyroid, chr17_44373937_G_A_b38, p=7.61e-17); CV-relevant: none
+           UKB-PPP  not assayed
+           deCODE   not assayed
+           Fenland  assayed; no cis-pQTL in table
+  NPC1L1   fixable-tissue   
+           GTEx non-blood tissues with instrument: 2 (best Adipose_Subcutaneous, chr7_44541277_G_T_b38, p=1.69e-18); CV-relevant: none
+           UKB-PPP  not assayed
+           deCODE   not assayed
+           Fenland  not assayed
+
+[R16] 6. GTEx: targets with an instrument in >=1 non-blood tissue: 198; through a CV-relevant tissue: 90; only through another tissue: 108
+        Heart_Left_Ventricle     tested 174   instrument  21
+        Heart_Atrial_Appendage   tested 195   instrument  29
+        Artery_Aorta             tested 198   instrument  33
+        Artery_Coronary          tested 209   instrument  11
+        Artery_Tibial            tested 195   instrument  44
+        Liver                    tested 194   instrument  11
+        Kidney_Cortex            tested 214   instrument   0
+        Adrenal_Gland            tested 210   instrument  26
+[R17] GTEx: targets in no egenes file (not tested in any tissue): 13; tested in >=1 tissue: 267
+[R18] GTEx Whole Blood: tested 125; instrument 10; locked targets flagged 'GTEx whole blood only': 1
+[R19] pQTL tables, per study (of 280 in-scope targets):
+        UKB-PPP  assayed; no cis-pQTL in table 24; cis-pQTL reported; outside +-100 kb 5; instrument 76; not assayed 175
+        deCODE   assayed; no cis-pQTL in table 61; cis-pQTL reported; outside +-100 kb 2; instrument 68; not assayed 149
+        Fenland  assayed; no cis-pQTL in table 51; cis-pQTL reported; distance UNVERIFIED 1; cis-pQTL reported; outside +-100 kb 2; instrument 58; not assayed 168
+[R20] pQTL: assayed in >=1 study 155; instrument in >=1 study 95; in all three 44; targets flagged UNVERIFIED-dependent 0
+[R21] locked (relative to GTEx v8 non-blood tissues and the UKB-PPP, deCODE and Fenland published cis-pQTL tables): 58. Of these, assayed in no pQTL study: 36; not in any GTEx egenes file: 13
+[R22] locked, Launched in primary set: ADRA2B, AVPR2*
+       (* = strict-verified)

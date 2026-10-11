@@ -1,0 +1,1270 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 7
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20171226",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "50969",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/206918Orig1s000ltr.pdf",
+              "date": "20171229",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA206918",
+      "sponsor_name": "EUGIA PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA206918"
+        ],
+        "brand_name": [
+          "FONDAPARINUX SODIUM"
+        ],
+        "generic_name": [
+          "FONDAPARINUX SODIUM"
+        ],
+        "manufacturer_name": [
+          "Eugia US LLC"
+        ],
+        "product_ndc": [
+          "55150-230",
+          "55150-231",
+          "55150-232",
+          "55150-233"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "FONDAPARINUX SODIUM"
+        ],
+        "rxcui": [
+          "861356",
+          "861360",
+          "861363",
+          "861365"
+        ],
+        "spl_id": [
+          "a193830a-dc25-412a-b047-d2fa77d9dbbc"
+        ],
+        "spl_set_id": [
+          "8ea61d0d-4403-4d9f-a946-85a459cc0aa0"
+        ],
+        "package_ndc": [
+          "55150-230-00",
+          "55150-230-02",
+          "55150-230-10",
+          "55150-231-00",
+          "55150-231-02",
+          "55150-231-10",
+          "55150-232-00",
+          "55150-232-02",
+          "55150-232-10",
+          "55150-233-00",
+          "55150-233-02",
+          "55150-233-10"
+        ],
+        "unii": [
+          "X0Q6N9USOZ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "10MG/0.8ML (10MG/0.8ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "5MG/0.4ML (5MG/0.4ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "7.5MG/0.6ML (7.5MG/0.6ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "2.5MG/0.5ML (2.5MG/0.5ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20160218",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20110711",
+          "application_docs": [
+            {
+              "id": "31524",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/091316s000ltr.pdf",
+              "date": "20110728",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20140319",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA091316",
+      "sponsor_name": "DR REDDYS LABS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA091316"
+        ],
+        "brand_name": [
+          "FONDAPARINUX SODIUM"
+        ],
+        "generic_name": [
+          "FONDAPARINUX SODIUM"
+        ],
+        "manufacturer_name": [
+          "Dr. Reddy's Laboratories Limited"
+        ],
+        "product_ndc": [
+          "55111-678",
+          "55111-679",
+          "55111-680",
+          "55111-681"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "FONDAPARINUX SODIUM"
+        ],
+        "rxcui": [
+          "861356",
+          "861360",
+          "861363",
+          "861365"
+        ],
+        "spl_id": [
+          "2a3f9c6b-885b-843d-9cc8-3eb67395fbda"
+        ],
+        "spl_set_id": [
+          "49e0d7bc-3f49-849b-c77c-98682d1c0d19"
+        ],
+        "package_ndc": [
+          "55111-678-11",
+          "55111-678-02",
+          "55111-678-10",
+          "55111-679-11",
+          "55111-679-02",
+          "55111-679-10",
+          "55111-680-11",
+          "55111-680-02",
+          "55111-680-10",
+          "55111-681-11",
+          "55111-681-02",
+          "55111-681-10"
+        ],
+        "unii": [
+          "X0Q6N9USOZ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "10MG/0.8ML (10MG/0.8ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "5MG/0.4ML (5MG/0.4ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "7.5MG/0.6ML (7.5MG/0.6ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "2.5MG/0.5ML (2.5MG/0.5ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20241218",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA218312",
+      "sponsor_name": "BRIGHTGENE",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "2.5MG/0.5ML (2.5MG/0.5ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20230912",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20181114",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA208615",
+      "sponsor_name": "SCINOPHARM TAIWAN",
+      "openfda": {
+        "application_number": [
+          "ANDA208615"
+        ],
+        "brand_name": [
+          "FONDAPARINUX SODIUM"
+        ],
+        "generic_name": [
+          "FONDAPARINUX SODIUM"
+        ],
+        "manufacturer_name": [
+          "Zydus Pharmaceuticals (USA) Inc.",
+          "Italfarmaco S.p.A"
+        ],
+        "product_ndc": [
+          "70710-1514",
+          "70710-1515",
+          "70710-1516",
+          "70710-1517",
+          "11797-154",
+          "11797-155",
+          "11797-156",
+          "11797-157"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "FONDAPARINUX SODIUM"
+        ],
+        "rxcui": [
+          "861356",
+          "861360",
+          "861363",
+          "861365"
+        ],
+        "spl_id": [
+          "4234bd9e-7f61-2cb0-e063-6294a90a4e14",
+          "714aaf0c-95ac-4de9-b8d2-5fdcd1365804"
+        ],
+        "spl_set_id": [
+          "dffbf7c9-495e-4a33-ac76-57b52f014fc2",
+          "58789e3d-e5bc-4c2e-a527-495a252fcecd"
+        ],
+        "package_ndc": [
+          "70710-1514-2",
+          "70710-1514-9",
+          "70710-1514-6",
+          "70710-1515-2",
+          "70710-1515-9",
+          "70710-1515-6",
+          "70710-1516-2",
+          "70710-1516-9",
+          "70710-1516-6",
+          "70710-1517-2",
+          "70710-1517-9",
+          "70710-1517-6",
+          "11797-154-02",
+          "11797-154-09",
+          "11797-154-06",
+          "11797-155-02",
+          "11797-155-09",
+          "11797-155-06",
+          "11797-156-02",
+          "11797-156-09",
+          "11797-156-06",
+          "11797-157-02",
+          "11797-157-09",
+          "11797-157-06"
+        ],
+        "unii": [
+          "X0Q6N9USOZ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "10MG/0.8ML (10MG/0.8ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "5MG/0.4ML (5MG/0.4ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "7.5MG/0.6ML (7.5MG/0.6ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "2.5MG/0.5ML (2.5MG/0.5ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20130912",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "36709",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021345s030lbl.pdf",
+              "date": "20130917",
+              "type": "Label"
+            },
+            {
+              "id": "5107",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/021345Orig1s030ltr.pdf",
+              "date": "20130913",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20021204",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15234",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2002/21345slr001_arixtra_lbl.pdf",
+              "date": "20021204",
+              "type": "Label"
+            },
+            {
+              "id": "27536",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/21345slr001ltr.pdf",
+              "date": "20021204",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20050526",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "36708",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/021345s010lbl.pdf",
+              "date": "20050527",
+              "type": "Label"
+            },
+            {
+              "id": "5106",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/021345s010ltr.pdf",
+              "date": "20050527",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20011207",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "42114",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-345_Arixtra.html",
+              "date": "20040527",
+              "type": "Review"
+            },
+            {
+              "id": "5104",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-345_Arixtra_Approv.pdf",
+              "date": "20011207",
+              "type": "Letter"
+            },
+            {
+              "id": "15233",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2001/21345lbl.pdf",
+              "date": "20011207",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "20191213",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "61280",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021345s037lbl.pdf",
+              "date": "20191216",
+              "type": "Label"
+            },
+            {
+              "id": "61301",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/021345Orig1s037ltr.pdf",
+              "date": "20191217",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "43",
+          "submission_status": "AP",
+          "submission_status_date": "20200825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "64416",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/021345Orig1s043ltr.pdf",
+              "date": "20200826",
+              "type": "Letter"
+            },
+            {
+              "id": "64554",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/021345Orig1s043lbl.pdf",
+              "date": "20200911",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "20170811",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "49461",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/021345s035lbl.pdf",
+              "date": "20170818",
+              "type": "Label"
+            },
+            {
+              "id": "49485",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/021345Orig1s035ltr.pdf",
+              "date": "20170821",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20090814",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15238",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/021345s019lbl.pdf",
+              "date": "20090918",
+              "type": "Label"
+            },
+            {
+              "id": "27540",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/021345s019ltr.pdf",
+              "date": "20091125",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "33",
+          "submission_status": "AP",
+          "submission_status_date": "20160411",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20091223",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15240",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/021345s025lbl.pdf",
+              "date": "20091230",
+              "type": "Label"
+            },
+            {
+              "id": "27542",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/021345s025ltr.pdf",
+              "date": "20091231",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "20131115",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20040528",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "15236",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2004/21345se1-004,005_arixtra_lbl.pdf",
+              "date": "20040601",
+              "type": "Label"
+            },
+            {
+              "id": "27538",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/21345se1-004,005ltr.pdf",
+              "date": "20040601",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20100326",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15239",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021345s023lbl.pdf",
+              "date": "20100404",
+              "type": "Label"
+            },
+            {
+              "id": "27541",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/021345s023ltr.pdf",
+              "date": "20100331",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20030617",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "15235",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2003/21345se1-002_arixtra_lbl.pdf",
+              "date": "20030622",
+              "type": "Label"
+            },
+            {
+              "id": "27537",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/21345se1-002ltr.pdf",
+              "date": "20030622",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "52",
+          "submission_status": "AP",
+          "submission_status_date": "20241223",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "80753",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/021345s052lbl.pdf",
+              "date": "20241227",
+              "type": "Label"
+            },
+            {
+              "id": "80806",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/021345Orig1s052ltr.pdf",
+              "date": "20250102",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20081017",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "27539",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/021345s018ltr.pdf",
+              "date": "20081021",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "32",
+          "submission_status": "AP",
+          "submission_status_date": "20140715",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "36710",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/021345s032lbl.pdf",
+              "date": "20140717",
+              "type": "Label"
+            },
+            {
+              "id": "5108",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/021345Orig1s032ltr.pdf",
+              "date": "20140717",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20040528",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "5105",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/21345se1-004,005ltr.pdf",
+              "date": "20040601",
+              "type": "Letter"
+            },
+            {
+              "id": "15237",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2004/21345se1-004,005_arixtra_lbl.pdf",
+              "date": "20040601",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA021345",
+      "sponsor_name": "MYLAN IRELAND LTD",
+      "openfda": {
+        "application_number": [
+          "NDA021345"
+        ],
+        "brand_name": [
+          "ARIXTRA",
+          "FONDAPARINUX SODIUM"
+        ],
+        "generic_name": [
+          "FONDAPARINUX SODIUM"
+        ],
+        "manufacturer_name": [
+          "Mylan Institutional LLC"
+        ],
+        "product_ndc": [
+          "67457-592",
+          "67457-593",
+          "67457-594",
+          "67457-595",
+          "67457-582",
+          "67457-583",
+          "67457-584",
+          "67457-585"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "FONDAPARINUX SODIUM"
+        ],
+        "rxcui": [
+          "861356",
+          "861358",
+          "861360",
+          "861362",
+          "861363",
+          "861364",
+          "861365",
+          "861366"
+        ],
+        "spl_id": [
+          "8de301f7-88ad-41d7-9ec3-884cab56f943",
+          "9448af58-144f-4611-a462-e8cb12cc7362"
+        ],
+        "spl_set_id": [
+          "d3b30c68-cf45-4b46-8ba6-72090f7ba01a",
+          "4b65f642-87f7-4da5-a9c9-02cd1f8d9d16"
+        ],
+        "package_ndc": [
+          "67457-592-00",
+          "67457-592-10",
+          "67457-593-00",
+          "67457-593-04",
+          "67457-594-00",
+          "67457-594-06",
+          "67457-595-00",
+          "67457-595-08",
+          "67457-582-00",
+          "67457-582-10",
+          "67457-583-00",
+          "67457-583-04",
+          "67457-584-00",
+          "67457-584-06",
+          "67457-585-00",
+          "67457-585-08"
+        ],
+        "unii": [
+          "X0Q6N9USOZ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "ARIXTRA",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "7.5MG/0.6ML (7.5MG/0.6ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ARIXTRA",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "2.5MG/0.5ML (2.5MG/0.5ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "ARIXTRA",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "10MG/0.8ML (10MG/0.8ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "ARIXTRA",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "5MG/0.4ML (5MG/0.4ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180515",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA206812",
+      "sponsor_name": "HENGRUI PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA206812"
+        ],
+        "brand_name": [
+          "FONDAPARINUX SODIUM"
+        ],
+        "generic_name": [
+          "FONDAPARINUX SODIUM"
+        ],
+        "manufacturer_name": [
+          "Sandoz Inc."
+        ],
+        "product_ndc": [
+          "0781-3443",
+          "0781-3454",
+          "0781-3465",
+          "0781-3476"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "FONDAPARINUX SODIUM"
+        ],
+        "rxcui": [
+          "861356",
+          "861360",
+          "861363",
+          "861365"
+        ],
+        "spl_id": [
+          "3d5a4b69-462b-7e51-e063-6294a90a0721"
+        ],
+        "spl_set_id": [
+          "baa50757-a927-4d56-a933-5d7798fe6ab0"
+        ],
+        "package_ndc": [
+          "0781-3443-94",
+          "0781-3443-12",
+          "0781-3443-95",
+          "0781-3454-94",
+          "0781-3454-12",
+          "0781-3454-95",
+          "0781-3465-94",
+          "0781-3465-12",
+          "0781-3465-95",
+          "0781-3476-94",
+          "0781-3476-12",
+          "0781-3476-95"
+        ],
+        "unii": [
+          "X0Q6N9USOZ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "10MG/0.8ML (10MG/0.8ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "5MG/0.4ML (5MG/0.4ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "7.5MG/0.6ML (7.5MG/0.6ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "2.5MG/0.5ML (2.5MG/0.5ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240819",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA216493",
+      "sponsor_name": "HANGZHOU ZHONGMEI",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "7.5MG/0.6ML (7.5MG/0.6ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "2.5MG/0.5ML (2.5MG/0.5ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "10MG/0.8ML (10MG/0.8ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FONDAPARINUX SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FONDAPARINUX SODIUM",
+              "strength": "5MG/0.4ML (5MG/0.4ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        }
+      ]
+    }
+  ]
+}

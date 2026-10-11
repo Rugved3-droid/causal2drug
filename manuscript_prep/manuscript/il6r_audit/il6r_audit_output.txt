@@ -1,0 +1,56 @@
+[A01] control as run: eQTLGen lead rs10908839 (assessed C, z +12.18, p 4.09e-34); MR variant rs2229238; MR beta +0.3762, p 1.16e-59; expected NEGATIVE, observed POSITIVE; verdict FAIL
+[A01] harmonization counts in the control: {'no_position_match': 59, 'aligned_flipped': 76, 'aligned_same': 91}
+
+[A02] eQTLGen full file: 4457 rows for IL6R; 841 within gene body +-100 kb; 226 of those at p < 5e-8
+[A02] five strongest within the window:
+        rs10908839  chr1:154430798 assessed C other G z  +12.18 p 4.09e-34 N 31566
+        rs2229238   chr1:154437896 assessed T other C z  +11.60 p 4.27e-31 N 31684
+        rs7514452   chr1:154438084 assessed C other T z  +11.58 p 5.28e-31 N 31682
+        rs4379670   chr1:154439865 assessed T other A z  +11.55 p 7.11e-31 N 31679
+        rs4072391   chr1:154438880 assessed T other C z  +11.50 p 1.28e-30 N 31684
+[A03] variants of interest in eQTLGen (IL6R expression):
+        rs10908839  chr1:154430798 assessed C other G z  +12.18 p 4.09e-34 rank among window hits 1
+        rs2229238   chr1:154437896 assessed T other C z  +11.60 p 4.27e-31 rank among window hits 2
+        rs2228145   chr1:154426970 assessed C other A z   -3.17 p 0.00152 rank among window hits not significant at 5e-8
+        rs4129267   chr1:154426264 assessed T other C z   -4.39 p 1.11e-05 rank among window hits not significant at 5e-8
+        rs4537545   chr1:154418879 assessed T other C z   -6.80 p 1.05e-11 rank among window hits 128
+        rs12126142  chr1:154425456 assessed A other G z   -4.35 p 1.38e-05 rank among window hits not significant at 5e-8
+        rs58229059  chr1:154419478 assessed A other G z   -7.42 p 1.15e-13 rank among window hits 110
+
+[A04] 1000 Genomes phase 3, 503 EUR samples (pipeline panel), GRCh37; 9821 complete records read in the window:
+        rs10908839  chr1:154430798 REF C ALT G, ALT frequency 0.734
+        rs2229238   chr1:154437896 REF T ALT C, ALT frequency 0.780
+        rs2228145   chr1:154426970 REF A ALT C, ALT frequency 0.360
+        rs4129267   chr1:154426264 REF C ALT T, ALT frequency 0.360
+        rs4537545   chr1:154418879 REF C ALT T, ALT frequency 0.374
+        rs12126142  chr1:154425456 REF G ALT A, ALT frequency 0.360
+        rs58229059  chr1:154419478 REF G ALT A, ALT frequency 0.014
+[A05] LD with rs2228145 (Asp358Ala; ALT = C):
+        rs10908839  r = +0.475, r2 = 0.225; the G allele of rs10908839 travels with the C allele of rs2228145
+        rs2229238   r = +0.401, r2 = 0.161; the C allele of rs2229238 travels with the C allele of rs2228145
+        rs4129267   r = +1.000, r2 = 1.000; the T allele of rs4129267 travels with the C allele of rs2228145
+        rs4537545   r = +0.967, r2 = 0.935; the T allele of rs4537545 travels with the C allele of rs2228145
+        rs12126142  r = +1.000, r2 = 1.000; the A allele of rs12126142 travels with the C allele of rs2228145
+        rs58229059  r = -0.090, r2 = 0.008; the A allele of rs58229059 travels with the A allele of rs2228145
+
+[A06] CRP outcome file GCST90179146 (GRCh38), columns: ['chromosome', 'base_pair_location', 'effect_allele', 'other_allele', 'beta', 'standard_error', 'effect_allele_frequency', 'p_value']
+        rs10908839  GRCh38 pos 154458322: NOT in the outcome file
+        rs2229238   chr1:154465420 effect allele C other T beta -0.0420 SE 0.0026 p 1.15734082982951e-59 EAF 0.814395
+        rs2228145   chr1:154454494 effect allele C other A beta -0.0835 SE 0.0020 p  2.547e-365  EAF 0.40117
+        rs4129267   chr1:154453788 effect allele T other C beta -0.0836 SE 0.0020 p  7.278e-366  EAF 0.400255
+        rs4537545   chr1:154446403 effect allele T other C beta -0.0810 SE 0.0020 p  2.15e-347  EAF 0.419881
+        rs12126142  chr1:154452980 effect allele A other G beta -0.0863 SE 0.0021 p  1.272e-382  EAF 0.400418
+        rs58229059  GRCh38 pos 154447002: NOT in the outcome file
+
+[A07] Both associations expressed for the SAME allele of each variant (the eQTLGen assessed allele), and the single-variant Wald ratio:
+        variant     allele  IL6R expression z      CRP beta (SE)          Wald       r2 with rs2228145
+        rs2229238   T        +11.60 (p 4.3e-31)         +0.0420 (0.0026)         positive   0.161  [aligned_flipped]
+        rs2228145   C         -3.17 (p 0.0015)         -0.0835 (0.0020)         positive   1 (itself)  [aligned_same]
+        rs4129267   T         -4.39 (p 1.1e-05)         -0.0836 (0.0020)         positive   1.000  [aligned_same]
+        rs4537545   T         -6.80 (p 1e-11)         -0.0810 (0.0020)         positive   0.935  [aligned_same]
+        rs12126142  A         -4.35 (p 1.4e-05)         -0.0863 (0.0021)         positive   1.000  [aligned_same]
+
+[A08] hand check of the MR variant rs2229238: eQTLGen assessed allele T (z +11.60); outcome effect allele C, beta -0.04204, EAF 0.814395. The outcome effect allele is the eQTLGen other allele, so the outcome beta for the assessed allele is +0.04204. Pipeline value: +0.04204. Pipeline status: aligned_flipped.
+[A08] allele-frequency check: eQTLGen frequency of the assessed allele T = 0.216; outcome frequency of its effect allele C = 0.814395, i.e. 0.186 for the assessed allele.
+[A09] why the eQTLGen lead rs10908839 was not the MR variant: it has no row at its lifted position in the outcome file
+[A10] of the 167 harmonized variants in the control's merge file, 101 give a positive single-variant ratio and 66 a negative one

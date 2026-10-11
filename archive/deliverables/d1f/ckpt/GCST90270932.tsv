@@ -1,0 +1,2 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+CLCN2	D004381	Duodenal Ulcer	GCST90270932	UP	1	rs62287507	1.8486e-40	-0.18508	0.0138984	177.3	0.0072	0.0222	aligned_same	50	-0.038902	0.119948	0.745693	NEGATIVE	NEGATIVE	YES	

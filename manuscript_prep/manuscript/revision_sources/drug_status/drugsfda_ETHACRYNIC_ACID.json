@@ -1,0 +1,1074 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 11
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190712",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA211809",
+      "sponsor_name": "AGNITIO",
+      "openfda": {
+        "application_number": [
+          "ANDA211809"
+        ],
+        "brand_name": [
+          "ETHACRYNIC ACID"
+        ],
+        "generic_name": [
+          "ETHACRYNIC ACID"
+        ],
+        "manufacturer_name": [
+          "TRUPHARMA LLC"
+        ],
+        "product_ndc": [
+          "52817-367"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ETHACRYNIC ACID"
+        ],
+        "rxcui": [
+          "1251903"
+        ],
+        "spl_id": [
+          "fb026274-f2ff-4316-adcf-2590aabf5a76"
+        ],
+        "spl_set_id": [
+          "3b2b6ee1-1859-4b02-9ef2-5bbe6427f61a"
+        ],
+        "package_ndc": [
+          "52817-367-90",
+          "52817-367-10"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "M5DP350VZV"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ETHACRYNIC ACID",
+          "active_ingredients": [
+            {
+              "name": "ETHACRYNIC ACID",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20201019",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213240",
+      "sponsor_name": "CHARTWELL RX",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ETHACRYNIC ACID",
+          "active_ingredients": [
+            {
+              "name": "ETHACRYNIC ACID",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180724",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA205709",
+      "sponsor_name": "ALVOGEN",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ETHACRYNIC ACID",
+          "active_ingredients": [
+            {
+              "name": "ETHACRYNIC ACID",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170223",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA207262",
+      "sponsor_name": "HIKMA PHARMS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ETHACRYNIC ACID",
+          "active_ingredients": [
+            {
+              "name": "ETHACRYNIC ACID",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180508",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA208805",
+      "sponsor_name": "AMNEAL PHARMS CO",
+      "openfda": {
+        "application_number": [
+          "ANDA208805"
+        ],
+        "brand_name": [
+          "ETHACRYNIC ACID"
+        ],
+        "generic_name": [
+          "ETHACRYNIC ACID"
+        ],
+        "manufacturer_name": [
+          "Amneal Pharmaceuticals NY LLC"
+        ],
+        "product_ndc": [
+          "69238-1126"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ETHACRYNIC ACID"
+        ],
+        "rxcui": [
+          "1251903"
+        ],
+        "spl_id": [
+          "21b6de3e-2431-4f0c-8440-0ac914ce3d9e"
+        ],
+        "spl_set_id": [
+          "b9bc3907-bfa7-4d9f-90d9-c2097230f7e4"
+        ],
+        "package_ndc": [
+          "69238-1126-1"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "M5DP350VZV"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ETHACRYNIC ACID",
+          "active_ingredients": [
+            {
+              "name": "ETHACRYNIC ACID",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190827",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA211232",
+      "sponsor_name": "SCIEGEN PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA211232"
+        ],
+        "brand_name": [
+          "ETHACRYNIC ACID"
+        ],
+        "generic_name": [
+          "ETHACRYNIC ACID"
+        ],
+        "manufacturer_name": [
+          "ScieGen Pharmaceuticals Inc"
+        ],
+        "product_ndc": [
+          "50228-334"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ETHACRYNIC ACID"
+        ],
+        "rxcui": [
+          "1251903"
+        ],
+        "spl_id": [
+          "2a0ab1c4-a5f5-aeed-e063-6394a90a5992"
+        ],
+        "spl_set_id": [
+          "d400d264-c231-4bdf-8180-eb11ab4e9f29"
+        ],
+        "package_ndc": [
+          "50228-334-30",
+          "50228-334-10",
+          "50228-334-01"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "M5DP350VZV"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ETHACRYNIC ACID",
+          "active_ingredients": [
+            {
+              "name": "ETHACRYNIC ACID",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170721",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA208501",
+      "sponsor_name": "PH HEALTH",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ETHACRYNIC ACID",
+          "active_ingredients": [
+            {
+              "name": "ETHACRYNIC ACID",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "19780222",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "19760209",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "39",
+          "submission_status": "AP",
+          "submission_status_date": "20040203",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12972",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/16092slr039,16093slr043ltr.pdf",
+              "date": "20040302",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "19991019",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40703",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/16092s037_Edecrin.pdf",
+              "date": "19991019",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "19860321",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "19960624",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "19840828",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "19801114",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "33",
+          "submission_status": "AP",
+          "submission_status_date": "19940926",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "19830519",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "19800125",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "19880906",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "19850513",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "19790621",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "19810116",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19670110",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "19770321",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "46",
+          "submission_status": "AP",
+          "submission_status_date": "20150330",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "38",
+          "submission_status": "AP",
+          "submission_status_date": "19980814",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "36",
+          "submission_status": "AP",
+          "submission_status_date": "19971103",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "19860113",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "42",
+          "submission_status": "AP",
+          "submission_status_date": "20050209",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "10870",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/16092s042,16093s044lbl.pdf",
+              "date": "20050211",
+              "type": "Label"
+            },
+            {
+              "id": "416",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/16092s042,16093s044ltr.pdf",
+              "date": "20050211",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "34",
+          "submission_status": "AP",
+          "submission_status_date": "19950324",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "19830920",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "19810122",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "32",
+          "submission_status": "AP",
+          "submission_status_date": "19910807",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "19810617",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "19791129",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "19880815",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "19810904",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "19790309",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "19810219",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA016092",
+      "sponsor_name": "BAUSCH",
+      "openfda": {
+        "application_number": [
+          "NDA016092"
+        ],
+        "brand_name": [
+          "EDECRIN",
+          "ETHACRYNIC ACID"
+        ],
+        "generic_name": [
+          "ETHACRYNIC ACID"
+        ],
+        "manufacturer_name": [
+          "Bausch Health US, LLC",
+          "Oceanside Pharmaceuticals"
+        ],
+        "product_ndc": [
+          "25010-215",
+          "25010-210",
+          "68682-011",
+          "68682-012"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ETHACRYNIC ACID"
+        ],
+        "rxcui": [
+          "211509",
+          "617325",
+          "1251903",
+          "1251905"
+        ],
+        "spl_id": [
+          "4c442b87-1bbd-40e6-8c40-004f5f46e996",
+          "4c621e16-3dbb-4774-935e-69270e52fe8e"
+        ],
+        "spl_set_id": [
+          "1efe378e-fee1-4ae9-8ea5-0fe2265fe2d8",
+          "f127598f-e6b3-4c35-800f-76e4217595ae"
+        ],
+        "package_ndc": [
+          "25010-215-15",
+          "25010-215-65",
+          "25010-210-27",
+          "68682-012-27",
+          "68682-011-10"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "M5DP350VZV"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "EDECRIN",
+          "active_ingredients": [
+            {
+              "name": "ETHACRYNIC ACID",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EDECRIN",
+          "active_ingredients": [
+            {
+              "name": "ETHACRYNIC ACID",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190906",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA211719",
+      "sponsor_name": "LUPIN",
+      "openfda": {
+        "application_number": [
+          "ANDA211719"
+        ],
+        "brand_name": [
+          "ETHACRYNIC ACID"
+        ],
+        "generic_name": [
+          "ETHACRYNIC ACID"
+        ],
+        "manufacturer_name": [
+          "Lupin Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "68180-159"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ETHACRYNIC ACID"
+        ],
+        "rxcui": [
+          "1251903"
+        ],
+        "spl_id": [
+          "c8158f85-c286-402d-9cca-85bcfe4e4085"
+        ],
+        "spl_set_id": [
+          "358dd0c5-4d89-403e-9428-a785ec862869"
+        ],
+        "package_ndc": [
+          "68180-159-01"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "M5DP350VZV"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ETHACRYNIC ACID",
+          "active_ingredients": [
+            {
+              "name": "ETHACRYNIC ACID",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200219",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA212417",
+      "sponsor_name": "UPSHER SMITH LABS",
+      "openfda": {
+        "application_number": [
+          "ANDA212417"
+        ],
+        "brand_name": [
+          "ETHACRYNIC ACID"
+        ],
+        "generic_name": [
+          "ETHACRYNIC ACID"
+        ],
+        "manufacturer_name": [
+          "Upsher-Smith Laboratories, LLC"
+        ],
+        "product_ndc": [
+          "0832-1690"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ETHACRYNIC ACID"
+        ],
+        "rxcui": [
+          "1251903"
+        ],
+        "spl_id": [
+          "55f58d26-93c1-ab8a-e063-6394a90a73c1"
+        ],
+        "spl_set_id": [
+          "c0b17629-7e4a-4c9c-9577-4f7904564628"
+        ],
+        "package_ndc": [
+          "0832-1690-30",
+          "0832-1690-11"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "M5DP350VZV"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ETHACRYNIC ACID",
+          "active_ingredients": [
+            {
+              "name": "ETHACRYNIC ACID",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160630",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "10475",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/205609Orig1s000ltr.pdf",
+              "date": "20160705",
+              "type": "Letter"
+            },
+            {
+              "id": "19666",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/205609Orig1s000lbl.pdf",
+              "date": "20160718",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA205609",
+      "sponsor_name": "ADAPTIS",
+      "openfda": {
+        "application_number": [
+          "ANDA205609"
+        ],
+        "brand_name": [
+          "ETHACRYNIC ACID"
+        ],
+        "generic_name": [
+          "ETHACRYNIC ACID"
+        ],
+        "manufacturer_name": [
+          "Edenbridge Pharmaceuticals LLC."
+        ],
+        "product_ndc": [
+          "42799-405"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ETHACRYNIC ACID"
+        ],
+        "rxcui": [
+          "1251903"
+        ],
+        "spl_id": [
+          "2b1c86a5-d8cf-4246-82e7-a5d6123399ad"
+        ],
+        "spl_set_id": [
+          "de7c25a6-ed00-4ef3-883d-f8841f5dbd02"
+        ],
+        "package_ndc": [
+          "42799-405-01"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "M5DP350VZV"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ETHACRYNIC ACID",
+          "active_ingredients": [
+            {
+              "name": "ETHACRYNIC ACID",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    }
+  ]
+}

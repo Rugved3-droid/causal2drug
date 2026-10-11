@@ -1,0 +1,2281 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 13
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20150831",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20100706",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20150831",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20150831",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20061212",
+          "application_docs": [
+            {
+              "id": "44353",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm102981.htm",
+              "date": "20061218",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "31248",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/077489s000ltr.pdf",
+              "date": "20061228",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20150831",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20091211",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20070525",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077489",
+      "sponsor_name": "TEVA PHARMS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "4MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20150622",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20250506",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20150622",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20070612",
+          "application_docs": [
+            {
+              "id": "44363",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm102981.htm",
+              "date": "20070618",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20100429",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077805",
+      "sponsor_name": "WATSON LABS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "4MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20091015",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20150721",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20150721",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20190826",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20150721",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20070612",
+          "application_docs": [
+            {
+              "id": "44354",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm102981.htm",
+              "date": "20070618",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20100730",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077522",
+      "sponsor_name": "LUPIN",
+      "openfda": {
+        "application_number": [
+          "ANDA077522"
+        ],
+        "brand_name": [
+          "TRANDOLAPRIL"
+        ],
+        "generic_name": [
+          "TRANDOLAPRIL"
+        ],
+        "manufacturer_name": [
+          "Lupin Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "68180-566",
+          "68180-567",
+          "68180-568"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TRANDOLAPRIL"
+        ],
+        "rxcui": [
+          "199351",
+          "199352",
+          "199353"
+        ],
+        "spl_id": [
+          "97cefaf3-9c1f-43e3-a30c-e9631872a8e8"
+        ],
+        "spl_set_id": [
+          "8143a6cf-dadc-4ef7-a8db-d16d7150ad34"
+        ],
+        "package_ndc": [
+          "68180-566-01",
+          "68180-567-01",
+          "68180-568-01"
+        ],
+        "nui": [
+          "N0000175562",
+          "N0000000181"
+        ],
+        "pharm_class_epc": [
+          "Angiotensin Converting Enzyme Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin-converting Enzyme Inhibitors [MoA]"
+        ],
+        "unii": [
+          "1T0N3G9CRC"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "4MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20150424",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20101129",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20191001",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20150424",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20111129",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20090608",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20070612",
+          "application_docs": [
+            {
+              "id": "44383",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm102981.htm",
+              "date": "20070618",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20191001",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20151030",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20150424",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA078438",
+      "sponsor_name": "AUROBINDO PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA078438"
+        ],
+        "brand_name": [
+          "TRANDOLAPRIL"
+        ],
+        "generic_name": [
+          "TRANDOLAPRIL"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited",
+          "Rising Pharma Holdings, Inc."
+        ],
+        "product_ndc": [
+          "65862-164",
+          "65862-165",
+          "65862-166",
+          "57237-089",
+          "57237-090",
+          "57237-091"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TRANDOLAPRIL"
+        ],
+        "rxcui": [
+          "199351",
+          "199352",
+          "199353"
+        ],
+        "spl_id": [
+          "004262f3-c8d0-43c9-a760-641c22748858",
+          "3c365d52-7f5f-477f-8342-4c507b2a7936"
+        ],
+        "spl_set_id": [
+          "6f25ed16-e5e9-4170-b4b4-3b460887779e",
+          "0107d19a-b43a-4a36-8b8c-4dfc247630e9"
+        ],
+        "package_ndc": [
+          "65862-164-01",
+          "65862-164-99",
+          "65862-165-01",
+          "65862-165-99",
+          "65862-166-01",
+          "65862-166-99",
+          "57237-089-01",
+          "57237-090-01",
+          "57237-091-01"
+        ],
+        "nui": [
+          "N0000175562",
+          "N0000000181"
+        ],
+        "pharm_class_epc": [
+          "Angiotensin Converting Enzyme Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin-converting Enzyme Inhibitors [MoA]"
+        ],
+        "unii": [
+          "1T0N3G9CRC"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "4MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20070612",
+          "application_docs": [
+            {
+              "id": "23865",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm102981.htm",
+              "date": "20070618",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA077256",
+      "sponsor_name": "EPIC PHARMA LLC",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "4MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20080825",
+          "application_docs": [
+            {
+              "id": "23911",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm102981.htm",
+              "date": "20080919",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20150630",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20150630",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20090608",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA078493",
+      "sponsor_name": "PHARMAZONE",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "4MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20070612",
+          "application_docs": [
+            {
+              "id": "44349",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm102981.htm",
+              "date": "20070618",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA077307",
+      "sponsor_name": "CHARTWELL MOLECULAR",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "4MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20250219",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20150504",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20080618"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20140904",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20250219",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20150504",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA078508",
+      "sponsor_name": "EPIC PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA078508"
+        ],
+        "brand_name": [
+          "TRANDOLAPRIL"
+        ],
+        "generic_name": [
+          "TRANDOLAPRIL TABLETS"
+        ],
+        "manufacturer_name": [
+          "Epic Pharma, LLC"
+        ],
+        "product_ndc": [
+          "42806-052",
+          "42806-053",
+          "42806-054"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TRANDOLAPRIL"
+        ],
+        "rxcui": [
+          "199351",
+          "199352",
+          "199353"
+        ],
+        "spl_id": [
+          "71e96bed-1a18-49d6-e053-2995a90a3014"
+        ],
+        "spl_set_id": [
+          "10f25119-9970-46fe-bf36-6fec6064895b"
+        ],
+        "package_ndc": [
+          "42806-052-01",
+          "42806-052-10",
+          "42806-053-01",
+          "42806-053-10",
+          "42806-054-01",
+          "42806-054-10"
+        ],
+        "nui": [
+          "N0000175562",
+          "N0000000181"
+        ],
+        "pharm_class_epc": [
+          "Angiotensin Converting Enzyme Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin-converting Enzyme Inhibitors [MoA]"
+        ],
+        "unii": [
+          "1T0N3G9CRC"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "4MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20200414",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20150501",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20150501",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20100830"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20200414",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20100505",
+          "application_docs": [
+            {
+              "id": "9224",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/079135s003ltr.pdf",
+              "date": "20101029",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20200414",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20150501",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20200414",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20100526"
+        }
+      ],
+      "application_number": "ANDA079135",
+      "sponsor_name": "GLENMARK PHARMS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA079135"
+        ],
+        "brand_name": [
+          "TRANDOLAPRIL AND VERAPAMIL HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "TRANDOLAPRIL AND VERAPAMIL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Glenmark Pharmaceuticals Inc., USA"
+        ],
+        "product_ndc": [
+          "68462-294",
+          "68462-329",
+          "68462-295",
+          "68462-296"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TRANDOLAPRIL",
+          "VERAPAMIL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "897781",
+          "897783",
+          "897844",
+          "897853"
+        ],
+        "spl_id": [
+          "770b4914-a475-4841-83f8-79261f115eff"
+        ],
+        "spl_set_id": [
+          "39bad727-af4c-4d20-933b-7f287e88099a"
+        ],
+        "package_ndc": [
+          "68462-329-01",
+          "68462-329-10",
+          "68462-295-01",
+          "68462-295-10",
+          "68462-295-90",
+          "68462-296-01",
+          "68462-296-10",
+          "68462-296-90",
+          "68462-294-01",
+          "68462-294-10",
+          "68462-294-90"
+        ],
+        "nui": [
+          "N0000175562",
+          "N0000000181"
+        ],
+        "pharm_class_epc": [
+          "Angiotensin Converting Enzyme Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin-converting Enzyme Inhibitors [MoA]"
+        ],
+        "unii": [
+          "1T0N3G9CRC",
+          "V3888OEY5R"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL AND VERAPAMIL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "4MG"
+            },
+            {
+              "name": "VERAPAMIL HYDROCHLORIDE",
+              "strength": "240MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL AND VERAPAMIL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "2MG"
+            },
+            {
+              "name": "VERAPAMIL HYDROCHLORIDE",
+              "strength": "180MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL AND VERAPAMIL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "1MG"
+            },
+            {
+              "name": "VERAPAMIL HYDROCHLORIDE",
+              "strength": "240MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL AND VERAPAMIL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "2MG"
+            },
+            {
+              "name": "VERAPAMIL HYDROCHLORIDE",
+              "strength": "240MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20160712",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12789",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/020591s027lbl.pdf",
+              "date": "20160713",
+              "type": "Label"
+            },
+            {
+              "id": "25255",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/020591Orig1s027ltr.pdf",
+              "date": "20160713",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20111114",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2804",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/020591s019ltr.pdf",
+              "date": "20111116",
+              "type": "Letter"
+            },
+            {
+              "id": "34901",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020591s019lbl.pdf",
+              "date": "20111114",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20141224",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12788",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/020591s025lbl.pdf",
+              "date": "20150108",
+              "type": "Label"
+            },
+            {
+              "id": "2805",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/020591Orig1s025ltr.pdf",
+              "date": "20141230",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19961022",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 4",
+          "submission_class_code_description": "Type 4 - New Combination"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20020531",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20120912",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "25254",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020591Orig1s021ltr.pdf",
+              "date": "20120914",
+              "type": "Letter"
+            },
+            {
+              "id": "34902",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020591s021lbl.pdf",
+              "date": "20120914",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20000301",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20080229",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2802",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/020591s011ltr.pdf",
+              "date": "20080304",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20160129",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2806",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/020591Orig1s026ltr.pdf",
+              "date": "20160201",
+              "type": "Letter"
+            },
+            {
+              "id": "34903",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/020591s026lbl.pdf",
+              "date": "20160202",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20110914",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "25252",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/020591s018ltr.pdf",
+              "date": "20110916",
+              "type": "Letter"
+            },
+            {
+              "id": "34900",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020591s018lbl.pdf",
+              "date": "20110916",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20150105",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20090305",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "25251",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/020591s016ltr.pdf",
+              "date": "20090306",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20190820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "59785",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/020591Orig1s030ltr.pdf",
+              "date": "20190821",
+              "type": "Letter"
+            },
+            {
+              "id": "59821",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/020591s030lbl.pdf",
+              "date": "20190822",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20020820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20141020",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20000714",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20120123",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12787",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020528s020,020591s020lbl.pdf",
+              "date": "20120123",
+              "type": "Label"
+            },
+            {
+              "id": "25253",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020528s020,020591s020ltr.pdf",
+              "date": "20120130",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20110829",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12786",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020591s012lbl.pdf",
+              "date": "20110829",
+              "type": "Label"
+            },
+            {
+              "id": "2803",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/020591s012ltr.pdf",
+              "date": "20110831",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19990903",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19971022",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "20170802",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "49238",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020591s029lbl.pdf",
+              "date": "20170804",
+              "type": "Label"
+            },
+            {
+              "id": "49246",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/020591Orig1s029ltr.pdf",
+              "date": "20170804",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020591",
+      "sponsor_name": "ABBVIE",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "TARKA",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "1MG"
+            },
+            {
+              "name": "VERAPAMIL HYDROCHLORIDE",
+              "strength": "240MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "TARKA",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "2MG"
+            },
+            {
+              "name": "VERAPAMIL HYDROCHLORIDE",
+              "strength": "180MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "TARKA",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "2MG"
+            },
+            {
+              "name": "VERAPAMIL HYDROCHLORIDE",
+              "strength": "240MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "TARKA",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "4MG"
+            },
+            {
+              "name": "VERAPAMIL HYDROCHLORIDE",
+              "strength": "240MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20111110",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2677",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/020528s017ltr.pdf",
+              "date": "20111114",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20040206",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2675",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/20528slr008ltr.pdf",
+              "date": "20040303",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20141224",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "34786",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/020528s023lbl.pdf",
+              "date": "20150109",
+              "type": "Label"
+            },
+            {
+              "id": "25126",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/020528Orig1s023ltr.pdf",
+              "date": "20141230",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19960426",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "57459",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/96/020528Orig1s000rev.pdf",
+              "date": "19960426",
+              "type": "Review"
+            },
+            {
+              "id": "23583",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm102981.htm",
+              "date": "20060609",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20010202",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20120911",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "25125",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020528Orig1s021ltr.pdf",
+              "date": "20120914",
+              "type": "Letter"
+            },
+            {
+              "id": "34785",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020528s021lbl.pdf",
+              "date": "20120914",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20000405",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19990924",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20120123",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12687",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020528s018lbl.pdf",
+              "date": "20120123",
+              "type": "Label"
+            },
+            {
+              "id": "2678",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020528s018ltr.pdf",
+              "date": "20120130",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20160129",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12689",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/020528s024lbl.pdf",
+              "date": "20160202",
+              "type": "Label"
+            },
+            {
+              "id": "25127",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/020528Orig1s024ltr.pdf",
+              "date": "20160201",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20090408",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "25122",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/020528s016ltr.pdf",
+              "date": "20090416",
+              "type": "Letter"
+            },
+            {
+              "id": "34783",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/020528s016lbl.pdf",
+              "date": "20090416",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20020820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20130613",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20000714",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20120123",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12688",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020528s020,020591s020lbl.pdf",
+              "date": "20120306",
+              "type": "Label"
+            },
+            {
+              "id": "25124",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020528s020,020591s020ltr.pdf",
+              "date": "20120130",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20100420",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2676",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/020528s012ltr.pdf",
+              "date": "20100423",
+              "type": "Letter"
+            },
+            {
+              "id": "34782",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/020528s012lbl.pdf",
+              "date": "20100503",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19991026",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19970702",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41416",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/97/020528_s001ap.pdf",
+              "date": "19970702",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20110914",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "25123",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/020528s019ltr.pdf",
+              "date": "20110916",
+              "type": "Letter"
+            },
+            {
+              "id": "34784",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020528s019lbl.pdf",
+              "date": "20110916",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20170802",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "49237",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020528s025lbl.pdf",
+              "date": "20170804",
+              "type": "Label"
+            },
+            {
+              "id": "49247",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/020528Orig1s025ltr.pdf",
+              "date": "20170804",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020528",
+      "sponsor_name": "ABBVIE",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "MAVIK",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "4MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "MAVIK",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "1MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "MAVIK",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "2MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20130610",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20070612",
+          "application_docs": [
+            {
+              "id": "23902",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm102981.htm",
+              "date": "20070618",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA078320",
+      "sponsor_name": "INVAGEN PHARMS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "4MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20200414",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20080428",
+          "application_docs": [
+            {
+              "id": "23904",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm102981.htm",
+              "date": "20080502",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20100831",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20200414",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20200414",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA078346",
+      "sponsor_name": "PHARMOBEDIENT",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "4MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TRANDOLAPRIL",
+          "active_ingredients": [
+            {
+              "name": "TRANDOLAPRIL",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

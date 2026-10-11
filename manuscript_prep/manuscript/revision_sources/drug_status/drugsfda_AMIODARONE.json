@@ -1,0 +1,5747 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 35
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20110315",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20030905",
+          "application_docs": [
+            {
+              "id": "23805",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050728",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20200622",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076163",
+      "sponsor_name": "DR REDDYS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240911",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA218253",
+      "sponsor_name": "ZHEJIANG POLY PHARM",
+      "openfda": {
+        "application_number": [
+          "ANDA218253"
+        ],
+        "brand_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Slate Run Pharmaceuticals",
+          "Zhejiang Poly Pharm. Co., Ltd."
+        ],
+        "product_ndc": [
+          "70436-232",
+          "72673-071",
+          "72673-072",
+          "72673-073"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1663224",
+          "1663244",
+          "1663248"
+        ],
+        "spl_id": [
+          "31c43944-e7af-8d8d-e063-6394a90a3b45",
+          "487d000e-9dec-3e6f-e063-6294a90ae8b0"
+        ],
+        "spl_set_id": [
+          "3a53668c-adda-44c2-a743-e79e467437e3",
+          "0a28ae25-7cc4-4ac0-a2ba-7820fb93e25c"
+        ],
+        "package_ndc": [
+          "70436-232-52",
+          "70436-232-62",
+          "70436-232-50",
+          "72673-071-10",
+          "72673-072-10",
+          "72673-073-01"
+        ],
+        "unii": [
+          "976728SY6Z"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20171025",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA204550",
+      "sponsor_name": "EUGIA PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA204550"
+        ],
+        "brand_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "AuroMedics Pharma LLC"
+        ],
+        "product_ndc": [
+          "55150-180",
+          "55150-181",
+          "55150-182"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "833532",
+          "1663224",
+          "1663244"
+        ],
+        "spl_id": [
+          "c2e4f552-4ed1-4c8c-b865-39596b79b1ad"
+        ],
+        "spl_set_id": [
+          "6cd870d7-6381-421a-89bc-bce5c9518219"
+        ],
+        "package_ndc": [
+          "55150-180-03",
+          "55150-181-09",
+          "55150-182-18"
+        ],
+        "unii": [
+          "976728SY6Z"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20021129",
+          "application_docs": [
+            {
+              "id": "23821",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050728",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20090602",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20190815",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20050607",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20200623",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20151019",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20031202",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20130531",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20100204",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20081205",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20190815",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20151019",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20190815",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20031203",
+          "submission_class_code": "S",
+          "submission_class_code_description": "Supplement"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20141221",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20130531",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076362",
+      "sponsor_name": "TARO",
+      "openfda": {
+        "application_number": [
+          "ANDA076362"
+        ],
+        "brand_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Sun Pharmaceutical Industries, Inc."
+        ],
+        "product_ndc": [
+          "51672-4056",
+          "51672-4055",
+          "51672-4025",
+          "51672-4057"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "833528",
+          "834348",
+          "835956",
+          "835960"
+        ],
+        "spl_id": [
+          "4cc4c3cb-aced-a125-e063-6394a90aee93"
+        ],
+        "spl_set_id": [
+          "7ccd3733-c3af-4a11-8500-0f99194c1472"
+        ],
+        "package_ndc": [
+          "51672-4055-6",
+          "51672-4025-4",
+          "51672-4025-2",
+          "51672-4025-3",
+          "51672-4057-6",
+          "51672-4057-0",
+          "51672-4056-6",
+          "51672-4056-1",
+          "51672-4056-3",
+          "51672-4056-0"
+        ],
+        "unii": [
+          "976728SY6Z"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "300MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "400MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20050826",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20030425",
+          "application_docs": [
+            {
+              "id": "39510",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2003/76394_Amiodarone Hydrochloride_Prntlbl.pdf",
+              "date": "20031224",
+              "type": "Label"
+            },
+            {
+              "id": "43072",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/2003/076394_amiodarone-hydrochloride_toc.html",
+              "date": "20031224",
+              "type": "Review"
+            },
+            {
+              "id": "23822",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050728",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "31117",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/76394_Amiodarone Hydrochloride_Approv.pdf",
+              "date": "20031224",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20060512",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20050609",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076394",
+      "sponsor_name": "PAR STERILE PRODUCTS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "45",
+          "submission_status": "AP",
+          "submission_status_date": "20191121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20000630",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "30847",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75315S4,5ltr.pdf",
+              "date": "20000630",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "20130628",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19990721",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20130531",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "41",
+          "submission_status": "AP",
+          "submission_status_date": "20150724",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20080317",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20050218",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20041004",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20060410",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20020508",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "46",
+          "submission_status": "AP",
+          "submission_status_date": "20191121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20000111",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "30848",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75135s005,006,007ltr.pdf",
+              "date": "20000412",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "38",
+          "submission_status": "AP",
+          "submission_status_date": "20150724",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20000630",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "8613",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75315S4,5ltr.pdf",
+              "date": "20000630",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "44",
+          "submission_status": "AP",
+          "submission_status_date": "20150724",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "36",
+          "submission_status": "AP",
+          "submission_status_date": "20150724",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20000202",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20130531",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "42",
+          "submission_status": "AP",
+          "submission_status_date": "20150724",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20100629",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20060328",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19981223",
+          "application_docs": [
+            {
+              "id": "42978",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/98/075315_amiodarone_toc.html",
+              "date": "20030804",
+              "type": "Review"
+            },
+            {
+              "id": "44254",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050728",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "8612",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1998/75315ltr.pdf",
+              "date": "19981223",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20041029",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20061130",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20060328",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20040624",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20020826",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "47",
+          "submission_status": "AP",
+          "submission_status_date": "20191121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20020508",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "8614",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75135s005,006,007ltr.pdf",
+              "date": "20000412",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA075315",
+      "sponsor_name": "UPSHER SMITH LABS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "400MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "200MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20060828",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2421",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/020377s020ltr.pdf",
+              "date": "20060918",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20030509",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "24864",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20377slr010,012ltr.pdf",
+              "date": "20030530",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20041104",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2416",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/20377s007,008,015ltr.pdf",
+              "date": "20041108",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20030509",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2417",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20377slr010,012ltr.pdf",
+              "date": "20030530",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20010711",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "24862",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/20377s4s5ltr.pdf",
+              "date": "20010711",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19980514",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19951018",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20618",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/020377-S1_Cordarone_toc.html",
+              "date": "20030808",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20090313",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20041102",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2419",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/20377s017ltr.pdf",
+              "date": "20041108",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20041104",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2418",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/20377s007,008,015ltr.pdf",
+              "date": "20041108",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20030506",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "24865",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20377slr013ltr.pdf",
+              "date": "20030530",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20041104",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "24863",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/20377s007,008,015ltr.pdf",
+              "date": "20041108",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20090313",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20010502",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20010711",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2415",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/20377s4s5ltr.pdf",
+              "date": "20010711",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19950803",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "23579",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050729",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19971210",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41313",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/97/020377-S2_Cordarone_toc.html",
+              "date": "20030808",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20050915",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2420",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/020377s018ltr.pdf",
+              "date": "20050922",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20040902",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "24867",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/20377s016ltr.pdf",
+              "date": "20040903",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20030506",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "24866",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20377slr014ltr.pdf",
+              "date": "20030530",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20020411",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA020377",
+      "sponsor_name": "WYETH PHARMS INC",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "CORDARONE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20131125",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA203884",
+      "sponsor_name": "HOSPIRA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20131125",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA203885",
+      "sponsor_name": "HOSPIRA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20210907",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "68562",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/022325Orig1s016ltr.pdf",
+              "date": "20210908",
+              "type": "Letter"
+            },
+            {
+              "id": "68574",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/022325s016lbl.pdf",
+              "date": "20210910",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20170322",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "47678",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/022325Orig1s014ltr.pdf",
+              "date": "20170324",
+              "type": "Letter"
+            },
+            {
+              "id": "47703",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/022325Orig1s014lbl.pdf",
+              "date": "20170324",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20161031",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20140929",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20081224",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form",
+          "application_docs": [
+            {
+              "id": "38574",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/022325lbl.pdf",
+              "date": "20090102",
+              "type": "Label"
+            },
+            {
+              "id": "7236",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/022325s000ltr.pdf",
+              "date": "20090102",
+              "type": "Letter"
+            },
+            {
+              "id": "21993",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2008/022325_nexterone_toc.html",
+              "date": "20100217",
+              "type": "Review"
+            },
+            {
+              "id": "24283",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2008/022325s000_SumR.pdf",
+              "date": "20100217",
+              "type": "Summary Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20150313",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "29596",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/022325Orig1s009ltr.pdf",
+              "date": "20150317",
+              "type": "Letter"
+            },
+            {
+              "id": "38576",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/022325s009lbl.pdf",
+              "date": "20150317",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20130823",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20131108",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20250221",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "81355",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/022325Orig1s019ltr.pdf",
+              "date": "20250225",
+              "type": "Letter"
+            },
+            {
+              "id": "81364",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/022325Orig1s019lbl.pdf",
+              "date": "20250225",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20101116",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "50610",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/022325Orig1s001.pdf",
+              "date": "20171206",
+              "type": "Review"
+            },
+            {
+              "id": "7237",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/022325s001ltr.pdf",
+              "date": "20101122",
+              "type": "Letter"
+            },
+            {
+              "id": "17242",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/022325s001lbl.pdf",
+              "date": "20101118",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20161122",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "45954",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/022325Orig1s013ltr.pdf",
+              "date": "20161123",
+              "type": "Letter"
+            },
+            {
+              "id": "46001",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/022325s013lbl.pdf",
+              "date": "20161202",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20130429",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20130405",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20130104",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20111212",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "38575",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022325s002lbl.pdf",
+              "date": "20111212",
+              "type": "Label"
+            },
+            {
+              "id": "29595",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022325s002ltr.pdf",
+              "date": "20111214",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA022325",
+      "sponsor_name": "BAXTER HLTHCARE",
+      "openfda": {
+        "application_number": [
+          "NDA022325"
+        ],
+        "brand_name": [
+          "NEXTERONE"
+        ],
+        "generic_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Baxter Healthcare Corporation"
+        ],
+        "product_ndc": [
+          "43066-150",
+          "43066-360"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "849876",
+          "1046406",
+          "1046408",
+          "1046410"
+        ],
+        "spl_id": [
+          "86598704-4a32-4696-b2c2-2861e28db76a"
+        ],
+        "spl_set_id": [
+          "e9108958-b8d7-4fba-87c3-9a32990de551"
+        ],
+        "package_ndc": [
+          "43066-150-10",
+          "43066-360-20"
+        ],
+        "unii": [
+          "976728SY6Z"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "NEXTERONE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "360MG/200ML (1.8MG/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "NEXTERONE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "NEXTERONE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "150MG/100ML (1.5MG/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "34",
+          "submission_status": "AP",
+          "submission_status_date": "20150924",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20100108",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20060404",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "32",
+          "submission_status": "AP",
+          "submission_status_date": "20150406",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19981130",
+          "application_docs": [
+            {
+              "id": "8440",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1998/74739ltr.pdf",
+              "date": "19981130",
+              "type": "Letter"
+            },
+            {
+              "id": "18364",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/98/74-739_Amiodarone_prntlbl.pdf",
+              "date": "19981130",
+              "type": "Label"
+            },
+            {
+              "id": "22357",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/98/74-739_Amiodarone.html",
+              "date": "20040527",
+              "type": "Review"
+            },
+            {
+              "id": "23754",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050728",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20090116",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20130531",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20080312",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20070430",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20010411",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20001207",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20001207",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20000229",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19991026",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "20200624",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19990902",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "20200624",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19990902",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20110322",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20060807",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "33",
+          "submission_status": "AP",
+          "submission_status_date": "20150406",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20090722",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20080714",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20050511",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20070830",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20020524",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20010411",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20001207",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19990323",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "36",
+          "submission_status": "AP",
+          "submission_status_date": "20200624",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19990902",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA074739",
+      "sponsor_name": "TEVA PHARMS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "200MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20081030",
+          "application_docs": [
+            {
+              "id": "23877",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20081125",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20200618",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20120921",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20130531",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077610",
+      "sponsor_name": "ACELLA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20040204",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "application_docs": [
+            {
+              "id": "21753",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-594_Amiodarone.html",
+              "date": "20040506",
+              "type": "Review"
+            },
+            {
+              "id": "23670",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050728",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "28214",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/21594ltr.pdf",
+              "date": "20040227",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA021594",
+      "sponsor_name": "INTL MEDICATION SYS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20130816",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "39498",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/075955s015lbl.pdf",
+              "date": "20130823",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20070912",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20021018",
+          "application_docs": [
+            {
+              "id": "23789",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050728",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20100630",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20060627",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075955",
+      "sponsor_name": "HOSPIRA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "19991008",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40838",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/18972-s019_cordarone.pdf",
+              "date": "19991008",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19871028",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "19940414",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19880914",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "19900809",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "49",
+          "submission_status": "AP",
+          "submission_status_date": "20140117",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19881213",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "47",
+          "submission_status": "AP",
+          "submission_status_date": "20150327",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "11397",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/018972s047lbl.pdf",
+              "date": "20150401",
+              "type": "Label"
+            },
+            {
+              "id": "16154",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/018972Orig1s047ltr.pdf",
+              "date": "20150331",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "39",
+          "submission_status": "AP",
+          "submission_status_date": "20090421",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "11394",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/018972s038s039lbl.pdf",
+              "date": "20090428",
+              "type": "Label"
+            },
+            {
+              "id": "16151",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/018972s038,s39ltr.pdf",
+              "date": "20090424",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "53",
+          "submission_status": "AP",
+          "submission_status_date": "20170407",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "47917",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/018972s053lbl.pdf",
+              "date": "20170410",
+              "type": "Label"
+            },
+            {
+              "id": "47978",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/018972Orig1s053ltr.pdf",
+              "date": "20170412",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "20081017",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1169",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/018972s037ltr.pdf",
+              "date": "20081021",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "51",
+          "submission_status": "AP",
+          "submission_status_date": "20160422",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "11399",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/018972s051lbl.pdf",
+              "date": "20160429",
+              "type": "Label"
+            },
+            {
+              "id": "1175",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/018972Orig1s051ltr.pdf",
+              "date": "20160426",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "20041101",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "16146",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/18972s029ltr.pdf",
+              "date": "20041108",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "20071002",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1167",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/018972s035ltr.pdf",
+              "date": "20071004",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20040521",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1164",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/18972slr022,027ltr.pdf",
+              "date": "20040527",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "41",
+          "submission_status": "AP",
+          "submission_status_date": "20091119",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "11395",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/018972s041lbl.pdf",
+              "date": "20091123",
+              "type": "Label"
+            },
+            {
+              "id": "1171",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/018972s041ltr.pdf",
+              "date": "20100107",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "19991008",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20174",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/18972-s019_cordarone.pdf",
+              "date": "19991008",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "33",
+          "submission_status": "AP",
+          "submission_status_date": "20060828",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "16149",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/018972s033ltr.pdf",
+              "date": "20060918",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20021218",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1163",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/18972slr025ltr.pdf",
+              "date": "20040601",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "19990105",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1161",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/18972s015s017_appltrs.pdf",
+              "date": "19990105",
+              "type": "Letter"
+            },
+            {
+              "id": "20172",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/18972S015S017.html",
+              "date": "19990105",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "20050823",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "16148",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/018972s031ltr.pdf",
+              "date": "20050831",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20030430",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "16144",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/r_18972slr023ltr.pdf",
+              "date": "20030529",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "19890210",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "19990105",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40836",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/18972S015S017.html",
+              "date": "19990105",
+              "type": "Review"
+            },
+            {
+              "id": "16143",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/18972s015s017_appltrs.pdf",
+              "date": "19990105",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20011218",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19880629",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19870807",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19851224",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "40834",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/18-972_Cardarone.html",
+              "date": "20040826",
+              "type": "Review"
+            },
+            {
+              "id": "44026",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050729",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "19900809",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19870515",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "48",
+          "submission_status": "AP",
+          "submission_status_date": "20140122",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1173",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/018972Orig1s048ltr.pdf",
+              "date": "20140123",
+              "type": "Letter"
+            },
+            {
+              "id": "33677",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/018972s048lbl.pdf",
+              "date": "20140123",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19861007",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "54",
+          "submission_status": "AP",
+          "submission_status_date": "20181017",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "56006",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/018972s054lbl.pdf",
+              "date": "20181018",
+              "type": "Label"
+            },
+            {
+              "id": "56007",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/018972s054lbl.pdf#page=13",
+              "date": "20181018",
+              "type": "Medication Guide"
+            },
+            {
+              "id": "56054",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/018972Orig1s054ltr.pdf",
+              "date": "20181022",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "46",
+          "submission_status": "AP",
+          "submission_status_date": "20121120",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "38",
+          "submission_status": "AP",
+          "submission_status_date": "20090421",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "11393",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/018972s038s039lbl.pdf",
+              "date": "20090428",
+              "type": "Label"
+            },
+            {
+              "id": "1170",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/018972s038,s039ltr.pdf",
+              "date": "20090424",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "52",
+          "submission_status": "AP",
+          "submission_status_date": "20161122",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "45955",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/018972Orig1s052ltr.pdf",
+              "date": "20161123",
+              "type": "Letter"
+            },
+            {
+              "id": "45988",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/018972s052lbl.pdf",
+              "date": "20161201",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "44",
+          "submission_status": "AP",
+          "submission_status_date": "20111114",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "16153",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/018972s044ltr.pdf",
+              "date": "20111116",
+              "type": "Letter"
+            },
+            {
+              "id": "33676",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/018972s044lbl.pdf",
+              "date": "20111114",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "36",
+          "submission_status": "AP",
+          "submission_status_date": "20071113",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1168",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/018972s036LTR.pdf",
+              "date": "20071119",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "50",
+          "submission_status": "AP",
+          "submission_status_date": "20141222",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1174",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/018972Orig1s050ltr.pdf",
+              "date": "20141224",
+              "type": "Letter"
+            },
+            {
+              "id": "11398",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/018972s050lbl.pdf",
+              "date": "20150108",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20040902",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1165",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/18972s028ltr.pdf",
+              "date": "20040903",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "42",
+          "submission_status": "AP",
+          "submission_status_date": "20101213",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "11396",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/018972s042lbl.pdf",
+              "date": "20101213",
+              "type": "Label"
+            },
+            {
+              "id": "1172",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/018972s042ltr.pdf",
+              "date": "20101215",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "34",
+          "submission_status": "AP",
+          "submission_status_date": "20070330",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "16150",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/018972s034ltr.pdf",
+              "date": "20070409",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20030506",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "16145",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/018972s026ltr.pdf",
+              "date": "20030530",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "40",
+          "submission_status": "AP",
+          "submission_status_date": "20090928",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "16152",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/018972s040ltr.pdf",
+              "date": "20091112",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "19980615",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20173",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/18972-S014_Cordarone.pdf",
+              "date": "19980615",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "32",
+          "submission_status": "AP",
+          "submission_status_date": "20060921",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1166",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/018972s032ltr.pdf",
+              "date": "20060925",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20020920",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "19980615",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40837",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/18972-S014_Cordarone.pdf",
+              "date": "19980615",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20041203",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40839",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/018972s030_Cordarone.html",
+              "date": "20050427",
+              "type": "Review"
+            },
+            {
+              "id": "11392",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2004/18972s030lbl.pdf",
+              "date": "20041206",
+              "type": "Label"
+            },
+            {
+              "id": "16147",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/18972s030ltr.pdf",
+              "date": "20041206",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20040521",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1162",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/18972slr022,027ltr.pdf",
+              "date": "20040527",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "19890728",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "19951018",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40835",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/18972-S014_Cordarone.pdf",
+              "date": "19980615",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA018972",
+      "sponsor_name": "WYETH PHARMS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "CORDARONE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "200MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20020823",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20191121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20010125",
+          "application_docs": [
+            {
+              "id": "8643",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/75389ltr.pdf",
+              "date": "20010125",
+              "type": "Letter"
+            },
+            {
+              "id": "23762",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050728",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20070412",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20020828",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20080221",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20070307",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20050503",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075389",
+      "sponsor_name": "DR REDDYS LABS SA",
+      "openfda": {
+        "application_number": [
+          "ANDA075389"
+        ],
+        "brand_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Dr. Reddy's Labratories Inc."
+        ],
+        "product_ndc": [
+          "75907-005",
+          "75907-006",
+          "75907-007"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "833528",
+          "834348",
+          "835956"
+        ],
+        "spl_id": [
+          "e0bc8f4a-dc9b-7804-4479-ebe732449569"
+        ],
+        "spl_set_id": [
+          "95cef33b-c0e6-b17c-7cbb-f5c066872705"
+        ],
+        "package_ndc": [
+          "75907-005-30",
+          "75907-006-60",
+          "75907-007-30"
+        ],
+        "unii": [
+          "976728SY6Z"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "400MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "200MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200721",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213446",
+      "sponsor_name": "UNICHEM",
+      "openfda": {
+        "application_number": [
+          "ANDA213446"
+        ],
+        "brand_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Unichem Pharmaceuticals (USA), Inc."
+        ],
+        "product_ndc": [
+          "29300-359"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "833528"
+        ],
+        "spl_id": [
+          "ca43a6d6-5537-4881-bf75-b43ade430dd1"
+        ],
+        "spl_set_id": [
+          "a20d0c03-cfda-49d1-88c9-be1bf295bc6c"
+        ],
+        "package_ndc": [
+          "29300-359-05",
+          "29300-359-16"
+        ],
+        "unii": [
+          "976728SY6Z"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "200MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20080225",
+          "application_docs": [
+            {
+              "id": "44346",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20080228",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20090710",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077234",
+      "sponsor_name": "HIKMA FARMACEUTICA",
+      "openfda": {
+        "application_number": [
+          "ANDA077234"
+        ],
+        "brand_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Hikma Pharmaceuticals USA Inc."
+        ],
+        "product_ndc": [
+          "0143-9875"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1663224"
+        ],
+        "spl_id": [
+          "624376cc-5fa3-410a-95de-ef975e2ea501"
+        ],
+        "spl_set_id": [
+          "51772745-9ea9-42cd-97e6-7266f41ae3ca"
+        ],
+        "package_ndc": [
+          "0143-9875-01",
+          "0143-9875-10",
+          "0143-9875-25"
+        ],
+        "unii": [
+          "976728SY6Z"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20191029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20130816",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20150309",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20130531",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20080916",
+          "application_docs": [
+            {
+              "id": "23927",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20081113",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20130531",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20090710",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20191029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20191029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20151006",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20191029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20150309",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20100831",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA079029",
+      "sponsor_name": "ZYDUS PHARMS USA INC",
+      "openfda": {
+        "application_number": [
+          "ANDA079029"
+        ],
+        "brand_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Zydus Lifesciences Limited",
+          "Zydus Pharmaceuticals USA Inc."
+        ],
+        "product_ndc": [
+          "65841-631",
+          "65841-840",
+          "65841-841",
+          "68382-227",
+          "68382-297",
+          "68382-298"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "833528",
+          "834348",
+          "835956"
+        ],
+        "spl_id": [
+          "aabb5533-5d41-49a3-b8b6-14627af57311",
+          "b3f11ad6-9f3b-4054-9c51-3d2614c1002e"
+        ],
+        "spl_set_id": [
+          "3e8db251-e3c5-4fba-be9a-6044a92f0beb",
+          "b41cbcb5-9c5d-4e45-a4f2-952df5f22c00"
+        ],
+        "package_ndc": [
+          "65841-840-06",
+          "65841-631-06",
+          "65841-631-14",
+          "65841-631-05",
+          "65841-631-10",
+          "65841-631-77",
+          "65841-841-06",
+          "68382-297-06",
+          "68382-227-06",
+          "68382-227-14",
+          "68382-227-05",
+          "68382-227-10",
+          "68382-227-30",
+          "68382-227-77",
+          "68382-298-06"
+        ],
+        "unii": [
+          "976728SY6Z"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "400MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "200MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20200622",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20120921",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20081030"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20130812",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077834",
+      "sponsor_name": "ACELLA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20071015",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20021015",
+          "application_docs": [
+            {
+              "id": "23808",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050728",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20040105",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "33",
+          "submission_status": "AP",
+          "submission_status_date": "20200623",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20031114",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20090624",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20080324",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20060201",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076217",
+      "sponsor_name": "MYLAN INSTITUTIONAL",
+      "openfda": {
+        "application_number": [
+          "ANDA076217"
+        ],
+        "brand_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Mylan Institutional LLC"
+        ],
+        "product_ndc": [
+          "72078-046",
+          "67457-153"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1663244",
+          "1663248",
+          "1663224"
+        ],
+        "spl_id": [
+          "7cfc7c84-7d98-4060-bb6c-8268244be3cb",
+          "bd9c578c-322f-41fc-936d-bf9b551a2782"
+        ],
+        "spl_set_id": [
+          "f0b3b743-9f62-4b02-ace5-c8d93637ecad",
+          "fcc8658c-761a-443f-8c32-1499d86028ec"
+        ],
+        "package_ndc": [
+          "72078-046-00",
+          "72078-046-09",
+          "72078-046-18",
+          "67457-153-00",
+          "67457-153-03",
+          "67457-153-99",
+          "67457-153-09",
+          "67457-153-18"
+        ],
+        "unii": [
+          "976728SY6Z"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20130531",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "20200623",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20190815",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20151005",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20090602",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20021209",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20190815",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20021209",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20021218",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20190815",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20130531",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20151005",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20100204",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20010330",
+          "application_docs": [
+            {
+              "id": "44256",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050728",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "8666",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/75424ltr.pdf",
+              "date": "20010330",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20081205",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20050607",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20021218",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20141221",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20021218",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075424",
+      "sponsor_name": "TARO",
+      "openfda": {
+        "application_number": [
+          "ANDA075424"
+        ],
+        "brand_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Sun Pharmaceutical Industries, Inc."
+        ],
+        "product_ndc": [
+          "51672-4025",
+          "51672-4055",
+          "51672-4057",
+          "51672-4056"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "833528",
+          "834348",
+          "835956",
+          "835960"
+        ],
+        "spl_id": [
+          "4cc4c3cb-aced-a125-e063-6394a90aee93"
+        ],
+        "spl_set_id": [
+          "7ccd3733-c3af-4a11-8500-0f99194c1472"
+        ],
+        "package_ndc": [
+          "51672-4055-6",
+          "51672-4025-4",
+          "51672-4025-2",
+          "51672-4025-3",
+          "51672-4057-6",
+          "51672-4057-0",
+          "51672-4056-6",
+          "51672-4056-1",
+          "51672-4056-3",
+          "51672-4056-0"
+        ],
+        "unii": [
+          "976728SY6Z"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "200MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20130531",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20070411",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20200715",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20150519",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20150519",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20050408",
+          "application_docs": [
+            {
+              "id": "23855",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050728",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20200715",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20150519",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20200715",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077069",
+      "sponsor_name": "CHARTWELL RX",
+      "openfda": {
+        "application_number": [
+          "ANDA077069"
+        ],
+        "brand_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Chartwell RX, LLC"
+        ],
+        "product_ndc": [
+          "62135-576",
+          "62135-577",
+          "62135-578"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "833528",
+          "834348",
+          "835956"
+        ],
+        "spl_id": [
+          "458bf18b-977a-303b-e063-6294a90a1902"
+        ],
+        "spl_set_id": [
+          "5520f11d-968d-4f4f-bf57-d14369c0d746"
+        ],
+        "package_ndc": [
+          "62135-576-30",
+          "62135-577-60",
+          "62135-578-30"
+        ],
+        "unii": [
+          "976728SY6Z"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "400MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "200MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200622",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20060705",
+          "application_docs": [
+            {
+              "id": "23809",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20060717",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA076232",
+      "sponsor_name": "EPIC PHARMA LLC",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20191121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20191121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160603",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20191121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA204742",
+      "sponsor_name": "AUROBINDO PHARMA LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA204742"
+        ],
+        "brand_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "65862-732"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "833528"
+        ],
+        "spl_id": [
+          "84ad18a0-1887-4b62-8ac1-94ace3433366"
+        ],
+        "spl_set_id": [
+          "7ae393d1-7469-432a-9f21-f5ebab1207d1"
+        ],
+        "package_ndc": [
+          "65862-732-30",
+          "65862-732-60",
+          "65862-732-90",
+          "65862-732-01",
+          "65862-732-25",
+          "65862-732-05",
+          "65862-732-99"
+        ],
+        "unii": [
+          "976728SY6Z"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "200MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "49",
+          "submission_status": "AP",
+          "submission_status_date": "20191101",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20021219",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "47",
+          "submission_status": "AP",
+          "submission_status_date": "20150813",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20000412",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "22425",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/98/75135s001-007_Pacerone.pdf",
+              "date": "20021029",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "39",
+          "submission_status": "AP",
+          "submission_status_date": "20090428",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "45",
+          "submission_status": "AP",
+          "submission_status_date": "20150813",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20000412",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "42942",
+              "title": "10/29/02",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/98/75135s001-007_Pacerone.pdf",
+              "date": "20021029",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "51",
+          "submission_status": "AP",
+          "submission_status_date": "20191101",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19990924",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "42941",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/98/75135s001-007_Pacerone.pdf",
+              "date": "20021029",
+              "type": "Review"
+            },
+            {
+              "id": "30769",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1999/75135s003ltr.pdf",
+              "date": "19990924",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "43",
+          "submission_status": "AP",
+          "submission_status_date": "20130617",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "20191101",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19991202",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "22422",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/98/75135s001-007_Pacerone.pdf",
+              "date": "20021029",
+              "type": "Review"
+            },
+            {
+              "id": "30768",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1999/75135s001ltr.pdf",
+              "date": "19980430",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20191101",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "41",
+          "submission_status": "AP",
+          "submission_status_date": "20101130",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20060404",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20041004",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20030924",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20050412",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "48",
+          "submission_status": "AP",
+          "submission_status_date": "20150813",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20020820",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "54",
+          "submission_status": "AP",
+          "submission_status_date": "20191101",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "46",
+          "submission_status": "AP",
+          "submission_status_date": "20150813",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20000412",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "22424",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/98/75135s001-007_Pacerone.pdf",
+              "date": "20021029",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "52",
+          "submission_status": "AP",
+          "submission_status_date": "20191101",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20000201",
+          "submission_class_code": "BIOEQUIV",
+          "submission_class_code_description": "Bioequivalence",
+          "application_docs": [
+            {
+              "id": "8533",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75135s004ltr.pdf",
+              "date": "20000201",
+              "type": "Letter"
+            },
+            {
+              "id": "22423",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/98/75135s001-007_Pacerone.pdf",
+              "date": "20021029",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "44",
+          "submission_status": "AP",
+          "submission_status_date": "20130617",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19991202",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "42940",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/98/75135s001-007_Pacerone.pdf",
+              "date": "20021029",
+              "type": "Review"
+            },
+            {
+              "id": "8532",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1999/75135s002ltr.pdf",
+              "date": "19991202",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "34",
+          "submission_status": "AP",
+          "submission_status_date": "20071116",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20191101",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "40",
+          "submission_status": "AP",
+          "submission_status_date": "20091201",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20060213",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19980430",
+          "application_docs": [
+            {
+              "id": "39456",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/98/75135ap_appltr_prntlbl_chemr.pdf",
+              "date": "19980430",
+              "type": "Label"
+            },
+            {
+              "id": "43894",
+              "url": "http://www.fda.gov/downloads/Drugs/DrugSafety/ucm088668.pdf",
+              "date": "20091120",
+              "type": "Medication Guide"
+            },
+            {
+              "id": "22421",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/98/75135.html",
+              "date": "19990528",
+              "type": "Review"
+            },
+            {
+              "id": "23758",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050801",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "30767",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/98/75135ap_appltr_prntlbl_chemr.pdf",
+              "date": "19980430",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20040105",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075135",
+      "sponsor_name": "UPSHER SMITH LABS",
+      "openfda": {
+        "application_number": [
+          "ANDA075135"
+        ],
+        "brand_name": [
+          "PACERONE"
+        ],
+        "generic_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Upsher-Smith Laboratories, LLC"
+        ],
+        "product_ndc": [
+          "0245-0144",
+          "0245-0147",
+          "0245-1645"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "833528",
+          "834346",
+          "834348",
+          "834350",
+          "835956",
+          "835958"
+        ],
+        "spl_id": [
+          "39e7666b-4916-2716-e063-6394a90a0589"
+        ],
+        "spl_set_id": [
+          "4c4ec9b0-13a5-49a8-b57b-b3f64e4316a7"
+        ],
+        "package_ndc": [
+          "0245-0144-30",
+          "0245-0144-11",
+          "0245-0144-89",
+          "0245-0144-01",
+          "0245-0147-60",
+          "0245-0147-90",
+          "0245-0147-15",
+          "0245-0147-89",
+          "0245-0147-01",
+          "0245-1645-30",
+          "0245-1645-89",
+          "0245-1645-01"
+        ],
+        "unii": [
+          "976728SY6Z"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PACERONE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PACERONE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "400MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PACERONE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "200MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20021015",
+          "application_docs": [
+            {
+              "id": "39500",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2002/76018_Amiodarone%20Hydrochloride_Prntlbl.pdf",
+              "date": "20031224",
+              "type": "Label"
+            },
+            {
+              "id": "22526",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/2002/076018_amiodarone-hydrochloride_toc.html",
+              "date": "20031224",
+              "type": "Review"
+            },
+            {
+              "id": "23793",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050728",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "31061",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/76018_Amiodarone%20Hydrochloride_Approv.pdf",
+              "date": "20031224",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA076018",
+      "sponsor_name": "BEDFORD",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20191121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20081106",
+          "application_docs": [
+            {
+              "id": "44387",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20081125",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20150702",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20141221",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20191121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20191121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20150702",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20141221",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20141221",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20191121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA078578",
+      "sponsor_name": "RUBICON RESEARCH",
+      "openfda": {
+        "application_number": [
+          "ANDA078578"
+        ],
+        "brand_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Advagen Pharma Limited"
+        ],
+        "product_ndc": [
+          "72888-039",
+          "72888-060",
+          "72888-061"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "833528",
+          "834348",
+          "835956"
+        ],
+        "spl_id": [
+          "458014a5-2f16-9815-e063-6294a90ad169"
+        ],
+        "spl_set_id": [
+          "d911b4cf-eec4-43f8-aa64-cc60cfc901b9"
+        ],
+        "package_ndc": [
+          "72888-060-30",
+          "72888-039-60",
+          "72888-039-05",
+          "72888-039-09",
+          "72888-061-30"
+        ],
+        "unii": [
+          "976728SY6Z"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "400MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "200MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20071022",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20031124",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20200504",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20051021",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20021015",
+          "application_docs": [
+            {
+              "id": "43024",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/075761_s000_AmiodaroneTOC.html",
+              "date": "20060420",
+              "type": "Review"
+            },
+            {
+              "id": "23774",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050728",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "31010",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/75761.TA.pdf",
+              "date": "20030415",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20041020",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075761",
+      "sponsor_name": "FRESENIUS KABI USA",
+      "openfda": {
+        "application_number": [
+          "ANDA075761"
+        ],
+        "brand_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Fresenius Kabi USA, LLC"
+        ],
+        "product_ndc": [
+          "63323-616",
+          "65219-643",
+          "65219-645"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1663224",
+          "1663244"
+        ],
+        "spl_id": [
+          "262974e7-d551-4123-adfa-2ee1c4fa6195",
+          "9772ab48-2ef1-4b9f-9a27-794f3e7e5c7a"
+        ],
+        "spl_set_id": [
+          "d8d04647-8e25-4127-8ecf-360ce1991c2f",
+          "9772ab48-2ef1-4b9f-9a27-794f3e7e5c7a"
+        ],
+        "package_ndc": [
+          "63323-616-01",
+          "63323-616-03",
+          "63323-616-02",
+          "63323-616-09",
+          "65219-643-01",
+          "65219-643-03",
+          "65219-645-01",
+          "65219-645-09"
+        ],
+        "unii": [
+          "976728SY6Z"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20050505",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20020520",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20080612",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20040806",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20000218",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19990721",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19990224",
+          "application_docs": [
+            {
+              "id": "39464",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/99/75-188_Amiodarone%20Hydrochloride_prntlbl.pdf",
+              "date": "19990224",
+              "type": "Label"
+            },
+            {
+              "id": "44250",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050728",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "8556",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/99/75-188_Amiodarone%20Hydrochloride_Approv.pdf",
+              "date": "19990224",
+              "type": "Letter"
+            },
+            {
+              "id": "22439",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/99/75-188_Amiodarone.html",
+              "date": "20040527",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA075188",
+      "sponsor_name": "PHARMOBEDIENT",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "200MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20021024",
+          "application_docs": [
+            {
+              "id": "44302",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050728",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA076299",
+      "sponsor_name": "BEDFORD LABS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20021015",
+          "application_docs": [
+            {
+              "id": "23799",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050728",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA076088",
+      "sponsor_name": "BEN VENUE",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20000726",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20000629",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19990416",
+          "application_docs": [
+            {
+              "id": "23756",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050728",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "30712",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1999/74895ltr.pdf",
+              "date": "19990416",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20000726",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20000211",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20000726",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA074895",
+      "sponsor_name": "TEVA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "200MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20130521",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20091120",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20080822",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20050420",
+          "application_docs": [
+            {
+              "id": "44343",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050728",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20200623",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20100730",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20090115",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077161",
+      "sponsor_name": "GLAND PHARMA LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA077161"
+        ],
+        "brand_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Gland Pharma Limited"
+        ],
+        "product_ndc": [
+          "68083-112"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "AMIODARONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "834357"
+        ],
+        "spl_id": [
+          "2c1bc6a8-20ff-483a-ae28-fb31fa5f684a"
+        ],
+        "spl_set_id": [
+          "1f00c333-9667-4ebc-8849-009a3779c0c9"
+        ],
+        "package_ndc": [
+          "68083-112-01"
+        ],
+        "unii": [
+          "976728SY6Z"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20021015",
+          "application_docs": [
+            {
+              "id": "44286",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118073.htm",
+              "date": "20050728",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA076108",
+      "sponsor_name": "HOSPIRA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AMIODARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "AMIODARONE HYDROCHLORIDE",
+              "strength": "50MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+
+======================================================================================
+[K01] FLOW AND CV SETS
+======================================================================================
+raw rows 29476 -> distinct ti_uid 29460 -> frozen pairs 29456 ; targets 2517 ; indications 1014
+PRIMARY  terms  93  pairs  2128  targets  726   Primary: all indications Minikel tags cardiovascular + lipid tokens
+SENS1    terms  44  pairs  1543  targets  630   Sensitivity 1: original atlas set (MeSH C14 branch + lipid tokens)
+SENS2    terms  62  pairs  1879  targets  663   Sensitivity 2: sensitivity 1 + signs/symptoms terms tagged cardiovascular
+C14ONLY  terms  37  pairs  1364  targets  594   Sensitivity 3: MeSH C14 branch only
+flagged 'not primarily cardiac' (kept): 15 terms, 170 pairs ; targets in the set ONLY through a flagged term: 46
+rule counts: {'R1': 37, 'R2': 7, 'R3': 18, 'R4': 31}
+
+======================================================================================
+[K02] GENE RECORDS (shipped mapping + HGNC Ensembl-ID rule)
+======================================================================================
+unmapped as shipped (all 2,517 targets): 60 ; resolved by HGNC rule: 45 ; unresolved: 15
+  PRIMARY  unmapped as shipped 15 -> unresolved 3 ['MIR195', 'MIR29B1', 'MIR92A1']
+  SENS1    unmapped as shipped 12 -> unresolved 2 ['MIR29B1', 'MIR92A1']
+  SENS2    unmapped as shipped 14 -> unresolved 3 ['MIR195', 'MIR29B1', 'MIR92A1']
+  C14ONLY  unmapped as shipped 11 -> unresolved 2 ['MIR29B1', 'MIR92A1']
+
+======================================================================================
+[K03] eQTLGen LOOKUP (one pass over the FDR<0.05 file; cached)
+======================================================================================
+read cache D:\causal2drug\manuscript_prep\analysis\out\eqtlgen_target_hits.tsv (2502 genes); delete it to rescan
+targets mapped as shipped: 2457 ; status disagreeing with shipped state: 0 []
+HPA annotation disagreements with shipped classA_annotation.tsv: 0
+wrote per_target_all_2517.csv (2517 rows, 38 columns)
+wrote per_target_primary.csv (726 rows, 60 columns)
+
+======================================================================================
+[K04] UNINSTRUMENTABLE TARGETS: LOWER AND UPPER BOUND, BY SET
+======================================================================================
+PRIMARY                            N= 726 | instrumented  443 ( 61.0%) | no eQTL data  217 ( 29.9%) [LOWER] | no qualifying instrument  63 ( 8.7%) | upper bound  280 ( 38.6%) | unresolved 3 || X-linked 27 + mitochondrial 2 + Y 0 ; AUTOSOMAL-ONLY lower 188 / 697 (27.0%)
+SENS1                              N= 630 | instrumented  391 ( 62.1%) | no eQTL data  180 ( 28.6%) [LOWER] | no qualifying instrument  57 ( 9.0%) | upper bound  237 ( 37.6%) | unresolved 2 || X-linked 21 + mitochondrial 2 + Y 0 ; AUTOSOMAL-ONLY lower 157 / 607 (25.9%)
+SENS2                              N= 663 | instrumented  409 ( 61.7%) | no eQTL data  191 ( 28.8%) [LOWER] | no qualifying instrument  60 ( 9.0%) | upper bound  251 ( 37.9%) | unresolved 3 || X-linked 22 + mitochondrial 2 + Y 0 ; AUTOSOMAL-ONLY lower 167 / 639 (26.1%)
+C14ONLY                            N= 594 | instrumented  373 ( 62.8%) | no eQTL data  164 ( 27.6%) [LOWER] | no qualifying instrument  55 ( 9.3%) | upper bound  219 ( 36.9%) | unresolved 2 || X-linked 18 + mitochondrial 2 + Y 0 ; AUTOSOMAL-ONLY lower 144 / 574 (25.1%)
+ALL 2,517 Minikel targets          N=2517 | instrumented 1603 ( 63.7%) | no eQTL data  663 ( 26.3%) [LOWER] | no qualifying instrument 236 ( 9.4%) | upper bound  899 ( 35.7%) | unresolved 15 || X-linked 107 + mitochondrial 3 + Y 0 ; AUTOSOMAL-ONLY lower 553 / 2407 (23.0%)
+PRIMARY, sub-types of 'no qualifying instrument': {'T3 no cis-eQTL at FDR<0.05': 36, 'T2 cis-eQTL at FDR<0.05, none at p<5e-8': 26, 'T1 significant cis-eQTL only outside +-100 kb': 1}
+
+======================================================================================
+[K05] BY HIGHEST PHASE (phase taken over the same set that defines membership)
+======================================================================================
+-- PRIMARY
+   Preclinical                     N= 323 | instrumented  196 ( 60.7%) | no eQTL data   97 ( 30.0%) [LOWER] | no qualifying instrument  29 ( 9.0%) | upper bound  126 ( 39.0%) | unresolved 1 || X-linked 10 + mitochondrial 2 + Y 0 ; AUTOSOMAL-ONLY lower 85 / 311 (27.3%)
+   Phase I                         N=  91 | instrumented   53 ( 58.2%) | no eQTL data   26 ( 28.6%) [LOWER] | no qualifying instrument  10 (11.0%) | upper bound   36 ( 39.6%) | unresolved 2 || X-linked 6 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 20 / 85 (23.5%)
+   Phase II                        N= 171 | instrumented  105 ( 61.4%) | no eQTL data   57 ( 33.3%) [LOWER] | no qualifying instrument   9 ( 5.3%) | upper bound   66 ( 38.6%) | unresolved 0 || X-linked 9 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 48 / 162 (29.6%)
+   Phase III                       N=  75 | instrumented   50 ( 66.7%) | no eQTL data   14 ( 18.7%) [LOWER] | no qualifying instrument  11 (14.7%) | upper bound   25 ( 33.3%) | unresolved 0 || X-linked 0 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 14 / 75 (18.7%)
+   Launched                        N=  66 | instrumented   39 ( 59.1%) | no eQTL data   23 ( 34.8%) [LOWER] | no qualifying instrument   4 ( 6.1%) | upper bound   27 ( 40.9%) | unresolved 0 || X-linked 2 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 21 / 64 (32.8%)
+-- SENS1
+   Preclinical                     N= 297 | instrumented  183 ( 61.6%) | no eQTL data   85 ( 28.6%) [LOWER] | no qualifying instrument  29 ( 9.8%) | upper bound  114 ( 38.4%) | unresolved 0 || X-linked 8 + mitochondrial 2 + Y 0 ; AUTOSOMAL-ONLY lower 75 / 287 (26.1%)
+   Phase I                         N=  90 | instrumented   58 ( 64.4%) | no eQTL data   23 ( 25.6%) [LOWER] | no qualifying instrument   7 ( 7.8%) | upper bound   30 ( 33.3%) | unresolved 2 || X-linked 4 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 19 / 86 (22.1%)
+   Phase II                        N= 140 | instrumented   87 ( 62.1%) | no eQTL data   45 ( 32.1%) [LOWER] | no qualifying instrument   8 ( 5.7%) | upper bound   53 ( 37.9%) | unresolved 0 || X-linked 8 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 37 / 132 (28.0%)
+   Phase III                       N=  51 | instrumented   33 ( 64.7%) | no eQTL data    9 ( 17.6%) [LOWER] | no qualifying instrument   9 (17.6%) | upper bound   18 ( 35.3%) | unresolved 0 || X-linked 1 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 8 / 50 (16.0%)
+   Launched                        N=  52 | instrumented   30 ( 57.7%) | no eQTL data   18 ( 34.6%) [LOWER] | no qualifying instrument   4 ( 7.7%) | upper bound   22 ( 42.3%) | unresolved 0 || X-linked 0 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 18 / 52 (34.6%)
+-- SENS2
+   Preclinical                     N= 300 | instrumented  181 ( 60.3%) | no eQTL data   89 ( 29.7%) [LOWER] | no qualifying instrument  29 ( 9.7%) | upper bound  118 ( 39.3%) | unresolved 1 || X-linked 8 + mitochondrial 2 + Y 0 ; AUTOSOMAL-ONLY lower 79 / 290 (27.2%)
+   Phase I                         N=  93 | instrumented   59 ( 63.4%) | no eQTL data   23 ( 24.7%) [LOWER] | no qualifying instrument   9 ( 9.7%) | upper bound   32 ( 34.4%) | unresolved 2 || X-linked 4 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 19 / 89 (21.3%)
+   Phase II                        N= 155 | instrumented   96 ( 61.9%) | no eQTL data   50 ( 32.3%) [LOWER] | no qualifying instrument   9 ( 5.8%) | upper bound   59 ( 38.1%) | unresolved 0 || X-linked 9 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 41 / 146 (28.1%)
+   Phase III                       N=  60 | instrumented   41 ( 68.3%) | no eQTL data   10 ( 16.7%) [LOWER] | no qualifying instrument   9 (15.0%) | upper bound   19 ( 31.7%) | unresolved 0 || X-linked 0 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 10 / 60 (16.7%)
+   Launched                        N=  55 | instrumented   32 ( 58.2%) | no eQTL data   19 ( 34.5%) [LOWER] | no qualifying instrument   4 ( 7.3%) | upper bound   23 ( 41.8%) | unresolved 0 || X-linked 1 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 18 / 54 (33.3%)
+-- C14ONLY
+   Preclinical                     N= 294 | instrumented  178 ( 60.5%) | no eQTL data   84 ( 28.6%) [LOWER] | no qualifying instrument  32 (10.9%) | upper bound  116 ( 39.5%) | unresolved 0 || X-linked 8 + mitochondrial 2 + Y 0 ; AUTOSOMAL-ONLY lower 74 / 284 (26.1%)
+   Phase I                         N=  85 | instrumented   56 ( 65.9%) | no eQTL data   23 ( 27.1%) [LOWER] | no qualifying instrument   4 ( 4.7%) | upper bound   27 ( 31.8%) | unresolved 2 || X-linked 5 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 18 / 80 (22.5%)
+   Phase II                        N= 121 | instrumented   81 ( 66.9%) | no eQTL data   33 ( 27.3%) [LOWER] | no qualifying instrument   7 ( 5.8%) | upper bound   40 ( 33.1%) | unresolved 0 || X-linked 4 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 29 / 117 (24.8%)
+   Phase III                       N=  50 | instrumented   32 ( 64.0%) | no eQTL data    9 ( 18.0%) [LOWER] | no qualifying instrument   9 (18.0%) | upper bound   18 ( 36.0%) | unresolved 0 || X-linked 1 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 8 / 49 (16.3%)
+   Launched                        N=  44 | instrumented   26 ( 59.1%) | no eQTL data   15 ( 34.1%) [LOWER] | no qualifying instrument   3 ( 6.8%) | upper bound   18 ( 40.9%) | unresolved 0 || X-linked 0 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 15 / 44 (34.1%)
+descriptive chi-square, no-eQTL-data vs rest across 5 phases (PRIMARY): chi2=6.33 dof=4 p=0.176
+
+======================================================================================
+[K06] LAUNCHED TARGETS: STRICT, APPROVED (FDA/EMA RECORD) AND PERMISSIVE VERIFICATION
+======================================================================================
+-- PRIMARY
+   Minikel launched                N=  66 | instrumented   39 ( 59.1%) | no eQTL data   23 ( 34.8%) [LOWER] | no qualifying instrument   4 ( 6.1%) | upper bound   27 ( 40.9%) | unresolved 0 || X-linked 2 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 21 / 64 (32.8%)
+   ...verified, STRICT             N=  35 | instrumented   22 ( 62.9%) | no eQTL data   10 ( 28.6%) [LOWER] | no qualifying instrument   3 ( 8.6%) | upper bound   13 ( 37.1%) | unresolved 0 || X-linked 1 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 9 / 34 (26.5%)
+      no eQTL data: AGTR1, ANGPTL3, APOB, APOC3, AVPR2, F2, PCSK9, PLG, REN, SLC5A1
+      no qualifying instrument: IL1B, ITGA2B, NPC1L1 ; beyond PCSK9 lower 9 upper 12
+   ...verified, APPROVED           N=  33 | instrumented   21 ( 63.6%) | no eQTL data    9 ( 27.3%) [LOWER] | no qualifying instrument   3 ( 9.1%) | upper bound   12 ( 36.4%) | unresolved 0 || X-linked 1 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 8 / 32 (25.0%)
+      no eQTL data: AGTR1, ANGPTL3, APOB, APOC3, AVPR2, F2, PCSK9, REN, SLC5A1
+      no qualifying instrument: IL1B, ITGA2B, NPC1L1 ; beyond PCSK9 lower 8 upper 11
+   ...verified, PERMISSIVE         N=  58 | instrumented   34 ( 58.6%) | no eQTL data   20 ( 34.5%) [LOWER] | no qualifying instrument   4 ( 6.9%) | upper bound   24 ( 41.4%) | unresolved 0 || X-linked 2 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 18 / 56 (32.1%)
+      no eQTL data: ADRA1A, ADRA1B, ADRA1D, ADRA2B, ADRA2C, AGTR1, ANGPTL3, APOB, APOC3, AVPR2, EDNRA, EDNRB, F2, GHR, GLA, PCSK9, PDE4C, PLG, REN, SLC5A1
+      no qualifying instrument: GUCY1B1, IL1B, ITGA2B, NPC1L1 ; beyond PCSK9 lower 19 upper 23
+      permissive only (in MANUAL_REVIEW.csv): ADRA1A[NO_EQT], ADRA1B[NO_EQT], ADRA1D[NO_EQT], ADRA2A[INSTRU], ADRA2B[NO_EQT], ADRA2C[NO_EQT], C5AR1[INSTRU], CACNA1C[INSTRU], EDNRA[NO_EQT], EDNRB[NO_EQT], EPAS1[INSTRU], GHR[NO_EQT], GLA[NO_EQT], GUCY1A1[INSTRU], GUCY1B1[NO_QUA], KLKB1[INSTRU], PDE4A[INSTRU], PDE4B[INSTRU], PDE4C[NO_EQT], PDE4D[INSTRU], SERPING1[INSTRU], TUBB[INSTRU], VEGFA[INSTRU]
+      not verified by either rule: AGT, EGFR, ITGB2, LPL, PPARG, RXFP1, SLC12A2, TNF
+-- SENS1
+   Minikel launched                N=  52 | instrumented   30 ( 57.7%) | no eQTL data   18 ( 34.6%) [LOWER] | no qualifying instrument   4 ( 7.7%) | upper bound   22 ( 42.3%) | unresolved 0 || X-linked 0 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 18 / 52 (34.6%)
+   ...verified, STRICT             N=  32 | instrumented   20 ( 62.5%) | no eQTL data    9 ( 28.1%) [LOWER] | no qualifying instrument   3 ( 9.4%) | upper bound   12 ( 37.5%) | unresolved 0 || X-linked 0 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 9 / 32 (28.1%)
+      no eQTL data: AGTR1, ANGPTL3, APOB, APOC3, F2, PCSK9, PLG, REN, SLC5A1
+      no qualifying instrument: IL1B, ITGA2B, NPC1L1 ; beyond PCSK9 lower 8 upper 11
+   ...verified, APPROVED           N=  30 | instrumented   19 ( 63.3%) | no eQTL data    8 ( 26.7%) [LOWER] | no qualifying instrument   3 (10.0%) | upper bound   11 ( 36.7%) | unresolved 0 || X-linked 0 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 8 / 30 (26.7%)
+      no eQTL data: AGTR1, ANGPTL3, APOB, APOC3, F2, PCSK9, REN, SLC5A1
+      no qualifying instrument: IL1B, ITGA2B, NPC1L1 ; beyond PCSK9 lower 7 upper 10
+   ...verified, PERMISSIVE         N=  46 | instrumented   26 ( 56.5%) | no eQTL data   16 ( 34.8%) [LOWER] | no qualifying instrument   4 ( 8.7%) | upper bound   20 ( 43.5%) | unresolved 0 || X-linked 0 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 16 / 46 (34.8%)
+      no eQTL data: ADRA1A, ADRA1B, ADRA1D, ADRA2B, ADRA2C, AGTR1, ANGPTL3, APOB, APOC3, EDNRA, EDNRB, F2, PCSK9, PLG, REN, SLC5A1
+      no qualifying instrument: GUCY1B1, IL1B, ITGA2B, NPC1L1 ; beyond PCSK9 lower 15 upper 19
+      permissive only (in MANUAL_REVIEW.csv): ADRA1A[NO_EQT], ADRA1B[NO_EQT], ADRA1D[NO_EQT], ADRA2A[INSTRU], ADRA2B[NO_EQT], ADRA2C[NO_EQT], C5AR1[INSTRU], CACNA1C[INSTRU], EDNRA[NO_EQT], EDNRB[NO_EQT], GUCY1A1[INSTRU], GUCY1B1[NO_QUA], TUBB[INSTRU], VEGFA[INSTRU]
+      not verified by either rule: AGT, ITGB2, LPL, PPARG, RXFP1, SLC12A2
+-- SENS2
+   Minikel launched                N=  55 | instrumented   32 ( 58.2%) | no eQTL data   19 ( 34.5%) [LOWER] | no qualifying instrument   4 ( 7.3%) | upper bound   23 ( 41.8%) | unresolved 0 || X-linked 1 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 18 / 54 (33.3%)
+   ...verified, STRICT             N=  35 | instrumented   22 ( 62.9%) | no eQTL data   10 ( 28.6%) [LOWER] | no qualifying instrument   3 ( 8.6%) | upper bound   13 ( 37.1%) | unresolved 0 || X-linked 1 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 9 / 34 (26.5%)
+      no eQTL data: AGTR1, ANGPTL3, APOB, APOC3, AVPR2, F2, PCSK9, PLG, REN, SLC5A1
+      no qualifying instrument: IL1B, ITGA2B, NPC1L1 ; beyond PCSK9 lower 9 upper 12
+   ...verified, APPROVED           N=  33 | instrumented   21 ( 63.6%) | no eQTL data    9 ( 27.3%) [LOWER] | no qualifying instrument   3 ( 9.1%) | upper bound   12 ( 36.4%) | unresolved 0 || X-linked 1 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 8 / 32 (25.0%)
+      no eQTL data: AGTR1, ANGPTL3, APOB, APOC3, AVPR2, F2, PCSK9, REN, SLC5A1
+      no qualifying instrument: IL1B, ITGA2B, NPC1L1 ; beyond PCSK9 lower 8 upper 11
+   ...verified, PERMISSIVE         N=  49 | instrumented   28 ( 57.1%) | no eQTL data   17 ( 34.7%) [LOWER] | no qualifying instrument   4 ( 8.2%) | upper bound   21 ( 42.9%) | unresolved 0 || X-linked 1 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 16 / 48 (33.3%)
+      no eQTL data: ADRA1A, ADRA1B, ADRA1D, ADRA2B, ADRA2C, AGTR1, ANGPTL3, APOB, APOC3, AVPR2, EDNRA, EDNRB, F2, PCSK9, PLG, REN, SLC5A1
+      no qualifying instrument: GUCY1B1, IL1B, ITGA2B, NPC1L1 ; beyond PCSK9 lower 16 upper 20
+      permissive only (in MANUAL_REVIEW.csv): ADRA1A[NO_EQT], ADRA1B[NO_EQT], ADRA1D[NO_EQT], ADRA2A[INSTRU], ADRA2B[NO_EQT], ADRA2C[NO_EQT], C5AR1[INSTRU], CACNA1C[INSTRU], EDNRA[NO_EQT], EDNRB[NO_EQT], GUCY1A1[INSTRU], GUCY1B1[NO_QUA], TUBB[INSTRU], VEGFA[INSTRU]
+      not verified by either rule: AGT, ITGB2, LPL, PPARG, RXFP1, SLC12A2
+-- C14ONLY
+   Minikel launched                N=  44 | instrumented   26 ( 59.1%) | no eQTL data   15 ( 34.1%) [LOWER] | no qualifying instrument   3 ( 6.8%) | upper bound   18 ( 40.9%) | unresolved 0 || X-linked 0 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 15 / 44 (34.1%)
+   ...verified, STRICT             N=  26 | instrumented   18 ( 69.2%) | no eQTL data    6 ( 23.1%) [LOWER] | no qualifying instrument   2 ( 7.7%) | upper bound    8 ( 30.8%) | unresolved 0 || X-linked 0 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 6 / 26 (23.1%)
+      no eQTL data: AGTR1, F2, PCSK9, PLG, REN, SLC5A1
+      no qualifying instrument: IL1B, ITGA2B ; beyond PCSK9 lower 5 upper 7
+   ...verified, APPROVED           N=  24 | instrumented   17 ( 70.8%) | no eQTL data    5 ( 20.8%) [LOWER] | no qualifying instrument   2 ( 8.3%) | upper bound    7 ( 29.2%) | unresolved 0 || X-linked 0 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 5 / 24 (20.8%)
+      no eQTL data: AGTR1, F2, PCSK9, REN, SLC5A1
+      no qualifying instrument: IL1B, ITGA2B ; beyond PCSK9 lower 4 upper 6
+   ...verified, PERMISSIVE         N=  40 | instrumented   24 ( 60.0%) | no eQTL data   13 ( 32.5%) [LOWER] | no qualifying instrument   3 ( 7.5%) | upper bound   16 ( 40.0%) | unresolved 0 || X-linked 0 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 13 / 40 (32.5%)
+      no eQTL data: ADRA1A, ADRA1B, ADRA1D, ADRA2B, ADRA2C, AGTR1, EDNRA, EDNRB, F2, PCSK9, PLG, REN, SLC5A1
+      no qualifying instrument: GUCY1B1, IL1B, ITGA2B ; beyond PCSK9 lower 12 upper 15
+      permissive only (in MANUAL_REVIEW.csv): ADRA1A[NO_EQT], ADRA1B[NO_EQT], ADRA1D[NO_EQT], ADRA2A[INSTRU], ADRA2B[NO_EQT], ADRA2C[NO_EQT], C5AR1[INSTRU], CACNA1C[INSTRU], EDNRA[NO_EQT], EDNRB[NO_EQT], GUCY1A1[INSTRU], GUCY1B1[NO_QUA], TUBB[INSTRU], VEGFA[INSTRU]
+      not verified by either rule: AGT, ITGB2, RXFP1, SLC12A2
+PRIMARY, Minikel Phase III with an approved CV drug in ChEMBL (labels NOT edited):
+   strict: {'ADORA2A': 'INSTRUMENTED', 'AVPR1A': 'NO_EQTL_DATA', 'DPP4': 'INSTRUMENTED', 'HCN4': 'NO_EQTL_DATA', 'PDE3A': 'NO_QUALIFYING_INSTRUMENT', 'SLC6A2': 'NO_EQTL_DATA'}
+   permissive: {'ADORA1': 'INSTRUMENTED', 'ADORA2A': 'INSTRUMENTED', 'AVPR1A': 'NO_EQTL_DATA', 'BDKRB2': 'NO_EQTL_DATA', 'CACNA2D1': 'NO_EQTL_DATA', 'DPP4': 'INSTRUMENTED', 'F11': 'NO_EQTL_DATA', 'F12': 'INSTRUMENTED', 'GRIN1': 'NO_QUALIFYING_INSTRUMENT', 'HCN4': 'NO_EQTL_DATA', 'IL6R': 'INSTRUMENTED', 'PDE3A': 'NO_QUALIFYING_INSTRUMENT', 'SCN9A': 'INSTRUMENTED', 'SLC10A2': 'NO_EQTL_DATA', 'SLC6A2': 'NO_EQTL_DATA'}
+PRIMARY strict-verified without an FDA or EMA approval record: ['MTOR', 'PLG']
+PRIMARY Phase III or launched, strict N=  41 | instrumented   24 ( 58.5%) | no eQTL data   13 ( 31.7%) [LOWER] | no qualifying instrument   4 ( 9.8%) | upper bound   17 ( 41.5%) | unresolved 0 || X-linked 1 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 12 / 40 (30.0%)
+PRIMARY Phase III or launched, approved N=  39 | instrumented   23 ( 59.0%) | no eQTL data   12 ( 30.8%) [LOWER] | no qualifying instrument   4 (10.3%) | upper bound   16 ( 41.0%) | unresolved 0 || X-linked 1 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 11 / 38 (28.9%)
+PRIMARY Phase III or launched, permissive N=  73 | instrumented   40 ( 54.8%) | no eQTL data   27 ( 37.0%) [LOWER] | no qualifying instrument   6 ( 8.2%) | upper bound   33 ( 45.2%) | unresolved 0 || X-linked 2 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 25 / 71 (35.2%)
+EXAMPLE-ELIGIBLE (strict-verified, same phase in SENS2): {'launched_no_eqtl_data': ['AGTR1', 'ANGPTL3', 'APOB', 'APOC3', 'AVPR2', 'F2', 'PCSK9', 'PLG', 'REN', 'SLC5A1'], 'launched_no_qualifying_instrument': ['IL1B', 'ITGA2B', 'NPC1L1'], 'launched_instrumented': ['ACE', 'ADRB1', 'ADRB2', 'F10', 'F2R', 'HMGCR', 'ITGAV', 'ITGB3', 'KCNH2', 'MS4A1', 'MTOR', 'NR3C1', 'PDE5A', 'PLAT', 'PLAU', 'PPARA', 'PTGER2', 'PTGIR', 'SCN5A', 'SERPINC1', 'SLC12A1', 'SLC5A2'], 'phase3_uninstrumentable': ['AVPR1A', 'HCN4', 'PDE3A', 'SLC6A2']}
+label / ChEMBL mismatches (PRIMARY): {'Phase III in Minikel; ChEMBL lists an approved drug with an approved CV indication': 15, 'Launched in Minikel; not strict-verified in ChEMBL': 31}
+
+======================================================================================
+[K07] CIS-WINDOW SENSITIVITY (+-100 kb primary; +-500 kb; +-1 Mb)
+======================================================================================
+PRIMARY +-100kb all                N= 726 | instrumented  443 ( 61.0%) | no eQTL data  217 ( 29.9%) [LOWER] | no qualifying instrument  63 ( 8.7%) | upper bound  280 ( 38.6%) | unresolved 3 || X-linked 27 + mitochondrial 2 + Y 0 ; AUTOSOMAL-ONLY lower 188 / 697 (27.0%)
+PRIMARY +-100kb launched           N=  66 | instrumented   39 ( 59.1%) | no eQTL data   23 ( 34.8%) [LOWER] | no qualifying instrument   4 ( 6.1%) | upper bound   27 ( 40.9%) | unresolved 0 || X-linked 2 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 21 / 64 (32.8%)
+PRIMARY +-500kb all                N= 726 | instrumented  444 ( 61.2%) | no eQTL data  217 ( 29.9%) [LOWER] | no qualifying instrument  62 ( 8.5%) | upper bound  279 ( 38.4%) | unresolved 3 || X-linked 27 + mitochondrial 2 + Y 0 ; AUTOSOMAL-ONLY lower 188 / 697 (27.0%)
+PRIMARY +-500kb launched           N=  66 | instrumented   40 ( 60.6%) | no eQTL data   23 ( 34.8%) [LOWER] | no qualifying instrument   3 ( 4.5%) | upper bound   26 ( 39.4%) | unresolved 0 || X-linked 2 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 21 / 64 (32.8%)
+PRIMARY +-1Mb all                  N= 726 | instrumented  444 ( 61.2%) | no eQTL data  217 ( 29.9%) [LOWER] | no qualifying instrument  62 ( 8.5%) | upper bound  279 ( 38.4%) | unresolved 3 || X-linked 27 + mitochondrial 2 + Y 0 ; AUTOSOMAL-ONLY lower 188 / 697 (27.0%)
+PRIMARY +-1Mb launched             N=  66 | instrumented   40 ( 60.6%) | no eQTL data   23 ( 34.8%) [LOWER] | no qualifying instrument   3 ( 4.5%) | upper bound   26 ( 39.4%) | unresolved 0 || X-linked 2 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 21 / 64 (32.8%)
+SENS1 +-100kb all                  N= 630 | instrumented  391 ( 62.1%) | no eQTL data  180 ( 28.6%) [LOWER] | no qualifying instrument  57 ( 9.0%) | upper bound  237 ( 37.6%) | unresolved 2 || X-linked 21 + mitochondrial 2 + Y 0 ; AUTOSOMAL-ONLY lower 157 / 607 (25.9%)
+SENS1 +-100kb launched             N=  52 | instrumented   30 ( 57.7%) | no eQTL data   18 ( 34.6%) [LOWER] | no qualifying instrument   4 ( 7.7%) | upper bound   22 ( 42.3%) | unresolved 0 || X-linked 0 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 18 / 52 (34.6%)
+SENS1 +-500kb all                  N= 630 | instrumented  392 ( 62.2%) | no eQTL data  180 ( 28.6%) [LOWER] | no qualifying instrument  56 ( 8.9%) | upper bound  236 ( 37.5%) | unresolved 2 || X-linked 21 + mitochondrial 2 + Y 0 ; AUTOSOMAL-ONLY lower 157 / 607 (25.9%)
+SENS1 +-500kb launched             N=  52 | instrumented   31 ( 59.6%) | no eQTL data   18 ( 34.6%) [LOWER] | no qualifying instrument   3 ( 5.8%) | upper bound   21 ( 40.4%) | unresolved 0 || X-linked 0 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 18 / 52 (34.6%)
+SENS1 +-1Mb all                    N= 630 | instrumented  392 ( 62.2%) | no eQTL data  180 ( 28.6%) [LOWER] | no qualifying instrument  56 ( 8.9%) | upper bound  236 ( 37.5%) | unresolved 2 || X-linked 21 + mitochondrial 2 + Y 0 ; AUTOSOMAL-ONLY lower 157 / 607 (25.9%)
+SENS1 +-1Mb launched               N=  52 | instrumented   31 ( 59.6%) | no eQTL data   18 ( 34.6%) [LOWER] | no qualifying instrument   3 ( 5.8%) | upper bound   21 ( 40.4%) | unresolved 0 || X-linked 0 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 18 / 52 (34.6%)
+SENS2 +-100kb all                  N= 663 | instrumented  409 ( 61.7%) | no eQTL data  191 ( 28.8%) [LOWER] | no qualifying instrument  60 ( 9.0%) | upper bound  251 ( 37.9%) | unresolved 3 || X-linked 22 + mitochondrial 2 + Y 0 ; AUTOSOMAL-ONLY lower 167 / 639 (26.1%)
+SENS2 +-100kb launched             N=  55 | instrumented   32 ( 58.2%) | no eQTL data   19 ( 34.5%) [LOWER] | no qualifying instrument   4 ( 7.3%) | upper bound   23 ( 41.8%) | unresolved 0 || X-linked 1 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 18 / 54 (33.3%)
+SENS2 +-500kb all                  N= 663 | instrumented  410 ( 61.8%) | no eQTL data  191 ( 28.8%) [LOWER] | no qualifying instrument  59 ( 8.9%) | upper bound  250 ( 37.7%) | unresolved 3 || X-linked 22 + mitochondrial 2 + Y 0 ; AUTOSOMAL-ONLY lower 167 / 639 (26.1%)
+SENS2 +-500kb launched             N=  55 | instrumented   33 ( 60.0%) | no eQTL data   19 ( 34.5%) [LOWER] | no qualifying instrument   3 ( 5.5%) | upper bound   22 ( 40.0%) | unresolved 0 || X-linked 1 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 18 / 54 (33.3%)
+SENS2 +-1Mb all                    N= 663 | instrumented  410 ( 61.8%) | no eQTL data  191 ( 28.8%) [LOWER] | no qualifying instrument  59 ( 8.9%) | upper bound  250 ( 37.7%) | unresolved 3 || X-linked 22 + mitochondrial 2 + Y 0 ; AUTOSOMAL-ONLY lower 167 / 639 (26.1%)
+SENS2 +-1Mb launched               N=  55 | instrumented   33 ( 60.0%) | no eQTL data   19 ( 34.5%) [LOWER] | no qualifying instrument   3 ( 5.5%) | upper bound   22 ( 40.0%) | unresolved 0 || X-linked 1 + mitochondrial 0 + Y 0 ; AUTOSOMAL-ONLY lower 18 / 54 (33.3%)
+PRIMARY targets that gain an instrument in a wider window: [{'gene': 'IL1B', 'nearest_bp': 119995, 'at': '500kb', 'phase': 'Launched'}]
+largest gene-body distance of any p<5e-8 variant eQTLGen reports for a target: 812919 bp (eQTLGen tests SNPs within 1 Mb of the gene CENTRE, so the +-1 Mb gene-body window is not fully covered)
+
+======================================================================================
+[K08] WHO IS UNINSTRUMENTABLE: TISSUE RESTRICTION, SECRETION, BLOOD EXPRESSION
+======================================================================================
+PRIMARY  NO_EQTL_DATA              vs INSTRUMENTED x tissue_restricted OR   7.47 [ 4.12,  13.55] p=1.02e-15  [[189, 13], [290, 149]]
+PRIMARY  NO_QUALIFYING_INSTRUMENT  vs INSTRUMENTED x tissue_restricted OR   1.39 [ 0.77,   2.51] p=0.317  [[46, 17], [290, 149]]
+PRIMARY  NO_EQTL_DATA              vs INSTRUMENTED x secreted          OR   1.51 [ 1.07,   2.13] p=0.0206  [[83, 123], [136, 304]]
+PRIMARY  NO_QUALIFYING_INSTRUMENT  vs INSTRUMENTED x secreted          OR   0.76 [ 0.42,   1.39] p=0.463  [[16, 47], [136, 304]]
+SENS1    NO_EQTL_DATA              vs INSTRUMENTED x tissue_restricted OR  10.13 [ 4.83,  21.25] p=2.39e-15  [[159, 8], [257, 131]]
+SENS1    NO_QUALIFYING_INSTRUMENT  vs INSTRUMENTED x tissue_restricted OR   1.57 [ 0.83,   2.97] p=0.177  [[43, 14], [257, 131]]
+SENS1    NO_EQTL_DATA              vs INSTRUMENTED x secreted          OR   1.38 [ 0.95,   2.02] p=0.115  [[63, 106], [117, 272]]
+SENS1    NO_QUALIFYING_INSTRUMENT  vs INSTRUMENTED x secreted          OR   0.69 [ 0.36,   1.32] p=0.28  [[13, 44], [117, 272]]
+SENS2    NO_EQTL_DATA              vs INSTRUMENTED x tissue_restricted OR   8.51 [ 4.35,  16.63] p=6.71e-15  [[167, 10], [269, 137]]
+SENS2    NO_QUALIFYING_INSTRUMENT  vs INSTRUMENTED x tissue_restricted OR   1.53 [ 0.82,   2.84] p=0.188  [[45, 15], [269, 137]]
+SENS2    NO_EQTL_DATA              vs INSTRUMENTED x secreted          OR   1.37 [ 0.95,   1.98] p=0.105  [[68, 112], [125, 282]]
+SENS2    NO_QUALIFYING_INSTRUMENT  vs INSTRUMENTED x secreted          OR   0.69 [ 0.36,   1.29] p=0.291  [[14, 46], [125, 282]]
+ALL_2517 NO_EQTL_DATA              vs INSTRUMENTED x tissue_restricted OR   7.01 [ 5.19,   9.45] p=2.21e-52  [[543, 53], [943, 645]]
+ALL_2517 NO_QUALIFYING_INSTRUMENT  vs INSTRUMENTED x tissue_restricted OR   1.40 [ 1.05,   1.88] p=0.0257  [[156, 76], [943, 645]]
+ALL_2517 NO_EQTL_DATA              vs INSTRUMENTED x secreted          OR   1.77 [ 1.45,   2.17] p=3.04e-08  [[223, 399], [381, 1210]]
+ALL_2517 NO_QUALIFYING_INSTRUMENT  vs INSTRUMENTED x secreted          OR   0.79 [ 0.56,   1.11] p=0.184  [[46, 186], [381, 1210]]
+PRIMARY GTEx whole-blood TPM, INSTRUMENTED              n=441 median 5.438 ; %<1 TPM: 26.1
+PRIMARY GTEx whole-blood TPM, NO_EQTL_DATA              n=211 median 0.016 ; %<1 TPM: 92.4
+PRIMARY GTEx whole-blood TPM, NO_QUALIFYING_INSTRUMENT  n= 63 median 0.543 ; %<1 TPM: 57.1
+PRIMARY instrument yield (upper bound) heart_LV        48 / 726 = 6.6%
+PRIMARY instrument yield (upper bound) heart_atrial    47 / 726 = 6.5%
+PRIMARY instrument yield (upper bound) artery_aorta    66 / 726 = 9.1%
+PRIMARY instrument yield (upper bound) liver           32 / 726 = 4.4%
+PRIMARY instrument yield (upper bound) cardiac_union  125 / 726 = 17.2%
+PRIMARY: of 217 no-eQTL-data targets, 28 have a p<5e-8 top cis-eQTL in >=1 of the 4 GTEx tissues (upper bound)
+
+======================================================================================
+[K09] OUTCOME-GWAS FILE ATTRITION (logic of src/a3_cascade.py, re-applied per set)
+======================================================================================
+PRIMARY  pairs  2128 ; indication exact-matches a EUR-only harmonised GWAS:  771 pairs (22 indications) ; file not range-queryable:  404 (52.4%) ; never probed: 8
+SENS1    pairs  1543 ; indication exact-matches a EUR-only harmonised GWAS:  448 pairs (12 indications) ; file not range-queryable:  265 (59.2%) ; never probed: 2
+SENS2    pairs  1879 ; indication exact-matches a EUR-only harmonised GWAS:  667 pairs (20 indications) ; file not range-queryable:  300 (45.0%) ; never probed: 8
+C14ONLY  pairs  1364 ; indication exact-matches a EUR-only harmonised GWAS:  401 pairs (11 indications) ; file not range-queryable:  218 (54.4%) ; never probed: 2
+
+======================================================================================
+[K10] WHY 'NO eQTL DATA': AUTOSOMAL vs SEX-CHROMOSOME / MITOCHONDRIAL GENES
+======================================================================================
+eQTLGen tested genes by chromosome class: {'autosomal': 19123, 'not in GRCh37.87': 127}
+PRIMARY  no eQTL data 217 = autosomal 188 + X/Y/MT  29 [X 27, MT 2, Y 0] (all 29 X/Y/MT targets in the set; blood TPM >= 1: 12 of the X-linked, 2 of the mitochondrial) ; autosomal with blood TPM < 1: 180 of 182 ; autosomal-only lower bound 188 / 697 = 27.0%
+SENS1    no eQTL data 180 = autosomal 157 + X/Y/MT  23 [X 21, MT 2, Y 0] (all 23 X/Y/MT targets in the set; blood TPM >= 1: 8 of the X-linked, 2 of the mitochondrial) ; autosomal with blood TPM < 1: 149 of 151 ; autosomal-only lower bound 157 / 607 = 25.9%
+SENS2    no eQTL data 191 = autosomal 167 + X/Y/MT  24 [X 22, MT 2, Y 0] (all 24 X/Y/MT targets in the set; blood TPM >= 1: 9 of the X-linked, 2 of the mitochondrial) ; autosomal with blood TPM < 1: 159 of 161 ; autosomal-only lower bound 167 / 639 = 26.1%
+C14ONLY  no eQTL data 164 = autosomal 144 + X/Y/MT  20 [X 18, MT 2, Y 0] (all 20 X/Y/MT targets in the set; blood TPM >= 1: 6 of the X-linked, 2 of the mitochondrial) ; autosomal with blood TPM < 1: 137 of 139 ; autosomal-only lower bound 144 / 574 = 25.1%
+ALL_2517 no eQTL data 663 = autosomal 553 + X/Y/MT 110 [X 107, MT 3, Y 0] (all 110 X/Y/MT targets in the set; blood TPM >= 1: 50 of the X-linked, 3 of the mitochondrial) ; autosomal with blood TPM < 1: 528 of 537 ; autosomal-only lower bound 553 / 2407 = 23.0%
+PRIMARY autosomal only: no eQTL data vs instrumented x tissue-restricted OR 12.18 [5.58, 26.62] p=3.17e-17 [[166, 7], [290, 149]]
+
+wrote key_numbers.json
+DONE

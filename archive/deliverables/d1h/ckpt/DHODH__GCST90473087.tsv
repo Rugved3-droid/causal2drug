@@ -1,0 +1,2 @@
+gene	gwas_acc	mesh_term	n_merged_eqtlgen	n_merged_gtex	eqtl_lead_rsid	eqtl_lead_z	gwas_lead_rsid	gwas_lead_z	lead_r2	lead_dist_bp	abf_gap	abf_PP3_eqtlgen	abf_PP4_eqtlgen	susie_PP4_eqtlgen	n_cs_exposure	n_cs_outcome	abf_PP4_gtexblood	gtex_lead_z	n_lead_shared_gtex_eqtlgen	dentist_rmse_eqtlgen	dentist_rmse_gwas	dentist_rmse_gtex	note
+DHODH	GCST90473087	Aspergillosis	173	623	rs3213422	12.79	rs11642506	-1.892	0.0280	65183	5.439	0.0089336	0.0389663		3	0	0.00478262	3.196	0	3.129	0.6696		

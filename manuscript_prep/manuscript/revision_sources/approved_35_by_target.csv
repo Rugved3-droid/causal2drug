@@ -1,0 +1,42 @@
+target,phase_primary,eqtlgen_status,strict_drugs,drugs_with_fda_or_ema_approval_record,drugs_with_cv_term_in_agency_text,approved_fda_or_ema,approved_and_cv_text_confirmed,drugs_with_record,drugs_without_record
+ACE,Launched,INSTRUMENTED,13,11,10,True,True,Benazepril; Captopril; Enalapril; Fosinopril; Lisinopril Anhydrous; Moexipril; Perindopril; Quinapril; Ramipril; Spirapril; Trandolapril,Cilazapril; Imidapril
+ADRB1,Launched,INSTRUMENTED,15,14,12,True,True,Acebutolol; Atenolol; Betaxolol; Bisoprolol; Dobutamine; Dopamine; Esmolol; Landiolol; Metoprolol; Nadolol; Nebivolol; Oxprenolol; Penbutolol; Pindolol,Celiprolol
+ADRB2,Launched,INSTRUMENTED,12,11,9,True,True,Dobutamine; Esmolol; Nadolol; Nebivolol; Oxprenolol; Penbutolol; Pindolol; Propafenone; Propranolol; Sotalol; Timolol,Celiprolol
+AGTR1,Launched,NO_EQTL_DATA,9,9,8,True,True,Angiotensin Ii; Azilsartan Medoxomil; Candesartan Cilexetil; Eprosartan; Irbesartan; Losartan; Olmesartan Medoxomil; Telmisartan; Valsartan,
+ANGPTL3,Launched,NO_EQTL_DATA,1,1,1,True,True,Evinacumab,
+APOB,Launched,NO_EQTL_DATA,1,1,1,True,True,Mipomersen,
+APOC3,Launched,NO_EQTL_DATA,1,1,1,True,True,Volanesorsen,
+AVPR2,Launched,NO_EQTL_DATA,2,2,1,True,True,Conivaptan; Tolvaptan,
+F10,Launched,INSTRUMENTED,4,4,3,True,True,Apixaban; Betrixaban; Edoxaban; Rivaroxaban,
+F2,Launched,NO_EQTL_DATA,6,5,5,True,True,Argatroban; Bivalirudin; Dabigatran Etexilate; Desirudin; Lepirudin,Ximelagatran
+F2R,Launched,INSTRUMENTED,1,1,1,True,True,Vorapaxar,
+HMGCR,Launched,INSTRUMENTED,8,8,7,True,True,Atorvastatin; Cerivastatin; Fluvastatin; Lovastatin; Pitavastatin; Pravastatin; Rosuvastatin; Simvastatin,
+IL1B,Launched,NO_QUALIFYING_INSTRUMENT,1,1,1,True,True,Rilonacept,
+ITGA2B,Launched,NO_QUALIFYING_INSTRUMENT,3,3,3,True,True,Abciximab; Eptifibatide; Tirofiban,
+ITGAV,Launched,INSTRUMENTED,1,1,1,True,True,Abciximab,
+ITGB3,Launched,INSTRUMENTED,3,3,3,True,True,Abciximab; Eptifibatide; Tirofiban,
+KCNH2,Launched,INSTRUMENTED,5,5,5,True,True,Amiodarone; Dofetilide; Ibutilide; Sotalol; Vernakalant,
+MS4A1,Launched,INSTRUMENTED,1,1,1,True,True,Rituximab,
+MTOR,Launched,INSTRUMENTED,1,0,0,False,False,,Perhexiline
+NPC1L1,Launched,NO_QUALIFYING_INSTRUMENT,1,1,1,True,True,Ezetimibe,
+NR3C1,Launched,INSTRUMENTED,4,4,3,True,True,Dexamethasone; Dexamethasone Phosphoric Acid; Prednisolone; Prednisone,
+PCSK9,Launched,NO_EQTL_DATA,3,3,2,True,True,Alirocumab; Evolocumab; Inclisiran Sodium,
+PDE5A,Launched,INSTRUMENTED,2,2,2,True,True,Sildenafil; Tadalafil,
+PLAT,Launched,INSTRUMENTED,3,3,2,True,True,Alteplase; Reteplase; Tenecteplase,
+PLAU,Launched,INSTRUMENTED,1,1,1,True,True,Urokinase,
+PLG,Launched,NO_EQTL_DATA,2,0,0,False,False,,Anistreplase; Streptokinase
+PPARA,Launched,INSTRUMENTED,6,4,3,True,True,Clofibrate; Fenofibrate; Fenofibric Acid; Gemfibrozil,Ciprofibrate; Pemafibrate
+PTGER2,Launched,INSTRUMENTED,1,1,1,True,True,Alprostadil,
+PTGIR,Launched,INSTRUMENTED,4,4,4,True,True,Epoprostenol; Iloprost; Selexipag; Treprostinil,
+REN,Launched,NO_EQTL_DATA,1,1,1,True,True,Aliskiren,
+SCN5A,Launched,INSTRUMENTED,4,3,3,True,True,Flecainide; Ranolazine; Vernakalant,Prenylamine
+SERPINC1,Launched,INSTRUMENTED,7,7,5,True,True,Dalteparin Sodium; Danaparoid Sodium; Enoxaparin Sodium; Fondaparinux; Heparin; Heparin Sodium; Tinzaparin Sodium,
+SLC12A1,Launched,INSTRUMENTED,4,4,4,True,True,Bumetanide; Ethacrynic Acid; Furosemide; Torsemide,
+SLC5A1,Launched,NO_EQTL_DATA,1,1,1,True,True,Sotagliflozin,
+SLC5A2,Launched,INSTRUMENTED,3,3,3,True,True,Dapagliflozin; Empagliflozin; Sotagliflozin,
+ADORA2A,Phase III,INSTRUMENTED,1,1,1,True,True,Regadenoson Anhydrous,
+AVPR1A,Phase III,NO_EQTL_DATA,1,1,0,True,False,Conivaptan,
+DPP4,Phase III,INSTRUMENTED,1,1,0,True,False,Sitagliptin,
+HCN4,Phase III,NO_EQTL_DATA,2,2,2,True,True,Dronedarone; Ivabradine,
+PDE3A,Phase III,NO_QUALIFYING_INSTRUMENT,3,3,2,True,True,Cilostazol; Inamrinone; Milrinone,
+SLC6A2,Phase III,NO_EQTL_DATA,6,5,1,True,True,Bethanidine; Bretylium; Dextroamphetamine; Guanethidine; Lisdexamfetamine,Debrisoquin

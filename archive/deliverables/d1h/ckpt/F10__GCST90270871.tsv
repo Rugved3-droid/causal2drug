@@ -1,0 +1,2 @@
+gene	gwas_acc	mesh_term	n_merged_eqtlgen	n_merged_gtex	eqtl_lead_rsid	eqtl_lead_z	gwas_lead_rsid	gwas_lead_z	lead_r2	lead_dist_bp	abf_gap	abf_PP3_eqtlgen	abf_PP4_eqtlgen	susie_PP4_eqtlgen	n_cs_exposure	n_cs_outcome	abf_PP4_gtexblood	gtex_lead_z	n_lead_shared_gtex_eqtlgen	dentist_rmse_eqtlgen	dentist_rmse_gwas	dentist_rmse_gtex	note
+F10	GCST90270871	Sepsis	122		rs7335409	-7.214	rs2480948	-1.637	0.7904	7351	4.787	0.0018191	0.0152993	0.0903828	1	2				1.363	0.2559		gtex_too_few:0

@@ -1,0 +1,864 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 8
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "TA",
+          "submission_status_date": "20210517",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "67807",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/205744Orig1s000TA_ltr.pdf",
+              "date": "20210615",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA205744",
+      "sponsor_name": "SANDOZ INC",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DRONEDARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "DRONEDARONE HYDROCHLORIDE",
+              "strength": "400MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "TA",
+          "submission_status_date": "20170512",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "48654",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/206649Orig1s000TAltr.pdf",
+              "date": "20170606",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA206649",
+      "sponsor_name": "AMNEAL PHARMS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DRONEDARONE",
+          "active_ingredients": [
+            {
+              "name": "DRONEDARONE",
+              "strength": "400MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "TA",
+          "submission_status_date": "20151231",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "10526",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/205895Orig1s000TAltr.pdf",
+              "date": "20160106",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA205895",
+      "sponsor_name": "ALKEM LABS LTD",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DRONEDARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "DRONEDARONE HYDROCHLORIDE",
+              "strength": "400MG"
+            }
+          ],
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "TA",
+          "submission_status_date": "20151231",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA205903",
+      "sponsor_name": "GLENMARK GENERICS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DRONEDARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "DRONEDARONE HYDROCHLORIDE",
+              "strength": "400MG"
+            }
+          ],
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240131",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "77486",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/205904Orig1s000ltr.pdf",
+              "date": "20240214",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA205904",
+      "sponsor_name": "LUPIN",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DRONEDARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "DRONEDARONE HYDROCHLORIDE",
+              "strength": "EQ 400MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20231023",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "75903",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/022425Orig1s028, s030ltr.pdf",
+              "date": "20231024",
+              "type": "Letter"
+            },
+            {
+              "id": "75921",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2023/022425s028s030lbl.pdf",
+              "date": "20231025",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20110311",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "29715",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022425s007ltr.pdf",
+              "date": "20110314",
+              "type": "Letter"
+            },
+            {
+              "id": "38695",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022425s007lbl.pdf",
+              "date": "20110311",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20140319",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20120907",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "38698",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/022425s016s017s018lbl.pdf",
+              "date": "20120911",
+              "type": "Label"
+            },
+            {
+              "id": "29719",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/022425Orig1s016,s017,s018ltr.pdf",
+              "date": "20120910",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20110211",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "29714",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022425s005ltr.pdf",
+              "date": "20110215",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20140319",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20120907",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "7373",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/022425Orig1s016,s017,s018ltr.pdf",
+              "date": "20120910",
+              "type": "Letter"
+            },
+            {
+              "id": "17574",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/022425s016s017s018lbl.pdf",
+              "date": "20120911",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20231023",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "75902",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/022425Orig1s028, s030ltr.pdf",
+              "date": "20231024",
+              "type": "Letter"
+            },
+            {
+              "id": "75922",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2023/022425s028s030lbl.pdf",
+              "date": "20231025",
+              "type": "Label"
+            },
+            {
+              "id": "75923",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/022425s028s030lbl.pdf#page=24",
+              "date": "20231025",
+              "type": "Medication Guide"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20140319",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "application_docs": [
+            {
+              "id": "7375",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/022425Orig1s022ltr.pdf",
+              "date": "20140320",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20110211",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "38693",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022425s001lbl.pdf",
+              "date": "20110224",
+              "type": "Label"
+            },
+            {
+              "id": "29711",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022425s001ltr.pdf",
+              "date": "20110215",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20120613",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "application_docs": [
+            {
+              "id": "17573",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/022425s014lbl.pdf",
+              "date": "20120618",
+              "type": "Label"
+            },
+            {
+              "id": "29717",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/022425s014ltr.pdf",
+              "date": "20120615",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20110822",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "38696",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022425s012lbl.pdf",
+              "date": "20110907",
+              "type": "Label"
+            },
+            {
+              "id": "7372",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022425s012ltr.pdf",
+              "date": "20110906",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20110621",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "7371",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022425s010ltr.pdf",
+              "date": "20110627",
+              "type": "Letter"
+            },
+            {
+              "id": "17571",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022425s010lbl.pdf",
+              "date": "20110629",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20090701",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "38692",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/022425lbl.pdf",
+              "date": "20090706",
+              "type": "Label"
+            },
+            {
+              "id": "44752",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2009/022425s000_SumR.pdf",
+              "date": "20090820",
+              "type": "Summary Review"
+            },
+            {
+              "id": "22017",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2009/022425s000TOC.html",
+              "date": "20090820",
+              "type": "Review"
+            },
+            {
+              "id": "29710",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/022425s000ltr.pdf",
+              "date": "20090730",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "20201116",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "65251",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/022425Orig1s029ltr.pdf",
+              "date": "20201117",
+              "type": "Letter"
+            },
+            {
+              "id": "65269",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/022425s029lbl.pdf",
+              "date": "20201118",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20160212",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "application_docs": [
+            {
+              "id": "7378",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/022425Orig1s027ltr.pdf",
+              "date": "20160216",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20110805",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "application_docs": [
+            {
+              "id": "7370",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022425s006ltr.pdf",
+              "date": "20110811",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20140331",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "7377",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/022425Orig1s025ltr.pdf",
+              "date": "20140403",
+              "type": "Letter"
+            },
+            {
+              "id": "17576",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/022425s025lbl.pdf",
+              "date": "20140623",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20120907",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "application_docs": [
+            {
+              "id": "38697",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/022425s016s017s018lbl.pdf",
+              "date": "20120911",
+              "type": "Label"
+            },
+            {
+              "id": "29718",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/022425Orig1s016,s017,s018ltr.pdf",
+              "date": "20120910",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20110131",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "17570",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022425s004lbl.pdf",
+              "date": "20110131",
+              "type": "Label"
+            },
+            {
+              "id": "29713",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022425s004ltr.pdf",
+              "date": "20110204",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20140130",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "7376",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/022425Orig1s023ltr.pdf",
+              "date": "20140204",
+              "type": "Letter"
+            },
+            {
+              "id": "38699",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/022425s023lbl.pdf",
+              "date": "20140131",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20120125",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "38694",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/022425s002lbl.pdf",
+              "date": "20120131",
+              "type": "Label"
+            },
+            {
+              "id": "29712",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/022425s002ltr.pdf",
+              "date": "20120130",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20130327",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "7374",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/022425Orig1s021ltr.pdf",
+              "date": "20130329",
+              "type": "Letter"
+            },
+            {
+              "id": "17575",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/022425s021lbl.pdf",
+              "date": "20130401",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20111219",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "17572",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022425s013lbl.pdf",
+              "date": "20111219",
+              "type": "Label"
+            },
+            {
+              "id": "29716",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022425s013ltr.pdf",
+              "date": "20111221",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA022425",
+      "sponsor_name": "SANOFI AVENTIS US",
+      "openfda": {
+        "application_number": [
+          "NDA022425"
+        ],
+        "brand_name": [
+          "MULTAQ"
+        ],
+        "generic_name": [
+          "DRONEDARONE"
+        ],
+        "manufacturer_name": [
+          "Sanofi-Aventis U.S. LLC"
+        ],
+        "product_ndc": [
+          "0024-4142"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DRONEDARONE"
+        ],
+        "rxcui": [
+          "854856",
+          "854859"
+        ],
+        "spl_id": [
+          "badf58f9-01fe-4900-be06-784029a72151"
+        ],
+        "spl_set_id": [
+          "7fa41601-7fb5-4155-8e50-2ae903f0d2d6"
+        ],
+        "package_ndc": [
+          "0024-4142-60",
+          "0024-4142-50",
+          "0024-4142-10",
+          "0024-4142-00",
+          "0024-4142-06"
+        ],
+        "nui": [
+          "N0000175426"
+        ],
+        "pharm_class_epc": [
+          "Antiarrhythmic [EPC]"
+        ],
+        "unii": [
+          "JQZ1L091Y2"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "MULTAQ",
+          "active_ingredients": [
+            {
+              "name": "DRONEDARONE HYDROCHLORIDE",
+              "strength": "EQ 400MG BASE"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "TA",
+          "submission_status_date": "20230427",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "74152",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/210678Orig1s000TA_ltr.pdf",
+              "date": "20230502",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA210678",
+      "sponsor_name": "AUROBINDO PHARMA LTD",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DRONEDARONE",
+          "active_ingredients": [
+            {
+              "name": "DRONEDARONE",
+              "strength": "400MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "TA",
+          "submission_status_date": "20151231",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA205682",
+      "sponsor_name": "WATSON LABS INC",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DRONEDARONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "DRONEDARONE HYDROCHLORIDE",
+              "strength": "400MG"
+            }
+          ],
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        }
+      ]
+    }
+  ]
+}

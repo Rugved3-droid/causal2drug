@@ -1,0 +1,25 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+ABAT	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	DOWN	10									0							no_overlap_after_harmonization
+ABL1	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	DOWN	1									0							no_overlap_after_harmonization
+ACVR2B	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	UP	4									0							no_overlap_after_harmonization
+C3	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	DOWN	2									0							no_overlap_after_harmonization
+C5	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	DOWN	15									0							no_overlap_after_harmonization
+C5AR1	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	DOWN	2									0							no_overlap_after_harmonization
+CCR5	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	DOWN	2									0							no_overlap_after_harmonization
+CD38	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	DOWN	1									0							no_overlap_after_harmonization
+CPT2	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	DOWN	2									0							no_overlap_after_harmonization
+CSF1R	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	DOWN	6									0							no_overlap_after_harmonization
+CSF3R	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	UP	2									0							no_overlap_after_harmonization
+INSR	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	UP	4									0							no_overlap_after_harmonization
+LYN	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	DOWN	2									0							no_overlap_after_harmonization
+MAP2K1	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	DOWN	1									0							no_overlap_after_harmonization
+MAP2K2	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	DOWN	2									0							no_overlap_after_harmonization
+MTOR	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	DOWN	4									0							no_overlap_after_harmonization
+NFE2L2	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	UP	2									0							no_overlap_after_harmonization
+PIK3CA	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	DOWN	1									0							no_overlap_after_harmonization
+PPARG	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	UP	4									0							no_overlap_after_harmonization
+SCN5A	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	DOWN	2									0							no_overlap_after_harmonization
+TNF	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	DOWN	3									0							no_overlap_after_harmonization
+TRPV1	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	UP	1									0							no_overlap_after_harmonization
+VEGFA	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	DOWN	5									0							no_overlap_after_harmonization
+XPO1	D000690	Amyotrophic Lateral Sclerosis	GCST90476927	DOWN	1									0							no_overlap_after_harmonization

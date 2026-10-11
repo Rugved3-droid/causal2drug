@@ -1,0 +1,1499 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 15
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20230525",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20151208",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA206127",
+      "sponsor_name": "EUGIA PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA206127"
+        ],
+        "brand_name": [
+          "EPTIFIBATIDE"
+        ],
+        "generic_name": [
+          "EPTIFIBATIDE"
+        ],
+        "manufacturer_name": [
+          "Eugia US LLC"
+        ],
+        "product_ndc": [
+          "55150-218",
+          "55150-219",
+          "55150-220"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "EPTIFIBATIDE"
+        ],
+        "rxcui": [
+          "200349",
+          "1736470",
+          "1736477"
+        ],
+        "spl_id": [
+          "944b269c-d810-411d-9ed4-8edd9d0ac1b7"
+        ],
+        "spl_set_id": [
+          "00ad7bbe-cadd-4647-b74b-adfc9f2b5e94"
+        ],
+        "package_ndc": [
+          "55150-218-99",
+          "55150-219-10",
+          "55150-220-99"
+        ],
+        "nui": [
+          "N0000008832",
+          "N0000175578"
+        ],
+        "pharm_class_pe": [
+          "Decreased Platelet Aggregation [PE]"
+        ],
+        "pharm_class_epc": [
+          "Platelet Aggregation Inhibitor [EPC]"
+        ],
+        "unii": [
+          "NA8320J834"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "75MG/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "2MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170418",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA204589",
+      "sponsor_name": "RISING",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "75MG/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "2MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190125",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20241119",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA209864",
+      "sponsor_name": "HAINAN POLY",
+      "openfda": {
+        "application_number": [
+          "ANDA209864"
+        ],
+        "brand_name": [
+          "EPTIFIBATIDE"
+        ],
+        "generic_name": [
+          "EPTIFIBATIDE"
+        ],
+        "manufacturer_name": [
+          "Slate Run Pharmaceuticals, LLC"
+        ],
+        "product_ndc": [
+          "70436-026",
+          "70436-027",
+          "70436-162",
+          "70436-163"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "EPTIFIBATIDE"
+        ],
+        "rxcui": [
+          "200349",
+          "1736470"
+        ],
+        "spl_id": [
+          "4a613f2d-85b3-d45c-e063-6294a90adb93",
+          "4a614df8-4e1d-d610-e063-6294a90a7d7c"
+        ],
+        "spl_set_id": [
+          "da421d88-6c00-428a-82a6-b3b4f7a68b85",
+          "2ab98ecd-c578-4032-a3d5-ae14d58d86a7"
+        ],
+        "package_ndc": [
+          "70436-026-80",
+          "70436-027-80",
+          "70436-162-80",
+          "70436-163-80"
+        ],
+        "nui": [
+          "N0000008832",
+          "N0000175578"
+        ],
+        "pharm_class_pe": [
+          "Decreased Platelet Aggregation [PE]"
+        ],
+        "pharm_class_epc": [
+          "Platelet Aggregation Inhibitor [EPC]"
+        ],
+        "unii": [
+          "NA8320J834"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "75MG/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "2MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20181123",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20250115",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA208554",
+      "sponsor_name": "BAXTER HLTHCARE CORP",
+      "openfda": {
+        "application_number": [
+          "ANDA208554"
+        ],
+        "brand_name": [
+          "EPTIFIBATIDE"
+        ],
+        "generic_name": [
+          "EPTIFIBATIDE"
+        ],
+        "manufacturer_name": [
+          "Baxter Healthcare Company"
+        ],
+        "product_ndc": [
+          "0338-9558"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "EPTIFIBATIDE"
+        ],
+        "rxcui": [
+          "200349"
+        ],
+        "spl_id": [
+          "a90f397a-95b8-421c-9e34-b327671f97a3"
+        ],
+        "spl_set_id": [
+          "5f46b76b-5c83-49b9-ada8-4ad5cf81a38c"
+        ],
+        "package_ndc": [
+          "0338-9558-10"
+        ],
+        "nui": [
+          "N0000008832",
+          "N0000175578"
+        ],
+        "pharm_class_pe": [
+          "Decreased Platelet Aggregation [PE]"
+        ],
+        "pharm_class_epc": [
+          "Platelet Aggregation Inhibitor [EPC]"
+        ],
+        "unii": [
+          "NA8320J834"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "75MG/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "2MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250325",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180307",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA204693",
+      "sponsor_name": "SAGENT PHARMS INC",
+      "openfda": {
+        "application_number": [
+          "ANDA204693"
+        ],
+        "brand_name": [
+          "EPTIFIBATIDE"
+        ],
+        "generic_name": [
+          "EPTIFIBATIDE"
+        ],
+        "manufacturer_name": [
+          "Sagent Pharmaceuticals"
+        ],
+        "product_ndc": [
+          "25021-408",
+          "25021-409"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "EPTIFIBATIDE"
+        ],
+        "rxcui": [
+          "200349",
+          "1736470"
+        ],
+        "spl_id": [
+          "7e4a3720-9c2e-4fb7-b703-f896f7fd0686"
+        ],
+        "spl_set_id": [
+          "a0d18778-0194-461a-a4ea-b2fca5df57c3"
+        ],
+        "package_ndc": [
+          "25021-408-51",
+          "25021-409-10"
+        ],
+        "nui": [
+          "N0000008832",
+          "N0000175578"
+        ],
+        "pharm_class_pe": [
+          "Decreased Platelet Aggregation [PE]"
+        ],
+        "pharm_class_epc": [
+          "Platelet Aggregation Inhibitor [EPC]"
+        ],
+        "unii": [
+          "NA8320J834"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "2MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "75MG/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220420",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20210907",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213081",
+      "sponsor_name": "QUAGEN",
+      "openfda": {
+        "application_number": [
+          "ANDA213081"
+        ],
+        "brand_name": [
+          "EPTIFIBATIDE"
+        ],
+        "generic_name": [
+          "EPTIFIBATIDE"
+        ],
+        "manufacturer_name": [
+          "Hainan Shuangcheng Pharmaceuticals Co., Ltd."
+        ],
+        "product_ndc": [
+          "52958-040",
+          "52958-402"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "EPTIFIBATIDE"
+        ],
+        "rxcui": [
+          "200349",
+          "1736470"
+        ],
+        "spl_id": [
+          "6f3dec26-ea9b-4e6e-8e5b-0fa6fb430598"
+        ],
+        "spl_set_id": [
+          "c488f1af-a82c-4360-8886-79520635561a"
+        ],
+        "package_ndc": [
+          "52958-402-01",
+          "52958-040-01"
+        ],
+        "nui": [
+          "N0000008832",
+          "N0000175578"
+        ],
+        "pharm_class_pe": [
+          "Decreased Platelet Aggregation [PE]"
+        ],
+        "pharm_class_epc": [
+          "Platelet Aggregation Inhibitor [EPC]"
+        ],
+        "unii": [
+          "NA8320J834"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "75MG/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "2MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190314",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA204361",
+      "sponsor_name": "USV",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "2MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "75MG/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190311",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA204362",
+      "sponsor_name": "USV",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "2MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200320",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA207864",
+      "sponsor_name": "HYBIO",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "2MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "75MG/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20171106",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20250613",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA205557",
+      "sponsor_name": "ACCORD HLTHCARE",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "75MG/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "2MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180720",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20230223",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA203258",
+      "sponsor_name": "MYLAN LABS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA203258"
+        ],
+        "brand_name": [
+          "EPTIFIBATIDE"
+        ],
+        "generic_name": [
+          "EPTIFIBATIDE"
+        ],
+        "manufacturer_name": [
+          "Mylan Institutional LLC"
+        ],
+        "product_ndc": [
+          "67457-629",
+          "67457-631",
+          "67457-630",
+          "72078-025",
+          "72078-026",
+          "72078-027"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "EPTIFIBATIDE"
+        ],
+        "rxcui": [
+          "200349",
+          "1736470",
+          "1736477"
+        ],
+        "spl_id": [
+          "e966c894-560e-4805-bdd5-16e153bb4687",
+          "7af20acf-ba9f-4387-9729-85d3c137f41e"
+        ],
+        "spl_set_id": [
+          "88a37f9c-496b-4a6b-9665-4550abba04f1",
+          "a7a89c59-22fb-41fd-b70a-ac2395717db1"
+        ],
+        "package_ndc": [
+          "67457-629-10",
+          "67457-631-10",
+          "67457-630-10",
+          "72078-025-10",
+          "72078-026-10",
+          "72078-027-10"
+        ],
+        "nui": [
+          "N0000008832",
+          "N0000175578"
+        ],
+        "pharm_class_pe": [
+          "Decreased Platelet Aggregation [PE]"
+        ],
+        "pharm_class_epc": [
+          "Platelet Aggregation Inhibitor [EPC]"
+        ],
+        "unii": [
+          "NA8320J834"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "75MG/100ML"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "2MG/ML"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19990721",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19980911",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20081215",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "25629",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/020718s028ltr.pdf",
+              "date": "20081219",
+              "type": "Letter"
+            },
+            {
+              "id": "35223",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/020718s028lbl.pdf",
+              "date": "20090102",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "34",
+          "submission_status": "AP",
+          "submission_status_date": "20110330",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "35224",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020718s034lbl.pdf",
+              "date": "20110401",
+              "type": "Label"
+            },
+            {
+              "id": "3200",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/020718s034ltr.pdf",
+              "date": "20110404",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20020214",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20040715",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3198",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/20718s022ltr.pdf",
+              "date": "20040721",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20000626",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20010726",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19991203",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19990721",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20010608",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "35219",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2001/20718s010s013lbl.pdf",
+              "date": "20010608",
+              "type": "Label"
+            },
+            {
+              "id": "20877",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/20-718_Integrilin.html",
+              "date": "20010608",
+              "type": "Review"
+            },
+            {
+              "id": "25628",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/20718S10S13ltr.pdf",
+              "date": "20010608",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19990920",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41613",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20718S002_Integrilin.html",
+              "date": "19990920",
+              "type": "Review"
+            },
+            {
+              "id": "25627",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1999/20718s02ltr.pdf",
+              "date": "19990920",
+              "type": "Letter"
+            },
+            {
+              "id": "35218",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/1999/20718s02lbl.pdf",
+              "date": "19990920",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "39",
+          "submission_status": "AP",
+          "submission_status_date": "20210228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "66418",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/020718s039lbl.pdf",
+              "date": "20210301",
+              "type": "Label"
+            },
+            {
+              "id": "66440",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/020718Orig1s039ltr.pdf",
+              "date": "20210302",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "20130325",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3201",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/020718Orig1s037ltr.pdf",
+              "date": "20130326",
+              "type": "Letter"
+            },
+            {
+              "id": "35225",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/020718s037lbl.pdf",
+              "date": "20130325",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20051012",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3199",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/020718s025ltr.pdf",
+              "date": "20051014",
+              "type": "Letter"
+            },
+            {
+              "id": "35222",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/020718s025lbl.pdf",
+              "date": "20051014",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20030616",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "3197",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20718se8-017ltr.pdf",
+              "date": "20030622",
+              "type": "Letter"
+            },
+            {
+              "id": "35221",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2003/20718se8-017_integrilin_lbl.pdf",
+              "date": "20030622",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20000531",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20020110",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20000303",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20010608",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20878",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/20-718_Integrilin.html",
+              "date": "20010608",
+              "type": "Review"
+            },
+            {
+              "id": "3196",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/20718S10S13ltr.pdf",
+              "date": "20010608",
+              "type": "Letter"
+            },
+            {
+              "id": "35220",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2001/20718s010s013lbl.pdf",
+              "date": "20010608",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19990416",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19980518",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "35217",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/1998/20718lbl.pdf",
+              "date": "19980518",
+              "type": "Label"
+            },
+            {
+              "id": "20876",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20718_Integrilin.html",
+              "date": "19980518",
+              "type": "Review"
+            },
+            {
+              "id": "3195",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1998/20718ltr.pdf",
+              "date": "19980518",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20010703",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA020718",
+      "sponsor_name": "MSD SUB MERCK",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "INTEGRILIN",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "75MG/100ML **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "INTEGRILIN",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "2MG/ML **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150612"
+        }
+      ],
+      "application_number": "ANDA090854",
+      "sponsor_name": "TEVA PHARMS USA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "2MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150605"
+        }
+      ],
+      "application_number": "ANDA091555",
+      "sponsor_name": "TEVA PHARMS USA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "75MG/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240509",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213599",
+      "sponsor_name": "MEITHEAL",
+      "openfda": {
+        "application_number": [
+          "ANDA213599"
+        ],
+        "brand_name": [
+          "EPTIFIBATIDE"
+        ],
+        "generic_name": [
+          "EPTIFIBATIDE"
+        ],
+        "manufacturer_name": [
+          "Meitheal Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "71288-412",
+          "71288-413"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "EPTIFIBATIDE"
+        ],
+        "rxcui": [
+          "200349",
+          "1736470"
+        ],
+        "spl_id": [
+          "a15dafa6-7923-4999-8938-28e580304e57"
+        ],
+        "spl_set_id": [
+          "3e7e7cd3-8efa-4d91-a5ab-7fd78b0cc65e"
+        ],
+        "package_ndc": [
+          "71288-412-10",
+          "71288-413-51"
+        ],
+        "nui": [
+          "N0000008832",
+          "N0000175578"
+        ],
+        "pharm_class_pe": [
+          "Decreased Platelet Aggregation [PE]"
+        ],
+        "pharm_class_epc": [
+          "Platelet Aggregation Inhibitor [EPC]"
+        ],
+        "unii": [
+          "NA8320J834"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "2MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EPTIFIBATIDE",
+          "active_ingredients": [
+            {
+              "name": "EPTIFIBATIDE",
+              "strength": "75MG/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    }
+  ]
+}

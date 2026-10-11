@@ -1,0 +1,2155 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 15
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "19980420",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "19971126",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "19980213",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19960617",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19951024",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19950512",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19950905",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19930823",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "19980107",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "19971001",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "19970909",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41152",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/97/020136ap_s08_s09.pdf",
+              "date": "19971009",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19951101",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19951115",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19950809",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "21201",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/18735slr044and20137slr002LTR.pdf",
+              "date": "20020620",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020137",
+      "sponsor_name": "ROCHE",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "DEMADEX",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "20MG/2ML (10MG/ML) **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "DEMADEX",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "50MG/5ML (10MG/ML) **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20130506",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20080410",
+          "submission_class_code": "S",
+          "submission_class_code_description": "Supplement",
+          "application_docs": [
+            {
+              "id": "22595",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2008/076894_S004_TORSEMIDE TABS.pdf",
+              "date": "20080718",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20071107",
+          "submission_class_code": "S",
+          "submission_class_code_description": "Supplement",
+          "application_docs": [
+            {
+              "id": "43113",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/076894_S002_TORSEMIDE TABS.pdf",
+              "date": "20080730",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20050531",
+          "application_docs": [
+            {
+              "id": "43111",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/076894_ORIGINAL APPROVAL_PACKAGE.pdf",
+              "date": "20080731",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20100928",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20080509",
+          "submission_class_code": "S",
+          "submission_class_code_description": "Supplement",
+          "application_docs": [
+            {
+              "id": "22594",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2008/076894_S003_TORSEMIDE TABS.pdf",
+              "date": "20080718",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20071003",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "43112",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/076894_S001_TORSEMIDE TABS.pdf",
+              "date": "20080730",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA076894",
+      "sponsor_name": "COREPHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA076894"
+        ],
+        "brand_name": [
+          "TORSEMIDE"
+        ],
+        "generic_name": [
+          "TORSEMIDE"
+        ],
+        "manufacturer_name": [
+          "Chartwell RX, LLC",
+          "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "62135-818",
+          "62135-819",
+          "62135-820",
+          "62135-821",
+          "23155-871",
+          "23155-872",
+          "23155-873",
+          "23155-874"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TORSEMIDE"
+        ],
+        "rxcui": [
+          "198369",
+          "198370",
+          "198371",
+          "198372"
+        ],
+        "spl_id": [
+          "459f249e-79f0-77db-e063-6294a90afda0",
+          "98d688f8-ec71-4b98-86b8-d405bdffc4c3"
+        ],
+        "spl_set_id": [
+          "a3d68763-95e0-4ad6-89c2-c4b1c0b43948",
+          "03fbbb85-4e0f-4f3b-b4b0-87f84cb33d47"
+        ],
+        "package_ndc": [
+          "62135-818-90",
+          "62135-819-90",
+          "62135-820-90",
+          "62135-821-90",
+          "23155-871-01",
+          "23155-871-05",
+          "23155-871-10",
+          "23155-872-01",
+          "23155-872-05",
+          "23155-872-10",
+          "23155-873-01",
+          "23155-873-05",
+          "23155-873-10",
+          "23155-874-01",
+          "23155-874-05",
+          "23155-874-10"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "W31X2H97FB"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20121107",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20110322"
+        }
+      ],
+      "application_number": "ANDA090613",
+      "sponsor_name": "STRIDES PHARMA INTL",
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20200504",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20030530"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20041019",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20110921",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20041019",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20040505",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20121212",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076346",
+      "sponsor_name": "PLIVA PHARM IND",
+      "openfda": {
+        "application_number": [
+          "ANDA076346"
+        ],
+        "brand_name": [
+          "TORSEMIDE"
+        ],
+        "generic_name": [
+          "TORSEMIDE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "50111-915",
+          "50111-916",
+          "50111-917",
+          "50111-918"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TORSEMIDE"
+        ],
+        "rxcui": [
+          "198369",
+          "198370",
+          "198371",
+          "198372"
+        ],
+        "spl_id": [
+          "4ff14943-97b8-4b1c-8600-95c1e3540008"
+        ],
+        "spl_set_id": [
+          "8a95cbdb-0601-47a5-9b3a-0c3b0629ceb9"
+        ],
+        "package_ndc": [
+          "50111-915-01",
+          "50111-916-01",
+          "50111-917-01",
+          "50111-917-03",
+          "50111-918-01"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "W31X2H97FB"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20120926",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20050301",
+          "application_docs": [
+            {
+              "id": "22597",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/076943_ORIGINAL APPROVAL_PACKAGE.pdf",
+              "date": "20080731",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20230721",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076943",
+      "sponsor_name": "HIKMA PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA076943"
+        ],
+        "brand_name": [
+          "TORSEMIDE"
+        ],
+        "generic_name": [
+          "TORSEMIDE"
+        ],
+        "manufacturer_name": [
+          "Hikma Pharmaceuticals USA Inc."
+        ],
+        "product_ndc": [
+          "0054-0077"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TORSEMIDE"
+        ],
+        "rxcui": [
+          "198371"
+        ],
+        "spl_id": [
+          "978f435d-eae6-49b7-80cd-6c951abce99f"
+        ],
+        "spl_set_id": [
+          "fde1d1be-0faa-440a-9039-bdb103288c76"
+        ],
+        "package_ndc": [
+          "0054-0077-25",
+          "0054-0077-29"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "W31X2H97FB"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20100928",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20080226"
+        }
+      ],
+      "application_number": "ANDA078478",
+      "sponsor_name": "SUN PHARM INDS",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20120918",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20110922",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20071017"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20200504",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20120930",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA078249",
+      "sponsor_name": "AUROBINDO PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA078249"
+        ],
+        "brand_name": [
+          "TORSEMIDE"
+        ],
+        "generic_name": [
+          "TORSEMIDE"
+        ],
+        "manufacturer_name": [
+          "Rising Pharma Holdings, Inc.",
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "57237-138",
+          "57237-139",
+          "57237-140",
+          "57237-141",
+          "65862-125",
+          "65862-126",
+          "65862-127",
+          "65862-128"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TORSEMIDE"
+        ],
+        "rxcui": [
+          "198369",
+          "198370",
+          "198371",
+          "198372"
+        ],
+        "spl_id": [
+          "e5f7dcb0-8cfe-4318-a407-72f1c47e0680",
+          "e1cdbb1e-4104-41ee-86af-84fc73d761ba"
+        ],
+        "spl_set_id": [
+          "3c8f1c0b-8a44-4ca0-b2cf-3c591f8878fd",
+          "55e88727-864e-4313-860c-31a6ca45168f"
+        ],
+        "package_ndc": [
+          "57237-138-01",
+          "57237-139-01",
+          "57237-140-01",
+          "57237-141-01",
+          "65862-125-01",
+          "65862-125-99",
+          "65862-126-01",
+          "65862-126-99",
+          "65862-127-01",
+          "65862-127-99",
+          "65862-128-01",
+          "65862-128-99"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "W31X2H97FB"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20100421"
+        }
+      ],
+      "application_number": "ANDA090656",
+      "sponsor_name": "AM REGENT",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "20MG/2ML (10MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "50MG/5ML (10MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20050616",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20030527"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20240816",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076226",
+      "sponsor_name": "STRIDES PHARMA INTL",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20260501",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA217239",
+      "sponsor_name": "MICRO LABS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20080611"
+        }
+      ],
+      "application_number": "ANDA078007",
+      "sponsor_name": "HIKMA",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "50MG/5ML (10MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "20MG/2ML (10MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20090127"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20130107",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20120926",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA079234",
+      "sponsor_name": "HETERO LABS LTD III",
+      "openfda": {
+        "application_number": [
+          "ANDA079234"
+        ],
+        "brand_name": [
+          "TORSEMIDE"
+        ],
+        "generic_name": [
+          "TORSEMIDE"
+        ],
+        "manufacturer_name": [
+          "Camber Pharmaceuticals, Inc.",
+          "XLCare Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "31722-529",
+          "31722-530",
+          "31722-531",
+          "31722-532",
+          "72865-258",
+          "72865-259",
+          "72865-260",
+          "72865-261"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TORSEMIDE"
+        ],
+        "rxcui": [
+          "198369",
+          "198370",
+          "198371",
+          "198372"
+        ],
+        "spl_id": [
+          "4ee76b17-e459-457b-b67a-bb062a408150",
+          "21c3ca92-aba8-297c-e063-6394a90a7255"
+        ],
+        "spl_set_id": [
+          "0d4a4ef9-0944-452c-b014-bd822bfb9dd9",
+          "234ff9d7-a02e-417f-a1f9-94038783cc77"
+        ],
+        "package_ndc": [
+          "31722-529-01",
+          "31722-529-05",
+          "31722-530-01",
+          "31722-530-05",
+          "31722-531-01",
+          "31722-531-05",
+          "31722-532-01",
+          "31722-532-05",
+          "72865-258-90",
+          "72865-259-90",
+          "72865-259-01",
+          "72865-260-01",
+          "72865-260-05",
+          "72865-260-90",
+          "72865-261-90",
+          "72865-261-01"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "W31X2H97FB"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20211117",
+          "review_priority": "N/A",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "69910",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2022/213218s001lbl.pdf",
+              "date": "20220119",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20210614",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "application_docs": [
+            {
+              "id": "67820",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/213218Orig1s000ltr.pdf",
+              "date": "20210615",
+              "type": "Letter"
+            },
+            {
+              "id": "67826",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/213218s000lbl.pdf",
+              "date": "20210615",
+              "type": "Label"
+            },
+            {
+              "id": "71069",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/213218Orig1s000TOC.html",
+              "date": "20220516",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA213218",
+      "sponsor_name": "SARFE PHARMS",
+      "openfda": {
+        "application_number": [
+          "NDA213218"
+        ],
+        "brand_name": [
+          "SOAANZ"
+        ],
+        "generic_name": [
+          "TORSEMIDE"
+        ],
+        "manufacturer_name": [
+          "Sarfez Pharmaceuticals Inc"
+        ],
+        "product_ndc": [
+          "73502-586",
+          "73502-786",
+          "73502-687",
+          "73502-287"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TORSEMIDE"
+        ],
+        "rxcui": [
+          "198371",
+          "2589877",
+          "2589881",
+          "2589883",
+          "2589885",
+          "2589887"
+        ],
+        "spl_id": [
+          "47fa8bbb-4c81-97c3-e063-6394a90a61cc"
+        ],
+        "spl_set_id": [
+          "05eaa163-b6e9-438a-85f8-6a60e743d460"
+        ],
+        "package_ndc": [
+          "73502-786-07",
+          "73502-786-08",
+          "73502-586-10",
+          "73502-586-11",
+          "73502-687-13",
+          "73502-687-14",
+          "73502-287-12",
+          "73502-287-16"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "W31X2H97FB"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "SOAANZ",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "SOAANZ",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "SOAANZ",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20100416",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20021106",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20020514",
+          "application_docs": [
+            {
+              "id": "22537",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/076110.pdf",
+              "date": "20050722",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20190310",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076110",
+      "sponsor_name": "TEVA",
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TORSEMIDE",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19930823",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20120814",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12244",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020136s014lbl.pdf",
+              "date": "20120815",
+              "type": "Label"
+            },
+            {
+              "id": "2058",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020136Orig1s024ltr.pdf",
+              "date": "20120815",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "19980316",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "19971126",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "19970530",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "19961030",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "19970909",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41151",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/97/020136ap_s08_s09.pdf",
+              "date": "19971009",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19951101",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19951115",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19950512",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19950905",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20170203",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "47109",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020136s027lbl.pdf",
+              "date": "20170206",
+              "type": "Label"
+            },
+            {
+              "id": "47124",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/020136Orig1s027ltr.pdf",
+              "date": "20170207",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20020917",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20121116",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "19980420",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20100127",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12243",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/020136s023lbl.pdf",
+              "date": "20100129",
+              "type": "Label"
+            },
+            {
+              "id": "21200",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/020136s023ltr.pdf",
+              "date": "20100201",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "19980107",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "19971001",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "19980213",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "19951130",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19951024",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19960214",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19950809",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20131122",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA020136",
+      "sponsor_name": "PHARMOBEDIENT",
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "DEMADEX",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "100MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "DEMADEX",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "10MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "DEMADEX",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "20MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "DEMADEX",
+          "active_ingredients": [
+            {
+              "name": "TORSEMIDE",
+              "strength": "5MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

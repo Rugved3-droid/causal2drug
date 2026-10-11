@@ -1,0 +1,4 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+ALOX5	D012220	Rhinitis	GCST90473686	DOWN	6	rs4949006	1.4438e-158	-0.215043	0.00801504	719.8	0.0061682	0.018127	aligned_flipped	380	-0.0286836	0.0842948	0.733648	NEGATIVE	POSITIVE	NO	
+IL4R	D012220	Rhinitis	GCST90473686	DOWN	2	rs1110470	3.0584e-189	0.231354	0.00788483	860.9	-0.0150373	0.0177313	aligned_same	270	-0.0649968	0.0766413	0.396402	NEGATIVE	POSITIVE	NO	
+TRPV1	D012220	Rhinitis	GCST90473686	UP	1	rs222741	2.9171e-19	0.0818535	0.00912322	80.5	-0.00988349	0.0196184	aligned_flipped	29	-0.120746	0.239677	0.614411	NEGATIVE	NEGATIVE	YES	

@@ -1,0 +1,2883 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 22
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20221114",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20230823",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA216172",
+      "sponsor_name": "MANKIND PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA216172"
+        ],
+        "brand_name": [
+          "NEBIVOLOL"
+        ],
+        "generic_name": [
+          "NEBIVOLOL"
+        ],
+        "manufacturer_name": [
+          "Lifestar Pharma LLC"
+        ],
+        "product_ndc": [
+          "70756-025",
+          "70756-291",
+          "70756-292",
+          "70756-293"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "NEBIVOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "387013",
+          "751612",
+          "751618",
+          "827073"
+        ],
+        "spl_id": [
+          "2ffb359c-7e4b-44ef-a0c7-451ac966f6b6"
+        ],
+        "spl_set_id": [
+          "2639abce-a5ca-4b7f-99d7-026ab3233aaa"
+        ],
+        "package_ndc": [
+          "70756-025-30",
+          "70756-291-30",
+          "70756-291-90",
+          "70756-292-30",
+          "70756-292-90",
+          "70756-293-30",
+          "70756-293-90"
+        ],
+        "unii": [
+          "JGS34J7L9I"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 10MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 2.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20241001",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA217397",
+      "sponsor_name": "MSN",
+      "openfda": {
+        "application_number": [
+          "ANDA217397"
+        ],
+        "brand_name": [
+          "NEBIVOLOL"
+        ],
+        "generic_name": [
+          "NEBIVOLOL"
+        ],
+        "manufacturer_name": [
+          "Novadoz Pharmaceuticals LLC"
+        ],
+        "product_ndc": [
+          "72205-150",
+          "72205-151",
+          "72205-152",
+          "72205-153"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "NEBIVOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "387013",
+          "751612",
+          "751618",
+          "827073"
+        ],
+        "spl_id": [
+          "e54ddb53-542b-4183-8950-5b3947ecead0"
+        ],
+        "spl_set_id": [
+          "e54ddb53-542b-4183-8950-5b3947ecead0"
+        ],
+        "package_ndc": [
+          "72205-150-30",
+          "72205-150-90",
+          "72205-150-91",
+          "72205-150-99",
+          "72205-151-30",
+          "72205-151-90",
+          "72205-151-91",
+          "72205-151-99",
+          "72205-152-30",
+          "72205-152-90",
+          "72205-152-91",
+          "72205-152-99",
+          "72205-153-30",
+          "72205-153-90",
+          "72205-153-91",
+          "72205-153-99"
+        ],
+        "unii": [
+          "JGS34J7L9I"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 10MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 2.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20211217",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA212917",
+      "sponsor_name": "REYOUNG",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 2.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 10MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20240808",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230330",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA216568",
+      "sponsor_name": "REGCON HOLDINGS",
+      "openfda": {
+        "application_number": [
+          "ANDA216568"
+        ],
+        "brand_name": [
+          "NEBIVOLOL"
+        ],
+        "generic_name": [
+          "NEBIVOLOL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Apnar Pharma LP"
+        ],
+        "product_ndc": [
+          "24689-159",
+          "24689-160",
+          "24689-161",
+          "24689-162"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "NEBIVOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "387013",
+          "751612",
+          "751618",
+          "827073"
+        ],
+        "spl_id": [
+          "ffc06b5e-4f7d-4020-8be9-a4e903c1bfa8"
+        ],
+        "spl_set_id": [
+          "3f5766c0-e1fa-4805-a32c-523182310ad5"
+        ],
+        "package_ndc": [
+          "24689-159-01",
+          "24689-159-02",
+          "24689-160-01",
+          "24689-160-02",
+          "24689-161-01",
+          "24689-161-02",
+          "24689-162-01",
+          "24689-162-02"
+        ],
+        "unii": [
+          "JGS34J7L9I"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 10MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 2.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20231228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20201103",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA203825",
+      "sponsor_name": "HETERO LABS LTD III",
+      "openfda": {
+        "application_number": [
+          "ANDA203825"
+        ],
+        "brand_name": [
+          "NEBIVOLOL"
+        ],
+        "generic_name": [
+          "NEBIVOLOL"
+        ],
+        "manufacturer_name": [
+          "Camber Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "31722-585",
+          "31722-586",
+          "31722-587",
+          "31722-588"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "NEBIVOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "387013",
+          "751612",
+          "751618",
+          "827073"
+        ],
+        "spl_id": [
+          "103af555-44dd-5dfb-e063-6294a90a259f"
+        ],
+        "spl_set_id": [
+          "202d5142-6180-4d48-9a9f-1bd6992fc49b"
+        ],
+        "package_ndc": [
+          "31722-585-30",
+          "31722-585-01",
+          "31722-585-31",
+          "31722-585-32",
+          "31722-585-33",
+          "31722-585-34",
+          "31722-586-30",
+          "31722-586-01",
+          "31722-586-31",
+          "31722-586-32",
+          "31722-586-33",
+          "31722-586-34",
+          "31722-586-90",
+          "31722-587-30",
+          "31722-587-01",
+          "31722-587-31",
+          "31722-587-32",
+          "31722-587-33",
+          "31722-587-34",
+          "31722-587-90",
+          "31722-588-30",
+          "31722-588-01",
+          "31722-588-31",
+          "31722-588-32",
+          "31722-588-33",
+          "31722-588-34",
+          "31722-588-90"
+        ],
+        "unii": [
+          "JGS34J7L9I"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 10MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 2.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20240827",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150729",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20211119",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA203828",
+      "sponsor_name": "INDCHEMIE HEALTH",
+      "openfda": {
+        "application_number": [
+          "ANDA203828"
+        ],
+        "brand_name": [
+          "NEBIVOLOL"
+        ],
+        "generic_name": [
+          "NEBIVOLOL"
+        ],
+        "manufacturer_name": [
+          "Ascend Laboratories, LLC"
+        ],
+        "product_ndc": [
+          "67877-390",
+          "67877-393",
+          "67877-392",
+          "67877-391"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "NEBIVOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "387013",
+          "751612",
+          "751618",
+          "827073"
+        ],
+        "spl_id": [
+          "4f315a54-2598-4463-8884-0b643e86f8c0"
+        ],
+        "spl_set_id": [
+          "fecef8fc-b66b-4133-b66f-8d6b72750622"
+        ],
+        "package_ndc": [
+          "67877-393-30",
+          "67877-393-01",
+          "67877-393-90",
+          "67877-393-33",
+          "67877-392-30",
+          "67877-392-01",
+          "67877-392-90",
+          "67877-392-33",
+          "67877-391-30",
+          "67877-391-01",
+          "67877-391-90",
+          "67877-391-33",
+          "67877-390-30",
+          "67877-390-01",
+          "67877-390-90",
+          "67877-390-33"
+        ],
+        "unii": [
+          "JGS34J7L9I"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 10MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 2.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220331",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213349",
+      "sponsor_name": "CHARTWELL RX",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 10MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 2.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220919",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "72733",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/210596Orig1s000ltr.pdf",
+              "date": "20221128",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA210596",
+      "sponsor_name": "PRINSTON INC",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "VYDUO",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            },
+            {
+              "name": "VALSARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250128",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA212661",
+      "sponsor_name": "MACLEODS PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA212661"
+        ],
+        "brand_name": [
+          "NEBIVOLOL"
+        ],
+        "generic_name": [
+          "NEBIVOLOL"
+        ],
+        "manufacturer_name": [
+          "NorthStar RxLLC",
+          "Macleods Pharmaceuticals Limited"
+        ],
+        "product_ndc": [
+          "72603-870",
+          "72603-871",
+          "72603-872",
+          "72603-873",
+          "33342-457",
+          "33342-458",
+          "33342-459",
+          "33342-460"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "NEBIVOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "387013",
+          "751612",
+          "751618",
+          "827073"
+        ],
+        "spl_id": [
+          "9a81733f-abb2-4090-a1e1-cbca356821e8",
+          "b6c5abdd-bc2d-4ed6-8ca2-8a94c406ed0e"
+        ],
+        "spl_set_id": [
+          "9a81733f-abb2-4090-a1e1-cbca356821e8",
+          "b6c5abdd-bc2d-4ed6-8ca2-8a94c406ed0e"
+        ],
+        "package_ndc": [
+          "72603-870-01",
+          "72603-871-01",
+          "72603-871-02",
+          "72603-872-01",
+          "72603-872-02",
+          "72603-873-01",
+          "72603-873-02",
+          "33342-457-07",
+          "33342-457-10",
+          "33342-457-25",
+          "33342-458-07",
+          "33342-458-10",
+          "33342-458-25",
+          "33342-459-07",
+          "33342-459-10",
+          "33342-459-25",
+          "33342-460-07",
+          "33342-460-10",
+          "33342-460-25"
+        ],
+        "unii": [
+          "JGS34J7L9I"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 10MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 2.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220407",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20260520",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20221102",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA212682",
+      "sponsor_name": "PRINSTON INC",
+      "openfda": {
+        "application_number": [
+          "ANDA212682"
+        ],
+        "brand_name": [
+          "NEBIVOLOL"
+        ],
+        "generic_name": [
+          "NEBIVOLOL"
+        ],
+        "manufacturer_name": [
+          "Solco Healthcare US, LLC"
+        ],
+        "product_ndc": [
+          "43547-524",
+          "43547-525",
+          "43547-526",
+          "43547-527"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "NEBIVOLOL"
+        ],
+        "rxcui": [
+          "387013",
+          "751612",
+          "751618",
+          "827073"
+        ],
+        "spl_id": [
+          "1de49f6d-b50a-4f6e-8f74-5db50d836a33"
+        ],
+        "spl_set_id": [
+          "51d3f12f-94cc-4f58-94d3-61990e16adfc"
+        ],
+        "package_ndc": [
+          "43547-524-03",
+          "43547-524-09",
+          "43547-524-50",
+          "43547-525-03",
+          "43547-525-09",
+          "43547-525-50",
+          "43547-526-03",
+          "43547-526-09",
+          "43547-526-50",
+          "43547-527-03",
+          "43547-527-09",
+          "43547-527-50"
+        ],
+        "nui": [
+          "N0000000161",
+          "N0000175556"
+        ],
+        "pharm_class_moa": [
+          "Adrenergic beta-Antagonists [MoA]"
+        ],
+        "pharm_class_epc": [
+          "beta-Adrenergic Blocker [EPC]"
+        ],
+        "unii": [
+          "030Y90569U"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 10MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 2.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220315",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA213830",
+      "sponsor_name": "UNICHEM",
+      "openfda": {
+        "application_number": [
+          "ANDA213830"
+        ],
+        "brand_name": [
+          "NEBIVOLOL HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "NEBIVOLOL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Unichem Pharmaceuticals (USA), Inc."
+        ],
+        "product_ndc": [
+          "29300-375",
+          "29300-376",
+          "29300-377",
+          "29300-378"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "NEBIVOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "387013",
+          "751612",
+          "751618",
+          "827073"
+        ],
+        "spl_id": [
+          "1a80b28a-62f6-443e-8e8d-fc89b74be5ea"
+        ],
+        "spl_set_id": [
+          "b1762bbb-b5be-48a7-8101-bb736f28845a"
+        ],
+        "package_ndc": [
+          "29300-375-13",
+          "29300-375-19",
+          "29300-375-05",
+          "29300-376-13",
+          "29300-376-19",
+          "29300-376-05",
+          "29300-377-13",
+          "29300-377-19",
+          "29300-377-05",
+          "29300-378-13",
+          "29300-378-19",
+          "29300-378-05"
+        ],
+        "unii": [
+          "JGS34J7L9I"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 10MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 2.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170525",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "48564",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/203821Orig1s000ltr.pdf",
+              "date": "20170530",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20230920",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220126",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA203821",
+      "sponsor_name": "GLENMARK PHARMS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA203821"
+        ],
+        "brand_name": [
+          "NEBIVOLOL"
+        ],
+        "generic_name": [
+          "NEBIVOLOL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "AvKARE",
+          "Glenmark Pharmaceuticals Inc., USA"
+        ],
+        "product_ndc": [
+          "42291-871",
+          "42291-872",
+          "42291-873",
+          "42291-874",
+          "68462-615",
+          "68462-616",
+          "68462-617",
+          "68462-618"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "NEBIVOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "387013",
+          "751612",
+          "751618",
+          "827073"
+        ],
+        "spl_id": [
+          "48842030-a03d-fb38-e063-6294a90a9dd0",
+          "151f00ae-13ed-4174-bf4d-bc30f1fb9d69"
+        ],
+        "spl_set_id": [
+          "1ce89dc5-018d-db40-e063-6294a90a9722",
+          "cb47560d-9e35-4b0f-b12b-6ea478684a5b"
+        ],
+        "package_ndc": [
+          "42291-871-30",
+          "42291-872-90",
+          "42291-873-90",
+          "42291-874-90",
+          "68462-615-30",
+          "68462-615-01",
+          "68462-615-11",
+          "68462-616-30",
+          "68462-616-01",
+          "68462-616-11",
+          "68462-617-30",
+          "68462-617-01",
+          "68462-617-11",
+          "68462-618-30",
+          "68462-618-01",
+          "68462-618-11"
+        ],
+        "unii": [
+          "JGS34J7L9I"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 10MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 2.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180302",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20231030",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA203966",
+      "sponsor_name": "TORRENT",
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 10MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 2.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230616",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "74542",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/206302Orig1s001ltr.pdf",
+              "date": "20230620",
+              "type": "Letter"
+            },
+            {
+              "id": "74550",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2023/206302s001lbl.pdf",
+              "date": "20230620",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160603",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 4",
+          "submission_class_code_description": "Type 4 - New Combination",
+          "application_docs": [
+            {
+              "id": "40534",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/206302s000lbl.pdf",
+              "date": "20160606",
+              "type": "Label"
+            },
+            {
+              "id": "45269",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/206302Orig1ByvalsonTOC.html",
+              "date": "20160912",
+              "type": "Review"
+            },
+            {
+              "id": "32793",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/206302Orig1s000ltr.pdf",
+              "date": "20160606",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA206302",
+      "sponsor_name": "ABBVIE",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "BYVALSON",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            },
+            {
+              "name": "VALSARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "TA",
+          "submission_status_date": "20201228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA206729",
+      "sponsor_name": "MICRO LABS LTD",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20211217",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "65856",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/211053Orig1s000TA_ltr.pdf",
+              "date": "20210107",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230920",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA211053",
+      "sponsor_name": "AUROBINDO PHARMA LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA211053"
+        ],
+        "brand_name": [
+          "NEBIVOLOL"
+        ],
+        "generic_name": [
+          "NEBIVOLOL"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "59651-137",
+          "59651-138",
+          "59651-139",
+          "59651-140"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "NEBIVOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "387013",
+          "751612",
+          "751618",
+          "827073"
+        ],
+        "spl_id": [
+          "2690da17-6194-47ba-9078-e27821283ee2"
+        ],
+        "spl_set_id": [
+          "6e43a4e2-574e-4f4a-804d-e346b4edd2f1"
+        ],
+        "package_ndc": [
+          "59651-137-30",
+          "59651-137-90",
+          "59651-138-30",
+          "59651-138-90",
+          "59651-139-30",
+          "59651-139-90",
+          "59651-140-30",
+          "59651-140-90"
+        ],
+        "unii": [
+          "JGS34J7L9I"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 10MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 2.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150416",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20220127",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA203659",
+      "sponsor_name": "ANI PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA203659"
+        ],
+        "brand_name": [
+          "NEBIVOLOL"
+        ],
+        "generic_name": [
+          "NEBIVOLOL"
+        ],
+        "manufacturer_name": [
+          "ANI Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "62559-275",
+          "62559-276",
+          "62559-277",
+          "62559-278"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "NEBIVOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "387013",
+          "751612",
+          "751618",
+          "827073"
+        ],
+        "spl_id": [
+          "4bca2b49-cd1c-4645-99e7-511dd1b67da6"
+        ],
+        "spl_set_id": [
+          "3ebcc539-efe0-4545-bd83-37c20de7efb0"
+        ],
+        "package_ndc": [
+          "62559-275-30",
+          "62559-275-83",
+          "62559-276-30",
+          "62559-276-90",
+          "62559-276-71",
+          "62559-277-30",
+          "62559-277-90",
+          "62559-277-05",
+          "62559-278-30",
+          "62559-278-90",
+          "62559-278-05"
+        ],
+        "unii": [
+          "JGS34J7L9I"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 10MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 2.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250801",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20151127",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "10244",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/203683Orig1s000Ltr.pdf",
+              "date": "20151201",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20250801",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA203683",
+      "sponsor_name": "WATSON LABS INC",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 2.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 10MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20141030",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20121219",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20171130",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "50547",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/021742s022lbl.pdf",
+              "date": "20171201",
+              "type": "Label"
+            },
+            {
+              "id": "50574",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/021742Orig1s022ltr.pdf",
+              "date": "20171201",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20150420",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20071217",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "42293",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/021742s000TOC.html",
+              "date": "20080502",
+              "type": "Review"
+            },
+            {
+              "id": "6090",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/021742s000ltr.pdf",
+              "date": "20080109",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20141027",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20100219",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "6091",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/021742s007ltr.pdf",
+              "date": "20100226",
+              "type": "Letter"
+            },
+            {
+              "id": "16285",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021742s007lbl.pdf",
+              "date": "20100303",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20130920",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20081008",
+          "review_priority": "N/A",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20111214",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "16286",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021742s013lbl.pdf",
+              "date": "20111214",
+              "type": "Label"
+            },
+            {
+              "id": "28498",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021742s013ltr.pdf",
+              "date": "20111215",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20230616",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "74543",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/021742Orig1s028ltr.pdf",
+              "date": "20230620",
+              "type": "Letter"
+            },
+            {
+              "id": "74549",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021742s028lbl.pdf",
+              "date": "20230620",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA021742",
+      "sponsor_name": "ALLERGAN",
+      "openfda": {
+        "application_number": [
+          "NDA021742"
+        ],
+        "brand_name": [
+          "BYSTOLIC"
+        ],
+        "generic_name": [
+          "NEBIVOLOL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Allergan, Inc."
+        ],
+        "product_ndc": [
+          "0456-1402",
+          "0456-1405",
+          "0456-1410",
+          "0456-1420"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "NEBIVOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "387013",
+          "751612",
+          "751616",
+          "751618",
+          "751620",
+          "751623",
+          "827073",
+          "827075"
+        ],
+        "spl_id": [
+          "0096cdf0-43e6-4128-8990-aed7e1fab83f"
+        ],
+        "spl_set_id": [
+          "8b8ad213-1dc8-454e-a524-075685c0e1a8"
+        ],
+        "package_ndc": [
+          "0456-1402-30",
+          "0456-1402-90",
+          "0456-1402-01",
+          "0456-1402-63",
+          "0456-1405-30",
+          "0456-1405-90",
+          "0456-1405-01",
+          "0456-1405-63",
+          "0456-1410-30",
+          "0456-1410-90",
+          "0456-1410-01",
+          "0456-1410-63",
+          "0456-1420-30",
+          "0456-1420-90",
+          "0456-1420-01",
+          "0456-1420-63"
+        ],
+        "unii": [
+          "JGS34J7L9I"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "BYSTOLIC",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "BYSTOLIC",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 10MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "BYSTOLIC",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 2.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "Yes",
+          "brand_name": "BYSTOLIC",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240227",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA209741",
+      "sponsor_name": "APOTEX",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 10MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20211217",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20240205",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA208717",
+      "sponsor_name": "CADILA PHARMS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA208717"
+        ],
+        "brand_name": [
+          "NEBIVOLOL"
+        ],
+        "generic_name": [
+          "NEBIVOLOL"
+        ],
+        "manufacturer_name": [
+          "Modavar Pharmaceuticals LLC",
+          "Cadila Pharmaceuticals Limited"
+        ],
+        "product_ndc": [
+          "72241-032",
+          "72241-033",
+          "72241-034",
+          "72241-035",
+          "71209-058",
+          "71209-059",
+          "71209-060",
+          "71209-061"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "NEBIVOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "387013",
+          "751612",
+          "751618",
+          "827073"
+        ],
+        "spl_id": [
+          "53d2f49b-b0b8-46fc-b80d-1ac3756e7e7c",
+          "0ab335f1-2089-496b-b65f-02c697f6ee89"
+        ],
+        "spl_set_id": [
+          "19d20396-ade8-400e-94f4-69913637d051",
+          "451cdd6e-13b4-402f-8a44-cdf5f7433a49"
+        ],
+        "package_ndc": [
+          "72241-032-22",
+          "72241-032-05",
+          "72241-032-11",
+          "72241-032-04",
+          "72241-033-22",
+          "72241-033-05",
+          "72241-033-11",
+          "72241-033-04",
+          "72241-034-22",
+          "72241-034-05",
+          "72241-034-11",
+          "72241-034-04",
+          "72241-035-22",
+          "72241-035-05",
+          "72241-035-11",
+          "72241-035-04",
+          "71209-058-01",
+          "71209-058-05",
+          "71209-058-11",
+          "71209-058-04",
+          "71209-059-01",
+          "71209-059-05",
+          "71209-059-11",
+          "71209-059-04",
+          "71209-060-01",
+          "71209-060-05",
+          "71209-060-11",
+          "71209-060-04",
+          "71209-061-01",
+          "71209-061-05",
+          "71209-061-11",
+          "71209-061-04"
+        ],
+        "unii": [
+          "JGS34J7L9I"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 10MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 2.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150624",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "32464",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/203741Orig1s000ltr.pdf",
+              "date": "20150626",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA203741",
+      "sponsor_name": "ALKEM LABS LTD",
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 10MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "NEBIVOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "NEBIVOLOL HYDROCHLORIDE",
+              "strength": "EQ 2.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

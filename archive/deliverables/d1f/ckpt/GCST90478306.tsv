@@ -1,0 +1,7 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+CDK4	D052016	Mucositis	GCST90478306	DOWN	1									0							no_overlap_after_harmonization
+CLCN2	D052016	Mucositis	GCST90478306	UP	1									0							no_overlap_after_harmonization
+IL6	D052016	Mucositis	GCST90478306	DOWN	2									0							no_overlap_after_harmonization
+NFE2L2	D052016	Mucositis	GCST90478306	UP	2									0							no_overlap_after_harmonization
+PTGS2	D052016	Mucositis	GCST90478306	DOWN	2									0							no_overlap_after_harmonization
+TNF	D052016	Mucositis	GCST90478306	DOWN	3									0							no_overlap_after_harmonization

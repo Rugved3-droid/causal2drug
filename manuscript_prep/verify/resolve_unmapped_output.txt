@@ -1,0 +1,15 @@
+﻿unmapped CV targets (12): ACE, ANGPTL8, CCN1, FIGNL2, GRK2, GUCY1A1, GUCY1B1, ITGB3, MIR29B1, MIR92A1, TLR9, VEGFD
+ACE      Launched  -> ENSG00000159640  ACE       INSTRUMENTED  hits=37 best_p=1.59e-17 | RESOLVED: HGNC Ensembl ID selects one of two GTF records | other: ENSG00000264813:not_tested,hits=0
+ANGPTL8  Phase I   -> ENSG00000130173  C19orf80  ABSENT        hits=0 best_p= | RESOLVED: GTF carries the gene under previous symbol C19orf80 | other: 
+CCN1     Preclinical -> ENSG00000142871  CYR61     ABSENT        hits=0 best_p= | RESOLVED: GTF carries the gene under previous symbol CYR61 | other: 
+FIGNL2   Preclinical -> ENSG00000261308  RP11-923I11.7 INSTRUMENTED  hits=69 best_p=3.5732e-50 | RESOLVED: GTF carries the gene under previous symbol RP11-923I11.7 | other: 
+GRK2     Preclinical -> ENSG00000173020  ADRBK1    TESTED_NULL   hits=0 best_p= | RESOLVED: GTF carries the gene under previous symbol ADRBK1 | other: 
+GUCY1A1  Launched  -> ENSG00000164116  GUCY1A3   INSTRUMENTED  hits=153 best_p=7.5557e-37 | RESOLVED: GTF carries the gene under previous symbol GUCY1A3 | other: 
+GUCY1B1  Launched  -> ENSG00000061918  GUCY1B3   TESTED_NULL   hits=0 best_p= | RESOLVED: GTF carries the gene under previous symbol GUCY1B3 | other: 
+ITGB3    Launched  -> ENSG00000259207  ITGB3     INSTRUMENTED  hits=215 best_p=3.1466e-34 | RESOLVED: HGNC Ensembl ID selects one of two GTF records | other: ENSG00000259753:not_tested,hits=0
+MIR29B1  Phase I   -> -                -         UNMAPPED      hits=- best_p=- | UNRESOLVED: HGNC Ensembl ID not a gene record in GRCh37.87 | other: 
+MIR92A1  Phase I   -> -                -         UNMAPPED      hits=- best_p=- | UNRESOLVED: HGNC Ensembl ID not a gene record in GRCh37.87 | other: 
+TLR9     Phase I   -> ENSG00000239732  TLR9      INSTRUMENTED  hits=17 best_p=1.9811e-10 | RESOLVED: HGNC Ensembl ID selects one of two GTF records | other: ENSG00000173366:not_tested,hits=0
+VEGFD    Phase II  -> ENSG00000165197  FIGF      ABSENT        hits=0 best_p= | RESOLVED: GTF carries the gene under previous symbol FIGF | other: 
+{'INSTRUMENTED': 5, 'ABSENT': 3, 'TESTED_NULL': 2, 'UNMAPPED': 2}
+wrote D:\causal2drug\manuscript_prep\unmapped_resolution.csv

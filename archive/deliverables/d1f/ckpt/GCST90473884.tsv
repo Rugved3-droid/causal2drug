@@ -1,0 +1,4 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+FKBP1A	D010195	Pancreatitis	GCST90473884	DOWN	11	rs8392	3.2717e-310	-0.351794	0.00896687	1539	-0.0164804	0.0213478	aligned_same	368	0.0468468	0.0606827	0.440117	POSITIVE	POSITIVE	YES	
+PARP1	D010195	Pancreatitis	GCST90473884	DOWN	5	rs3219023	3.2717e-310	0.447748	0.0103679	1865	-0.00836824	0.0278992	aligned_same	357	-0.0186896	0.06231	0.764219	NEGATIVE	POSITIVE	NO	
+TRPV1	D010195	Pancreatitis	GCST90473884	UP	1	rs222741	2.9171e-19	0.0818535	0.00912322	80.5	-0.00154482	0.023064	aligned_flipped	29	-0.018873	0.281772	0.946598	NEGATIVE	NEGATIVE	YES	

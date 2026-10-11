@@ -1,0 +1,16 @@
+﻿gene_name	gene_id	chrom	start	end	strand	biotype	source
+CYR61	ENSG00000142871	1	86046444	86049645	+	protein_coding	ensembl_havana
+ADRA2B	ENSG00000222040	2	96778707	96781984	-	protein_coding	ensembl_havana
+TLR9	ENSG00000239732	3	52255096	52273183	-	protein_coding	ensembl_havana
+TLR9	ENSG00000173366	3	52255097	52265206	-	protein_coding	havana
+GUCY1A3	ENSG00000164116	4	156587863	156653501	+	protein_coding	ensembl_havana
+GUCY1B3	ENSG00000061918	4	156680144	156728743	+	protein_coding	ensembl_havana
+FIGNL1	ENSG00000132436	7	50511831	50518088	-	protein_coding	ensembl_havana
+FIGF	ENSG00000165197	X	15363713	15402498	-	protein_coding	ensembl_havana
+MIR92A2	ENSG00000208034	X	133303568	133303642	-	miRNA	ensembl
+ADRBK1	ENSG00000173020	11	67033881	67054027	+	protein_coding	ensembl_havana
+ITGB3	ENSG00000259207	17	45331212	45421658	+	protein_coding	ensembl_havana
+ITGB3	ENSG00000259753	17	45331263	45421658	+	protein_coding	havana
+ACE	ENSG00000159640	17	61554422	61599205	+	protein_coding	ensembl_havana
+ACE	ENSG00000264813	17	61562184	61599209	+	protein_coding	havana
+C19orf80	ENSG00000130173	19	11348178	11352619	+	protein_coding	ensembl_havana

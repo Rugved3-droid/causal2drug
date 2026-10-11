@@ -1,0 +1,1776 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 15
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20191211",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20181009",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210466",
+      "sponsor_name": "SUN PHARM",
+      "openfda": {
+        "application_number": [
+          "ANDA210466"
+        ],
+        "brand_name": [
+          "DOFETILIDE"
+        ],
+        "generic_name": [
+          "DOFETILIDE"
+        ],
+        "manufacturer_name": [
+          "NorthStar RxLLC",
+          "Sun Pharmaceutical Industries, Inc."
+        ],
+        "product_ndc": [
+          "72603-130",
+          "72603-131",
+          "72603-132",
+          "47335-061",
+          "47335-062",
+          "47335-063"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DOFETILIDE"
+        ],
+        "rxcui": [
+          "310003",
+          "310004",
+          "310005"
+        ],
+        "spl_id": [
+          "d9cc5e83-13c7-40a5-86d3-29216f7f55fe",
+          "3ea6a12b-26de-4858-aebe-4f8902cc560f"
+        ],
+        "spl_set_id": [
+          "4552d82a-dd28-410c-9642-1af060832b47",
+          "e6caaf44-4a3e-46ef-85fa-f97f682fbdd6"
+        ],
+        "package_ndc": [
+          "72603-130-01",
+          "72603-131-01",
+          "72603-132-01",
+          "47335-061-86",
+          "47335-061-66",
+          "47335-061-79",
+          "47335-062-86",
+          "47335-062-66",
+          "47335-062-79",
+          "47335-063-86",
+          "47335-063-66",
+          "47335-063-79"
+        ],
+        "nui": [
+          "N0000175426"
+        ],
+        "pharm_class_epc": [
+          "Antiarrhythmic [EPC]"
+        ],
+        "unii": [
+          "R4Z9X1N2ND"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.125MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20190808",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "59652",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/020931s017lbl.pdf",
+              "date": "20190809",
+              "type": "Label"
+            },
+            {
+              "id": "59653",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/020931s017lbl.pdf#page=27",
+              "date": "20190809",
+              "type": "Medication Guide"
+            },
+            {
+              "id": "59654",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/020931Orig1s017ltr.pdf",
+              "date": "20190812",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20071018",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20160308",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "application_docs": [
+            {
+              "id": "50606",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/020931s013.pdf",
+              "date": "20171206",
+              "type": "Review"
+            },
+            {
+              "id": "13755",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/020931s012s013lbl.pdf",
+              "date": "20160314",
+              "type": "Label"
+            },
+            {
+              "id": "3772",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/020931Orig1s012,s013ltr.pdf",
+              "date": "20160310",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20150708",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "application_docs": [
+            {
+              "id": "3771",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/020931Orig1s009ltr.pdf",
+              "date": "20150715",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20131206",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3770",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/020931Orig1s007ltr.pdf",
+              "date": "20131209",
+              "type": "Letter"
+            },
+            {
+              "id": "13754",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/020931s007lbl.pdf",
+              "date": "20131212",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20110711",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "application_docs": [
+            {
+              "id": "3769",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/020931s003ltr.pdf",
+              "date": "20110713",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20041022",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "67520",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/020931Orig1s001ltr.pdf",
+              "date": "20041022",
+              "type": "Letter"
+            },
+            {
+              "id": "68756",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/020931Orig1s001.pdf",
+              "date": "20210924",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20160308",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "26218",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/020931Orig1s012,s013ltr.pdf",
+              "date": "20160310",
+              "type": "Letter"
+            },
+            {
+              "id": "35658",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/020931s012s013lbl.pdf",
+              "date": "20160314",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20151125",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "application_docs": [
+            {
+              "id": "26217",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/020931Orig1s010ltr.pdf",
+              "date": "20151127",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19991001",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "3768",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1999/20931ltr.pdf",
+              "date": "19991004",
+              "type": "Letter"
+            },
+            {
+              "id": "41818",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20-931_Tikosyn.html",
+              "date": "20020404",
+              "type": "Review"
+            },
+            {
+              "id": "54288",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/review/2018/020931Orig1s013REMS.pdf",
+              "date": "20180522",
+              "type": "Review"
+            },
+            {
+              "id": "23204",
+              "url": "http://www.fda.gov/downloads/Drugs/DrugSafety/UCM266314.pdf",
+              "date": "20110802",
+              "type": "Medication Guide"
+            },
+            {
+              "id": "35657",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/1999/20931lbl.pdf",
+              "date": "19991004",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020931",
+      "sponsor_name": "PFIZER",
+      "openfda": {
+        "application_number": [
+          "NDA020931"
+        ],
+        "brand_name": [
+          "TIKOSYN"
+        ],
+        "generic_name": [
+          "DOFETILIDE"
+        ],
+        "manufacturer_name": [
+          "Pfizer Laboratories Div Pfizer Inc"
+        ],
+        "product_ndc": [
+          "0069-5800",
+          "0069-5810",
+          "0069-5820"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DOFETILIDE"
+        ],
+        "rxcui": [
+          "284404",
+          "284405",
+          "285016",
+          "310003",
+          "310004",
+          "310005"
+        ],
+        "spl_id": [
+          "0109bfef-980f-4bc8-a802-3d3c45587456"
+        ],
+        "spl_set_id": [
+          "02438044-d6a3-49e9-a1ac-3aad21ef2c8c"
+        ],
+        "package_ndc": [
+          "0069-5800-61",
+          "0069-5800-60",
+          "0069-5800-43",
+          "0069-5810-61",
+          "0069-5810-60",
+          "0069-5810-43",
+          "0069-5820-61",
+          "0069-5820-60",
+          "0069-5820-43"
+        ],
+        "nui": [
+          "N0000175426"
+        ],
+        "pharm_class_epc": [
+          "Antiarrhythmic [EPC]"
+        ],
+        "unii": [
+          "R4Z9X1N2ND"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "TIKOSYN",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "TIKOSYN",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "TIKOSYN",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.125MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220414",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA215323",
+      "sponsor_name": "SOMERSET THERAPS LLC",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.125MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200619",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213338",
+      "sponsor_name": "ACCORD HLTHCARE",
+      "openfda": {
+        "application_number": [
+          "ANDA213338"
+        ],
+        "brand_name": [
+          "DOFETILIDE"
+        ],
+        "generic_name": [
+          "DOFETILIDE"
+        ],
+        "manufacturer_name": [
+          "Accord Healthcare, Inc."
+        ],
+        "product_ndc": [
+          "16729-490",
+          "16729-491",
+          "16729-492"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DOFETILIDE"
+        ],
+        "rxcui": [
+          "310003",
+          "310004",
+          "310005"
+        ],
+        "spl_id": [
+          "40bca241-47f2-b7f0-e063-6294a90a1680"
+        ],
+        "spl_set_id": [
+          "4c1a5a6d-bd69-473c-8caa-d0d242b7708d"
+        ],
+        "package_ndc": [
+          "16729-490-12",
+          "16729-490-59",
+          "16729-491-12",
+          "16729-491-59",
+          "16729-492-12",
+          "16729-492-59"
+        ],
+        "nui": [
+          "N0000175426"
+        ],
+        "pharm_class_epc": [
+          "Antiarrhythmic [EPC]"
+        ],
+        "unii": [
+          "R4Z9X1N2ND"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.125MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20191217",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA211223",
+      "sponsor_name": "PRINSTON INC",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.125MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA207746",
+      "sponsor_name": "SIGMAPHARM LABS LLC",
+      "openfda": {
+        "application_number": [
+          "ANDA207746"
+        ],
+        "brand_name": [
+          "DOFETILIDE"
+        ],
+        "generic_name": [
+          "DOFETILIDE"
+        ],
+        "manufacturer_name": [
+          "Sigmapharm Laboratories, LLC"
+        ],
+        "product_ndc": [
+          "42794-044",
+          "42794-045",
+          "42794-046"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DOFETILIDE"
+        ],
+        "rxcui": [
+          "310003",
+          "310004",
+          "310005"
+        ],
+        "spl_id": [
+          "f1f1f93d-aee6-246f-e053-2a95a90a9eee"
+        ],
+        "spl_set_id": [
+          "0cb2ef7d-e35b-483b-9985-cfef99d7b96f"
+        ],
+        "package_ndc": [
+          "42794-044-10",
+          "42794-045-10",
+          "42794-046-10"
+        ],
+        "nui": [
+          "N0000175426"
+        ],
+        "pharm_class_epc": [
+          "Antiarrhythmic [EPC]"
+        ],
+        "unii": [
+          "R4Z9X1N2ND"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.125MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20181009",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA208519",
+      "sponsor_name": "STRIDES PHARMA INTL",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.125MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160606",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "40580",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/207058Orig1s000lbl.pdf",
+              "date": "20160610",
+              "type": "Label"
+            },
+            {
+              "id": "10610",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/207058Orig1s000ltr.pdf",
+              "date": "20160608",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20250224",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA207058",
+      "sponsor_name": "DR REDDYS LABS SA",
+      "openfda": {
+        "application_number": [
+          "ANDA207058"
+        ],
+        "brand_name": [
+          "DOFETILIDE"
+        ],
+        "generic_name": [
+          "DOFETILIDE"
+        ],
+        "manufacturer_name": [
+          "Dr. Reddy's Labratories Inc."
+        ],
+        "product_ndc": [
+          "75907-054",
+          "75907-056",
+          "75907-055"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DOFETILIDE"
+        ],
+        "rxcui": [
+          "310003",
+          "310004",
+          "310005"
+        ],
+        "spl_id": [
+          "cfb67967-e633-9056-6d99-c42ec7905f2e"
+        ],
+        "spl_set_id": [
+          "28fe0cac-62fd-997d-8065-561aaf1541c4"
+        ],
+        "package_ndc": [
+          "75907-056-60",
+          "75907-055-60",
+          "75907-054-60"
+        ],
+        "nui": [
+          "N0000175426"
+        ],
+        "pharm_class_epc": [
+          "Antiarrhythmic [EPC]"
+        ],
+        "unii": [
+          "R4Z9X1N2ND"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.125MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220415",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210018",
+      "sponsor_name": "TEVA PHARMS USA",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.125MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20211014",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20240430",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA212750",
+      "sponsor_name": "GRANULES",
+      "openfda": {
+        "application_number": [
+          "ANDA212750"
+        ],
+        "brand_name": [
+          "DOFETILIDE 0.125MG",
+          "DOFETILIDE 0.25MG",
+          "DOFETILIDE 0.5MG",
+          "DOFETILIDE"
+        ],
+        "generic_name": [
+          "DOFETILIDE 0.125MG",
+          "DOFETILIDE 0.25MG",
+          "DOFETILIDE 0.5MG",
+          "DOFETILIDE"
+        ],
+        "manufacturer_name": [
+          "Granules Pharmaceuticals Inc.",
+          "EXELAN PHARMACEUTICALS, INC."
+        ],
+        "product_ndc": [
+          "70010-024",
+          "70010-025",
+          "70010-026",
+          "76282-755",
+          "76282-756",
+          "76282-757"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DOFETILIDE"
+        ],
+        "rxcui": [
+          "310003",
+          "310004",
+          "310005"
+        ],
+        "spl_id": [
+          "44f3f63d-4521-91e4-e063-6394a90a6d1b",
+          "19f2a722-24ef-44f2-90e6-ec8df457baf6"
+        ],
+        "spl_set_id": [
+          "a10633a6-4518-4a87-a880-faaa33bdbec6",
+          "41ccbb23-ae03-44bd-b438-0b0a8388d56b"
+        ],
+        "package_ndc": [
+          "70010-024-06",
+          "70010-025-06",
+          "70010-026-06",
+          "76282-755-60",
+          "76282-756-60",
+          "76282-757-60"
+        ],
+        "nui": [
+          "N0000175426"
+        ],
+        "pharm_class_epc": [
+          "Antiarrhythmic [EPC]"
+        ],
+        "unii": [
+          "R4Z9X1N2ND"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.125MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180410",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20221128",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA208625",
+      "sponsor_name": "BIONPHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA208625"
+        ],
+        "brand_name": [
+          "DOFETILIDE"
+        ],
+        "generic_name": [
+          "DOFETILIDE"
+        ],
+        "manufacturer_name": [
+          "Bionpharma Inc."
+        ],
+        "product_ndc": [
+          "69452-131",
+          "69452-132",
+          "69452-133"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DOFETILIDE"
+        ],
+        "rxcui": [
+          "310003",
+          "310004",
+          "310005"
+        ],
+        "spl_id": [
+          "f7811d48-6a19-d784-e053-6394a90aac27"
+        ],
+        "spl_set_id": [
+          "0e60aa4b-72c2-4ef4-ab01-c9cf94240ff1"
+        ],
+        "package_ndc": [
+          "69452-131-17",
+          "69452-132-17",
+          "69452-133-17"
+        ],
+        "nui": [
+          "N0000175426"
+        ],
+        "pharm_class_epc": [
+          "Antiarrhythmic [EPC]"
+        ],
+        "unii": [
+          "R4Z9X1N2ND"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.125MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20191227",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA212410",
+      "sponsor_name": "INGENUS PHARMS LLC",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.125MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190122",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20201130",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA210740",
+      "sponsor_name": "AUROBINDO PHARMA LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA210740"
+        ],
+        "brand_name": [
+          "DOFETILIDE"
+        ],
+        "generic_name": [
+          "DOFETILIDE"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "59651-118",
+          "59651-119",
+          "59651-120"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DOFETILIDE"
+        ],
+        "rxcui": [
+          "310003",
+          "310004",
+          "310005"
+        ],
+        "spl_id": [
+          "1e91567e-437f-4695-8cc6-3e7a8fcb1606"
+        ],
+        "spl_set_id": [
+          "85f2b35c-31d5-4161-b342-c781d23945a5"
+        ],
+        "package_ndc": [
+          "59651-118-60",
+          "59651-118-05",
+          "59651-119-60",
+          "59651-119-05",
+          "59651-120-60",
+          "59651-120-05"
+        ],
+        "nui": [
+          "N0000175426"
+        ],
+        "pharm_class_epc": [
+          "Antiarrhythmic [EPC]"
+        ],
+        "unii": [
+          "R4Z9X1N2ND"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "DOFETILDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "DOFETILDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DOFETILDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.125MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200129",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213220",
+      "sponsor_name": "MSN",
+      "openfda": {
+        "application_number": [
+          "ANDA213220"
+        ],
+        "brand_name": [
+          "DOFETILIDE"
+        ],
+        "generic_name": [
+          "DOFETILIDE"
+        ],
+        "manufacturer_name": [
+          "Novadoz Pharmaceuticals LLC"
+        ],
+        "product_ndc": [
+          "72205-039",
+          "72205-040",
+          "72205-041"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DOFETILIDE"
+        ],
+        "rxcui": [
+          "310003",
+          "310004",
+          "310005"
+        ],
+        "spl_id": [
+          "feb8626e-9d88-4a06-919f-f8169a69814b"
+        ],
+        "spl_set_id": [
+          "b8323987-90fe-4e6c-a71c-76e3c501713c"
+        ],
+        "package_ndc": [
+          "72205-039-60",
+          "72205-039-11",
+          "72205-039-37",
+          "72205-040-60",
+          "72205-040-11",
+          "72205-040-37",
+          "72205-041-60",
+          "72205-041-11",
+          "72205-041-37"
+        ],
+        "nui": [
+          "N0000175426"
+        ],
+        "pharm_class_epc": [
+          "Antiarrhythmic [EPC]"
+        ],
+        "unii": [
+          "R4Z9X1N2ND"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.125MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20260729",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA212496",
+      "sponsor_name": "ANDAS 5 HOLDING",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "DOFETILIDE",
+          "active_ingredients": [
+            {
+              "name": "DOFETILIDE",
+              "strength": "0.125MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    }
+  ]
+}

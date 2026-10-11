@@ -1,0 +1,2360 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 22
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20060831"
+        }
+      ],
+      "application_number": "ANDA077531",
+      "sponsor_name": "WATSON LABS",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20100917"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140103",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20200820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA079025",
+      "sponsor_name": "CHARTWELL RX",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20200820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20200723",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20041203",
+          "application_docs": [
+            {
+              "id": "31143",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/76608ltr.pdf",
+              "date": "20041208",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA076608",
+      "sponsor_name": "ANI PHARMS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20041015"
+        }
+      ],
+      "application_number": "ANDA076620",
+      "sponsor_name": "ACTAVIS LABS FL INC",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20031125",
+          "application_docs": [
+            {
+              "id": "82678",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/761391Orig1s001,761390Orig1s002ltr.pdf",
+              "date": "20250627",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20090929",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20070508",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076139",
+      "sponsor_name": "TEVA",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20050517"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20110408",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20131231",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20101028",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076906",
+      "sponsor_name": "APOTEX",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20160126",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20160126",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20050420"
+        }
+      ],
+      "application_number": "ANDA077222",
+      "sponsor_name": "INVAGEN PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA077222"
+        ],
+        "brand_name": [
+          "FOSINOPRIL SODIUM"
+        ],
+        "generic_name": [
+          "FOSINOPRIL",
+          "FOSINOPRIL SODIUM"
+        ],
+        "manufacturer_name": [
+          "Cipla USA Inc.",
+          "Exelan Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "69097-856",
+          "69097-857",
+          "69097-858",
+          "76282-200",
+          "76282-201",
+          "76282-202"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FOSINOPRIL SODIUM"
+        ],
+        "rxcui": [
+          "857169",
+          "857183",
+          "857187"
+        ],
+        "spl_id": [
+          "6d672087-9b6a-4afe-8c3e-0616943a82cf",
+          "ed121c1b-359c-471e-913c-4afdf9102c34"
+        ],
+        "spl_set_id": [
+          "736fe52f-69fb-48b2-b1c5-f06531878538",
+          "e2ff3171-a17a-456a-9272-ca1682b01d19"
+        ],
+        "package_ndc": [
+          "69097-856-05",
+          "69097-856-15",
+          "69097-857-05",
+          "69097-857-15",
+          "69097-858-05",
+          "69097-858-15",
+          "76282-200-90",
+          "76282-200-10",
+          "76282-201-90",
+          "76282-201-10",
+          "76282-202-90",
+          "76282-202-10"
+        ],
+        "unii": [
+          "NW2RTH6T2N"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20090209",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2294",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/019915s042,020286s008ltr.pdf",
+              "date": "20090213",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20031029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "24732",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/19915slr038,20286slr006ltr.pdf",
+              "date": "20031105",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20010216",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19960724",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20000324",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19941130",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 4",
+          "submission_class_code_description": "Type 4 - New Combination"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19970520",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19950303",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA020286",
+      "sponsor_name": "BRISTOL MYERS SQUIBB",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "MONOPRIL-HCT",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "MONOPRIL-HCT",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20060705",
+          "application_docs": [
+            {
+              "id": "44328",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm102981.htm",
+              "date": "20060717",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA076945",
+      "sponsor_name": "TEVA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20110831",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20050928"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20140103",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20200820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20140103",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076961",
+      "sponsor_name": "SANDOZ",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20041223"
+        }
+      ],
+      "application_number": "ANDA076987",
+      "sponsor_name": "WATSON LABS",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20091106",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20041217"
+        }
+      ],
+      "application_number": "ANDA076739",
+      "sponsor_name": "SUN PHARM INDS LTD",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160113",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20041008"
+        }
+      ],
+      "application_number": "ANDA076188",
+      "sponsor_name": "UPSHER SMITH LABS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "19980811",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "19950502",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19910516",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "23561",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm102981.htm",
+              "date": "20060609",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "19960320",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "33",
+          "submission_status": "AP",
+          "submission_status_date": "20000626",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "19971001",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19921007",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "19960724",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "19991116",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "19970221",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19920922",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "19941230",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "19970108",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19910909",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "19950328",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19910627",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "19940614",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "38",
+          "submission_status": "AP",
+          "submission_status_date": "20031029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "19843",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/19915slr038,20286slr006ltr.pdf",
+              "date": "20031105",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "19990311",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "42",
+          "submission_status": "AP",
+          "submission_status_date": "20090209",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1811",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/019915s042,020286s008ltr.pdf",
+              "date": "20090213",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "34",
+          "submission_status": "AP",
+          "submission_status_date": "20000921",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "19980128",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "19930405",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "19950929",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "32",
+          "submission_status": "AP",
+          "submission_status_date": "20020829",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41094",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/19-915S032.pdf",
+              "date": "20030708",
+              "type": "Review"
+            },
+            {
+              "id": "19842",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/19915slr032ltr.pdf",
+              "date": "20020829",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "19970912",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19920710",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "19950327",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "19990524",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "19970114",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19920625",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "19950208",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19910627",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "19960802",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "19941230",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "19940519",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "20030527",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "51960",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/019915Orig1s037MedR2 merged.pdf",
+              "date": "19000101",
+              "type": "Pediatric Medical Review"
+            },
+            {
+              "id": "51961",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/019915s000_fosinopril_Monopril_WR_orig.pdf",
+              "date": "19000101",
+              "type": "Pediatric Written Request"
+            },
+            {
+              "id": "51962",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/019915s000_fosinopril_Monopril_WR_amend.pdf",
+              "date": "19000101",
+              "type": "Pediatric Amendment 1"
+            },
+            {
+              "id": "51963",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/019915s037_fosinopril_Monopril_StatR_PREA.pdf",
+              "date": "19000101",
+              "type": "Pediatric Statistical Review"
+            },
+            {
+              "id": "1810",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/19915se5-037ltr.pdf",
+              "date": "20030608",
+              "type": "Letter"
+            },
+            {
+              "id": "34099",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2003/19915se5-037_monopril_lbl.pdf",
+              "date": "20030608",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "19990521",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA019915",
+      "sponsor_name": "BRISTOL MYERS SQUIBB",
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "MONOPRIL",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "40MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "MONOPRIL",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "MONOPRIL",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20040423"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20131231",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20131231",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076483",
+      "sponsor_name": "CHARTWELL RX",
+      "openfda": {
+        "application_number": [
+          "ANDA076483"
+        ],
+        "brand_name": [
+          "FOSINOPRIL SODIUM"
+        ],
+        "generic_name": [
+          "FOSINOPRIL SODIUM"
+        ],
+        "manufacturer_name": [
+          "Chartwell RX, LLC"
+        ],
+        "product_ndc": [
+          "62135-041",
+          "62135-042",
+          "62135-043"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FOSINOPRIL SODIUM"
+        ],
+        "rxcui": [
+          "857169",
+          "857183",
+          "857187"
+        ],
+        "spl_id": [
+          "40d2b698-02dc-4589-e063-6394a90afb52"
+        ],
+        "spl_set_id": [
+          "ff1323cc-7ad8-488d-94a7-a11555db78a7"
+        ],
+        "package_ndc": [
+          "62135-041-90",
+          "62135-042-90",
+          "62135-043-90"
+        ],
+        "unii": [
+          "NW2RTH6T2N"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20131231",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20110330"
+        }
+      ],
+      "application_number": "ANDA091163",
+      "sponsor_name": "AUROBINDO PHARMA LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA091163"
+        ],
+        "brand_name": [
+          "FOSINOPRIL SODIUM"
+        ],
+        "generic_name": [
+          "FOSINOPRIL SODIUM"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "65862-471",
+          "65862-472",
+          "65862-473"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FOSINOPRIL SODIUM"
+        ],
+        "rxcui": [
+          "857169",
+          "857183",
+          "857187"
+        ],
+        "spl_id": [
+          "f6a2e63b-e4fb-46c3-8687-eec210b347c4"
+        ],
+        "spl_set_id": [
+          "aee04f17-8ee9-42f5-861f-b6ba17220ca4"
+        ],
+        "package_ndc": [
+          "65862-471-30",
+          "65862-471-90",
+          "65862-471-99",
+          "65862-472-30",
+          "65862-472-90",
+          "65862-472-99",
+          "65862-473-30",
+          "65862-473-90",
+          "65862-473-99"
+        ],
+        "unii": [
+          "NW2RTH6T2N"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20060814"
+        }
+      ],
+      "application_number": "ANDA077705",
+      "sponsor_name": "MYLAN",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20090709"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20200820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20140103",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA079245",
+      "sponsor_name": "AUROBINDO PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA079245"
+        ],
+        "brand_name": [
+          "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE"
+        ],
+        "generic_name": [
+          "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "65862-308",
+          "65862-309"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FOSINOPRIL SODIUM",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "857166",
+          "857174"
+        ],
+        "spl_id": [
+          "34bf0456-37d0-4d7d-a585-1555b7bc9373"
+        ],
+        "spl_set_id": [
+          "35019655-9a30-4305-a262-936ad0e73071"
+        ],
+        "package_ndc": [
+          "65862-308-30",
+          "65862-308-01",
+          "65862-308-99",
+          "65862-309-30",
+          "65862-309-01",
+          "65862-309-99"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "unii": [
+          "0J48LPH2TH",
+          "NW2RTH6T2N"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20150914",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20090709"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20200820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20150914",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA090228",
+      "sponsor_name": "INVAGEN PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA090228"
+        ],
+        "brand_name": [
+          "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE"
+        ],
+        "generic_name": [
+          "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "CIPLA USA INC."
+        ],
+        "product_ndc": [
+          "69097-972",
+          "69097-973"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FOSINOPRIL SODIUM",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "857166",
+          "857174"
+        ],
+        "spl_id": [
+          "25e66ad5-947a-4262-a996-a9695601d301"
+        ],
+        "spl_set_id": [
+          "4e1ed7da-029e-48d6-a5e4-fc7ac11192fb"
+        ],
+        "package_ndc": [
+          "69097-972-07",
+          "69097-973-07"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "unii": [
+          "0J48LPH2TH",
+          "NW2RTH6T2N"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20050816"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200723",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20200820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077144",
+      "sponsor_name": "ANI PHARMS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160829",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA205670",
+      "sponsor_name": "PRINSTON INC",
+      "openfda": {
+        "application_number": [
+          "ANDA205670"
+        ],
+        "brand_name": [
+          "FOSINOPRIL SODIUM"
+        ],
+        "generic_name": [
+          "FOSINOPIRL SODIUM",
+          "FOSINOPRIL SODIUM"
+        ],
+        "manufacturer_name": [
+          "Solco Healthcare LLC"
+        ],
+        "product_ndc": [
+          "43547-386",
+          "43547-387",
+          "43547-388"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FOSINOPRIL SODIUM"
+        ],
+        "rxcui": [
+          "857169",
+          "857183",
+          "857187"
+        ],
+        "spl_id": [
+          "e39b61db-42b8-4ddf-89d1-549c08d49e71"
+        ],
+        "spl_set_id": [
+          "0a66f606-5e6f-473d-8a1e-9ef316adb2e2"
+        ],
+        "package_ndc": [
+          "43547-386-09",
+          "43547-386-11",
+          "43547-387-09",
+          "43547-387-11",
+          "43547-388-09",
+          "43547-388-11"
+        ],
+        "unii": [
+          "NW2RTH6T2N"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20040423"
+        }
+      ],
+      "application_number": "ANDA076580",
+      "sponsor_name": "RANBAXY LABS LTD",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FOSINOPRIL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FOSINOPRIL SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

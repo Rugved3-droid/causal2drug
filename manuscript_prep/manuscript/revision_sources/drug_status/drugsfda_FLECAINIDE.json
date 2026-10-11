@@ -1,0 +1,1163 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 11
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20211103",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20021028"
+        }
+      ],
+      "application_number": "ANDA075882",
+      "sponsor_name": "ANI PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA075882"
+        ],
+        "brand_name": [
+          "FLECAINIDE ACETATE"
+        ],
+        "generic_name": [
+          "FLECAINIDE ACETATE TABLET"
+        ],
+        "manufacturer_name": [
+          "ANI Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "62559-380",
+          "62559-381",
+          "62559-382"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FLECAINIDE ACETATE"
+        ],
+        "rxcui": [
+          "886662",
+          "886666",
+          "886671"
+        ],
+        "spl_id": [
+          "74b708a0-2859-4efd-98a6-0c2f04d20114"
+        ],
+        "spl_set_id": [
+          "5a12889a-52ce-4dc4-9240-22d126f071ac"
+        ],
+        "package_ndc": [
+          "62559-380-01",
+          "62559-381-01",
+          "62559-382-01"
+        ],
+        "unii": [
+          "M8U465Q1WQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "150MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20030328"
+        }
+      ],
+      "application_number": "ANDA076421",
+      "sponsor_name": "SUN PHARM INDS LTD",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "150MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20171103",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA202821",
+      "sponsor_name": "AUROBINDO PHARMA LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA202821"
+        ],
+        "brand_name": [
+          "FLECAINIDE ACETATE"
+        ],
+        "generic_name": [
+          "FLECAINIDE ACETATE"
+        ],
+        "manufacturer_name": [
+          "Rising Pharma Holdings, Inc.",
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "57237-063",
+          "57237-064",
+          "57237-065",
+          "65862-621",
+          "65862-622",
+          "65862-623"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FLECAINIDE ACETATE"
+        ],
+        "rxcui": [
+          "886662",
+          "886666",
+          "886671"
+        ],
+        "spl_id": [
+          "c6b596c3-30c8-4bf6-89f6-03026358a3c6",
+          "c100187f-d40e-4ffe-aab7-068a9f3bd7b9"
+        ],
+        "spl_set_id": [
+          "e56335c1-5508-4136-bd2e-18385623e497",
+          "14e89448-3a18-42e3-8537-2589be1ef94e"
+        ],
+        "package_ndc": [
+          "57237-063-01",
+          "57237-064-01",
+          "57237-065-01",
+          "65862-621-30",
+          "65862-621-01",
+          "65862-621-99",
+          "65862-622-30",
+          "65862-622-01",
+          "65862-622-99",
+          "65862-623-30",
+          "65862-623-01",
+          "65862-623-99"
+        ],
+        "unii": [
+          "M8U465Q1WQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "150MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20000428",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "19990903",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19851031",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "57417",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018830Orig1s000rev.pdf",
+              "date": "19851031",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20160922",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "50349",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/018830Orig1s024ltr.pdf",
+              "date": "20171109",
+              "type": "Letter"
+            },
+            {
+              "id": "69875",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/018830Orig1s024lbl.pdf",
+              "date": "20220113",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA018830",
+      "sponsor_name": "ALVOGEN",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "TAMBOCOR",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "150MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "TAMBOCOR",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "100MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "TAMBOCOR",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "50MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TAMBOCOR",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "200MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20090709"
+        }
+      ],
+      "application_number": "ANDA079164",
+      "sponsor_name": "CHARTWELL",
+      "openfda": {
+        "application_number": [
+          "ANDA079164"
+        ],
+        "brand_name": [
+          "FLECAINIDE ACETATE"
+        ],
+        "generic_name": [
+          "FLECAINIDE ACETATE"
+        ],
+        "manufacturer_name": [
+          "Chartwell RX, LLC"
+        ],
+        "product_ndc": [
+          "62135-660",
+          "62135-661",
+          "62135-662"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FLECAINIDE ACETATE"
+        ],
+        "rxcui": [
+          "886662",
+          "886666",
+          "886671"
+        ],
+        "spl_id": [
+          "25893d71-9846-59aa-e063-6294a90a3f48"
+        ],
+        "spl_set_id": [
+          "a604aee4-30d5-4007-9882-98137d0d867f"
+        ],
+        "package_ndc": [
+          "62135-660-60",
+          "62135-661-60",
+          "62135-662-60"
+        ],
+        "unii": [
+          "M8U465Q1WQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "150MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200916",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210683",
+      "sponsor_name": "REGCON HOLDINGS",
+      "openfda": {
+        "application_number": [
+          "ANDA210683"
+        ],
+        "brand_name": [
+          "FLECAINIDE ACETATE"
+        ],
+        "generic_name": [
+          "FLECAINIDE ACETATE"
+        ],
+        "manufacturer_name": [
+          "UNICHEM PHARMACEUTICALS (USA), INC."
+        ],
+        "product_ndc": [
+          "76385-145",
+          "76385-146",
+          "76385-147"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FLECAINIDE ACETATE"
+        ],
+        "rxcui": [
+          "886662",
+          "886666",
+          "886671"
+        ],
+        "spl_id": [
+          "6e5f6cbe-c7eb-4168-b02b-119798e895d6"
+        ],
+        "spl_set_id": [
+          "5b33e96a-8336-46c4-aac7-4a6c0039cc80"
+        ],
+        "package_ndc": [
+          "76385-145-01",
+          "76385-145-60",
+          "76385-146-01",
+          "76385-146-60",
+          "76385-147-60",
+          "76385-147-01"
+        ],
+        "unii": [
+          "M8U465Q1WQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "150MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20010731"
+        }
+      ],
+      "application_number": "ANDA075442",
+      "sponsor_name": "AMNEAL PHARM",
+      "openfda": {
+        "application_number": [
+          "ANDA075442"
+        ],
+        "brand_name": [
+          "FLECAINIDE ACETATE"
+        ],
+        "generic_name": [
+          "FLECAINIDE ACETATE"
+        ],
+        "manufacturer_name": [
+          "Amneal Pharmaceuticals LLC",
+          "Amneal Pharmaceuticals of New York LLC"
+        ],
+        "product_ndc": [
+          "65162-641",
+          "65162-642",
+          "65162-643",
+          "53746-641",
+          "53746-642",
+          "53746-643"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FLECAINIDE ACETATE"
+        ],
+        "rxcui": [
+          "886662",
+          "886666",
+          "886671"
+        ],
+        "spl_id": [
+          "2d832566-4d97-4605-a207-04c4a0214213",
+          "e9e0eab5-efc5-4bac-8d46-0bce60b2fcc5"
+        ],
+        "spl_set_id": [
+          "d462d58e-fc3c-4c92-a210-e135eb1f4b77",
+          "ee9595d5-08a1-4529-9215-ddc3c7f929c4"
+        ],
+        "package_ndc": [
+          "65162-641-10",
+          "65162-641-11",
+          "65162-642-10",
+          "65162-642-11",
+          "65162-643-10",
+          "65162-643-11",
+          "53746-641-01",
+          "53746-641-10",
+          "53746-642-01",
+          "53746-642-10",
+          "53746-643-01",
+          "53746-643-10"
+        ],
+        "unii": [
+          "M8U465Q1WQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "150MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20021028",
+          "application_docs": [
+            {
+              "id": "8850",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/76030ta.pdf",
+              "date": "20030416",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA076030",
+      "sponsor_name": "ANI PHARMS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "150MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20260422",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA218093",
+      "sponsor_name": "MICRO LABS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "150MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220908",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA215599",
+      "sponsor_name": "YICHANG HUMANWELL",
+      "openfda": {
+        "application_number": [
+          "ANDA215599"
+        ],
+        "brand_name": [
+          "FLECAINIDE ACETATE"
+        ],
+        "generic_name": [
+          "FLECAINIDE ACETATE"
+        ],
+        "manufacturer_name": [
+          "Epic Pharma, LLC"
+        ],
+        "product_ndc": [
+          "42806-817",
+          "42806-818",
+          "42806-819"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FLECAINIDE ACETATE"
+        ],
+        "rxcui": [
+          "886662",
+          "886666",
+          "886671"
+        ],
+        "spl_id": [
+          "52eef22b-3545-b398-e063-6394a90aec29"
+        ],
+        "spl_set_id": [
+          "74c1eb2a-a37f-4f33-86bf-51e0d1d0c2bc"
+        ],
+        "package_ndc": [
+          "42806-817-01",
+          "42806-818-01",
+          "42806-819-01"
+        ],
+        "unii": [
+          "M8U465Q1WQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "150MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20030114"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20150217",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20071107",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076278",
+      "sponsor_name": "HIKMA PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA076278"
+        ],
+        "brand_name": [
+          "FLECAINIDE ACETATE"
+        ],
+        "generic_name": [
+          "FLECAINIDE ACETATE"
+        ],
+        "manufacturer_name": [
+          "Hikma Pharmaceuticals USA Inc."
+        ],
+        "product_ndc": [
+          "0054-0010",
+          "0054-0011",
+          "0054-0012"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FLECAINIDE ACETATE"
+        ],
+        "rxcui": [
+          "886662",
+          "886666",
+          "886671"
+        ],
+        "spl_id": [
+          "e34a6adf-8794-426e-9e43-11060803a90d"
+        ],
+        "spl_set_id": [
+          "4f6b78d4-8ac8-464b-bb78-ee70cbc97898"
+        ],
+        "package_ndc": [
+          "0054-0010-25",
+          "0054-0010-21",
+          "0054-0010-20",
+          "0054-0011-25",
+          "0054-0011-21",
+          "0054-0011-20",
+          "0054-0012-21",
+          "0054-0012-25",
+          "0054-0012-20"
+        ],
+        "unii": [
+          "M8U465Q1WQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "FLECAINIDE ACETATE",
+          "active_ingredients": [
+            {
+              "name": "FLECAINIDE ACETATE",
+              "strength": "150MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    }
+  ]
+}

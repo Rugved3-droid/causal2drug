@@ -1,0 +1,249 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20140507",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "application_docs": [
+            {
+              "id": "32444",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/203568Orig1s002ltr.pdf",
+              "date": "20140509",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20190318",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "58038",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/203568Orig1s011ltr.pdf",
+              "date": "20190319",
+              "type": "Letter"
+            },
+            {
+              "id": "58044",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/203568s011lbl.pdf",
+              "date": "20190320",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20171025",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "50224",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/203568Orig1s009ltr.pdf",
+              "date": "20171030",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20150708",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20150728",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "10236",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/203568Orig1s005ltr.pdf",
+              "date": "20150729",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20130129",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "43440",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2013/203568Orig1s000TOC.html",
+              "date": "20130227",
+              "type": "Review"
+            },
+            {
+              "id": "10234",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/203568Orig1s000ltr.pdf",
+              "date": "20130131",
+              "type": "Letter"
+            },
+            {
+              "id": "19484",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/203568s000lbl.pdf",
+              "date": "20130130",
+              "type": "Label"
+            },
+            {
+              "id": "23503",
+              "url": "http://www.fda.gov/downloads/Drugs/DrugSafety/UCM337730.pdf",
+              "date": "20130205",
+              "type": "Medication Guide"
+            },
+            {
+              "id": "24116",
+              "title": "REMS",
+              "url": "http://www.accessdata.fda.gov/scripts/cder/rems/index.cfm?event=IndvRemsDetails.page&REMS=27",
+              "date": "20130130",
+              "type": "Other"
+            },
+            {
+              "id": "24440",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2013/203568Orig1s000SumR.pdf",
+              "date": "20130227",
+              "type": "Summary Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20160523",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "10237",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/203568Orig1s008ltr.pdf",
+              "date": "20160525",
+              "type": "Letter"
+            },
+            {
+              "id": "40313",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/203568s008lbl.pdf",
+              "date": "20160525",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20150701",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20150226",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "10235",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/203568Orig1s004ltr.pdf",
+              "date": "20150227",
+              "type": "Letter"
+            },
+            {
+              "id": "19485",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/203568s004lbl.pdf",
+              "date": "20150303",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA203568",
+      "sponsor_name": "KASTLE THERAPS LLC",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "KYNAMRO",
+          "active_ingredients": [
+            {
+              "name": "MIPOMERSEN SODIUM",
+              "strength": "200MG/ML (200MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

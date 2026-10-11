@@ -1,0 +1,25 @@
+{
+  "built_utc": "2026-09-01T00:52:56Z",
+  "files": {
+    "cardiovascular_atlas.csv": {
+      "bytes": 106342,
+      "sha256": "54443cc9076181cdf1cc2e60efcd39ebcd4976a5645523a572cc8925c59636ed"
+    },
+    "cardiovascular_atlas.parquet": {
+      "bytes": 45020,
+      "sha256": "9468efcf4767523b79fcf09a4a9e62646bc25ce8c551271fd2dfdcca4183f61c"
+    },
+    "classB_upper_bound.csv": {
+      "bytes": 17674,
+      "sha256": "682d735099882eed108c1396b964360e4fc2bcdac813d1d44abd3ad5a67507d7"
+    },
+    "DATA_DICTIONARY.md": {
+      "bytes": 14959,
+      "sha256": "e72b5293544458822da445e7142ed8f051544eeadb061ab741d0eb007a7231ea"
+    },
+    "README.md": {
+      "bytes": 3718,
+      "sha256": "f3dc4eed17d7353bc6a77fcb59272080d86f3ca129ab29722fda62f785101ac7"
+    }
+  }
+}

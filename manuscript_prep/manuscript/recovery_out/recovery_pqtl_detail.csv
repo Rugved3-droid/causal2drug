@@ -1,0 +1,669 @@
+gene,study,matched_by,variant_and_position_in_table_build,neglog10_p,bp_from_gene_body,within_100kb,note
+ACE2,UKB-PPP,symbol,rs5934255 (chrX:15646263),128.298,39027,True,ST9
+ACE2,UKB-PPP,symbol,rs5934255 (chrX:15646263),186.832,39027,True,ST10
+ACHE,UKB-PPP,symbol,rs6976053 (chr7:100914499),404.948,17525,True,ST9
+ACHE,UKB-PPP,symbol,rs6976053 (chr7:100914499),579.901,17525,True,ST10
+ADIPOQ,Fenland,ensembl_id+symbol,rs182052 (chr3:186560782),20.829738284605043,0,True,aptamer SeqId_3554_24; signal rank 4
+ADIPOQ,Fenland,ensembl_id+symbol,rs17366653 (chr3:186570816),32.014573525917,0,True,aptamer SeqId_3554_24; signal rank 3
+ADIPOQ,Fenland,ensembl_id+symbol,rs17300539 (chr3:186559460),58.585026652029185,1003,True,aptamer SeqId_3554_24; signal rank 2
+ADIPOQ,Fenland,ensembl_id+symbol,rs141134215 (chr3:186561201),73.65364702554936,0,True,aptamer SeqId_3554_24; signal rank 1
+ADIPOQ,UKB-PPP,symbol,rs143257534 (chr3:186834099),198.67,8605,True,ST9
+ADIPOQ,UKB-PPP,symbol,rs76786086 (chr3:186842019),299.432,685,True,ST10
+ADIPOQ,deCODE,ensembl_id+symbol,rs266770 (chr3:186827389),10.3,15301,True,aptamer 3554_24; distTSS 15284
+ADIPOQ,deCODE,ensembl_id+symbol,chr3:186984738 (chr3:186984738),10.51,126275,False,aptamer 3554_24; distTSS 142065
+ADIPOQ,deCODE,ensembl_id+symbol,rs17366653 (chr3:186853027),21.68,0,True,aptamer 3554_24; distTSS 10354
+ADIPOQ,deCODE,ensembl_id+symbol,rs7616259 (chr3:186836827),35.56,5863,True,aptamer 3554_24; distTSS 5846
+ADIPOQ,deCODE,ensembl_id+symbol,rs114155159 (chr3:186853084),49.7,0,True,aptamer 3554_24; distTSS 10411
+ADIPOQ,deCODE,ensembl_id+symbol,rs749336625 (chr3:186854538),74.52,0,True,aptamer 3554_24; distTSS 11865
+ADIPOQ,deCODE,ensembl_id+symbol,rs17300539 (chr3:186841671),99.42,1019,True,aptamer 3554_24; distTSS 1002
+ADIPOQ,deCODE,ensembl_id+symbol,rs143257534 (chr3:186834099),153.73,8591,True,aptamer 3554_24; distTSS 8574
+AGT,Fenland,ensembl_id+symbol,rs1326883 (chr1:230847686),11.581698708680255,0,True,aptamer SeqId_3484_60; signal rank 2
+AGT,Fenland,ensembl_id+symbol,rs11122580 (chr1:230851044),74.49757288001557,1001,True,aptamer SeqId_3484_60; signal rank 1
+AGT,UKB-PPP,symbol,rs4762 (chr1:230710231),881.132,0,True,ST9
+AGT,UKB-PPP,symbol,rs4762 (chr1:230710231),1215.72,0,True,ST10
+AGT,deCODE,ensembl_id+symbol,chr1:230692788 (chr1:230692788),12.83,9735,True,aptamer 3484_60; distTSS 21802
+AGT,deCODE,ensembl_id+symbol,rs57150750 (chr1:230719363),18.48,5066,True,aptamer 3484_60; distTSS 4773
+AGT,deCODE,ensembl_id+symbol,rs61829763 (chr1:230696028),21.55,6495,True,aptamer 3484_60; distTSS 18562
+AGT,deCODE,ensembl_id+symbol,rs61731497 (chr1:230710700),35.19,0,True,aptamer 3484_60; distTSS 3890
+AGT,deCODE,ensembl_id+symbol,rs11568055 (chr1:230708860),46.44,0,True,aptamer 3484_60; distTSS 5730
+AGT,deCODE,ensembl_id+symbol,rs2071404 (chr1:230715194),91.16,897,True,aptamer 3484_60; distTSS 604
+ALPP,Fenland,ensembl_id+symbol,rs2090543 (chr2:233274145),28.222573177610688,26546,True,aptamer SeqId_7813_6; signal rank 4
+ALPP,Fenland,ensembl_id+symbol,rs139595493 (chr2:233307925),48.77469071827414,60326,True,aptamer SeqId_7813_6; signal rank 3
+ALPP,Fenland,ensembl_id+symbol,rs2853378 (chr2:233245026),67.96257350205937,0,True,aptamer SeqId_7813_6; signal rank 2
+ALPP,Fenland,ensembl_id+symbol,rs12478529 (chr2:233286654),138.70774392864354,39055,True,aptamer SeqId_7813_6; signal rank 1
+ALPP,UKB-PPP,symbol,rs12478529 (chr2:232421944),728.959,39055,True,ST9
+ALPP,UKB-PPP,symbol,rs12478529 (chr2:232421944),1048.87,39055,True,ST10
+ANGPTL3,Fenland,ensembl_id+symbol,rs72649573 (chr1:63063616),22.585026652029182,0,True,aptamer SeqId_10391_1; signal rank 2
+ANGPTL3,Fenland,ensembl_id+symbol,rs11207970 (chr1:62915473),95.67162039656127,147685,False,aptamer SeqId_10391_1; signal rank 1
+ANGPTL3,UKB-PPP,symbol,rs763015008 (chr1:62508787),350.515,88733,True,ST9
+ANGPTL3,UKB-PPP,symbol,rs775677524 (chr1:62604866),500.343,0,True,ST10
+ANGPTL3,deCODE,ensembl_id+symbol,rs112068132 (chr1:62598796),8.75,0,True,aptamer 10391_1; distTSS 1310
+ANGPTL3,deCODE,ensembl_id+symbol,rs149086653 (chr1:62597794),32.88,0,True,aptamer 10391_1; distTSS 308
+ANGPTL3,deCODE,ensembl_id+symbol,chr1:62722000 (chr1:62722000),35.09,115841,False,aptamer 10391_1; distTSS 124514
+ANGPTL3,deCODE,ensembl_id+symbol,rs560949733 (chr1:62774312),42.96,168153,False,aptamer 10391_1; distTSS 176826
+ANGPTL3,deCODE,ensembl_id+symbol,rs10889352 (chr1:62633352),174.22,27193,True,aptamer 10391_1; distTSS 35866
+ANGPTL3,deCODE,ensembl_id+symbol,rs773045547 (chr1:62602317),268.22,0,True,aptamer 10391_1; distTSS 4831
+ANGPTL4,UKB-PPP,symbol,rs2278236 (chr19:8366697),302.781,0,True,ST9
+ANGPTL4,UKB-PPP,symbol,rs2278236 (chr19:8366697),437.041,0,True,ST10
+ANGPTL4,deCODE,ensembl_id+symbol,rs539432790 (chr19:10101623),17.55,1727251,False,aptamer 3796_79; distTSS 1737497
+ANGPTL4,deCODE,ensembl_id+symbol,rs116843064 (chr19:8364439),34.18,0,True,aptamer 3796_79; distTSS 313
+AOC3,UKB-PPP,symbol,rs33986943 (chr17:42852620),1230.96,0,True,ST9
+AOC3,UKB-PPP,symbol,rs33986943 (chr17:42852620),1743.24,0,True,ST10
+APCS,Fenland,ensembl_id+symbol,rs28383573 (chr1:159558672),33.761953896871205,17,True,aptamer SeqId_2474_54; signal rank 2
+APCS,Fenland,ensembl_id+symbol,rs35737842 (chr1:159566207),60.93930215964639,7552,True,aptamer SeqId_2474_54; signal rank 1
+APCS,UKB-PPP,symbol,rs36126250 (chr1:159593911),113.127,5046,True,ST9
+APCS,UKB-PPP,symbol,rs36126250 (chr1:159593911),179.486,5046,True,ST10
+APCS,deCODE,ensembl_id+symbol,rs61823707 (chr1:159587594),12.27,231,True,aptamer 2474_54; distTSS 231
+APCS,deCODE,ensembl_id+symbol,rs189230302 (chr1:159263897),54.25,323928,False,aptamer 2474_54; distTSS 323928
+APCS,deCODE,ensembl_id+symbol,rs28383573 (chr1:159588882),71.85,17,True,aptamer 2474_54; distTSS 1057
+APCS,deCODE,ensembl_id+symbol,rs146174215 (chr1:159574733),114.57,13092,True,aptamer 2474_54; distTSS 13092
+APOA1,UKB-PPP,symbol,rs2727784 (chr11:116840425),16.7435,2803,True,ST9
+APOA1,UKB-PPP,symbol,rs2727784 (chr11:116840425),26.4594,2803,True,ST10
+APOA1,deCODE,ensembl_id+symbol,chr11:117023597 (chr11:117023597),9.69,185647,False,aptamer 2750_3; distTSS 185647
+APOA1,deCODE,ensembl_id+symbol,rs137874999 (chr11:117720333),9.71,882383,False,aptamer 2750_3; distTSS 882383
+APOA1,deCODE,ensembl_id+symbol,rs561466981 (chr11:116968154),16.05,130204,False,aptamer 2750_3; distTSS 130204
+APOA1,deCODE,ensembl_id+symbol,rs182533823 (chr11:116665008),21.9,170743,False,aptamer 2750_3; distTSS 172942
+APOA1,deCODE,ensembl_id+symbol,rs373545875 (chr11:116837074),469.25,0,True,aptamer 2750_3; distTSS 876
+APOB,Fenland,ensembl_id+symbol,rs541041 (chr2:21294975),12.978810700930062,28030,True,aptamer SeqId_2797_56; signal rank 1
+APOB,deCODE,ensembl_id+symbol,rs560427574 (chr2:20521315),10.6,480114,False,aptamer 2797_56; distTSS 522758
+APOB,deCODE,ensembl_id+symbol,rs142114415 (chr2:21032396),10.87,0,True,aptamer 2797_56; distTSS 11677
+APOB,deCODE,ensembl_id+symbol,rs12713844 (chr2:21015541),11.42,0,True,aptamer 2797_56; distTSS 28532
+APOB,deCODE,ensembl_id+symbol,rs563290 (chr2:21065354),12.7,21281,True,aptamer 2797_56; distTSS 21281
+APOC3,Fenland,ensembl_id+symbol,rs964184 (chr11:116648917),26.0762380391713,51505,True,aptamer SeqId_6461_54; signal rank 1
+APOC3,deCODE,ensembl_id+symbol,rs45611741 (chr11:116792412),10.21,37294,True,aptamer 6461_54; distTSS 37479
+APOC3,deCODE,ensembl_id+symbol,rs964184 (chr11:116778201),62.53,51505,True,aptamer 6461_54; distTSS 51690
+APOC3,deCODE,ensembl_id+symbol,rs192489212 (chr11:117349713),142.93,516641,False,aptamer 6461_54; distTSS 519822
+APOE,Fenland,ensembl_id+symbol,rs35136575 (chr19:45439163),36.84466396253494,26513,True,aptamer SeqId_2418_55; signal rank 3
+APOE,Fenland,ensembl_id+symbol,rs5112 (chr19:45430280),68.14146280243035,17630,True,aptamer SeqId_2418_55; signal rank 2
+APOE,Fenland,ensembl_id+symbol,rs483082 (chr19:45416178),108.14206473528057,3528,True,aptamer SeqId_2418_55; signal rank 1
+APOE,UKB-PPP,symbol,rs429358 (chr19:44908684),2069.64,0,True,ST9
+APOE,UKB-PPP,symbol,rs429358 (chr19:44908684),3102.3,0,True,ST10
+APOE,deCODE,ensembl_id+symbol,rs5112 (chr19:44927023),19.24,17630,True,aptamer 2418_55; distTSS 21275
+APOE,deCODE,ensembl_id+symbol,rs769452 (chr19:44907853),26.99,0,True,aptamer 2418_55; distTSS 2105
+APOE,deCODE,ensembl_id+symbol,rs483082 (chr19:44912921),77.79,3528,True,aptamer 2418_55; distTSS 7173
+APOE,deCODE,ensembl_id+symbol,rs35136575 (chr19:44935906),95.07,26513,True,aptamer 2418_55; distTSS 30158
+APOE,deCODE,ensembl_id+symbol,rs9636134 (chr19:44929231),188.42,19838,True,aptamer 2418_55; distTSS 23483
+APOF,Fenland,ensembl_id+symbol,rs2643623 (chr12:56689725),33.031517051446066,64628,True,aptamer SeqId_12370_30; signal rank 1
+APOF,UKB-PPP,symbol,rs2020854 (chr12:56349583),132.162,10985,True,ST9
+APOF,UKB-PPP,symbol,rs4301822 (chr12:56361274),298.394,0,True,ST10
+APOF,deCODE,ensembl_id+symbol,rs11575222 (chr12:56360210),10.67,359,True,aptamer 12370_30; distTSS 2589
+APOF,deCODE,ensembl_id+symbol,rs2020854 (chr12:56349583),101.49,10986,True,aptamer 12370_30; distTSS 13216
+B4GALT2,Fenland,ensembl_id+symbol,rs76371137 (chr1:44380585),21.619788758288394,64030,True,aptamer SeqId_9595_11; signal rank 2
+B4GALT2,Fenland,ensembl_id+symbol,rs3762423 (chr1:44445667),137.34582345812203,0,True,aptamer SeqId_9595_11; signal rank 1
+B4GALT2,deCODE,ensembl_id+symbol,rs2993619 (chr1:43989531),9.81,0,True,aptamer 9595_11; distTSS 10330
+B4GALT2,deCODE,ensembl_id+symbol,rs79401056 (chr1:43994960),11.09,3790,True,aptamer 9595_11; distTSS 15759
+B4GALT2,deCODE,ensembl_id+symbol,rs753720865 (chr1:43990419),13.39,0,True,aptamer 9595_11; distTSS 11218
+B4GALT2,deCODE,ensembl_id+symbol,rs3762423 (chr1:43979995),126.76,0,True,aptamer 9595_11; distTSS 794
+BGN,deCODE,ensembl_id+symbol,rs1042103 (chrX:153508573),13.29,0,True,aptamer 3284_75; distTSS 13685
+BGN,deCODE,ensembl_id+symbol,rs743641 (chrX:153508696),26.93,0,True,aptamer 3284_75; distTSS 13808
+BTK,deCODE,ensembl_id+symbol,"rs35354693,rs534812782 (chrX:101327756)",9.11,21691,True,aptamer 19202_10; distTSS 63040
+CCL11,Fenland,ensembl_id+symbol,rs9903369 (chr17:32519101),18.216096420727265,93586,True,aptamer SeqId_5301_7; signal rank 1
+CCL11,UKB-PPP,symbol,rs140905292 (chr17:34188515),44.5458,97227,True,ST9
+CCL11,UKB-PPP,symbol,rs144327946 (chr17:34188511),59.0412,97231,True,ST10
+CCL11,deCODE,ensembl_id+symbol,rs9675315 (chr17:34214241),11.16,71427,True,aptamer 5301_7; distTSS 71426
+CCL11,deCODE,ensembl_id+symbol,rs1989357 (chr17:34227435),43.57,58233,True,aptamer 5301_7; distTSS 58232
+CCN1,UKB-PPP,symbol,rs4949896 (chr1:85596653),45.0054,12064,True,ST9
+CCN1,UKB-PPP,symbol,rs4949912 (chr1:85597406),81.0473,12817,True,ST10
+CD40LG,Fenland,ensembl_id+symbol,X:135730217_A_C (chrX:135730217),23.987162775294827,135,True,aptamer SeqId_3534_14; signal rank 2
+CD40LG,Fenland,ensembl_id+symbol,rs148594123 (chrX:135741443),31.707743928643524,0,True,aptamer SeqId_3534_14; signal rank 1
+CD40LG,UKB-PPP,symbol,rs36206512 (chrX:136648058),222.696,100,True,ST9
+CD40LG,UKB-PPP,symbol,rs36206512 (chrX:136648058),314.572,100,True,ST10
+CD40LG,deCODE,ensembl_id+symbol,rs17284074 (chrX:136585260),9.5,62933,True,aptamer 3534_14; distTSS 62916
+CD40LG,deCODE,ensembl_id+symbol,rs148594123 (chrX:136659284),13.35,0,True,aptamer 3534_14; distTSS 11108
+CD40LG,deCODE,ensembl_id+symbol,rs36206512 (chrX:136648045),15.65,148,True,aptamer 3534_14; distTSS 131
+CD74,UKB-PPP,symbol,rs79078220 (chr5:150414087),14.157,1118,True,ST9
+CD74,UKB-PPP,symbol,rs55796634 (chr5:150412774),20.1226,0,True,ST10
+CDH17,Fenland,ensembl_id+symbol,rs1051624 (chr8:95143172),73.91009488856061,0,True,aptamer SeqId_16613_3; signal rank 2
+CDH17,Fenland,ensembl_id+symbol,8:95203825_I_D (chr8:95203825),163.37882371822496,0,True,aptamer SeqId_16613_3; signal rank 1
+CDH17,UKB-PPP,symbol,rs763526069 (chr8:94191597),359.087,0,True,ST9
+CDH17,UKB-PPP,symbol,rs11786049 (chr8:94191839),524.738,0,True,ST10
+CDH17,deCODE,ensembl_id+symbol,rs377115276 (chr8:94152094),12.73,0,True,aptamer 16613_3; distTSS 65209
+CDH17,deCODE,ensembl_id+symbol,rs1051623 (chr8:94130958),21.02,0,True,aptamer 16613_3; distTSS 86345
+CDH17,deCODE,ensembl_id+symbol,rs755469213 (chr8:94130730),22.3,0,True,aptamer 16613_3; distTSS 86573
+CDH17,deCODE,ensembl_id+symbol,rs76116338 (chr8:94223163),31.56,5860,True,aptamer 16613_3; distTSS 5860
+CDH17,deCODE,ensembl_id+symbol,rs76294589 (chr8:94195640),34.98,0,True,aptamer 16613_3; distTSS 21663
+CDH17,deCODE,ensembl_id+symbol,rs199750626 (chr8:94170535),45.19,0,True,aptamer 16613_3; distTSS 46768
+CDH17,deCODE,ensembl_id+symbol,rs3757995 (chr8:94189875),102.23,0,True,aptamer 16613_3; distTSS 27428
+CDH17,deCODE,ensembl_id+symbol,rs1051624 (chr8:94130944),117.01,0,True,aptamer 16613_3; distTSS 86359
+CDH17,deCODE,ensembl_id+symbol,rs7833351 (chr8:94169950),211.48,0,True,aptamer 16613_3; distTSS 47353
+CDH5,Fenland,ensembl_id+symbol,rs1972838 (chr16:66428226),38.48811663902113,0,True,aptamer SeqId_2819_23; signal rank 1
+CDH5,UKB-PPP,symbol,rs16956504 (chr16:66398478),168.139,0,True,ST9
+CDH5,UKB-PPP,symbol,rs16956504 (chr16:66398478),230.15,0,True,ST10
+CDH5,deCODE,ensembl_id+symbol,rs67147325 (chr16:66364863),8.89,1759,True,aptamer 2819_23; distTSS 1743
+CDH5,deCODE,ensembl_id+symbol,rs11649312 (chr16:66395395),68.56,0,True,aptamer 2819_23; distTSS 28789
+CFI,Fenland,ensembl_id+symbol,rs7439493 (chr4:110656730),84.15242734085788,5122,True,aptamer SeqId_2567_5; signal rank 1
+CFI,UKB-PPP,symbol,rs10033900 (chr4:109737911),187.878,0,True,ST9
+CFI,UKB-PPP,symbol,rs10033900 (chr4:109737911),244.905,0,True,ST10
+CFI,deCODE,ensembl_id+symbol,rs11568942 (chr4:109961840),11.88,159661,False,aptamer 2567_5; distTSS 159615
+CFI,deCODE,ensembl_id+symbol,rs771880365 (chr4:109766682),15.75,0,True,aptamer 2567_5; distTSS 35543
+CFI,deCODE,ensembl_id+symbol,rs10033900 (chr4:109737911),20.29,2783,True,aptamer 2567_5; distTSS 64314
+CFI,deCODE,ensembl_id+symbol,rs121964912 (chr4:109746398),28.64,0,True,aptamer 2567_5; distTSS 55827
+CFI,deCODE,ensembl_id+symbol,rs777318032 (chr4:109793426),28.75,0,True,aptamer 2567_5; distTSS 8799
+CFI,deCODE,ensembl_id+symbol,rs13117504 (chr4:109737700),123.51,2994,True,aptamer 2567_5; distTSS 64525
+CNTFR,Fenland,ensembl_id+symbol,rs112705561 (chr9:34628891),20.958607314841775,38770,True,aptamer SeqId_14101_2; signal rank 2
+CNTFR,Fenland,ensembl_id+symbol,rs10972159 (chr9:34593086),47.66554624884907,2965,True,aptamer SeqId_14101_2; signal rank 1
+CNTFR,deCODE,ensembl_id+symbol,rs2480559 (chr9:34677541),9.69,87401,True,aptamer 14101_2; distTSS 87155
+CNTFR,deCODE,ensembl_id+symbol,rs752089016 (chr9:33945779),9.78,605653,False,aptamer 14101_2; distTSS 644607
+CNTFR,deCODE,ensembl_id+symbol,rs763130808 (chr9:33834469),13.49,716963,False,aptamer 14101_2; distTSS 755917
+CNTFR,deCODE,ensembl_id+symbol,rs2183012 (chr9:34554022),14.46,0,True,aptamer 14101_2; distTSS 36364
+CNTFR,deCODE,ensembl_id+symbol,rs72737103 (chr9:34576584),42.41,0,True,aptamer 14101_2; distTSS 13802
+CNTFR,deCODE,ensembl_id+symbol,rs10972159 (chr9:34593088),124.08,2948,True,aptamer 14101_2; distTSS 2702
+CPB2,Fenland,ensembl_id+symbol,rs17703565 (chr13:46619907),76.44855000202712,7414,True,aptamer SeqId_3518_54; signal rank 2
+CPB2,Fenland,ensembl_id+symbol,rs7336360 (chr13:46641081),838.1135020528149,0,True,aptamer SeqId_3518_54; signal rank 1
+CPB2,UKB-PPP,symbol,rs6561283 (chr13:46066702),1380.51,0,True,ST9
+CPB2,UKB-PPP,symbol,rs6561283 (chr13:46066702),1984.65,0,True,ST10
+CPB2,deCODE,ensembl_id+symbol,"rs145367717,rs59425538 (chr13:46059595)",10.5,0,True,aptamer 3518_54; distTSS 45481
+CPB2,deCODE,ensembl_id+symbol,rs2274381 (chr13:46052322),12.93,864,True,aptamer 3518_54; distTSS 52754
+CPB2,deCODE,ensembl_id+symbol,chr13:46124248 (chr13:46124248),13.7,19172,True,aptamer 3518_54; distTSS 19172
+CPB2,deCODE,ensembl_id+symbol,rs9562637 (chr13:46071410),25.77,0,True,aptamer 3518_54; distTSS 33666
+CPB2,deCODE,ensembl_id+symbol,rs9567607 (chr13:46046688),27.57,6498,True,aptamer 3518_54; distTSS 58388
+CPB2,deCODE,ensembl_id+symbol,rs776852671 (chr13:46063889),40.14,0,True,aptamer 3518_54; distTSS 41187
+CPB2,deCODE,ensembl_id+symbol,rs17067467 (chr13:45943774),40.44,109412,False,aptamer 3518_54; distTSS 161302
+CPB2,deCODE,ensembl_id+symbol,rs3736943 (chr13:46044936),130.4,8250,True,aptamer 3518_54; distTSS 60140
+CPB2,deCODE,ensembl_id+symbol,rs9534312 (chr13:46076084),764.1,0,True,aptamer 3518_54; distTSS 28992
+CRP,Fenland,ensembl_id+symbol,rs4546916 (chr1:159699249),34.74232142513082,14870,True,aptamer SeqId_4337_49; signal rank 1
+CRP,deCODE,ensembl_id+symbol,chr1:159750643 (chr1:159750643),23.64,36054,True,aptamer 4337_49; distTSS 36054
+CRP,deCODE,ensembl_id+symbol,rs1800947 (chr1:159713648),25.89,0,True,aptamer 4337_49; distTSS 941
+CRP,deCODE,ensembl_id+symbol,chr1:159714875 (chr1:159714875),87.3,286,True,aptamer 4337_49; distTSS 286
+CSF2RA,Fenland,ensembl_id+symbol,rs78468042 (chrX:1423039),1934.4178161955367,0,True,aptamer SeqId_10438_19; signal rank 1
+CSF3,UKB-PPP,symbol,rs748908389 (chr17:39973272),23.4414,42089,True,ST9
+CSF3,UKB-PPP,symbol,rs9898547 (chr17:39979773),35.1187,35588,True,ST10
+CTF1,UKB-PPP,symbol,- (chr16:30989405),10.9493,85858,True,ST9
+CTF1,UKB-PPP,symbol,- (chr16:30976059),14.1523,72512,True,ST10
+CX3CL1,Fenland,ensembl_id+symbol,rs62037103 (chr16:57434140),26.593459819566046,15180,True,aptamer SeqId_2827_23; signal rank 1
+CX3CL1,UKB-PPP,symbol,rs781264602 (chr16:57375150),195.44,0,True,ST9
+CX3CL1,UKB-PPP,symbol,rs781264602 (chr16:57375150),281.278,0,True,ST10
+CX3CL1,deCODE,ensembl_id+symbol,rs2308249 (chr16:57380657),9.69,0,True,aptamer 2827_23; distTSS 8200
+CX3CL1,deCODE,ensembl_id+symbol,rs62037084 (chr16:57379748),35.67,0,True,aptamer 2827_23; distTSS 7291
+CXCL12,Fenland,ensembl_id+symbol,rs1023264 (chr10:44893756),20.688246138944244,11815,True,aptamer SeqId_3516_60; signal rank 1
+CXCL12,UKB-PPP,symbol,rs11239028 (chr10:44387717),127.541,1224,True,ST9
+CXCL12,UKB-PPP,symbol,rs11239028 (chr10:44387717),184.637,1224,True,ST10
+CXCL12,deCODE,ensembl_id+symbol,rs564029257 (chr10:44389722),9.12,3229,True,aptamer 9278_9; distTSS 4625
+CXCL12,deCODE,ensembl_id+symbol,"rs5784618,rs796766539 (chr10:44002136)",10.2,368029,False,aptamer 3516_60; distTSS 382961
+CXCL12,deCODE,ensembl_id+symbol,rs266085 (chr10:44378805),10.58,0,True,aptamer 3516_60; distTSS 6292
+CXCL12,deCODE,ensembl_id+symbol,rs10900029 (chr10:44366772),10.71,3393,True,aptamer 9278_9; distTSS 18325
+CXCL12,deCODE,ensembl_id+symbol,rs7918194 (chr10:44606972),10.99,220479,False,aptamer 9278_9; distTSS 221875
+CXCL12,deCODE,ensembl_id+symbol,rs138862128 (chr10:44380811),13.62,0,True,aptamer 3516_60; distTSS 4286
+CXCL12,deCODE,ensembl_id+symbol,rs10793518 (chr10:44015012),13.68,355153,False,aptamer 9278_9; distTSS 370085
+CXCL12,deCODE,ensembl_id+symbol,rs138862128 (chr10:44380811),16.23,0,True,aptamer 9278_9; distTSS 4286
+CXCL12,deCODE,ensembl_id+symbol,rs1159194081 (chr10:44411769),20.82,25276,True,aptamer 3516_60; distTSS 26672
+CXCL12,deCODE,ensembl_id+symbol,rs1023264 (chr10:44398308),53.15,11815,True,aptamer 3516_60; distTSS 13211
+EDIL3,UKB-PPP,symbol,- (chr5:84018783),28.2514,0,True,ST9
+EDIL3,UKB-PPP,symbol,rs66802107 (chr5:84025262),35.801,0,True,ST10
+EDIL3,deCODE,ensembl_id+symbol,rs138920492 (chr5:84066493),9.11,0,True,aptamer 9360_33; distTSS 318374
+EDIL3,deCODE,ensembl_id+symbol,rs2457501 (chr5:84362143),9.52,0,True,aptamer 9360_33; distTSS 22724
+EDIL3,deCODE,ensembl_id+symbol,chr5:84041145 (chr5:84041145),11.09,0,True,aptamer 9360_33; distTSS 343722
+EDIL3,deCODE,ensembl_id+symbol,rs10434639 (chr5:83914528),13.07,26026,True,aptamer 9360_33; distTSS 470339
+EGFR,Fenland,ensembl_id+symbol,rs17290183 (chr7:55233185),10.688246138944246,0,True,aptamer SeqId_2677_1; signal rank 2
+EGFR,Fenland,ensembl_id+symbol,rs12669749 (chr7:55235804),17.05749589383192,0,True,aptamer SeqId_2677_1; signal rank 1
+EGFR,UKB-PPP,symbol,rs10081281 (chr7:55169103),120.07,0,True,ST9
+EGFR,UKB-PPP,symbol,rs10081281 (chr7:55169103),161.527,0,True,ST10
+EGFR,deCODE,ensembl_id+symbol,rs779672128 (chr7:55378572),13.82,166944,False,aptamer 2677_1; distTSS 359552
+EGFR,deCODE,ensembl_id+symbol,rs11977388 (chr7:55164553),19.71,0,True,aptamer 2677_1; distTSS 145533
+EGFR,deCODE,ensembl_id+symbol,chr7:55170560 (chr7:55170560),20.34,0,True,aptamer 2677_1; distTSS 151540
+EGFR,deCODE,ensembl_id+symbol,chr7:54865355 (chr7:54865355),21.69,153666,False,aptamer 2677_1; distTSS 153665
+EGFR,deCODE,ensembl_id+symbol,rs13244925 (chr7:55124563),33.8,0,True,aptamer 2677_1; distTSS 105543
+ENPEP,Fenland,ensembl_id+symbol,rs3796879 (chr4:111476701),16.242603971206975,0,True,aptamer SeqId_15558_63; signal rank 4
+ENPEP,Fenland,ensembl_id+symbol,rs1879056 (chr4:111335604),45.06098022355133,0,True,aptamer SeqId_15558_63; signal rank 3
+ENPEP,Fenland,ensembl_id+symbol,rs6833731 (chr4:111410482),148.97469413473522,0,True,aptamer SeqId_15558_63; signal rank 2
+ENPEP,Fenland,ensembl_id+symbol,rs33966350 (chr4:111431444),151.6270879970299,0,True,aptamer SeqId_15558_63; signal rank 1
+ENPEP,UKB-PPP,symbol,rs33966350 (chr4:110510288),20.3545,0,True,ST9
+ENPEP,UKB-PPP,symbol,rs33966350 (chr4:110510288),28.4658,0,True,ST10
+ENPEP,deCODE,ensembl_id+symbol,rs756698714 (chr4:110488643),16.95,0,True,aptamer 15558_63; distTSS 12571
+ENPEP,deCODE,ensembl_id+symbol,rs1126483 (chr4:110488549),17.14,0,True,aptamer 15558_63; distTSS 12477
+ENPEP,deCODE,ensembl_id+symbol,rs28420976 (chr4:110482115),19.92,0,True,aptamer 15558_63; distTSS 6043
+ENPEP,deCODE,ensembl_id+symbol,rs765993062 (chr4:110543075),22.66,0,True,aptamer 15558_63; distTSS 67003
+ENPEP,deCODE,ensembl_id+symbol,rs534120741 (chr4:110549786),28.4,0,True,aptamer 15558_63; distTSS 73714
+ENPEP,deCODE,ensembl_id+symbol,rs17623554 (chr4:110550531),31.22,0,True,aptamer 15558_63; distTSS 74459
+ENPEP,deCODE,ensembl_id+symbol,rs1240383154 (chr4:110827498),37.43,262213,False,aptamer 15558_63; distTSS 351426
+ENPEP,deCODE,ensembl_id+symbol,rs34949711 (chr4:110513416),66.52,0,True,aptamer 15558_63; distTSS 37344
+ENPEP,deCODE,ensembl_id+symbol,rs10434005 (chr4:110446685),92.0,0,True,aptamer 15558_63; distTSS 29387
+ENPEP,deCODE,ensembl_id+symbol,rs199991890 (chr4:110513476),148.06,0,True,aptamer 15558_63; distTSS 37404
+ENPEP,deCODE,ensembl_id+symbol,rs11735606 (chr4:110517862),447.46,0,True,aptamer 15558_63; distTSS 41790
+ENPEP,deCODE,ensembl_id+symbol,rs33966350 (chr4:110510288),568.33,0,True,aptamer 15558_63; distTSS 34216
+EPO,UKB-PPP,symbol,rs11976235 (chr7:100722758),27.9691,0,True,ST9
+EPO,UKB-PPP,symbol,rs11976235 (chr7:100722758),36.0007,0,True,ST10
+EPO,deCODE,ensembl_id+symbol,rs221790 (chr7:100680659),16.09,40141,True,aptamer 5813_58; distTSS 40140
+F11,Fenland,ensembl_id+symbol,rs4253425 (chr4:187205929),124.87942606879415,0,True,aptamer SeqId_2190_55; signal rank 2
+F11,Fenland,ensembl_id+symbol,rs2289252 (chr4:187207381),271.67778070526606,0,True,aptamer SeqId_2190_55; signal rank 1
+F11,UKB-PPP,symbol,rs2289252 (chr4:186286227),653.177,0,True,ST9
+F11,UKB-PPP,symbol,rs3756011 (chr4:186285095),971.477,0,True,ST10
+F11,deCODE,ensembl_id+symbol,rs4253409 (chr4:186273531),18.73,0,True,aptamer 2190_55; distTSS 7568
+F11,deCODE,ensembl_id+symbol,rs4253421 (chr4:186283783),85.87,0,True,aptamer 2190_55; distTSS 17820
+F11,deCODE,ensembl_id+symbol,rs2289252 (chr4:186286227),331.74,0,True,aptamer 2190_55; distTSS 20264
+F2,Fenland,ensembl_id+symbol,rs3136516 (chr11:46760756),13.02502800570193,0,True,aptamer SeqId_5316_54; signal rank 2
+F2,Fenland,ensembl_id+symbol,rs183830453 (chr11:47117406),14.081445469449726,356350,False,aptamer SeqId_5316_54; signal rank 1
+F2,Fenland,ensembl_id+symbol,rs3136516 (chr11:46760756),17.991399828238084,0,True,aptamer SeqId_4157_2; signal rank 2
+F2,Fenland,ensembl_id+symbol,rs1799963 (chr11:46761055),32.619788758288394,0,True,aptamer SeqId_4157_2; signal rank 1
+F2,UKB-PPP,symbol,rs1799963 (chr11:46739505),85.0891,0,True,ST9
+F2,UKB-PPP,symbol,rs1799963 (chr11:46739505),126.201,0,True,ST10
+F2,deCODE,ensembl_id+symbol,chr11:47910286 (chr11:47910286),9.19,1170780,False,aptamer 5316_54; distTSS 1191121
+F2,deCODE,ensembl_id+symbol,rs1055358384 (chr11:45596868),17.53,1122312,False,aptamer 4157_2; distTSS 1122297
+F2,deCODE,ensembl_id+symbol,rs142698884 (chr11:47169301),17.59,429795,False,aptamer 4157_2; distTSS 450136
+F2,deCODE,ensembl_id+symbol,rs112698481 (chr11:46721186),18.23,0,True,aptamer 5316_54; distTSS 2021
+F2,deCODE,ensembl_id+symbol,rs149903077 (chr11:46328146),26.16,391034,False,aptamer 5316_54; distTSS 391019
+F2,deCODE,ensembl_id+symbol,rs1799963 (chr11:46739505),26.48,0,True,aptamer 4157_2; distTSS 20340
+F2,deCODE,ensembl_id+symbol,rs758038546 (chr11:46719249),29.19,0,True,aptamer 5316_54; distTSS 84
+F2,deCODE,ensembl_id+symbol,rs758038546 (chr11:46719249),29.53,0,True,aptamer 4157_2; distTSS 84
+F2,deCODE,ensembl_id+symbol,rs3136516 (chr11:46739206),33.93,0,True,aptamer 5316_54; distTSS 20041
+F2,deCODE,ensembl_id+symbol,rs3136516 (chr11:46739206),40.33,0,True,aptamer 4157_2; distTSS 20041
+F3,UKB-PPP,symbol,rs6666213 (chr1:94808809),144.11,267050,False,ST9
+F3,UKB-PPP,symbol,- (chr1:94530614),215.827,0,True,ST10
+F8,deCODE,ensembl_id+symbol,rs5945273 (chrX:155013426),11.67,0,True,aptamer 13499_30; distTSS 9297
+F9,Fenland,ensembl_id+symbol,rs35633927 (chrX:138646842),16.262807357295262,1225,True,aptamer SeqId_5307_12; signal rank 1
+F9,UKB-PPP,symbol,rs422187 (chrX:139550700),611.721,0,True,ST9
+F9,UKB-PPP,symbol,rs6048 (chrX:139551121),835.835,0,True,ST10
+F9,deCODE,ensembl_id+symbol,rs440051 (chrX:139562758),8.76,0,True,aptamer 4876_32; distTSS 32039
+F9,deCODE,ensembl_id+symbol,chrX:139551154 (chrX:139551154),10.82,0,True,aptamer 5307_12; distTSS 20435
+F9,deCODE,ensembl_id+symbol,chrX:139551154 (chrX:139551154),11.17,0,True,aptamer 4876_32; distTSS 20435
+F9,deCODE,ensembl_id+symbol,rs772966694 (chrX:139562870),13.97,0,True,aptamer 5307_12; distTSS 32151
+F9,deCODE,ensembl_id+symbol,rs772966694 (chrX:139562870),15.72,0,True,aptamer 4876_32; distTSS 32151
+F9,deCODE,ensembl_id+symbol,rs113503666 (chrX:139473888),16.18,56870,True,aptamer 4876_32; distTSS 56831
+F9,deCODE,ensembl_id+symbol,rs440051 (chrX:139562758),23.62,0,True,aptamer 5307_12; distTSS 32039
+FABP1,Fenland,ensembl_id+symbol,rs2241883 (chr2:88424066),42.22040350874217,0,True,aptamer SeqId_11516_7; signal rank 1
+FABP1,UKB-PPP,symbol,rs2241883 (chr2:88124547),194.204,0,True,ST9
+FABP1,UKB-PPP,symbol,rs2241883 (chr2:88124547),270.246,0,True,ST10
+FABP1,deCODE,ensembl_id+symbol,rs2241883 (chr2:88124547),36.39,0,True,aptamer 11516_7; distTSS 3584
+FABP4,UKB-PPP,symbol,rs112313579 (chr8:81478948),34.7682,0,True,ST9
+FABP4,UKB-PPP,symbol,rs72684474 (chr8:81487648),50.0234,4412,True,ST10
+FABP4,deCODE,ensembl_id+symbol,rs16909138 (chr8:81453981),17.45,24438,True,aptamer 15386_7; distTSS 29257
+FAP,Fenland,ensembl_id+symbol,rs16846387 (chr2:163073082),63.43297363384094,0,True,aptamer SeqId_5029_3; signal rank 1
+FAP,UKB-PPP,symbol,rs4664454 (chr2:162214651),186.411,0,True,ST9
+FAP,UKB-PPP,symbol,rs77577375 (chr2:162198558),282.028,0,True,ST10
+FAP,deCODE,ensembl_id+symbol,chr2:162426484 (chr2:162426484),10.04,181333,False,aptamer 5029_3; distTSS 182927
+FAP,deCODE,ensembl_id+symbol,rs76713183 (chr2:162197789),15.93,0,True,aptamer 5029_3; distTSS 45768
+FAP,deCODE,ensembl_id+symbol,rs1444027978 (chr2:162198317),16.14,0,True,aptamer 5029_3; distTSS 45240
+FAP,deCODE,ensembl_id+symbol,rs750246469 (chr2:162630928),16.41,385777,False,aptamer 5029_3; distTSS 387371
+FAP,deCODE,ensembl_id+symbol,rs78722278 (chr2:162219117),32.23,0,True,aptamer 5029_3; distTSS 24440
+FAP,deCODE,ensembl_id+symbol,rs746078683 (chr2:162188274),73.21,0,True,aptamer 5029_3; distTSS 55283
+FAP,deCODE,ensembl_id+symbol,rs1476165463 (chr2:162248642),119.79,3491,True,aptamer 5029_3; distTSS 5085
+FGA,Fenland,ensembl_id+symbol,rs2227426 (chr4:155493171),25.429457060118104,11107,True,aptamer SeqId_2796_62; signal rank 1
+FGA,Fenland,ensembl_id+symbol,rs2227426 (chr4:155493171),27.690369832574103,11107,True,aptamer SeqId_4907_56; signal rank 1
+FGA,UKB-PPP,symbol,rs140473879 (chr4:154557913),100.12,25215,True,ST9
+FGA,UKB-PPP,symbol,rs140473879 (chr4:154557913),127.516,25215,True,ST10
+FGB,Fenland,ensembl_id+symbol,rs2227426 (chr4:155493171),25.429457060118104,933,True,aptamer SeqId_2796_62; signal rank 1
+FGB,Fenland,ensembl_id+symbol,rs2227426 (chr4:155493171),27.690369832574103,933,True,aptamer SeqId_4907_56; signal rank 1
+FGF21,UKB-PPP,symbol,rs838131 (chr19:48757420),57.3305,0,True,ST9
+FGF21,UKB-PPP,symbol,rs838131 (chr19:48757420),87.9767,0,True,ST10
+FGFR3,Fenland,ensembl_id+symbol,rs4533828 (chr4:1762974),16.139661993429005,32060,True,aptamer SeqId_13669_6; signal rank 1
+FGFR3,deCODE,ensembl_id+symbol,rs3135886 (chr4:1803866),12.74,0,True,aptamer 13669_6; distTSS 10568
+FGFR3,deCODE,ensembl_id+symbol,rs3135839 (chr4:1794771),20.24,0,True,aptamer 13669_6; distTSS 1473
+FGFR3,deCODE,ensembl_id+symbol,rs61613102 (chr4:1750207),23.77,43100,True,aptamer 13669_6; distTSS 43091
+FGFR3,deCODE,ensembl_id+symbol,rs3135859 (chr4:1797763),33.51,0,True,aptamer 13669_6; distTSS 4465
+FGFR3,deCODE,ensembl_id+symbol,rs2403274 (chr4:1752788),76.37,40519,True,aptamer 13669_6; distTSS 40510
+FGG,Fenland,ensembl_id+symbol,rs2227426 (chr4:155493171),25.429457060118104,32115,True,aptamer SeqId_2796_62; signal rank 1
+FGG,Fenland,ensembl_id+symbol,rs2227426 (chr4:155493171),25.89279003035213,32115,True,aptamer SeqId_4989_7; signal rank 1
+FGG,Fenland,ensembl_id+symbol,rs2227426 (chr4:155493171),27.690369832574103,32115,True,aptamer SeqId_4907_56; signal rank 1
+FGG,deCODE,ensembl_id+symbol,rs148685782 (chr4:154611883),10.31,0,True,aptamer 4989_7; distTSS 925
+FGG,deCODE,ensembl_id+symbol,chr4:154609689 (chr4:154609689),16.21,0,True,aptamer 4989_7; distTSS 3119
+FGG,deCODE,ensembl_id+symbol,rs4220 (chr4:154570607),53.54,33527,True,aptamer 4989_7; distTSS 42201
+GDNF,UKB-PPP,symbol,rs62360373 (chr5:37820639),208.124,0,True,ST9
+GDNF,UKB-PPP,symbol,rs62360373 (chr5:37820639),309.417,0,True,ST10
+GHR,Fenland,ensembl_id+symbol,rs55681913 (chr5:42687629),29.31695296176115,0,True,aptamer SeqId_2948_58; signal rank 2
+GHR,Fenland,ensembl_id+symbol,rs10440652 (chr5:42738222),65.00436480540245,16243,True,aptamer SeqId_2948_58; signal rank 1
+GHR,UKB-PPP,symbol,rs4073476 (chr5:42625490),1397.93,0,True,ST9
+GHR,UKB-PPP,symbol,rs6873545 (chr5:42631162),2136.68,0,True,ST10
+GHR,deCODE,ensembl_id+symbol,rs186335941 (chr5:42645758),10.09,0,True,aptamer 2948_58; distTSS 221984
+GHR,deCODE,ensembl_id+symbol,rs4610468 (chr5:42634119),101.63,0,True,aptamer 2948_58; distTSS 210345
+GHR,deCODE,ensembl_id+symbol,rs62372052 (chr5:42724192),107.94,2314,True,aptamer 2948_58; distTSS 300418
+GLA,Fenland,ensembl_id+symbol,rs5951308 (chrX:100645467),9.20690839982342,7324,True,aptamer SeqId_15588_17; signal rank 4
+GLA,Fenland,ensembl_id+symbol,X:100664308_T_A (chrX:100664308),102.39469495385889,1395,True,aptamer SeqId_15588_17; signal rank 2
+GLA,Fenland,ensembl_id+symbol,rs2071225 (chrX:100662901),173.68193666503723,0,True,aptamer SeqId_15588_17; signal rank 1
+GLA,UKB-PPP,symbol,rs3027584 (chrX:101407933),815.497,0,True,ST9
+GLA,UKB-PPP,symbol,rs3027578 (chrX:101409320),1168.56,1308,True,ST10
+GLA,deCODE,ensembl_id+symbol,rs56348811 (chrX:101380740),9.02,17063,True,aptamer 15588_17; distTSS 27273
+GLA,deCODE,ensembl_id+symbol,rs28935490 (chrX:101398432),21.06,0,True,aptamer 15588_17; distTSS 9581
+GLA,deCODE,ensembl_id+symbol,rs2071225 (chrX:101407913),22.91,0,True,aptamer 15588_17; distTSS 100
+GLA,deCODE,ensembl_id+symbol,rs148158093 (chrX:101403828),26.08,0,True,aptamer 15588_17; distTSS 4185
+GLA,deCODE,ensembl_id+symbol,"rs1436414064,rs3060590 (chrX:101448924)",65.8,40999,True,aptamer 15588_17; distTSS 40911
+GLA,deCODE,ensembl_id+symbol,rs3027578 (chrX:101409320),130.39,1395,True,aptamer 15588_17; distTSS 1307
+GLA,deCODE,ensembl_id+symbol,rs104894845 (chrX:101401752),152.87,0,True,aptamer 15588_17; distTSS 6261
+GPC3,deCODE,ensembl_id+symbol,chrX:134090928 (chrX:134090928),17.24,105033,False,aptamer 4842_62; distTSS 105282
+HSD11B1,UKB-PPP,symbol,rs559561805 (chr1:209932678),14.1016,197729,False,ST10
+HSPA1A,Fenland,ensembl_id+symbol,6:31783863_G_C (chr6:31783863),44.84771165561694,0,True,aptamer SeqId_4124_24; signal rank 1
+HSPA1A,UKB-PPP,symbol,rs181412562 (chr6:31849800),45.4589,31854,True,ST9
+HSPA1A,UKB-PPP,symbol,rs17207594 (chr6:31834758),73.2776,16812,True,ST10
+HSPA1A,deCODE,symbol,rs73400280 (chr6:31801702),12.68,13762,True,aptamer 4124_24; distTSS 13811
+HSPA1A,deCODE,symbol,rs6929057 (chr6:32629228),29.23,811282,False,aptamer 4124_24; distTSS 813715
+IL12B,Fenland,ensembl_id+symbol,rs3213119 (chr5:158743788),8.42021640338319,0,True,aptamer SeqId_10365_132; signal rank 2
+IL12B,Fenland,ensembl_id+symbol,rs4244437 (chr5:158773117),196.54363396687097,15222,True,aptamer SeqId_10365_132; signal rank 1
+IL12B,Fenland,ensembl_id+symbol,rs3213119 (chr5:158743788),197.76447155309245,0,True,aptamer SeqId_13733_5; signal rank 2
+IL12B,Fenland,ensembl_id+symbol,rs4244437 (chr5:158773117),285.2328441339178,15222,True,aptamer SeqId_13733_5; signal rank 1
+IL12B,UKB-PPP,symbol,rs4244437 (chr5:159346109),1058.51,15622,True,ST9
+IL12B,UKB-PPP,symbol,rs4244437 (chr5:159346109),1145.22,15622,True,ST9
+IL12B,UKB-PPP,symbol,rs4244437 (chr5:159346109),1488.31,15622,True,ST10
+IL12B,UKB-PPP,symbol,rs4244437 (chr5:159346109),1612.95,15622,True,ST10
+IL12B,deCODE,ensembl_id+symbol,rs6870828 (chr5:159311504),9.36,3279,True,aptamer 13733_5; distTSS 18969
+IL12B,deCODE,ensembl_id+symbol,rs767998479 (chr5:158179652),11.8,1135131,False,aptamer 13733_5; distTSS 1150821
+IL12B,deCODE,ensembl_id+symbol,rs3213120 (chr5:159316100),142.89,0,True,aptamer 13733_5; distTSS 14373
+IL12B,deCODE,ensembl_id+symbol,rs10043720 (chr5:159340325),486.81,9438,True,aptamer 13733_5; distTSS 9852
+IL22RA1,UKB-PPP,symbol,rs7355101 (chr1:24124595),238.924,0,True,ST9
+IL22RA1,UKB-PPP,symbol,rs16829209 (chr1:24134805),353.825,0,True,ST10
+IL5RA,Fenland,ensembl_id+symbol,rs147835956 (chr3:3156141),12.03810452633215,0,True,aptamer SeqId_13686_2; signal rank 6
+IL5RA,Fenland,ensembl_id+symbol,rs340827 (chr3:3107730),29.87942606879415,3503,True,aptamer SeqId_13686_2; signal rank 5
+IL5RA,Fenland,ensembl_id+symbol,rs12632952 (chr3:3137313),67.86646109162979,0,True,aptamer SeqId_13686_2; signal rank 4
+IL5RA,Fenland,ensembl_id+symbol,rs17878498 (chr3:3152930),79.92811799269387,0,True,aptamer SeqId_13686_2; signal rank 3
+IL5RA,Fenland,ensembl_id+symbol,rs13097407 (chr3:3144519),85.73754891026957,0,True,aptamer SeqId_13686_2; signal rank 2
+IL5RA,Fenland,ensembl_id+symbol,rs77400868 (chr3:3150964),147.0,0,True,aptamer SeqId_13686_2; signal rank 1
+IL5RA,UKB-PPP,symbol,rs77400868 (chr3:3109280),482.365,0,True,ST9
+IL5RA,UKB-PPP,symbol,rs77400868 (chr3:3109280),695.954,0,True,ST10
+IL5RA,deCODE,ensembl_id+symbol,rs183422392 (chr3:3089156),8.84,0,True,aptamer 13686_2; distTSS 21258
+IL5RA,deCODE,ensembl_id+symbol,rs76538500 (chr3:2920489),8.85,145837,False,aptamer 13686_2; distTSS 189925
+IL5RA,deCODE,ensembl_id+symbol,rs3762761 (chr3:3089903),9.46,0,True,aptamer 13686_2; distTSS 20511
+IL5RA,deCODE,ensembl_id+symbol,rs144856728 (chr3:3102704),10.32,0,True,aptamer 13686_2; distTSS 7710
+IL5RA,deCODE,ensembl_id+symbol,rs55865625 (chr3:3066596),11.49,0,True,aptamer 13686_2; distTSS 43818
+IL5RA,deCODE,ensembl_id+symbol,rs67874729 (chr3:3112045),13.71,0,True,aptamer 13686_2; distTSS 1631
+IL5RA,deCODE,ensembl_id+symbol,rs334782 (chr3:3106774),15.91,0,True,aptamer 13686_2; distTSS 3640
+IL5RA,deCODE,ensembl_id+symbol,rs6793085 (chr3:3100739),18.59,0,True,aptamer 13686_2; distTSS 9675
+IL5RA,deCODE,ensembl_id+symbol,rs7625369 (chr3:3038768),24.11,27558,True,aptamer 13686_2; distTSS 71646
+IL5RA,deCODE,ensembl_id+symbol,rs17878498 (chr3:3111246),56.29,0,True,aptamer 13686_2; distTSS 832
+IL5RA,deCODE,ensembl_id+symbol,rs3804790 (chr3:3108029),66.29,0,True,aptamer 13686_2; distTSS 2385
+IL5RA,deCODE,ensembl_id+symbol,rs7622183 (chr3:3110977),83.3,0,True,aptamer 13686_2; distTSS 563
+IL5RA,deCODE,ensembl_id+symbol,"rs1203478640,rs776531633 (chr3:3101188)",88.55,0,True,aptamer 13686_2; distTSS 9226
+IL5RA,deCODE,ensembl_id+symbol,rs7619345 (chr3:3097157),115.42,0,True,aptamer 13686_2; distTSS 13257
+IL5RA,deCODE,ensembl_id+symbol,rs340827 (chr3:3066046),122.56,280,True,aptamer 13686_2; distTSS 44368
+IL5RA,deCODE,ensembl_id+symbol,rs6808454 (chr3:3101480),158.6,0,True,aptamer 13686_2; distTSS 8934
+IL5RA,deCODE,ensembl_id+symbol,rs77400868 (chr3:3109280),453.07,0,True,aptamer 13686_2; distTSS 1134
+INHBA,Fenland,ensembl_id+symbol,rs3741414 (chr12:57844049),12.073143291050307,,False,aptamer SeqId_18814_21; signal rank 1
+INHBA,deCODE,ensembl_id+symbol,rs9720004 (chr7:41731091),23.83,25257,True,aptamer 19622_7; distTSS 20559
+INHBA,deCODE,ensembl_id+symbol,rs9720004 (chr7:41731091),24.09,25257,True,aptamer 13738_8; distTSS 20559
+ITGB6,UKB-PPP,symbol,rs6432601 (chr2:160121432),301.41,0,True,ST9
+ITGB6,UKB-PPP,symbol,rs146596903 (chr2:160119046),451.342,0,True,ST10
+KDR,Fenland,ensembl_id+symbol,rs116530298 (chr4:55966759),9.847711655616944,0,True,aptamer SeqId_3651_50; signal rank 4
+KDR,Fenland,ensembl_id+symbol,rs1380069 (chr4:56002782),38.82102305270683,11026,True,aptamer SeqId_3651_50; signal rank 3
+KDR,Fenland,ensembl_id+symbol,rs2305948 (chr4:55979558),47.71444269099223,0,True,aptamer SeqId_3651_50; signal rank 2
+KDR,Fenland,ensembl_id+symbol,rs34231037 (chr4:55972946),185.6903698325741,0,True,aptamer SeqId_3651_50; signal rank 1
+KDR,UKB-PPP,symbol,rs34231037 (chr4:55106779),977.626,0,True,ST9
+KDR,UKB-PPP,symbol,rs34231037 (chr4:55106779),1401.64,0,True,ST10
+KDR,deCODE,ensembl_id+symbol,rs754209277 (chr4:55120260),13.1,0,True,aptamer 3651_50; distTSS 5335
+KDR,deCODE,ensembl_id+symbol,rs116530298 (chr4:55100592),19.12,0,True,aptamer 3651_50; distTSS 25003
+KDR,deCODE,ensembl_id+symbol,rs9284955 (chr4:55136950),21.01,11361,True,aptamer 3651_50; distTSS 11355
+KDR,deCODE,ensembl_id+symbol,rs2305948 (chr4:55113391),79.46,0,True,aptamer 3651_50; distTSS 12204
+KDR,deCODE,ensembl_id+symbol,chr4:55149057 (chr4:55149057),80.24,23468,True,aptamer 3651_50; distTSS 23462
+KDR,deCODE,ensembl_id+symbol,rs34231037 (chr4:55106779),235.45,0,True,aptamer 3651_50; distTSS 18816
+KIT,UKB-PPP,symbol,rs218263 (chr4:54541937),12.8682,115330,False,ST9
+KIT,UKB-PPP,symbol,rs218263 (chr4:54541937),13.5935,115330,False,ST10
+KNG1,Fenland,ensembl_id+symbol,rs5030111 (chr3:186455478),14.94692155651658,0,True,aptamer SeqId_7784_1; signal rank 3
+KNG1,Fenland,ensembl_id+symbol,rs710446 (chr3:186459927),79.41907502432439,0,True,aptamer SeqId_19631_13; signal rank 1
+KNG1,Fenland,ensembl_id+symbol,rs56703348 (chr3:186470523),136.20971483596676,8780,True,aptamer SeqId_15343_337; signal rank 3
+KNG1,Fenland,ensembl_id+symbol,rs2304456 (chr3:186445052),139.94692155651657,0,True,aptamer SeqId_7784_1; signal rank 2
+KNG1,Fenland,ensembl_id+symbol,rs76438938 (chr3:186461524),164.59345981956605,0,True,aptamer SeqId_15343_337; signal rank 2
+KNG1,Fenland,ensembl_id+symbol,rs76438938 (chr3:186461524),210.6946486305534,0,True,aptamer SeqId_7784_1; signal rank 1
+KNG1,Fenland,ensembl_id+symbol,rs5030062 (chr3:186454180),292.0757207139381,0,True,aptamer SeqId_15343_337; signal rank 1
+KNG1,deCODE,ensembl_id+symbol,rs746353040 (chr3:186732670),8.94,0,True,aptamer 7784_1; distTSS 15362
+KNG1,deCODE,ensembl_id+symbol,rs559679800 (chr3:186715750),14.29,1673,True,aptamer 7784_1; distTSS 1558
+KNG1,deCODE,ensembl_id+symbol,rs58005713 (chr3:186748163),20.86,4209,True,aptamer 19631_13; distTSS 30855
+KNG1,deCODE,ensembl_id+symbol,chr3:186751181 (chr3:186751181),30.21,7227,True,aptamer 19631_13; distTSS 33873
+KNG1,deCODE,ensembl_id+symbol,rs1656939 (chr3:186714955),36.82,2468,True,aptamer 7784_1; distTSS 2353
+KNG1,deCODE,ensembl_id+symbol,rs5030044 (chr3:186731333),42.44,0,True,aptamer 15343_337; distTSS 14025
+KNG1,deCODE,ensembl_id+symbol,chr3:186751181 (chr3:186751181),139.4,7227,True,aptamer 7784_1; distTSS 33873
+KNG1,deCODE,ensembl_id+symbol,rs5030095 (chr3:186743560),155.43,0,True,aptamer 15343_337; distTSS 26252
+KNG1,deCODE,ensembl_id+symbol,chr3:186751181 (chr3:186751181),162.37,7227,True,aptamer 15343_337; distTSS 33873
+KNG1,deCODE,ensembl_id+symbol,rs2304456 (chr3:186727263),167.66,0,True,aptamer 7784_1; distTSS 9955
+KNG1,deCODE,ensembl_id+symbol,rs5030062 (chr3:186736391),177.12,0,True,aptamer 19631_13; distTSS 19083
+KNG1,deCODE,ensembl_id+symbol,rs5030062 (chr3:186736391),399.68,0,True,aptamer 15343_337; distTSS 19083
+LAMP2,UKB-PPP,symbol,rs2008511 (chrX:120435003),714.189,0,True,ST9
+LAMP2,UKB-PPP,symbol,rs2008511 (chrX:120435003),967.325,0,True,ST10
+LPA,UKB-PPP,symbol,rs56393506 (chr6:160668275),1169.75,4000,True,ST9
+LPA,UKB-PPP,symbol,rs56393506 (chr6:160668275),1600.46,4000,True,ST10
+MBL2,Fenland,ensembl_id+symbol,rs35260458 (chr10:54529259),17.30891850787703,0,True,aptamer SeqId_3000_66; signal rank 5
+MBL2,Fenland,ensembl_id+symbol,rs12782244 (chr10:54534993),18.250263684430937,3533,True,aptamer SeqId_3000_66; signal rank 4
+MBL2,Fenland,ensembl_id+symbol,rs5030737 (chr10:54531242),45.21681130892474,0,True,aptamer SeqId_3000_66; signal rank 3
+MBL2,Fenland,ensembl_id+symbol,rs1800451 (chr10:54531226),109.94692155651659,0,True,aptamer SeqId_3000_66; signal rank 2
+MBL2,Fenland,ensembl_id+symbol,rs7899547 (chr10:54536839),1288.59316044693,5379,True,aptamer SeqId_3000_66; signal rank 1
+MBL2,UKB-PPP,symbol,rs7899547 (chr10:52777079),2884.57,4295,True,ST9
+MBL2,UKB-PPP,symbol,rs7899547 (chr10:52777079),4214.81,4295,True,ST10
+MBL2,deCODE,ensembl_id+symbol,chr10:53782667 (chr10:53782667),8.97,1010967,False,aptamer 3000_66; distTSS 1009820
+MBL2,deCODE,ensembl_id+symbol,rs74600229 (chr10:52600716),9.13,164664,False,aptamer 3000_66; distTSS 172131
+MBL2,deCODE,ensembl_id+symbol,rs11003118 (chr10:52759390),15.9,5990,True,aptamer 3000_66; distTSS 13457
+MBL2,deCODE,ensembl_id+symbol,rs10824796 (chr10:52774853),16.56,3153,True,aptamer 3000_66; distTSS 2006
+MBL2,deCODE,ensembl_id+symbol,chr10:52800973 (chr10:52800973),30.98,29273,True,aptamer 3000_66; distTSS 28126
+MBL2,deCODE,ensembl_id+symbol,rs2384046 (chr10:52776080),246.67,4380,True,aptamer 3000_66; distTSS 3233
+MBL2,deCODE,ensembl_id+symbol,rs1031101 (chr10:52773600),399.86,1900,True,aptamer 3000_66; distTSS 753
+MBL2,deCODE,ensembl_id+symbol,rs1800451 (chr10:52771466),476.81,0,True,aptamer 3000_66; distTSS 1381
+MBL2,deCODE,ensembl_id+symbol,rs5030737 (chr10:52771482),536.3,0,True,aptamer 3000_66; distTSS 1365
+MBL2,deCODE,ensembl_id+symbol,rs7899547 (chr10:52777079),3017.5,5379,True,aptamer 3000_66; distTSS 4232
+MDK,Fenland,ensembl_id+symbol,rs77817298 (chr11:46527652),13.782516055786093,122277,False,aptamer SeqId_2911_27; signal rank 1
+MDK,UKB-PPP,symbol,rs541295226 (chr11:46380789),60.4055,0,True,ST9
+MDK,UKB-PPP,symbol,rs541295226 (chr11:46380789),90.0074,0,True,ST10
+MDK,deCODE,ensembl_id+symbol,rs112845927 (chr11:46311786),12.94,68970,True,aptamer 2911_27; distTSS 68997
+MDK,deCODE,ensembl_id+symbol,rs748558558 (chr11:47771866),24.21,1388029,False,aptamer 2911_27; distTSS 1391083
+MDK,deCODE,ensembl_id+symbol,rs77817298 (chr11:46506102),27.84,122265,False,aptamer 2911_27; distTSS 125319
+MMP10,Fenland,ensembl_id+symbol,rs11512688 (chr11:102613285),32.71219827006978,27949,True,aptamer SeqId_8479_4; signal rank 4
+MMP10,Fenland,ensembl_id+symbol,rs1276270 (chr11:102549484),38.1073489661227,91750,True,aptamer SeqId_8479_4; signal rank 3
+MMP10,Fenland,ensembl_id+symbol,rs486055 (chr11:102650424),74.75448733218585,0,True,aptamer SeqId_8479_4; signal rank 2
+MMP10,Fenland,ensembl_id+symbol,rs17860955 (chr11:102649482),117.34678748622466,0,True,aptamer SeqId_8479_4; signal rank 1
+MMP10,UKB-PPP,symbol,rs486055 (chr11:102779693),324.385,0,True,ST9
+MMP10,UKB-PPP,symbol,rs486055 (chr11:102779693),465.336,0,True,ST10
+MMP10,deCODE,ensembl_id+symbol,"rs66939085,rs773032303 (chr11:102771826)",9.84,0,True,aptamer 8479_4; distTSS 8802
+MMP10,deCODE,ensembl_id+symbol,"rs1799750,rs796666299 (chr11:102799764)",10.67,19136,True,aptamer 8479_4; distTSS 19136
+MMP10,deCODE,ensembl_id+symbol,rs4754873 (chr11:102726849),15.31,43654,True,aptamer 8479_4; distTSS 53779
+MMP10,deCODE,ensembl_id+symbol,rs683878 (chr11:102834927),17.22,54299,True,aptamer 8479_4; distTSS 54299
+MMP10,deCODE,ensembl_id+symbol,rs12290253 (chr11:102771530),17.61,0,True,aptamer 8479_4; distTSS 9098
+MMP10,deCODE,ensembl_id+symbol,rs4121366 (chr11:102700029),21.4,70474,True,aptamer 8479_4; distTSS 80599
+MMP10,deCODE,ensembl_id+symbol,rs3020919 (chr11:102842315),34.0,61687,True,aptamer 8479_4; distTSS 61687
+MMP10,deCODE,ensembl_id+symbol,rs470236 (chr11:102787479),59.05,6851,True,aptamer 8479_4; distTSS 6851
+MMP10,deCODE,ensembl_id+symbol,rs11225418 (chr11:102770074),111.75,429,True,aptamer 8479_4; distTSS 10554
+MMP10,deCODE,ensembl_id+symbol,rs147267769 (chr11:102772873),182.39,0,True,aptamer 8479_4; distTSS 7755
+MMP10,deCODE,ensembl_id+symbol,rs17860955 (chr11:102778751),209.53,0,True,aptamer 8479_4; distTSS 1877
+MMP10,deCODE,ensembl_id+symbol,rs486055 (chr11:102779693),253.2,0,True,aptamer 8479_4; distTSS 935
+MMP2,deCODE,ensembl_id+symbol,rs150627260 (chr16:55764792),11.93,258101,False,aptamer 4160_49; distTSS 285963
+MMP2,deCODE,ensembl_id+symbol,"rs58222171,rs748130984,rs796405302 (chr16:55491071)",30.53,0,True,aptamer 4160_49; distTSS 12242
+MMP2,deCODE,ensembl_id+symbol,rs149432476 (chr16:55319323),36.69,70377,True,aptamer 4160_49; distTSS 159506
+MSTN,UKB-PPP,symbol,rs143242500 (chr2:190060135),18.9192,0,True,ST9
+MSTN,UKB-PPP,symbol,rs143242500 (chr2:190060135),28.6101,0,True,ST10
+NELL1,Fenland,ensembl_id+symbol,rs184837117 (chr11:20885708),16.705533773838408,0,True,aptamer SeqId_6544_33; signal rank 3
+NELL1,Fenland,ensembl_id+symbol,rs5790160 (chr11:21120487),22.818156412055227,0,True,aptamer SeqId_6544_33; signal rank 2
+NELL1,Fenland,ensembl_id+symbol,rs61652119 (chr11:20955270),255.51712641639125,0,True,aptamer SeqId_6544_33; signal rank 1
+NELL1,UKB-PPP,symbol,rs61652119 (chr11:20933724),470.472,0,True,ST9
+NELL1,UKB-PPP,symbol,rs61652119 (chr11:20933724),665.548,0,True,ST10
+NELL1,deCODE,ensembl_id+symbol,rs116921725 (chr11:20804085),12.15,0,True,aptamer 6544_33; distTSS 134535
+NELL1,deCODE,ensembl_id+symbol,rs762459866 (chr11:20885454),14.07,0,True,aptamer 6544_33; distTSS 215904
+NELL1,deCODE,ensembl_id+symbol,rs146222427 (chr11:20919317),16.74,0,True,aptamer 6544_33; distTSS 249767
+NELL1,deCODE,ensembl_id+symbol,rs7115020 (chr11:21100948),20.52,0,True,aptamer 6544_33; distTSS 431398
+NELL1,deCODE,ensembl_id+symbol,rs780757407 (chr11:21655568),32.2,79887,True,aptamer 6544_33; distTSS 986018
+NELL1,deCODE,ensembl_id+symbol,rs117839762 (chr11:20847704),121.44,0,True,aptamer 6544_33; distTSS 178154
+NELL1,deCODE,ensembl_id+symbol,rs8176786 (chr11:20937848),812.54,0,True,aptamer 6544_33; distTSS 268298
+NOS1,UKB-PPP,symbol,rs4767532 (chr12:117353127),55.9822,0,True,ST9
+NOS1,UKB-PPP,symbol,rs3844049 (chr12:117441519),75.9701,0,True,ST10
+NOTCH3,UKB-PPP,symbol,rs147373451 (chr19:15192130),79.0761,0,True,ST9
+NOTCH3,UKB-PPP,symbol,rs147373451 (chr19:15192130),108.533,0,True,ST10
+NOTCH3,deCODE,ensembl_id+symbol,rs184833510 (chr19:15194117),9.63,0,True,aptamer 5108_72; distTSS 6864
+NOTCH3,deCODE,ensembl_id+symbol,chr19:15185906 (chr19:15185906),20.17,0,True,aptamer 5108_72; distTSS 15075
+NOTCH3,deCODE,ensembl_id+symbol,rs775743128 (chr19:15215012),40.26,14031,True,aptamer 5108_72; distTSS 14031
+NPY,UKB-PPP,symbol,rs4722337 (chr7:24269479),102.105,14709,True,ST9
+NPY,UKB-PPP,symbol,rs4722337 (chr7:24269479),152.72,14709,True,ST10
+NTRK2,UKB-PPP,symbol,rs77562929 (chr9:84670452),25.7062,0,True,ST9
+NTRK2,UKB-PPP,symbol,rs77562929 (chr9:84670452),36.9143,0,True,ST10
+NTRK2,deCODE,ensembl_id+symbol,rs1624327 (chr9:84814375),16.14,0,True,aptamer 4866_59; distTSS 145918
+NTRK2,deCODE,ensembl_id+symbol,rs77562929 (chr9:84670452),17.25,0,True,aptamer 4866_59; distTSS 1995
+NTRK2,deCODE,ensembl_id+symbol,rs546163040 (chr9:84773405),22.89,0,True,aptamer 4866_59; distTSS 104948
+NTRK3,Fenland,ensembl_id+symbol,rs28735437 (chr15:88514855),19.705533773838408,0,True,aptamer SeqId_2658_27; signal rank 1
+NTRK3,UKB-PPP,symbol,rs28735437 (chr15:87971624),145.05,0,True,ST9
+NTRK3,UKB-PPP,symbol,rs28735437 (chr15:87971624),191.343,0,True,ST10
+NTRK3,deCODE,ensembl_id+symbol,rs770278704 (chr15:88184283),9.39,0,True,aptamer 2658_27; distTSS 72513
+NTRK3,deCODE,ensembl_id+symbol,rs8036843 (chr15:87964780),9.58,0,True,aptamer 2658_27; distTSS 292016
+NTRK3,deCODE,ensembl_id+symbol,"rs34033997,rs397963483 (chr15:88258613)",10.7,1845,True,aptamer 2658_27; distTSS 1817
+NTRK3,deCODE,ensembl_id+symbol,rs140166305 (chr15:88256154),12.37,0,True,aptamer 2658_27; distTSS 642
+NTRK3,deCODE,ensembl_id+symbol,rs11631508 (chr15:87955235),46.13,0,True,aptamer 2658_27; distTSS 301561
+NTRK3,deCODE,ensembl_id+symbol,rs28735437 (chr15:87971624),72.19,0,True,aptamer 2658_27; distTSS 285172
+PCSK9,Fenland,ensembl_id+symbol,rs693668 (chr1:55521109),13.412289034981088,0,True,aptamer SeqId_5231_79; signal rank 2
+PCSK9,Fenland,ensembl_id+symbol,rs11591147 (chr1:55505647),63.617982957425134,0,True,aptamer SeqId_5231_79; signal rank 1
+PCSK9,UKB-PPP,symbol,rs11591147 (chr1:55039974),375.816,0,True,ST9
+PCSK9,UKB-PPP,symbol,rs11591147 (chr1:55039974),502.268,0,True,ST10
+PCSK9,deCODE,ensembl_id+symbol,rs58255540 (chr1:55053155),10.52,0,True,aptamer 5231_79; distTSS 13680
+PCSK9,deCODE,ensembl_id+symbol,rs505151 (chr1:55063514),12.05,0,True,aptamer 5231_79; distTSS 24039
+PCSK9,deCODE,ensembl_id+symbol,chr1:55056870 (chr1:55056870),13.22,0,True,aptamer 5231_79; distTSS 17395
+PCSK9,deCODE,ensembl_id+symbol,chr1:55176001 (chr1:55176001),14.59,111149,False,aptamer 5231_79; distTSS 136526
+PCSK9,deCODE,ensembl_id+symbol,rs768190892 (chr1:56212195),15.18,1147343,False,aptamer 5231_79; distTSS 1172720
+PCSK9,deCODE,ensembl_id+symbol,rs553682442 (chr1:55055214),24.87,0,True,aptamer 5231_79; distTSS 15739
+PCSK9,deCODE,ensembl_id+symbol,rs472495 (chr1:55055640),60.44,0,True,aptamer 5231_79; distTSS 16165
+PCSK9,deCODE,ensembl_id+symbol,rs11591147 (chr1:55039974),116.4,0,True,aptamer 5231_79; distTSS 499
+PDE3A,Fenland,ensembl_id+symbol,rs954865 (chr12:20834162),25.910094888560604,0,True,aptamer SeqId_5254_69; signal rank 1
+PDGFRA,Fenland,ensembl_id+symbol,rs2307050 (chr4:55141293),20.198596289982646,0,True,aptamer SeqId_10366_11; signal rank 1
+PDGFRA,UKB-PPP,symbol,rs35597368 (chr4:54273604),285.792,0,True,ST9
+PDGFRA,UKB-PPP,symbol,rs35597368 (chr4:54273604),449.747,0,True,ST10
+PDGFRA,deCODE,ensembl_id+symbol,rs73252950 (chr4:54275333),23.94,0,True,aptamer 10366_11; distTSS 46245
+PDGFRA,deCODE,ensembl_id+symbol,rs139236922 (chr4:54272481),41.16,0,True,aptamer 10366_11; distTSS 43393
+PDGFRB,Fenland,ensembl_id+symbol,rs116700443 (chr5:149508461),52.96657624451305,0,True,aptamer SeqId_3459_49; signal rank 3
+PDGFRB,Fenland,ensembl_id+symbol,rs112297981 (chr5:149525732),135.2915790998653,0,True,aptamer SeqId_3459_49; signal rank 2
+PDGFRB,Fenland,ensembl_id+symbol,rs2304058 (chr5:149508544),4431.835246403073,0,True,aptamer SeqId_3459_49; signal rank 1
+PDGFRB,UKB-PPP,symbol,rs2304058 (chr5:150128981),5213.61,0,True,ST9
+PDGFRB,UKB-PPP,symbol,rs2304058 (chr5:150128981),7866.37,0,True,ST10
+PDGFRB,deCODE,ensembl_id+symbol,rs74730526 (chr5:150138462),12.18,0,True,aptamer 3459_49; distTSS 17397
+PDGFRB,deCODE,ensembl_id+symbol,rs41287110 (chr5:150129883),12.87,0,True,aptamer 3459_49; distTSS 25976
+PDGFRB,deCODE,ensembl_id+symbol,rs116700443 (chr5:150128898),20.03,0,True,aptamer 3459_49; distTSS 26961
+PDGFRB,deCODE,ensembl_id+symbol,rs148974733 (chr5:150129831),26.04,0,True,aptamer 3459_49; distTSS 26028
+PDGFRB,deCODE,ensembl_id+symbol,"rs112297981,rs59965609 (chr5:150146169)",112.4,0,True,aptamer 3459_49; distTSS 9690
+PDGFRB,deCODE,ensembl_id+symbol,rs3816018 (chr5:150128912),5297.8,0,True,aptamer 3459_49; distTSS 26947
+PLA2G10,UKB-PPP,symbol,rs568086689 (chr16:14850794),137.417,156486,False,ST9
+PLA2G10,UKB-PPP,symbol,rs536340612 (chr16:14564263),180.383,108285,False,ST10
+PLG,Fenland,ensembl_id+symbol,rs4252185 (chr6:161123451),9.636388020107855,0,True,aptamer SeqId_3710_49; signal rank 7
+PLG,Fenland,ensembl_id+symbol,rs73024076 (chr6:161450190),14.54821356447571,275843,False,aptamer SeqId_3710_49; signal rank 6
+PLG,Fenland,ensembl_id+symbol,rs1406890 (chr6:161187335),15.630784142589857,12988,True,aptamer SeqId_4151_6; signal rank 3
+PLG,Fenland,ensembl_id+symbol,rs56211836 (chr6:161633019),26.860120913598763,458672,False,aptamer SeqId_3710_49; signal rank 5
+PLG,Fenland,ensembl_id+symbol,rs1406891 (chr6:161187080),34.60032627851896,12733,True,aptamer SeqId_3710_49; signal rank 4
+PLG,Fenland,ensembl_id+symbol,rs11751347 (chr6:161092438),76.04143611677803,30832,True,aptamer SeqId_3710_49; signal rank 3
+PLG,Fenland,ensembl_id+symbol,rs4252129 (chr6:161152905),77.89962945488244,0,True,aptamer SeqId_3710_49; signal rank 2
+PLG,Fenland,ensembl_id+symbol,rs11751347 (chr6:161092438),87.58670023591876,30832,True,aptamer SeqId_4151_6; signal rank 2
+PLG,Fenland,ensembl_id+symbol,rs144981713 (chr6:161214795),175.5482135644757,40448,True,aptamer SeqId_4151_6; signal rank 1
+PLG,Fenland,ensembl_id+symbol,rs537579467 (chr6:161155264),177.6925039620868,0,True,aptamer SeqId_3710_49; signal rank 1
+PLG,UKB-PPP,symbol,rs73015965 (chr6:160706469),396.277,0,True,ST9
+PLG,UKB-PPP,symbol,rs73015965 (chr6:160706469),550.319,0,True,ST10
+PLG,deCODE,ensembl_id+symbol,rs6938647 (chr6:160565883),10.04,136355,False,aptamer 4151_6; distTSS 136309
+PLG,deCODE,ensembl_id+symbol,rs10945684 (chr6:160689241),10.66,12997,True,aptamer 3710_49; distTSS 12951
+PLG,deCODE,ensembl_id+symbol,rs192519670 (chr6:160739062),11.02,0,True,aptamer 4151_6; distTSS 36870
+PLG,deCODE,ensembl_id+symbol,rs192519670 (chr6:160739062),11.98,0,True,aptamer 3710_49; distTSS 36870
+PLG,deCODE,ensembl_id+symbol,chr6:160749482 (chr6:160749482),12.94,0,True,aptamer 4151_6; distTSS 47290
+PLG,deCODE,ensembl_id+symbol,rs761486917 (chr6:161737547),16.3,984232,False,aptamer 3710_49; distTSS 1035355
+PLG,deCODE,ensembl_id+symbol,rs1652492 (chr6:160779992),24.25,26677,True,aptamer 3710_49; distTSS 77800
+PLG,deCODE,ensembl_id+symbol,rs4252185 (chr6:160702419),29.89,0,True,aptamer 4151_6; distTSS 227
+PLG,deCODE,ensembl_id+symbol,rs147175166 (chr6:160741337),32.92,0,True,aptamer 3710_49; distTSS 39145
+PLG,deCODE,ensembl_id+symbol,rs73015965 (chr6:160706469),36.18,0,True,aptamer 4151_6; distTSS 4277
+PLG,deCODE,ensembl_id+symbol,rs4252159 (chr6:160739612),36.49,0,True,aptamer 4151_6; distTSS 37420
+PLG,deCODE,ensembl_id+symbol,rs4252185 (chr6:160702419),43.65,0,True,aptamer 3710_49; distTSS 227
+PLG,deCODE,ensembl_id+symbol,rs147175166 (chr6:160741337),50.29,0,True,aptamer 4151_6; distTSS 39145
+PLG,deCODE,ensembl_id+symbol,rs73015965 (chr6:160706469),54.01,0,True,aptamer 3710_49; distTSS 4277
+PLG,deCODE,ensembl_id+symbol,rs4252129 (chr6:160731873),89.41,0,True,aptamer 3710_49; distTSS 29681
+PLG,deCODE,ensembl_id+symbol,rs762825306 (chr6:160883474),106.46,130159,False,aptamer 3710_49; distTSS 181282
+PLG,deCODE,ensembl_id+symbol,rs11751347 (chr6:160671406),114.2,30832,True,aptamer 4151_6; distTSS 30786
+PLG,deCODE,ensembl_id+symbol,rs11751347 (chr6:160671406),124.02,30832,True,aptamer 3710_49; distTSS 30786
+PLG,deCODE,ensembl_id+symbol,rs4252129 (chr6:160731873),135.1,0,True,aptamer 4151_6; distTSS 29681
+PLG,deCODE,ensembl_id+symbol,rs761016779 (chr6:160707735),153.75,0,True,aptamer 3710_49; distTSS 5543
+PLG,deCODE,ensembl_id+symbol,rs143079629 (chr6:160707780),158.94,0,True,aptamer 3710_49; distTSS 5588
+PON1,UKB-PPP,symbol,rs705379 (chr7:95324583),2165.3,51,True,ST9
+PON1,UKB-PPP,symbol,rs705379 (chr7:95324583),3107.25,51,True,ST10
+POSTN,Fenland,ensembl_id+symbol,rs4424789 (chr13:38123841),18.642065152999546,12879,True,aptamer SeqId_3457_57; signal rank 1
+POSTN,UKB-PPP,symbol,- (chr13:37544843),238.406,17740,True,ST9
+POSTN,UKB-PPP,symbol,rs9547922 (chr13:37517180),321.988,45403,True,ST10
+POSTN,deCODE,ensembl_id+symbol,rs1853329 (chr13:37408276),9.55,154307,False,aptamer 3457_57; distTSS 190568
+POSTN,deCODE,ensembl_id+symbol,rs9576299 (chr13:37550547),9.79,12036,True,aptamer 3457_57; distTSS 48297
+POSTN,deCODE,ensembl_id+symbol,rs1570608 (chr13:37653092),11.84,54248,True,aptamer 3457_57; distTSS 54248
+POSTN,deCODE,ensembl_id+symbol,rs139240369 (chr13:37472287),14.3,90296,True,aptamer 3457_57; distTSS 126557
+POSTN,deCODE,ensembl_id+symbol,rs200206123 (chr13:37557720),16.89,4863,True,aptamer 3457_57; distTSS 41124
+POSTN,deCODE,ensembl_id+symbol,rs1358992 (chr13:37512252),17.67,50331,True,aptamer 3457_57; distTSS 86592
+POSTN,deCODE,ensembl_id+symbol,"rs398022371,rs552140940,rs71093678,rs553316878 (chr13:37309146)",22.71,253437,False,aptamer 3457_57; distTSS 289698
+POSTN,deCODE,ensembl_id+symbol,rs4143038 (chr13:37246668),27.93,315915,False,aptamer 3457_57; distTSS 352176
+POSTN,deCODE,ensembl_id+symbol,rs9532075 (chr13:37530059),82.39,32524,True,aptamer 3457_57; distTSS 68785
+POSTN,deCODE,ensembl_id+symbol,rs117103342 (chr13:37582401),114.57,0,True,aptamer 3457_57; distTSS 16443
+PTN,Fenland,ensembl_id+symbol,rs10255150 (chr7:137013466),49.36251027048749,0,True,aptamer SeqId_3045_72; signal rank 1
+PTN,UKB-PPP,symbol,rs1431092 (chr7:137331563),92.9088,0,True,ST9
+PTN,UKB-PPP,symbol,rs1431092 (chr7:137331563),124.689,0,True,ST10
+PTN,deCODE,ensembl_id+symbol,rs62490463 (chr7:137499806),8.75,155941,False,aptamer 3045_72; distTSS 155816
+PTN,deCODE,ensembl_id+symbol,rs320682 (chr7:137353346),122.69,9481,True,aptamer 3045_72; distTSS 9356
+RBP4,Fenland,ensembl_id+symbol,rs36014035 (chr10:95360027),23.105130343254746,0,True,aptamer SeqId_15633_6; signal rank 1
+RBP4,deCODE,ensembl_id+symbol,rs10882283 (chr10:93601207),21.64,0,True,aptamer 15633_6; distTSS 537
+RBP4,deCODE,ensembl_id+symbol,rs116887052 (chr10:93593847),62.42,0,True,aptamer 15633_6; distTSS 7897
+REN,Fenland,ensembl_id+symbol,rs141995914 (chr1:204207097),33.44129142946684,71632,True,aptamer SeqId_3396_54; signal rank 1
+REN,UKB-PPP,symbol,rs193280350 (chr1:204179521),84.9648,0,True,ST9
+REN,UKB-PPP,symbol,rs193280350 (chr1:204179521),127.037,0,True,ST10
+REN,deCODE,ensembl_id+symbol,rs4951315 (chr1:204188040),9.41,0,True,aptamer 3396_54; distTSS 21703
+REN,deCODE,ensembl_id+symbol,rs193280350 (chr1:204179521),102.95,0,True,aptamer 3396_54; distTSS 13184
+RRM2,UKB-PPP,symbol,rs6737932 (chr2:10124166),13.4248,0,True,ST10
+SCG3,Fenland,ensembl_id+symbol,rs2305710 (chr15:51975608),24.950781977329818,0,True,aptamer SeqId_7957_2; signal rank 2
+SCG3,Fenland,ensembl_id+symbol,rs1456295 (chr15:51979655),314.97061622239266,0,True,aptamer SeqId_7957_2; signal rank 1
+SCG3,UKB-PPP,symbol,rs2606134 (chr15:51681453),1459.37,39,True,ST9
+SCG3,UKB-PPP,symbol,rs2606145 (chr15:51688114),2117.01,0,True,ST10
+SCG3,deCODE,ensembl_id+symbol,rs8029731 (chr15:51696885),8.84,0,True,aptamer 7957_2; distTSS 15533
+SCG3,deCODE,ensembl_id+symbol,rs2606135 (chr15:51681428),35.84,0,True,aptamer 7957_2; distTSS 76
+SCG3,deCODE,ensembl_id+symbol,rs2305710 (chr15:51683411),129.59,0,True,aptamer 7957_2; distTSS 2059
+SCG3,deCODE,ensembl_id+symbol,"rs34102168,rs397762083,rs398078187 (chr15:51690652)",484.56,0,True,aptamer 7957_2; distTSS 9300
+SELE,Fenland,ensembl_id+symbol,rs2205850 (chr1:169691439),19.068542129310995,342,True,aptamer SeqId_3470_1; signal rank 1
+SELE,UKB-PPP,symbol,rs7538317 (chr1:169738435),46.2207,0,True,ST9
+SELE,UKB-PPP,symbol,rs7515714 (chr1:169738588),72.0002,0,True,ST10
+SELE,deCODE,ensembl_id+symbol,rs192480707 (chr1:169769654),11.37,4949,True,aptamer 3470_1; distTSS 35575
+SELE,deCODE,ensembl_id+symbol,chr1:169735413 (chr1:169735413),40.38,0,True,aptamer 3470_1; distTSS 1334
+SERPINA4,Fenland,ensembl_id+symbol,rs61978272 (chr14:94989658),29.14266750356873,37770,True,aptamer SeqId_3449_58; signal rank 3
+SERPINA4,Fenland,ensembl_id+symbol,rs35897435 (chr14:94900211),31.72584215073632,127217,False,aptamer SeqId_3449_58; signal rank 2
+SERPINA4,Fenland,ensembl_id+symbol,rs10146582 (chr14:95037778),389.9496826092385,1528,True,aptamer SeqId_3449_58; signal rank 1
+SERPINA4,UKB-PPP,symbol,rs5511 (chr14:94567258),1014.82,0,True,ST9
+SERPINA4,UKB-PPP,symbol,rs5511 (chr14:94567258),1529.87,0,True,ST10
+SERPINA4,deCODE,ensembl_id+symbol,chr14:94558754 (chr14:94558754),10.98,2337,True,aptamer 3449_58; distTSS 2665
+SERPINA4,deCODE,ensembl_id+symbol,rs11160191 (chr14:94547530),30.44,13561,True,aptamer 3449_58; distTSS 13889
+SERPINA4,deCODE,ensembl_id+symbol,chr14:94575906 (chr14:94575906),36.62,5993,True,aptamer 3449_58; distTSS 14487
+SERPINA4,deCODE,ensembl_id+symbol,rs910349 (chr14:94561341),108.7,0,True,aptamer 3449_58; distTSS 78
+SERPINA4,deCODE,ensembl_id+symbol,rs5511 (chr14:94567258),465.76,0,True,aptamer 3449_58; distTSS 5839
+SERPINA4,deCODE,ensembl_id+symbol,rs5512 (chr14:94568116),504.85,0,True,aptamer 3449_58; distTSS 6697
+SHH,UKB-PPP,symbol,rs10225434 (chr7:156380639),12.2507,568176,False,ST9
+SHH,UKB-PPP,symbol,rs10225292 (chr7:156380544),16.5734,568081,False,ST10
+SHH,deCODE,ensembl_id+symbol,rs9333596 (chr7:155811284),22.28,0,True,aptamer 2743_5; distTSS 989
+SHH,deCODE,ensembl_id+symbol,rs10225292 (chr7:156380544),25.66,568271,False,aptamer 2743_5; distTSS 568271
+TGFB1,UKB-PPP,symbol,rs73045269 (chr19:41319286),186.544,0,True,ST9
+TGFB1,UKB-PPP,symbol,rs73045269 (chr19:41319286),273.674,0,True,ST10
+THPO,UKB-PPP,symbol,rs6141 (chr3:184372478),15.6408,0,True,ST9
+THPO,UKB-PPP,symbol,rs78565404 (chr3:184372454),23.5877,0,True,ST10
+THPO,deCODE,ensembl_id+symbol,rs372687062 (chr3:183389654),10.15,982281,False,aptamer 5947_90; distTSS 990034
+THPO,deCODE,ensembl_id+symbol,rs535950824 (chr3:184184677),12.46,187258,False,aptamer 8059_1; distTSS 195011
+TIMP4,Fenland,ensembl_id+symbol,rs11707641 (chr3:12155888),79.67162039656127,38663,True,aptamer SeqId_6462_12; signal rank 2
+TIMP4,Fenland,ensembl_id+symbol,rs184262 (chr3:12134740),178.50445566245355,59811,True,aptamer SeqId_6462_12; signal rank 1
+TIMP4,UKB-PPP,symbol,rs184262 (chr3:12093240),481.984,59828,True,ST9
+TIMP4,UKB-PPP,symbol,rs167408 (chr3:12046948),667.006,106120,False,ST10
+TIMP4,deCODE,ensembl_id+symbol,rs371332507 (chr3:12158890),10.03,0,True,aptamer 6462_12; distTSS 461
+TIMP4,deCODE,ensembl_id+symbol,rs537394690 (chr3:12158949),19.0,0,True,aptamer 6462_12; distTSS 402
+TIMP4,deCODE,ensembl_id+symbol,rs2120825 (chr3:12371840),19.09,212489,False,aptamer 6462_12; distTSS 212489
+TIMP4,deCODE,ensembl_id+symbol,rs201048395 (chr3:12158710),72.41,0,True,aptamer 6462_12; distTSS 641
+TIMP4,deCODE,ensembl_id+symbol,rs3773364 (chr3:12148468),110.56,4583,True,aptamer 6462_12; distTSS 10883
+TIMP4,deCODE,ensembl_id+symbol,rs184262 (chr3:12093240),309.11,59811,True,aptamer 6462_12; distTSS 66111
+TNFRSF11B,Fenland,ensembl_id+symbol,rs13257113 (chr8:120155591),27.730487055782085,191152,False,aptamer SeqId_8304_50; signal rank 1
+TNFRSF11B,UKB-PPP,symbol,rs748443516 (chr8:119088959),184.393,137074,False,ST9
+TNFRSF11B,UKB-PPP,symbol,rs748443516 (chr8:119088959),264.705,137074,False,ST10
+TNFRSF11B,deCODE,ensembl_id+symbol,rs2465383 (chr8:119067509),10.07,115309,False,aptamer 8304_50; distTSS 115365
+TNFRSF11B,deCODE,ensembl_id+symbol,rs2468184 (chr8:119185624),10.56,233424,False,aptamer 8304_50; distTSS 233480
+TNFRSF11B,deCODE,ensembl_id+symbol,rs10505337 (chr8:118754926),10.67,168631,False,aptamer 8304_50; distTSS 197218
+TNFRSF11B,deCODE,ensembl_id+symbol,rs117108011 (chr8:118889203),12.53,34354,True,aptamer 8304_50; distTSS 62941
+TNFRSF11B,deCODE,ensembl_id+symbol,rs117585047 (chr8:118792411),14.45,131146,False,aptamer 8304_50; distTSS 159733
+TNFRSF11B,deCODE,ensembl_id+symbol,rs2514591 (chr8:118599237),23.16,324320,False,aptamer 8304_50; distTSS 352907
+TNFRSF11B,deCODE,ensembl_id+symbol,rs4876836 (chr8:118434718),24.04,488839,False,aptamer 8304_50; distTSS 517426
+TNFRSF11B,deCODE,ensembl_id+symbol,chr8:118932966 (chr8:118932966),27.57,0,True,aptamer 8304_50; distTSS 19178
+TNFRSF11B,deCODE,ensembl_id+symbol,rs35617243 (chr8:118875882),31.32,47675,True,aptamer 8304_50; distTSS 76262
+TNFRSF11B,deCODE,ensembl_id+symbol,rs11300005 (chr8:119088959),74.4,136759,False,aptamer 8304_50; distTSS 136815
+TTR,UKB-PPP,symbol,rs1667229 (chr18:31562243),59.9851,0,True,ST9
+TTR,UKB-PPP,symbol,rs1667229 (chr18:31562243),94.1923,0,True,ST10
+TYRO3,Fenland,ensembl_id+symbol,rs2588323 (chr15:41842078),22.09908693226233,7795,True,aptamer SeqId_2611_72; signal rank 1
+TYRO3,UKB-PPP,symbol,rs8024626 (chr15:41570983),1384.24,0,True,ST9
+TYRO3,UKB-PPP,symbol,rs17676332 (chr15:41567301),2027.13,0,True,ST10
+TYRO3,deCODE,ensembl_id+symbol,rs139608785 (chr15:41567406),12.49,0,True,aptamer 2611_72; distTSS 8385
+TYRO3,deCODE,ensembl_id+symbol,chr15:41558846 (chr15:41558846),41.53,0,True,aptamer 2611_72; distTSS 175
+TYRO3,deCODE,ensembl_id+symbol,rs2588323 (chr15:41549880),43.06,7795,True,aptamer 2611_72; distTSS 9141
+VEGFD,Fenland,ensembl_id,rs234497 (chrX:15442784),13.18243463044022,40286,True,aptamer SeqId_13098_93; signal rank 3
+VEGFD,Fenland,ensembl_id,rs12843566 (chrX:15400259),29.889410289700752,0,True,aptamer SeqId_14705_1; signal rank 2
+VEGFD,Fenland,ensembl_id,rs12843566 (chrX:15400259),46.49894073778225,0,True,aptamer SeqId_13098_93; signal rank 2
+VEGFD,Fenland,ensembl_id,rs192812042 (chrX:15436623),188.25649023527157,34125,True,aptamer SeqId_14705_1; signal rank 1
+VEGFD,Fenland,ensembl_id,rs192812042 (chrX:15436623),243.97881070093007,34125,True,aptamer SeqId_13098_93; signal rank 1
+VEGFD,UKB-PPP,symbol,rs192812042 (chrX:15418500),1497.05,34087,True,ST9
+VEGFD,UKB-PPP,symbol,rs192812042 (chrX:15418500),2140.72,34087,True,ST10
+VEGFD,deCODE,ensembl_id,rs41311833 (chrX:15384641),9.57,265,True,aptamer 13098_93; distTSS 228
+VEGFD,deCODE,ensembl_id,rs796916703 (chrX:14422814),9.61,922777,False,aptamer 13098_93; distTSS 961599
+VEGFD,deCODE,ensembl_id,chrX:15347202 (chrX:15347202),10.04,0,True,aptamer 13098_93; distTSS 37211
+VEGFD,deCODE,ensembl_id,rs1006579980 (chrX:14387867),11.44,957724,False,aptamer 14705_1; distTSS 996546
+VEGFD,deCODE,ensembl_id,rs5935966 (chrX:15412911),16.4,28535,True,aptamer 13098_93; distTSS 28498
+VEGFD,deCODE,ensembl_id,chrX:15404987 (chrX:15404987),19.74,20611,True,aptamer 13098_93; distTSS 20574
+VEGFD,deCODE,ensembl_id,"rs34856371,rs371745870 (chrX:15465279)",24.02,80903,True,aptamer 13098_93; distTSS 80866
+VEGFD,deCODE,ensembl_id,rs5935960 (chrX:15385434),33.3,1058,True,aptamer 13098_93; distTSS 1021
+VEGFD,deCODE,ensembl_id,rs897599957 (chrX:13972186),36.41,1373405,False,aptamer 13098_93; distTSS 1412227
+VEGFD,deCODE,ensembl_id,rs12843793 (chrX:15382136),40.35,0,True,aptamer 14705_1; distTSS 2277
+VEGFD,deCODE,ensembl_id,rs5934242 (chrX:15464067),101.19,79691,True,aptamer 14705_1; distTSS 79654
+VEGFD,deCODE,ensembl_id,chrX:15384267 (chrX:15384267),105.51,0,True,aptamer 13098_93; distTSS 146
+VEGFD,deCODE,ensembl_id,rs62578866 (chrX:15450343),281.77,65967,True,aptamer 13098_93; distTSS 65930
+VEGFD,deCODE,ensembl_id,rs192812042 (chrX:15418500),564.99,34124,True,aptamer 14705_1; distTSS 34087
+VEGFD,deCODE,ensembl_id,rs192812042 (chrX:15418500),897.4,34124,True,aptamer 13098_93; distTSS 34087

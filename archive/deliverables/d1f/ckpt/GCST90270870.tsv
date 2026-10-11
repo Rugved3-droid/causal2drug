@@ -1,0 +1,2 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+MC1R	D002177	Candidiasis	GCST90270870	UP	7	rs62052183	3.2717e-310	0.861613	0.0124935	4756	-0.0226279	0.0287693	aligned_same	693	-0.0262623	0.0333901	0.431557	NEGATIVE	NEGATIVE	YES	

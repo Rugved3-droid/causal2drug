@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19970716",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19980130",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19961224",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "20654",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/96/020430_toc.html",
+              "date": "20100105",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20010626",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41357",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/20-430S003_Orgaran.html",
+              "date": "20010713",
+              "type": "Review"
+            },
+            {
+              "id": "12577",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/20-430S003_Orgaran_prntlbl.pdf",
+              "date": "20010713",
+              "type": "Label"
+            },
+            {
+              "id": "2534",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/20430s3ltr.pdf",
+              "date": "20010713",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020430",
+      "sponsor_name": "ASPEN GLOBAL INC",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ORGARAN",
+          "active_ingredients": [
+            {
+              "name": "DANAPAROID SODIUM",
+              "strength": "750 UNITS/0.6ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

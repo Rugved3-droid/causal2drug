@@ -1,0 +1,27 @@
+{
+  "n_cv_primary_pairs": 1364,
+  "n_cv_primary_targets": 594,
+  "n_cv_extended_pairs": 1543,
+  "n_cv_extended_targets": 630,
+  "state_counts": {
+    "INSTRUMENTED": 386,
+    "ABSENT": 177,
+    "UNMAPPED": 12,
+    "TESTED_NULL": 55
+  },
+  "blood": 386,
+  "cardiac_union": 110,
+  "heart_lv": 45,
+  "cv_classA_or": 10.019762845849803,
+  "cv_classA_p": 4.049617322634367e-15,
+  "cv_classA_table": [
+    [
+      156,
+      8
+    ],
+    [
+      253,
+      130
+    ]
+  ]
+}

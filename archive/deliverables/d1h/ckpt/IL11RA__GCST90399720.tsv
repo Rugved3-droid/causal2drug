@@ -1,0 +1,2 @@
+gene	gwas_acc	mesh_term	n_merged_eqtlgen	n_merged_gtex	eqtl_lead_rsid	eqtl_lead_z	gwas_lead_rsid	gwas_lead_z	lead_r2	lead_dist_bp	abf_gap	abf_PP3_eqtlgen	abf_PP4_eqtlgen	susie_PP4_eqtlgen	n_cs_exposure	n_cs_outcome	abf_PP4_gtexblood	gtex_lead_z	n_lead_shared_gtex_eqtlgen	dentist_rmse_eqtlgen	dentist_rmse_gwas	dentist_rmse_gtex	note
+IL11RA	GCST90399720	Idiopathic Pulmonary Fibrosis	351	520	rs2070074	61.59	rs4879804	-2.319	0.0542	98613	6.130	0.0152905	0.0333413		3	0	0.0391714	5.789	1	6.489	0.7188		

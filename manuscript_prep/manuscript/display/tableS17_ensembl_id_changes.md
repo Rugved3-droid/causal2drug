@@ -1,0 +1,19 @@
+**Supplementary Table S17. Targets absent from GTEx v8 under their GRCh37 Ensembl gene ID, and the post-hoc symbol match**
+
+| Target | GRCh37 Ensembl ID | HGNC current Ensembl ID | New ID in GTEx v8 | GRCh37 coordinates | GTEx (GENCODE v26) coordinates | Ensembl GRCh38 coordinates | Share of GTEx body inside GRCh38 record | Same strand as GRCh37 | Match applied | Category before | Category after |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| ADRA2B | ENSG00000222040 | ENSG00000274286 | True | 2:96778707-96781984 (-) | 2:96112875-96116245 | 2:96112876-96116571 (-) | 0.9997 | True | True | locked | candidate: tissue |
+| GDF2 | ENSG00000128802 | ENSG00000263761 | True | 10:48413092-48416853 (-) | 10:47322490-47326270 | 10:47322451-47327592 (+) | 1.0 | False | True | locked | locked |
+| MIR122 | ENSG00000207778 | ENSG00000284440 | False | 18:56118306-56118390 (+) |  | 18:58451074-58451158 (+) |  |  | False | locked | locked |
+| MIR126 | ENSG00000199161 | unchanged | False | 9:139565054-139565138 (+) |  |  |  |  | False | locked | locked |
+| MIR132 | ENSG00000267200 | unchanged | False | 17:1953202-1953302 (-) |  |  |  |  | False | locked | locked |
+| MIR143 | ENSG00000208035 | ENSG00000284182 | False | 5:148808481-148808586 (+) |  | 5:149428918-149429023 (+) |  |  | False | locked | locked |
+| MIR145 | ENSG00000269936 | ENSG00000276365 | True | 5:148809849-148812397 (+) | 5:149430646-149430733 | 5:149430646-149430733 (+) | 1.0 | True | True | locked | locked |
+| MIR208A | ENSG00000199157 | unchanged | False | 14:23857799-23857881 (-) |  |  |  |  | False | locked | locked |
+| MIR21 | ENSG00000199004 | ENSG00000284190 | False | 17:57918627-57918698 (+) |  | 17:59841266-59841337 (+) |  |  | False | locked | locked |
+| MIR33A | ENSG00000207932 | unchanged | False | 22:42296948-42297016 (+) |  |  |  |  | False | locked | locked |
+| MIR499A | ENSG00000207635 | unchanged | False | 20:33578179-33578300 (+) |  |  |  |  | False | locked | locked |
+| MT-ND1 | ENSG00000198888 | unchanged | False | MT:3307-4262 (+) |  |  |  |  | False | locked | locked |
+| MT-ND2 | ENSG00000198763 | unchanged | False | MT:4470-5511 (+) |  |  |  |  | False | locked | locked |
+
+A symbol match was allowed only where HGNC records a different current Ensembl ID for the same symbol, GTEx carries that ID under the same symbol, the chromosome agrees, and at least 95% of the GTEx gene body lies inside the current Ensembl GRCh38 record.

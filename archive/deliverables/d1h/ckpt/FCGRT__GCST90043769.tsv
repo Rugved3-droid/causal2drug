@@ -1,0 +1,2 @@
+gene	gwas_acc	mesh_term	n_merged_eqtlgen	n_merged_gtex	eqtl_lead_rsid	eqtl_lead_z	gwas_lead_rsid	gwas_lead_z	lead_r2	lead_dist_bp	abf_gap	abf_PP3_eqtlgen	abf_PP4_eqtlgen	susie_PP4_eqtlgen	n_cs_exposure	n_cs_outcome	abf_PP4_gtexblood	gtex_lead_z	n_lead_shared_gtex_eqtlgen	dentist_rmse_eqtlgen	dentist_rmse_gwas	dentist_rmse_gtex	note
+FCGRT	GCST90043769	Myasthenia Gravis	277	462	rs59774409	-28.35	rs701717	-2.135	0.0054	21494	5.565	0.0219936	0.0845346		1	0	0.0749465	-4.904	0	4.141	0.3199		

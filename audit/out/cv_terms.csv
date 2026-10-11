@@ -1,0 +1,94 @@
+mesh_id,term,areas,by_area,tokens,pairs
+D000783,Aneurysm,cardiovascular,True,,6
+D000787,Angina Pectoris,"cardiovascular, signs/symptoms",True,,33
+D000789,"Angina, Unstable","cardiovascular, signs/symptoms",True,,13
+D000795,Fabry Disease,"neurology, cardiovascular, congenital, metabolic",True,,3
+D000799,Angioedema,"cardiovascular, dermatology, immune",True,,1
+D001024,Aortic Valve Stenosis,cardiovascular,True,,4
+D001145,"Arrhythmias, Cardiac","cardiovascular, signs/symptoms",True,,16
+D001165,Arteriovenous Malformations,"cardiovascular, congenital",True,,1
+D001260,Ataxia Telangiectasia,"neurology, cardiovascular, congenital, metabolic, immune",True,,1
+D001281,Atrial Fibrillation,"cardiovascular, signs/symptoms",True,,33
+D001528,Behcet Syndrome,"ophthalmology, cardiovascular, congenital, dermatology",True,,16
+D001919,Bradycardia,"cardiovascular, signs/symptoms",True,,1
+D002311,"Cardiomyopathy, Dilated","cardiovascular, congenital",True,,9
+D002312,"Cardiomyopathy, Hypertrophic",cardiovascular,True,,9
+D002318,Cardiovascular Diseases,cardiovascular,True,,170
+D002543,Cerebral Hemorrhage,"neurology, cardiovascular, signs/symptoms",True,,13
+D002544,Cerebral Infarction,"neurology, cardiovascular, signs/symptoms",True,,6
+D002545,Brain Ischemia,"neurology, cardiovascular",True,,173
+D003328,Coronary Thrombosis,cardiovascular,True,,9
+D003930,Diabetic Retinopathy,"ophthalmology, cardiovascular, endocrine",True,,99
+D004374,"Ductus Arteriosus, Patent","cardiovascular, congenital",True,,2
+D004489,"Edema, Cardiac","cardiovascular, signs/symptoms",True,,5
+D004535,Ehlers-Danlos Syndrome,"cardiovascular, hematology, congenital, dermatology",True,,5
+D004696,Endocarditis,cardiovascular,True,,1
+D004719,Endomyocardial Fibrosis,cardiovascular,True,,9
+D004916,Erythromelalgia,cardiovascular,True,,4
+D006330,"Heart Defects, Congenital","cardiovascular, congenital",True,,1
+D006333,Heart Failure,cardiovascular,True,,151
+D006623,von Hippel-Lindau Disease,"neurology, cardiovascular, congenital",True,,1
+D006937,Hypercholesterolemia,metabolic,False,hypercholesterol,47
+D006938,Hyperlipoproteinemia Type II,"congenital, metabolic",False,hyperlipoprotein;lipoprotein,12
+D006949,Hyperlipidemias,metabolic,False,hyperlipid,76
+D006973,Hypertension,cardiovascular,True,,66
+D006976,"Hypertension, Pulmonary","respiratory, cardiovascular",True,,105
+D007022,Hypotension,cardiovascular,True,,16
+D007383,Intermittent Claudication,"cardiovascular, signs/symptoms",True,,11
+D008072,Hyperlipoproteinemia Type I,"congenital, metabolic",False,hyperlipoprotein;lipoprotein,5
+D008133,Long QT Syndrome,"cardiovascular, congenital, signs/symptoms",True,,2
+D008382,Marfan Syndrome,"musculoskeletal, cardiovascular, congenital, dermatology",True,,1
+D009080,Mucocutaneous Lymph Node Syndrome,"cardiovascular, hematology, dermatology",True,,3
+D009202,Cardiomyopathies,cardiovascular,True,,22
+D009203,Myocardial Infarction,"cardiovascular, signs/symptoms",True,,129
+D009205,Myocarditis,cardiovascular,True,,2
+D009634,Noonan Syndrome,"musculoskeletal, cardiovascular, congenital, dermatology",True,,3
+D010493,Pericarditis,cardiovascular,True,,1
+D011655,Pulmonary Embolism,"respiratory, cardiovascular",True,,11
+D011928,Raynaud Disease,cardiovascular,True,,6
+D012170,Retinal Vein Occlusion,"ophthalmology, cardiovascular",True,,20
+D013345,Subarachnoid Hemorrhage,"neurology, cardiovascular, signs/symptoms",True,,10
+D013610,Tachycardia,"cardiovascular, signs/symptoms",True,,1
+D013617,"Tachycardia, Supraventricular","cardiovascular, signs/symptoms",True,,3
+D013625,Takayasu Arteritis,"cardiovascular, dermatology",True,,4
+D013683,"Telangiectasia, Hereditary Hemorrhagic","cardiovascular, hematology, congenital",True,,11
+D013771,Tetralogy of Fallot,"cardiovascular, congenital",True,,3
+D013919,Thromboangiitis Obliterans,cardiovascular,True,,4
+D013924,Thrombophlebitis,cardiovascular,True,,3
+D013927,Thrombosis,cardiovascular,True,,58
+D014424,Turner Syndrome,"cardiovascular, congenital, endocrine",True,,3
+D014647,Varicose Ulcer,"cardiovascular, dermatology",True,,5
+D014652,Vascular Diseases,cardiovascular,True,,6
+D014657,Vasculitis,cardiovascular,True,,26
+D014689,Venous Insufficiency,cardiovascular,True,,6
+D014693,Ventricular Fibrillation,"cardiovascular, signs/symptoms",True,,6
+D014890,Granulomatosis with Polyangiitis,"respiratory, cardiovascular, immune",True,,5
+D015140,"Dementia, Vascular","neurology, cardiovascular, psychiatry",True,,6
+D015228,Hypertriglyceridemia,metabolic,False,hypertriglycerid,31
+D015267,Churg-Strauss Syndrome,"cardiovascular, hematology, immune",True,,4
+D015356,Retinal Artery Occlusion,"ophthalmology, cardiovascular",True,,6
+D015427,Reperfusion Injury,"cardiovascular, signs/symptoms",True,,49
+D016491,Peripheral Vascular Diseases,cardiovascular,True,,56
+D016657,Cerebral Amyloid Angiopathy,"neurology, cardiovascular, metabolic",True,,3
+D016738,Alagille Syndrome,"digestive, cardiovascular, congenital",True,,1
+D017180,"Tachycardia, Ventricular","cardiovascular, signs/symptoms",True,,4
+D017241,MELAS Syndrome,"musculoskeletal, neurology, cardiovascular, congenital, metabolic",True,,3
+D017719,Diabetic Foot,"cardiovascular, dermatology, endocrine",True,,37
+D018917,"Optic Neuropathy, Ischemic","neurology, ophthalmology, cardiovascular",True,,6
+D019559,Capillary Leak Syndrome,cardiovascular,True,,4
+D020246,Venous Thrombosis,cardiovascular,True,,20
+D020301,"Vasospasm, Intracranial","neurology, cardiovascular",True,,1
+D020521,Stroke,"neurology, cardiovascular",True,,173
+D020767,Intracranial Thrombosis,"neurology, cardiovascular",True,,3
+D023903,Coronary Restenosis,cardiovascular,True,,45
+D046589,CADASIL,"neurology, cardiovascular, congenital, signs/symptoms",True,,1
+D050171,Dyslipidemias,metabolic,False,dyslipid,7
+D050197,Atherosclerosis,cardiovascular,True,atheroscler,132
+D052120,Glycogen Storage Disease Type IIb,"neurology, cardiovascular, congenital, metabolic",True,,1
+D052456,Hypoalphalipoproteinemias,"congenital, metabolic",False,lipoprotein,1
+D054058,Acute Coronary Syndrome,cardiovascular,True,,28
+D054179,"Angioedemas, Hereditary","cardiovascular, congenital, dermatology, immune",True,,10
+D055953,Microscopic Polyangiitis,"neurology, cardiovascular, immune",True,,3
+D058065,Diabetic Cardiomyopathies,"cardiovascular, endocrine",True,,3
+D058088,Sarcoglycanopathies,"musculoskeletal, respiratory, neurology, cardiovascular, congenital",True,,1
+D058456,Retinal Telangiectasis,"ophthalmology, cardiovascular",True,,2

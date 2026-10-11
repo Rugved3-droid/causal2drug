@@ -1,0 +1,32 @@
+[P01] No eQTL data (lower bound), primary set, by highest phase
+  Preclinical   97 / 323 =  30.0% (95% CI 25.3% to 35.2%)
+  Phase I       26 /  91 =  28.6% (95% CI 20.3% to 38.6%)
+  Phase II      57 / 171 =  33.3% (95% CI 26.7% to 40.7%)
+  Phase III     14 /  75 =  18.7% (95% CI 11.5% to 28.9%)
+  Launched      23 /  66 =  34.8% (95% CI 24.5% to 46.9%)
+  Launched minus Preclinical: +4.8 percentage points (95% CI -6.8 to +17.8)
+
+[P02] Uninstrumentable, upper bound (no eQTL data + no qualifying instrument)
+  Preclinical  126 / 323 =  39.0% (95% CI 33.8% to 44.4%)
+  Phase I       36 /  91 =  39.6% (95% CI 30.1% to 49.8%)
+  Phase II      66 / 171 =  38.6% (95% CI 31.6% to 46.1%)
+  Phase III     25 /  75 =  33.3% (95% CI 23.7% to 44.6%)
+  Launched      27 /  66 =  40.9% (95% CI 29.9% to 53.0%)
+  Launched minus Preclinical: +1.9 percentage points (95% CI -10.4 to +15.0)
+
+[P03] Autosomal-only lower bound
+  Preclinical   85 / 311 =  27.3% (95% CI 22.7% to 32.5%)
+  Phase I       20 /  85 =  23.5% (95% CI 15.8% to 33.6%)
+  Phase II      48 / 162 =  29.6% (95% CI 23.1% to 37.1%)
+  Phase III     14 /  75 =  18.7% (95% CI 11.5% to 28.9%)
+  Launched      21 /  64 =  32.8% (95% CI 22.6% to 45.0%)
+  Launched minus Preclinical: +5.5 percentage points (95% CI -6.0 to +18.5)
+
+[P04] Locked, among targets with no eQTLGen whole-blood instrument (recovery map)
+  Preclinical   34 / 126 =  27.0% (95% CI 20.0% to 35.3%)
+  Phase I        6 /  36 =  16.7% (95% CI  7.9% to 31.9%)
+  Phase II      10 /  66 =  15.2% (95% CI  8.4% to 25.7%)
+  Phase III      6 /  25 =  24.0% (95% CI 11.5% to 43.4%)
+  Launched       1 /  27 =   3.7% (95% CI  0.7% to 18.3%)
+  Launched minus Preclinical: -23.3 percentage points (95% CI -32.2 to -7.1)
+

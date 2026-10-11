@@ -1,0 +1,315 @@
+[
+  {
+    "pair": "HMGCR_LDL",
+    "started_utc": "2026-08-28T02:49:23Z",
+    "rules": "R1 window +-100kb; DECISION 6 p<5e-8; R5 clump r2<0.01; R12.2 lead-SNP Wald ratio",
+    "gene_grch37": {
+      "symbol": "HMGCR",
+      "ensembl_id": "ENSG00000113161",
+      "chrom": "5",
+      "start": 74632154,
+      "end": 74657929,
+      "window": [
+        74532154,
+        74757929
+      ],
+      "source": "Ensembl GRCh37 release 87 GTF"
+    },
+    "n_eqtlgen_hits_p_lt_5e-8": 277,
+    "n_dropped_no_allele_frequency": 0,
+    "n_exposure_variants": 277,
+    "clumping": {
+      "n_hits": 277,
+      "n_in_ld_panel": 269,
+      "n_independent": 1,
+      "independent_snps": [
+        "rs6453133"
+      ]
+    },
+    "lead_snp": {
+      "rsid": "rs6453133",
+      "pos37": 74692776,
+      "assessed": "G",
+      "other": "A",
+      "z": 14.9667,
+      "n": 31684.0,
+      "af_assessed": 0.31301439362621697,
+      "beta_exp": 0.12776305163760826,
+      "se_exp": 0.008536487778709285,
+      "p_exp": 1.2137e-50,
+      "F": 224.00210889
+    },
+    "liftover": {
+      "chain": "UCSC hg19ToHg38.over.chain.gz",
+      "sha256": "5c0598e500ceb5a78c73086929e8ef993aec309bcafb595139b53d440b125a1d",
+      "n_in": 277,
+      "n_lifted": 277,
+      "n_failed": 0,
+      "n_multi_mapping": 0,
+      "failure_rate": 0.0,
+      "failed_rsids": [],
+      "handling": "variants that fail to lift are DROPPED and counted; never carried forward on their GRCh37 coordinate",
+      "n_negative_strand": 0
+    },
+    "gwas_retrieval": {
+      "bytes": 1962741,
+      "requests": 3,
+      "data_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90239001-GCST90240000/GCST90239658/harmonised/GCST90239658.h.tsv.gz",
+      "tbi_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90239001-GCST90240000/GCST90239658/harmonised/GCST90239658.h.tsv.gz.tbi",
+      "head_status": 200,
+      "accept_ranges": "bytes",
+      "data_file_total_bytes": 1416980601,
+      "status_codes": [
+        206,
+        206
+      ],
+      "data_is_bgzf": true,
+      "first_block_size": 24514,
+      "probe_status": 206,
+      "tbi_bytes": 1803528,
+      "tbi_n_ref": 22,
+      "tbi_names_head": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tbi_cols_seq_beg_end": [
+        1,
+        2,
+        2
+      ],
+      "chrom_used": "5",
+      "n_chunks": 1,
+      "byte_span": [
+        472443986,
+        472603180
+      ],
+      "n_spans": 1,
+      "blocks_decompressed": 1,
+      "uncompressed_bytes": 391632,
+      "rows": 3310,
+      "pct_of_file_transferred": 0.138516,
+      "seconds": 7.04,
+      "retrieved_utc": "2026-08-28T02:49:38Z",
+      "accession": "GCST90239658",
+      "columns": [
+        "chromosome",
+        "base_pair_location",
+        "effect_allele",
+        "other_allele",
+        "beta",
+        "standard_error",
+        "effect_allele_frequency",
+        "p_value",
+        "variant_id",
+        "n",
+        "N_studies",
+        "hm_coordinate_conversion",
+        "hm_code",
+        "rsid"
+      ]
+    },
+    "gwas_window_grch38": [
+      75235941,
+      75462832
+    ],
+    "harmonization": {
+      "aligned_same": 276,
+      "ambiguous_unresolved": 1
+    },
+    "n_overlapping_after_harmonization": 276,
+    "mr": {
+      "estimator": "lead-SNP Wald ratio (R12.2)",
+      "lead_snp": "rs6453133",
+      "lead_p_exposure": 1.2137e-50,
+      "beta_exposure": 0.12776305163760826,
+      "se_exposure": 0.008536487778709285,
+      "beta_outcome_harmonized": 0.0497099,
+      "se_outcome": 0.00153827,
+      "harmonization_of_lead": "aligned_same",
+      "beta": 0.389078840579035,
+      "se": 0.012040022371751143,
+      "z": 32.31545827455518,
+      "p": 4.243006880606682e-229,
+      "direction": "POSITIVE",
+      "expected_direction": "POSITIVE",
+      "F": 224.00210889,
+      "n_instruments_after_clumping": 1
+    },
+    "coloc": {
+      "n_variants": 276,
+      "PP0": 0.0,
+      "PP1": 0.0,
+      "PP2": 5.769027595135862e-44,
+      "PP3": 0.9999999999899956,
+      "PP4": 1.0047485198341213e-11
+    },
+    "pass": {
+      "instrument_p_lt_5e-8": true,
+      "F_ge_10": true,
+      "mr_p_lt_0.05": true,
+      "direction_matches": true
+    },
+    "VERDICT": "PASS",
+    "finished_utc": "2026-08-28T02:49:38Z"
+  },
+  {
+    "pair": "IL6R_CRP",
+    "started_utc": "2026-08-28T02:49:38Z",
+    "rules": "R1 window +-100kb; DECISION 6 p<5e-8; R5 clump r2<0.01; R12.2 lead-SNP Wald ratio",
+    "gene_grch37": {
+      "symbol": "IL6R",
+      "ensembl_id": "ENSG00000160712",
+      "chrom": "1",
+      "start": 154377669,
+      "end": 154441926,
+      "window": [
+        154277669,
+        154541926
+      ],
+      "source": "Ensembl GRCh37 release 87 GTF"
+    },
+    "n_eqtlgen_hits_p_lt_5e-8": 226,
+    "n_dropped_no_allele_frequency": 0,
+    "n_exposure_variants": 226,
+    "clumping": {
+      "n_hits": 226,
+      "n_in_ld_panel": 224,
+      "n_independent": 2,
+      "independent_snps": [
+        "rs10908839",
+        "rs58229059"
+      ]
+    },
+    "lead_snp": {
+      "rsid": "rs10908839",
+      "pos37": 154430798,
+      "assessed": "C",
+      "other": "G",
+      "z": 12.1776,
+      "n": 31566.0,
+      "af_assessed": 0.249065720433355,
+      "beta_exp": 0.11180500334479192,
+      "se_exp": 0.009181201825055177,
+      "p_exp": 4.0915e-34,
+      "F": 148.29394176
+    },
+    "liftover": {
+      "chain": "UCSC hg19ToHg38.over.chain.gz",
+      "sha256": "5c0598e500ceb5a78c73086929e8ef993aec309bcafb595139b53d440b125a1d",
+      "n_in": 226,
+      "n_lifted": 226,
+      "n_failed": 0,
+      "n_multi_mapping": 0,
+      "failure_rate": 0.0,
+      "failed_rsids": [],
+      "handling": "variants that fail to lift are DROPPED and counted; never carried forward on their GRCh37 coordinate",
+      "n_negative_strand": 0
+    },
+    "gwas_retrieval": {
+      "bytes": 1581226,
+      "requests": 3,
+      "data_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90179001-GCST90180000/GCST90179146/harmonised/GCST90179146.h.tsv.gz",
+      "tbi_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90179001-GCST90180000/GCST90179146/harmonised/GCST90179146.h.tsv.gz.tbi",
+      "head_status": 200,
+      "accept_ranges": "bytes",
+      "data_file_total_bytes": 332651595,
+      "status_codes": [
+        206,
+        206
+      ],
+      "data_is_bgzf": true,
+      "first_block_size": 27145,
+      "probe_status": 206,
+      "tbi_bytes": 1489118,
+      "tbi_n_ref": 22,
+      "tbi_names_head": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tbi_cols_seq_beg_end": [
+        1,
+        2,
+        2
+      ],
+      "chrom_used": "1",
+      "n_chunks": 1,
+      "byte_span": [
+        14220174,
+        14312263
+      ],
+      "n_spans": 1,
+      "blocks_decompressed": 1,
+      "uncompressed_bytes": 195722,
+      "rows": 298,
+      "pct_of_file_transferred": 0.47534,
+      "seconds": 4.55,
+      "retrieved_utc": "2026-08-28T02:49:53Z",
+      "accession": "GCST90179146",
+      "columns": [
+        "chromosome",
+        "base_pair_location",
+        "effect_allele",
+        "other_allele",
+        "beta",
+        "standard_error",
+        "effect_allele_frequency",
+        "p_value",
+        "variant_id",
+        "z",
+        "hm_coordinate_conversion",
+        "hm_code",
+        "rsid"
+      ]
+    },
+    "gwas_window_grch38": [
+      154406943,
+      154562141
+    ],
+    "harmonization": {
+      "no_position_match": 59,
+      "aligned_flipped": 76,
+      "aligned_same": 91
+    },
+    "n_overlapping_after_harmonization": 167,
+    "mr": {
+      "estimator": "lead-SNP Wald ratio (R12.2)",
+      "lead_snp": "rs2229238",
+      "lead_p_exposure": 4.2678e-31,
+      "beta_exposure": 0.11175008175259736,
+      "se_exposure": 0.009636036746479497,
+      "beta_outcome_harmonized": 0.0420356489693329,
+      "se_outcome": 0.00258041591381716,
+      "harmonization_of_lead": "aligned_flipped",
+      "beta": 0.37615765742700125,
+      "se": 0.02309095325343853,
+      "z": 16.290261094828846,
+      "p": 1.1573408298289442e-59,
+      "direction": "POSITIVE",
+      "expected_direction": "NEGATIVE",
+      "F": 134.49272840999998,
+      "n_instruments_after_clumping": 2
+    },
+    "coloc": {
+      "n_variants": 167,
+      "PP0": 0.0,
+      "PP1": 0.0,
+      "PP2": 5.897935167102676e-25,
+      "PP3": 1.0,
+      "PP4": 7.95909704766993e-17
+    },
+    "pass": {
+      "instrument_p_lt_5e-8": true,
+      "F_ge_10": true,
+      "mr_p_lt_0.05": true,
+      "direction_matches": false
+    },
+    "VERDICT": "FAIL",
+    "finished_utc": "2026-08-28T02:49:53Z"
+  }
+]

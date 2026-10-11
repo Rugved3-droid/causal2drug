@@ -1,0 +1,2 @@
+gene	gwas_acc	mesh_term	n_merged_eqtlgen	n_merged_gtex	eqtl_lead_rsid	eqtl_lead_z	gwas_lead_rsid	gwas_lead_z	lead_r2	lead_dist_bp	abf_gap	abf_PP3_eqtlgen	abf_PP4_eqtlgen	susie_PP4_eqtlgen	n_cs_exposure	n_cs_outcome	abf_PP4_gtexblood	gtex_lead_z	n_lead_shared_gtex_eqtlgen	dentist_rmse_eqtlgen	dentist_rmse_gwas	dentist_rmse_gtex	note
+CD52	GCST90473316	Multiple Sclerosis	398	519	rs11577318	-23.75	rs10794534	-2.605	0.0282	113018	6.285	0.0188703	0.0352557		3	0	0.0628427	-9.21	1	4.467	0.9207		

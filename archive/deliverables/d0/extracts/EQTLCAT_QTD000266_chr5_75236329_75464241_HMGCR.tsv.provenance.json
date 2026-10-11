@@ -1,0 +1,41 @@
+{
+  "bytes": 2356944,
+  "requests": 3,
+  "data_url": "https://ftp.ebi.ac.uk/pub/databases/spot/eQTL/sumstats/QTS000015/QTD000266/QTD000266.all.tsv.gz",
+  "tbi_url": "https://ftp.ebi.ac.uk/pub/databases/spot/eQTL/sumstats/QTS000015/QTD000266/QTD000266.all.tsv.gz.tbi",
+  "head_status": 200,
+  "accept_ranges": "bytes",
+  "data_file_total_bytes": 2906926368,
+  "status_codes": [
+    206,
+    206
+  ],
+  "data_is_bgzf": true,
+  "first_block_size": 11126,
+  "probe_status": 206,
+  "tbi_bytes": 2112225,
+  "tbi_n_ref": 23,
+  "tbi_names_head": [
+    "1",
+    "10",
+    "11",
+    "12",
+    "13"
+  ],
+  "tbi_cols_seq_beg_end": [
+    2,
+    3,
+    3
+  ],
+  "chrom_used": "5",
+  "n_chunks": 1,
+  "byte_span": [
+    2219071243,
+    2219315943
+  ],
+  "blocks_decompressed": 28,
+  "uncompressed_bytes": 1827840,
+  "rows": 8990,
+  "pct_of_file_transferred": 0.08108,
+  "wall_clock_s": 6.02
+}

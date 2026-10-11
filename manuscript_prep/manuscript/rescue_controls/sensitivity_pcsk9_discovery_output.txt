@@ -1,0 +1,4 @@
+[D01] protocol estimate (combined cohort, ST10): exposure beta -1.12113 (SE 0.02335), F 2305; MR beta +0.3868 (95% CI +0.3774 to +0.3963)
+[D02] sensitivity (European discovery cohort, ST9, n = 34,557): rs11591147 allele T, exposure beta -1.15328 (SE 0.02779), log10(p) 375.816, F 1723
+[D03] sensitivity MR beta +0.3761 (95% CI +0.3668 to +0.3853), SE 0.0047, z 79.9; outcome GCST90239658, beta -0.43370 (SE 0.00543) for the same allele; sign POSITIVE
+[D04] difference, sensitivity minus protocol: -0.0108

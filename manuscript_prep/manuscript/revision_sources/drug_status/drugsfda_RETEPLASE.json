@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19980506",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "9458",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1996/retboe103096L.htm",
+              "date": "20040329",
+              "type": "Letter"
+            },
+            {
+              "id": "22749",
+              "url": "https://web.archive.org/web/20130523120940/http://www.fda.gov/Drugs/DevelopmentApprovalProcess/HowDrugsareDevelopedandApproved/ApprovalApplications/TherapeuticBiologicApplications/ucm093343.htm",
+              "date": "20040329",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "BLA103786",
+      "sponsor_name": "EKR THERAP",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RETAVASE",
+          "active_ingredients": [
+            {
+              "name": "RETEPLASE",
+              "strength": "18.8MG/VIAL"
+            }
+          ],
+          "dosage_form": "VIAL",
+          "route": null,
+          "marketing_status": "Prescription"
+        }
+      ]
+    }
+  ]
+}

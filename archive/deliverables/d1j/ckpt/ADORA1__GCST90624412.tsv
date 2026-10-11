@@ -1,0 +1,2 @@
+gene	gwas_acc	mesh_term	n_merged	eqtl_lead_rsid	eqtl_lead_z	gwas_lead_rsid	gwas_lead_z	gwas_genome_wide_sig	lead_r2	lead_dist_bp	abf_gap	abf_PP3	abf_PP4	susie_PP4	n_cs_exposure	n_cs_outcome	dentist_rmse_eqtlgen	dentist_rmse_gwas	note
+ADORA1	GCST90624412	Atrial Fibrillation	261	rs10920568	65.68	rs2270543	17.56	True	0.0034	67590	128.730	1	1.23978e-53	0.958662	3	4	4.946	1.286	

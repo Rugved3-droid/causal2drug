@@ -1,0 +1,3977 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 30
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20150629",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20051214"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20080627",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075831",
+      "sponsor_name": "NATCO PHARMA USA",
+      "openfda": {
+        "application_number": [
+          "ANDA075831"
+        ],
+        "brand_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "generic_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "manufacturer_name": [
+          "Natco Pharma USA LLC"
+        ],
+        "product_ndc": [
+          "69339-236",
+          "69339-237"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "rxcui": [
+          "854901",
+          "854905"
+        ],
+        "spl_id": [
+          "e907bfcb-5e64-45b8-ae9d-822b3d360104"
+        ],
+        "spl_set_id": [
+          "e907bfcb-5e64-45b8-ae9d-822b3d360104"
+        ],
+        "package_ndc": [
+          "69339-236-03",
+          "69339-236-01",
+          "69339-237-03",
+          "69339-237-01"
+        ],
+        "unii": [
+          "UR59KN573L"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220725",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA215680",
+      "sponsor_name": "ZYDUS LIFESCIENCES",
+      "openfda": {
+        "application_number": [
+          "ANDA215680"
+        ],
+        "brand_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "generic_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "manufacturer_name": [
+          "Zydus Lifesciences Limited",
+          "Viona Pharmaceuticals Inc"
+        ],
+        "product_ndc": [
+          "70771-1726",
+          "70771-1727",
+          "72578-111",
+          "72578-112"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "rxcui": [
+          "854901",
+          "854905"
+        ],
+        "spl_id": [
+          "bd36cf67-11ab-4a1f-b1b6-9d5c078a9206",
+          "d47ca4c0-7783-43d1-a951-5adca27ea13c"
+        ],
+        "spl_set_id": [
+          "2d380e61-052c-4c33-8a35-01c9eb651d68",
+          "3c393b41-9423-4ea6-8a79-0cbff0693471"
+        ],
+        "package_ndc": [
+          "70771-1726-3",
+          "70771-1726-1",
+          "70771-1727-3",
+          "70771-1727-1",
+          "72578-111-06",
+          "72578-111-01",
+          "72578-112-06",
+          "72578-112-01"
+        ],
+        "unii": [
+          "UR59KN573L"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170111",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "46880",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/204891Orig1s000ltr.pdf",
+              "date": "20170118",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA204891",
+      "sponsor_name": "ALEMBIC",
+      "openfda": {
+        "application_number": [
+          "ANDA204891"
+        ],
+        "brand_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "generic_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "manufacturer_name": [
+          "Alembic Pharmaceuticals Inc.",
+          "Alembic Pharmaceuticals Limited"
+        ],
+        "product_ndc": [
+          "62332-603",
+          "62332-604",
+          "46708-603",
+          "46708-604"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "rxcui": [
+          "854901",
+          "854905"
+        ],
+        "spl_id": [
+          "918dc4a5-ef02-4ab0-8664-7c02b23e37b6",
+          "ae10b8e1-557d-4437-8a1d-89d7844122c8"
+        ],
+        "spl_set_id": [
+          "9b2eb4ea-001e-436c-93ba-20a7f5bc5f04",
+          "ae10b8e1-557d-4437-8a1d-89d7844122c8"
+        ],
+        "package_ndc": [
+          "62332-603-30",
+          "62332-603-31",
+          "62332-603-71",
+          "62332-604-30",
+          "62332-604-31",
+          "62332-604-71",
+          "46708-603-30",
+          "46708-603-31",
+          "46708-603-71",
+          "46708-604-30",
+          "46708-604-31",
+          "46708-604-71"
+        ],
+        "unii": [
+          "UR59KN573L"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000925",
+          "application_docs": [
+            {
+              "id": "8722",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75579ltr.pdf",
+              "date": "20000925",
+              "type": "Letter"
+            },
+            {
+              "id": "8723",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75579ta.pdf",
+              "date": "20040528",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20220331",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20220331",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20021030",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20080506",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20110715",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20021030",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20021030",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20090331",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075579",
+      "sponsor_name": "EPIC PHARMA LLC",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "2.5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000927",
+          "application_docs": [
+            {
+              "id": "30967",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75632ltr.pdf",
+              "date": "20000927",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA075632",
+      "sponsor_name": "IVAX SUB TEVA PHARMS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "2.5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20001227",
+          "application_docs": [
+            {
+              "id": "30971",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75642ltr.pdf",
+              "date": "20001227",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA075642",
+      "sponsor_name": "APOTHECON",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "2.5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20080312",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20001116",
+          "application_docs": [
+            {
+              "id": "30972",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75643ltr.pdf",
+              "date": "20001116",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20250307",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20110829",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20010731",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA075643",
+      "sponsor_name": "RUBICON RESEARCH",
+      "openfda": {
+        "application_number": [
+          "ANDA075643"
+        ],
+        "brand_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "generic_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "manufacturer_name": [
+          "TruPharma LLC",
+          "Advagen Pharma Ltd"
+        ],
+        "product_ndc": [
+          "52817-268",
+          "72888-092",
+          "72888-233",
+          "72888-093"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "rxcui": [
+          "865155",
+          "854901",
+          "854905"
+        ],
+        "spl_id": [
+          "32f899b9-1d84-7c3d-e063-6394a90a502c",
+          "43603823-594f-cbe7-e063-6294a90a9153"
+        ],
+        "spl_set_id": [
+          "0ef9e45c-21ee-4e00-a9b8-280e2035b4d3",
+          "83e4b4e5-9130-44c8-abab-fcd0db5d8c49"
+        ],
+        "package_ndc": [
+          "52817-268-30",
+          "72888-233-01",
+          "72888-092-30",
+          "72888-092-01",
+          "72888-092-05",
+          "72888-092-00",
+          "72888-093-30",
+          "72888-093-01",
+          "72888-093-05",
+          "72888-093-00"
+        ],
+        "unii": [
+          "UR59KN573L"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20260121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA217922",
+      "sponsor_name": "AUROBINDO PHARMA LTD",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "2.5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20150413",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20020828",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20080527",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20020828",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20060504",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20020828",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20020828",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20020828",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20020828",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20020828",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20061208",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20010626"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20020828",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20020828",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20020828",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20020828",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA075644",
+      "sponsor_name": "TEVA PHARMS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "20200820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "64344",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/020186s035lbl.pdf",
+              "date": "20200821",
+              "type": "Label"
+            },
+            {
+              "id": "64385",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/020186Orig1s035ltr.pdf",
+              "date": "20200824",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20110503",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "34355",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020186s027s028lbl.pdf",
+              "date": "20110505",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "20140612",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "19980401",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20070925",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12309",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/020186s023lbl.pdf",
+              "date": "20100812",
+              "type": "Label"
+            },
+            {
+              "id": "24552",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/019982s014, 020186s023ltr.pdf",
+              "date": "20070926",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19930326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 4",
+          "submission_class_code_description": "Type 4 - New Combination"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20030124",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "24551",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20186slr015,19982slr010ltr.pdf",
+              "date": "20040701",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19961009",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19950530",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41210",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/19982-S3_Zebeta.pdf",
+              "date": "20010801",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20000404",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19931124",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "44",
+          "submission_status": "AP",
+          "submission_status_date": "20260724",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "86703",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/020186s044lbl.pdf",
+              "date": "20260727",
+              "type": "Label"
+            },
+            {
+              "id": "86715",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/020186Orig1s044ltr.pdf",
+              "date": "20260728",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20110503",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "42",
+          "submission_status": "AP",
+          "submission_status_date": "20231222",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "77133",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/020186Orig1s042ltr.pdf",
+              "date": "20231227",
+              "type": "Letter"
+            },
+            {
+              "id": "77159",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2023/020186s042lbl.pdf",
+              "date": "20231227",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20091106",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "24553",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/020186s026ltr.pdf",
+              "date": "20100119",
+              "type": "Letter"
+            },
+            {
+              "id": "34354",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/020186s026lbl.pdf",
+              "date": "20091119",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "32",
+          "submission_status": "AP",
+          "submission_status_date": "20150727",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "19990216",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20131212",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19980115",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19960424",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19940415",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19930907",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "19990622",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "20210302",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "66465",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/020186Orig1s037ltr.pdf",
+              "date": "20210303",
+              "type": "Letter"
+            },
+            {
+              "id": "66727",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/020186s037lbl.pdf",
+              "date": "20210310",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020186",
+      "sponsor_name": "TEVA BRANDED PHARM",
+      "openfda": {
+        "application_number": [
+          "NDA020186"
+        ],
+        "brand_name": [
+          "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE"
+        ],
+        "generic_name": [
+          "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "0093-3241",
+          "0093-3242",
+          "0093-3243"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BISOPROLOL FUMARATE",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "854908",
+          "854916",
+          "854919"
+        ],
+        "spl_id": [
+          "26f2531b-2b5e-46a5-9a31-fa7cd89ef8b2"
+        ],
+        "spl_set_id": [
+          "27d52b23-e3e2-4339-b00e-cd0fec43ffbb"
+        ],
+        "package_ndc": [
+          "0093-3241-01",
+          "0093-3242-01",
+          "0093-3243-56"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "unii": [
+          "0J48LPH2TH",
+          "UR59KN573L"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "ZIAC",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "2.5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ZIAC",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "ZIAC",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20100728"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "36",
+          "submission_status": "AP",
+          "submission_status_date": "20240301",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20110829",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20221201",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA079106",
+      "sponsor_name": "UNICHEM",
+      "openfda": {
+        "application_number": [
+          "ANDA079106"
+        ],
+        "brand_name": [
+          "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE"
+        ],
+        "generic_name": [
+          "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "Unichem Pharmaceuticals (USA), Inc."
+        ],
+        "product_ndc": [
+          "29300-187",
+          "29300-188",
+          "29300-189"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HYDROCHLOROTHIAZIDE",
+          "BISOPROLOL FUMARATE"
+        ],
+        "rxcui": [
+          "854908",
+          "854916",
+          "854919"
+        ],
+        "spl_id": [
+          "14845631-19ff-46a4-bb21-361f023941f6"
+        ],
+        "spl_set_id": [
+          "b9ee689a-ea12-435d-b01c-70d45891e62f"
+        ],
+        "package_ndc": [
+          "29300-187-13",
+          "29300-187-01",
+          "29300-187-05",
+          "29300-187-10",
+          "29300-188-13",
+          "29300-188-01",
+          "29300-188-05",
+          "29300-188-10",
+          "29300-189-13",
+          "29300-189-01",
+          "29300-189-05",
+          "29300-189-10"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "unii": [
+          "0J48LPH2TH",
+          "UR59KN573L"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "2.5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20130828",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20000404",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19980623",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20442",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/19982-S5_Zebeta.pdf",
+              "date": "19980623",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19950530",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41114",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/19982-S3_Zebeta.pdf",
+              "date": "20020801",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19930611",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20440",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/19982-S1_Zebeta.pdf",
+              "date": "20010801",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19920731",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "20439",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/19982_Zebeta.html",
+              "date": "20010801",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20140612",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20110203",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12115",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/019982s016lbl.pdf",
+              "date": "20110204",
+              "type": "Label"
+            },
+            {
+              "id": "19919",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/019982s016ltr.pdf",
+              "date": "20110210",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20070925",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "19918",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/019982s014, 020186s023ltr.pdf",
+              "date": "20070926",
+              "type": "Letter"
+            },
+            {
+              "id": "34171",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/019982s014lbl.pdf",
+              "date": "20100812",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20030124",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "19917",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20186slr015,19982slr010ltr.pdf",
+              "date": "20040701",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19980219",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20443",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/19982-S6_Zebeta.pdf",
+              "date": "19980219",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19970114",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20441",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/97/19982-S4_Zebeta.pdf",
+              "date": "19970114",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA019982",
+      "sponsor_name": "TEVA BRANDED PHARM",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "ZEBETA",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ZEBETA",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20110829",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20071213",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20061227"
+        }
+      ],
+      "application_number": "ANDA077910",
+      "sponsor_name": "AUROBINDO PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA077910"
+        ],
+        "brand_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "generic_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "manufacturer_name": [
+          "NorthStar Rx LLC",
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "16714-529",
+          "16714-530",
+          "65862-086",
+          "65862-087"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "rxcui": [
+          "854901",
+          "854905"
+        ],
+        "spl_id": [
+          "169e7bf6-19d7-4dc5-bfc7-35c5a8e4cf18",
+          "bb3ee6c5-1c46-41c6-890b-d775a103111a"
+        ],
+        "spl_set_id": [
+          "4bf3278c-116f-4db7-9af0-08faaf7691a4",
+          "2564646d-183c-4759-8726-155a4c22aa2b"
+        ],
+        "package_ndc": [
+          "16714-529-01",
+          "16714-529-02",
+          "16714-530-01",
+          "16714-530-02",
+          "65862-086-30",
+          "65862-086-01",
+          "65862-087-30",
+          "65862-087-01"
+        ],
+        "unii": [
+          "UR59KN573L"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20020306",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000925",
+          "application_docs": [
+            {
+              "id": "8760",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75672ltr.pdf",
+              "date": "20000925",
+              "type": "Letter"
+            },
+            {
+              "id": "30985",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75672ta.pdf",
+              "date": "20040528",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20020326",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20011102",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA075672",
+      "sponsor_name": "ACTAVIS ELIZABETH",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "2.5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200709",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20240531",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA212678",
+      "sponsor_name": "EDENBRIDGE PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA212678"
+        ],
+        "brand_name": [
+          "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE"
+        ],
+        "generic_name": [
+          "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "Edenbridge Pharmaceuticals LLC."
+        ],
+        "product_ndc": [
+          "42799-920",
+          "42799-921",
+          "42799-922"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BISOPROLOL FUMARATE",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "854908",
+          "854916",
+          "854919"
+        ],
+        "spl_id": [
+          "523ed43b-4b04-4a00-abd0-478f9afc646f"
+        ],
+        "spl_set_id": [
+          "295532b5-65c8-40c3-8d27-cfd334d12802"
+        ],
+        "package_ndc": [
+          "42799-920-30",
+          "42799-920-01",
+          "42799-920-02",
+          "42799-921-30",
+          "42799-921-01",
+          "42799-921-02",
+          "42799-922-30",
+          "42799-922-01",
+          "42799-922-02"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "unii": [
+          "0J48LPH2TH",
+          "UR59KN573L"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "2.5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20010119",
+          "application_docs": [
+            {
+              "id": "30988",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/75686ltr.pdf",
+              "date": "20010119",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA075686",
+      "sponsor_name": "TEVA",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "2.5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20260309",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA218303",
+      "sponsor_name": "MICRO LABS",
+      "openfda": {
+        "application_number": [
+          "ANDA218303"
+        ],
+        "brand_name": [
+          "BISOPROLOL"
+        ],
+        "generic_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "manufacturer_name": [
+          "Micro Labs Limited"
+        ],
+        "product_ndc": [
+          "42571-470",
+          "42571-471"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "rxcui": [
+          "854901",
+          "854905"
+        ],
+        "spl_id": [
+          "4cbe74e3-3af3-2b98-e063-6294a90a1c2b"
+        ],
+        "spl_set_id": [
+          "c3ee566c-74c4-45f4-a947-526a7313e326"
+        ],
+        "package_ndc": [
+          "42571-470-30",
+          "42571-470-01",
+          "42571-470-05",
+          "42571-471-30",
+          "42571-471-01",
+          "42571-471-05"
+        ],
+        "unii": [
+          "UR59KN573L"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240118",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA217617",
+      "sponsor_name": "HARMAN FINOCHEM",
+      "openfda": {
+        "application_number": [
+          "ANDA217617"
+        ],
+        "brand_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "generic_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "manufacturer_name": [
+          "Harman Finochem Limited",
+          "Sun Pharmaceutical Industries Limited"
+        ],
+        "product_ndc": [
+          "82638-107",
+          "82638-108",
+          "70095-019",
+          "70095-020"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "rxcui": [
+          "854901",
+          "854905"
+        ],
+        "spl_id": [
+          "189028b6-aef4-6dd5-e063-6394a90afeed",
+          "6ce4dc4f-ad08-424e-b90d-400de0b7050a"
+        ],
+        "spl_set_id": [
+          "65da2d2e-cce8-4bf6-a12d-3565b4b6b7c8",
+          "7556f457-c4d3-49d6-b383-0ade6d489091"
+        ],
+        "package_ndc": [
+          "82638-107-01",
+          "82638-107-02",
+          "82638-108-01",
+          "82638-108-02",
+          "70095-020-01",
+          "70095-020-02",
+          "70095-019-01",
+          "70095-019-02"
+        ],
+        "unii": [
+          "UR59KN573L"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20260324",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA219489",
+      "sponsor_name": "UNIQUE PHARM",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "2.5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20211104",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20240617",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA215562",
+      "sponsor_name": "NOVITIUM PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA215562"
+        ],
+        "brand_name": [
+          "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE"
+        ],
+        "generic_name": [
+          "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "ANI Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "70954-412",
+          "70954-413",
+          "70954-414"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BISOPROLOL FUMARATE",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "854908",
+          "854916",
+          "854919"
+        ],
+        "spl_id": [
+          "42e66131-cd9a-463a-9e42-260ac2222e3d"
+        ],
+        "spl_set_id": [
+          "a26bcf78-6515-4e9f-b2dc-4aaa8ec1a82c"
+        ],
+        "package_ndc": [
+          "70954-412-10",
+          "70954-412-30",
+          "70954-412-40",
+          "70954-413-10",
+          "70954-413-30",
+          "70954-413-40",
+          "70954-414-10",
+          "70954-414-30",
+          "70954-414-40"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "unii": [
+          "0J48LPH2TH",
+          "UR59KN573L"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "2.5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20211029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA215563",
+      "sponsor_name": "NOVITIUM PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA215563"
+        ],
+        "brand_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "generic_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "manufacturer_name": [
+          "Novitium Pharma LLC"
+        ],
+        "product_ndc": [
+          "70954-455",
+          "70954-456"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "rxcui": [
+          "854901",
+          "854905"
+        ],
+        "spl_id": [
+          "6517d564-ea55-4084-a8ab-34fea548c24e"
+        ],
+        "spl_set_id": [
+          "6517d564-ea55-4084-a8ab-34fea548c24e"
+        ],
+        "package_ndc": [
+          "70954-455-10",
+          "70954-455-20",
+          "70954-456-10",
+          "70954-456-20"
+        ],
+        "unii": [
+          "UR59KN573L"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250416",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA219044",
+      "sponsor_name": "UNIQUE PHARM",
+      "openfda": {
+        "application_number": [
+          "ANDA219044"
+        ],
+        "brand_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "generic_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "manufacturer_name": [
+          "Rising Pharma Holdings, Inc."
+        ],
+        "product_ndc": [
+          "64980-709",
+          "64980-710"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "rxcui": [
+          "854901",
+          "854905"
+        ],
+        "spl_id": [
+          "520db5c6-f4f3-4574-a36b-5a548f61a344"
+        ],
+        "spl_set_id": [
+          "200ab93b-6ad3-46cb-8f57-db056a14de16"
+        ],
+        "package_ndc": [
+          "64980-709-03",
+          "64980-709-01",
+          "64980-710-03",
+          "64980-710-01"
+        ],
+        "unii": [
+          "UR59KN573L"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220126",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20240402",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA215995",
+      "sponsor_name": "GLENMARK PHARMS LTD",
+      "openfda": {},
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "2.5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20030924",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000925",
+          "application_docs": [
+            {
+              "id": "8682",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75469ta.pdf",
+              "date": "20040528",
+              "type": "Letter"
+            },
+            {
+              "id": "30898",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75469ltr.pdf",
+              "date": "20000925",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA075469",
+      "sponsor_name": "WATSON LABS TEVA",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "2.5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20050104",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20021025"
+        }
+      ],
+      "application_number": "ANDA075474",
+      "sponsor_name": "TP ANDA HOLDINGS",
+      "openfda": {
+        "application_number": [
+          "ANDA075474"
+        ],
+        "brand_name": [
+          "BISOPROLOL"
+        ],
+        "generic_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "manufacturer_name": [
+          "TruPharma, LLC"
+        ],
+        "product_ndc": [
+          "52817-270",
+          "52817-271"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "rxcui": [
+          "854901",
+          "854905"
+        ],
+        "spl_id": [
+          "2a9e4180-cb1c-f924-e063-6394a90a60c6"
+        ],
+        "spl_set_id": [
+          "bba0bc2b-602f-4df1-a761-85bd3c80c7de"
+        ],
+        "package_ndc": [
+          "52817-270-10",
+          "52817-270-30",
+          "52817-271-10",
+          "52817-271-30"
+        ],
+        "unii": [
+          "UR59KN573L"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20150602",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20220207",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20031024",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20220207",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000925",
+          "application_docs": [
+            {
+              "id": "31013",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75768ltr.pdf",
+              "date": "20000925",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20240625",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075768",
+      "sponsor_name": "MYLAN",
+      "openfda": {
+        "application_number": [
+          "ANDA075768"
+        ],
+        "brand_name": [
+          "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE"
+        ],
+        "generic_name": [
+          "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "Mylan Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "0378-0501",
+          "0378-0503",
+          "0378-0505"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BISOPROLOL FUMARATE",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "854908",
+          "854916",
+          "854919"
+        ],
+        "spl_id": [
+          "05ad15d0-4472-45a9-8dd6-fc5d13c2a858"
+        ],
+        "spl_set_id": [
+          "d4243a76-516c-417e-80ba-444a21ecc688"
+        ],
+        "package_ndc": [
+          "0378-0501-01",
+          "0378-0503-01",
+          "0378-0505-01"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "unii": [
+          "0J48LPH2TH",
+          "UR59KN573L"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "2.5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20160819",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20190807",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150526",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20090818"
+        }
+      ],
+      "application_number": "ANDA078635",
+      "sponsor_name": "UNICHEM",
+      "openfda": {
+        "application_number": [
+          "ANDA078635"
+        ],
+        "brand_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "generic_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "manufacturer_name": [
+          "Unichem Pharmaceuticals (USA), Inc."
+        ],
+        "product_ndc": [
+          "29300-126",
+          "29300-127"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "rxcui": [
+          "854901",
+          "854905"
+        ],
+        "spl_id": [
+          "958d523d-b040-4475-ad89-6278e5cf0f60"
+        ],
+        "spl_set_id": [
+          "4f20df45-3f9c-4a91-b394-e93a08111ec3"
+        ],
+        "package_ndc": [
+          "29300-126-13",
+          "29300-126-01",
+          "29300-126-05",
+          "29300-127-13",
+          "29300-127-01",
+          "29300-127-05"
+        ],
+        "unii": [
+          "UR59KN573L"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230714",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA217368",
+      "sponsor_name": "PRINSTON INC",
+      "openfda": {
+        "application_number": [
+          "ANDA217368"
+        ],
+        "brand_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "generic_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "manufacturer_name": [
+          "Solco Healthcare US, LLC"
+        ],
+        "product_ndc": [
+          "43547-616",
+          "43547-617"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BISOPROLOL FUMARATE"
+        ],
+        "rxcui": [
+          "854901",
+          "854905"
+        ],
+        "spl_id": [
+          "e8b6cea1-8a7f-4255-8a24-ff96d6ceece2"
+        ],
+        "spl_set_id": [
+          "084308e4-3b8b-40d6-acbf-d775772a8a73"
+        ],
+        "package_ndc": [
+          "43547-616-03",
+          "43547-616-10",
+          "43547-616-50",
+          "43547-617-03",
+          "43547-617-10",
+          "43547-617-50"
+        ],
+        "unii": [
+          "UR59KN573L"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20221104",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20240205",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA215666",
+      "sponsor_name": "CADILA",
+      "openfda": {
+        "application_number": [
+          "ANDA215666"
+        ],
+        "brand_name": [
+          "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE"
+        ],
+        "generic_name": [
+          "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "Viona Pharmaceuticals Inc",
+          "Zydus Lifesciences Limited"
+        ],
+        "product_ndc": [
+          "72578-113",
+          "72578-114",
+          "72578-115",
+          "70771-1760",
+          "70771-1761",
+          "70771-1762"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BISOPROLOL FUMARATE",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "854908",
+          "854916",
+          "854919"
+        ],
+        "spl_id": [
+          "3466b097-8648-4110-a130-8754da1f2739",
+          "9d6e36f0-a9e4-4b66-997a-fd5f8e4e1cf7"
+        ],
+        "spl_set_id": [
+          "57505d73-f2a8-430b-8703-a0a6bb733c7d",
+          "35ed3030-a9b3-4e4e-99cd-6d5c31ad22fa"
+        ],
+        "package_ndc": [
+          "72578-113-06",
+          "72578-113-01",
+          "72578-113-05",
+          "72578-114-06",
+          "72578-114-01",
+          "72578-114-05",
+          "72578-115-06",
+          "72578-115-01",
+          "72578-115-05",
+          "70771-1760-3",
+          "70771-1760-1",
+          "70771-1760-5",
+          "70771-1761-3",
+          "70771-1761-1",
+          "70771-1761-5",
+          "70771-1762-3",
+          "70771-1762-1",
+          "70771-1762-5"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "unii": [
+          "0J48LPH2TH",
+          "UR59KN573L"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "2.5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20020725",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20020122",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20020122",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20040721",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000925",
+          "application_docs": [
+            {
+              "id": "8709",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75527ta.pdf",
+              "date": "20040528",
+              "type": "Letter"
+            },
+            {
+              "id": "30924",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75527ltr.pdf",
+              "date": "20000925",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20020725",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20020122",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20020122",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA075527",
+      "sponsor_name": "CHARTWELL RX",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "2.5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BISOPROLOL FUMARATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "BISOPROLOL FUMARATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "6.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

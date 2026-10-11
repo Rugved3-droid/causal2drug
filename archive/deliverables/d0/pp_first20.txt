@@ -1,0 +1,21 @@
+ti_uid	gene	indication_mesh_id	indication_mesh_term	hcat	acat	ccat	hcatnum	acatnum	ccatnum	succ_p_1	succ_1_2	succ_2_3	succ_3_a	oto_hcat	oto_acat	oto_ccat	orphan	year_launch
+A2M-D002545	A2M	D002545	Brain Ischemia	Phase III		Phase III	4		4	TRUE	TRUE	TRUE	FALSE	Phase III		Phase III	TRUE	
+A2M-D007511	A2M	D007511	Ischemia	Phase III		Phase III	4		4	TRUE	TRUE	TRUE	FALSE	Phase III		Phase III	TRUE	
+A2M-D010003	A2M	D010003	Osteoarthritis	Preclinical		Preclinical	1		1	FALSE				Preclinical		Preclinical	FALSE	
+A2M-D016491	A2M	D016491	Peripheral Vascular Diseases	Phase III		Phase III	4		4	TRUE	TRUE	TRUE	FALSE	Phase III		Phase III	TRUE	
+A2M-D020521	A2M	D020521	Stroke	Phase III		Phase III	4		4	TRUE	TRUE	TRUE	FALSE	Phase III		Phase III	TRUE	
+A2M-D023903	A2M	D023903	Coronary Restenosis	Phase III		Phase III	4		4	TRUE	TRUE	TRUE	FALSE	Phase III		Phase III	TRUE	
+AADAT-D012559	AADAT	D012559	Schizophrenia	Preclinical		Preclinical	1		1	FALSE				Preclinical		Preclinical	FALSE	
+AAK1-D009437	AAK1	D009437	Neuralgia		Phase II	Phase II		4	3	TRUE	TRUE				Phase II	Phase II	FALSE	
+AAK1-D051474	AAK1	D051474	Neuralgia, Postherpetic		Phase II	Phase II		4	3	TRUE	TRUE				Phase II	Phase II	FALSE	
+ABAT-D000544	ABAT	D000544	Alzheimer Disease	Phase II		Phase II	3		3	TRUE	TRUE	FALSE		Phase II		Phase II	FALSE	
+ABAT-D000690	ABAT	D000690	Amyotrophic Lateral Sclerosis	Preclinical		Preclinical	1		1	FALSE				Preclinical		Preclinical	FALSE	
+ABAT-D004827	ABAT	D004827	Epilepsy		Preclinical	Preclinical		2	1						Preclinical	Preclinical	TRUE	
+ABAT-D004828	ABAT	D004828	Epilepsies, Partial	Preclinical		Preclinical	1		1	FALSE				Preclinical		Preclinical	TRUE	
+ABAT-D005600	ABAT	D005600	Fragile X Syndrome		Preclinical	Preclinical		2	1						Preclinical	Preclinical	FALSE	
+ABAT-D005879	ABAT	D005879	Tourette Syndrome	Phase II		Phase II	3		3	TRUE	TRUE	FALSE		Phase II		Phase II	TRUE	
+ABAT-D009103	ABAT	D009103	Multiple Sclerosis	Preclinical		Preclinical	1		1	FALSE				Preclinical		Preclinical	TRUE	
+ABAT-D009293	ABAT	D009293	Opioid-Related Disorders	Preclinical		Preclinical	1		1	FALSE				Preclinical		Preclinical	TRUE	
+ABAT-D009437	ABAT	D009437	Neuralgia		Preclinical	Preclinical		2	1						Preclinical	Preclinical	TRUE	
+ABAT-D010300	ABAT	D010300	Parkinson Disease	Preclinical		Preclinical	1		1	FALSE				Preclinical		Preclinical	TRUE	
+ABAT-D013036	ABAT	D013036	Spasms, Infantile	Launched	Launched	Launched	5	6	5	TRUE	TRUE	TRUE	TRUE	Launched	Launched	Launched	TRUE	2019

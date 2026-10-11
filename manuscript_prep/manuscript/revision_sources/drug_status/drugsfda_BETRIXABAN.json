@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20200824",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "64412",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/208383Orig1s007ltr.pdf",
+              "date": "20200825",
+              "type": "Letter"
+            },
+            {
+              "id": "64466",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/208383s007lbl.pdf",
+              "date": "20200901",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170714",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "48997",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/208383Orig1s001ltr.pdf",
+              "date": "20170717",
+              "type": "Letter"
+            },
+            {
+              "id": "49000",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/208383s001lbl.pdf",
+              "date": "20170717",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170623",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "48811",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/208383s000lbl.pdf",
+              "date": "20170623",
+              "type": "Label"
+            },
+            {
+              "id": "48812",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/208383s000lbl.pdf#page=20",
+              "date": "20170623",
+              "type": "Medication Guide"
+            },
+            {
+              "id": "48813",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/208383Orig1s000ltr.pdf",
+              "date": "20170623",
+              "type": "Letter"
+            },
+            {
+              "id": "49056",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/208383Orig1s000TOC.html",
+              "date": "20170725",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20190718",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "59380",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/208383s006lbl.pdf",
+              "date": "20190719",
+              "type": "Label"
+            },
+            {
+              "id": "59386",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/208383Orig1s006ltr.pdf",
+              "date": "20190719",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA208383",
+      "sponsor_name": "PORTOLA PHARMS INC",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "BEVYXXA",
+          "active_ingredients": [
+            {
+              "name": "BETRIXABAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "BEVYXXA",
+          "active_ingredients": [
+            {
+              "name": "BETRIXABAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

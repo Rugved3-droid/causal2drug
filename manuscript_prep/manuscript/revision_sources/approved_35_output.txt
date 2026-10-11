@@ -1,0 +1,17 @@
+[Q01] strict-verified launched targets: 35; target-drug pairs: 135; EMA table rows: 2748
+[Q01] strict-verified Phase III targets also checked: ADORA2A, AVPR1A, DPP4, HCN4, PDE3A, SLC6A2
+[Q07] Phase III strict-verified targets: ADORA2A: approval record; AVPR1A: approval record; DPP4: approval record; HCN4: approval record; PDE3A: approval record; SLC6A2: approval record
+[Q02] targets with an FDA or EMA approval record for >=1 strict-rule drug: 33 of 35
+[Q03] targets that DROP OUT (no approval record for any strict-rule drug): MTOR (INSTRUMENTED; drugs: Perhexiline); PLG (NO_EQTL_DATA; drugs: Anistreplase; Streptokinase)
+[Q04] secondary check: passing targets where no agency indication text with a cardiovascular term was retrieved for any drug: none
+[Q05] all 35                         n=35 instrumented 22, no eQTL data 10, no qualifying instrument 3
+[Q05] approved (FDA or EMA record)   n=33 instrumented 21, no eQTL data 9, no qualifying instrument 3
+[Q06] drugs without a record in either source, by target:
+        ACE       2 of 13 drugs: Cilazapril; Imidapril
+        ADRB1     1 of 15 drugs: Celiprolol
+        ADRB2     1 of 12 drugs: Celiprolol
+        F2        1 of 6 drugs: Ximelagatran
+        MTOR      1 of 1 drugs: Perhexiline
+        PLG       2 of 2 drugs: Anistreplase; Streptokinase
+        PPARA     2 of 6 drugs: Ciprofibrate; Pemafibrate
+        SCN5A     1 of 4 drugs: Prenylamine

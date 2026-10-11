@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="589.940781pt" height="378.00607pt" viewBox="0 0 589.940781 378.00607" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-31T19:15:40.623674</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 378.00607 
+L 589.940781 378.00607 
+L 589.940781 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 182.5884 56.7495 
+L 441.7236 56.7495 
+Q 448.9218 56.7495 448.9218 52.245 
+L 448.9218 13.206 
+Q 448.9218 8.7015 441.7236 8.7015 
+L 182.5884 8.7015 
+Q 175.3902 8.7015 175.3902 13.206 
+L 175.3902 52.245 
+Q 175.3902 56.7495 182.5884 56.7495 
+z
+" clip-path="url(#pa72251dd65)" style="fill: #7f7f7f"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 312.156 57.245112 
+Q 312.156 67.259656 312.156 75.932559 
+" clip-path="url(#pa72251dd65)" style="fill: none; stroke: #444444; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 314.956 70.332559 
+L 312.156 75.932559 
+L 309.356 70.332559 
+z
+" clip-path="url(#pa72251dd65)" style="fill: #444444; stroke: #444444; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 81.8136 176.8695 
+L 216.18 176.8695 
+Q 223.3782 176.8695 223.3782 172.365 
+L 223.3782 94.287 
+Q 223.3782 89.7825 216.18 89.7825 
+L 81.8136 89.7825 
+Q 74.6154 89.7825 74.6154 94.287 
+L 74.6154 172.365 
+Q 74.6154 176.8695 81.8136 176.8695 
+z
+" clip-path="url(#pa72251dd65)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 244.9728 176.8695 
+L 379.3392 176.8695 
+Q 386.5374 176.8695 386.5374 172.365 
+L 386.5374 94.287 
+Q 386.5374 89.7825 379.3392 89.7825 
+L 244.9728 89.7825 
+Q 237.7746 89.7825 237.7746 94.287 
+L 237.7746 172.365 
+Q 237.7746 176.8695 244.9728 176.8695 
+z
+" clip-path="url(#pa72251dd65)" style="fill: #e69f00"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 408.132 176.8695 
+L 542.4984 176.8695 
+Q 549.6966 176.8695 549.6966 172.365 
+L 549.6966 94.287 
+Q 549.6966 89.7825 542.4984 89.7825 
+L 408.132 89.7825 
+Q 400.9338 89.7825 400.9338 94.287 
+L 400.9338 172.365 
+Q 400.9338 176.8695 408.132 176.8695 
+z
+" clip-path="url(#pa72251dd65)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 310.159331 79.400623 
+Q 230.574019 84.527403 152.104429 89.582311 
+" clip-path="url(#pa72251dd65)" style="fill: none; stroke: #666666; stroke-linecap: round"/>
+    <path d="M 157.048785 91.668776 
+L 152.104429 89.582311 
+L 156.740215 86.878705 
+z
+" clip-path="url(#pa72251dd65)" style="fill: #666666; stroke: #666666; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 312.156 81.270945 
+Q 312.156 84.527197 312.156 86.665414 
+" clip-path="url(#pa72251dd65)" style="fill: none; stroke: #666666; stroke-linecap: round"/>
+    <path d="M 314.556 81.865414 
+L 312.156 86.665414 
+L 309.756 81.865414 
+z
+" clip-path="url(#pa72251dd65)" style="fill: #666666; stroke: #666666; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 314.152669 79.400623 
+Q 393.737981 84.527403 472.207571 89.582311 
+" clip-path="url(#pa72251dd65)" style="fill: none; stroke: #666666; stroke-linecap: round"/>
+    <path d="M 467.571785 86.878705 
+L 472.207571 89.582311 
+L 467.263215 91.668776 
+z
+" clip-path="url(#pa72251dd65)" style="fill: #666666; stroke: #666666; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 81.8136 290.9835 
+L 379.3392 290.9835 
+Q 386.5374 290.9835 386.5374 286.479 
+L 386.5374 211.404 
+Q 386.5374 206.8995 379.3392 206.8995 
+L 81.8136 206.8995 
+Q 74.6154 206.8995 74.6154 211.404 
+L 74.6154 286.479 
+Q 74.6154 290.9835 81.8136 290.9835 
+z
+" clip-path="url(#pa72251dd65)" style="fill: #f7f2f0; stroke: #d55e00; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="312.156" y="24.001554" transform="rotate(-0 312.156 24.001554)">630 cardiovascular drug targets</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="312.156" y="37.264031" transform="rotate(-0 312.156 37.264031)">every target with a cardiovascular indication</text>
+   </g>
+   <g id="text_3">
+    <text style="font-style: italic; font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="312.156" y="50.119237" transform="rotate(-0 312.156 50.119237)">52 have an approved medicine</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8.6px; font-family: 'DejaVu Sans'; fill: #333333" transform="translate(326.5524 63.183063)">Can the target's activity be measured genetically</text>
+    <text style="font-size: 8.6px; font-family: 'DejaVu Sans'; fill: #333333" transform="translate(326.5524 76.083062)">from a routine blood sample?</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="148.9968" y="108.435702" transform="rotate(-0 148.9968 108.435702)">ABSENT</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="148.9968" y="125.72967" transform="rotate(-0 148.9968 125.72967)">177 targets  (28.1%)</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="148.9968" y="149.906561" transform="rotate(-0 148.9968 149.906561)">not detectable in blood</text>
+   </g>
+   <g id="text_8">
+    <text style="font-style: italic; font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="148.9968" y="169.038038" transform="rotate(-0 148.9968 169.038038)">18 have an approved medicine</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="312.156" y="108.435702" transform="rotate(-0 312.156 108.435702)">TESTED, NO SIGNAL</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="312.156" y="125.72967" transform="rotate(-0 312.156 125.72967)">55 targets  (8.7%)</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="312.156" y="149.906561" transform="rotate(-0 312.156 149.906561)">no usable genetic marker</text>
+   </g>
+   <g id="text_12">
+    <text style="font-style: italic; font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="312.156" y="169.038038" transform="rotate(-0 312.156 169.038038)">3 have an approved medicine</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="475.3152" y="108.435702" transform="rotate(-0 475.3152 108.435702)">MEASURABLE</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="475.3152" y="125.72967" transform="rotate(-0 475.3152 125.72967)">386 targets  (61.3%)</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="475.3152" y="149.906561" transform="rotate(-0 475.3152 149.906561)">genetic marker available</text>
+   </g>
+   <g id="text_16">
+    <text style="font-style: italic; font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="475.3152" y="169.038038" transform="rotate(-0 475.3152 169.038038)">27 have an approved medicine</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #d55e00" x="230.5764" y="223.416" transform="rotate(-0 230.5764 223.416)">CANNOT BE TESTED</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 10.2px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #d55e00" x="230.5764" y="242.9355" transform="rotate(-0 230.5764 242.9355)">232 targets  (36.8% of all cardiovascular targets)</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #333333" x="230.5764" y="265.458" transform="rotate(-0 230.5764 265.458)">including 21 with an approved medicine, among them</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #333333" x="230.5764" y="278.9715" transform="rotate(-0 230.5764 278.9715)">PCSK9, NPC1L1 (ezetimibe), APOC3 and ANGPTL3</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0072b2" x="475.3152" y="239.9325" transform="rotate(-0 475.3152 239.9325)">386 targets</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0072b2" x="475.3152" y="254.9475" transform="rotate(-0 475.3152 254.9475)">can be tested</text>
+   </g>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 7.4px; font-family: 'DejaVu Sans'; fill: #555555" transform="translate(7.2 350.523566)">Testable means a common genetic variant exists that measurably changes the target's activity in blood, so the target's effect on disease can be estimated</text>
+   <text style="font-size: 7.4px; font-family: 'DejaVu Sans'; fill: #555555" transform="translate(7.2 359.40559)">from human genetics. A further 12 targets (1.9%) could not be matched to a gene record and are excluded from the three groups above.</text>
+   <text style="font-size: 7.4px; font-family: 'DejaVu Sans'; fill: #555555" transform="translate(7.2 368.287613)">Reproduce: python src/cv_atlas.py ; python src/make_figures.py</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa72251dd65">
+   <rect x="72.216" y="7.2" width="479.88" height="288.288"/>
+  </clipPath>
+ </defs>
+</svg>

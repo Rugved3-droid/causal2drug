@@ -1,0 +1,1259 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 14
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220411",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "71906",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/207604Orig1s000ltr.pdf",
+              "date": "20220826",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA207604",
+      "sponsor_name": "APOTEX",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "REGADENOSON",
+          "active_ingredients": [
+            {
+              "name": "REGADENOSON",
+              "strength": "0.4MG/5ML (0.08MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220712",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA207320",
+      "sponsor_name": "GLAND",
+      "openfda": {
+        "application_number": [
+          "ANDA207320"
+        ],
+        "brand_name": [
+          "REGADENOSON"
+        ],
+        "generic_name": [
+          "REGADENOSON"
+        ],
+        "manufacturer_name": [
+          "Gland Pharma Limited"
+        ],
+        "product_ndc": [
+          "68083-175"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "REGADENOSON"
+        ],
+        "spl_id": [
+          "549593f6-8cfc-4182-8f3c-a60870187d8f"
+        ],
+        "spl_set_id": [
+          "5e4109f0-4875-4f8e-b70d-4055b3a785a3"
+        ],
+        "package_ndc": [
+          "68083-175-01",
+          "68083-175-10"
+        ],
+        "nui": [
+          "N0000178375",
+          "N0000175788"
+        ],
+        "pharm_class_epc": [
+          "Adenosine Receptor Agonist [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Adenosine Receptor Agonists [MoA]"
+        ],
+        "unii": [
+          "2XLN4Y044H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "REGADENOSON",
+          "active_ingredients": [
+            {
+              "name": "REGADENOSON",
+              "strength": "0.4MG/5ML (0.08MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230202",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA215827",
+      "sponsor_name": "HIKMA",
+      "openfda": {
+        "application_number": [
+          "ANDA215827"
+        ],
+        "brand_name": [
+          "REGADENOSON"
+        ],
+        "generic_name": [
+          "REGADENOSON"
+        ],
+        "manufacturer_name": [
+          "Hikma Pharmaceuticals USA Inc."
+        ],
+        "product_ndc": [
+          "0641-6253"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "REGADENOSON ANHYDROUS"
+        ],
+        "spl_id": [
+          "6d9e653e-94ea-444c-85cf-f24cbfb74c65"
+        ],
+        "spl_set_id": [
+          "9e48b407-1ce3-461d-b48e-de183802de25"
+        ],
+        "package_ndc": [
+          "0641-6253-01"
+        ],
+        "nui": [
+          "N0000193963",
+          "N0000175788"
+        ],
+        "pharm_class_epc": [
+          "Pharmacologic Cardiac Stress Test Agent [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Adenosine Receptor Agonists [MoA]"
+        ],
+        "unii": [
+          "7AXV542LZ4"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "REGADENOSON",
+          "active_ingredients": [
+            {
+              "name": "REGADENOSON",
+              "strength": "0.4MG/5ML (0.08MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220523",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA214252",
+      "sponsor_name": "IMS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA214252"
+        ],
+        "brand_name": [
+          "REGADENOSON"
+        ],
+        "generic_name": [
+          "REGADENOSON"
+        ],
+        "manufacturer_name": [
+          "International Medication Systems, Limited"
+        ],
+        "product_ndc": [
+          "76329-3321"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "REGADENOSON ANHYDROUS"
+        ],
+        "spl_id": [
+          "350f0b8b-7ae6-4b31-8aa3-2178f5c869d7"
+        ],
+        "spl_set_id": [
+          "288c76cc-ff3e-47ea-ae02-be566bd3e093"
+        ],
+        "package_ndc": [
+          "76329-3321-0"
+        ],
+        "nui": [
+          "N0000193963",
+          "N0000175788"
+        ],
+        "pharm_class_epc": [
+          "Pharmacologic Cardiac Stress Test Agent [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Adenosine Receptor Agonists [MoA]"
+        ],
+        "unii": [
+          "7AXV542LZ4"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "REGADENOSON",
+          "active_ingredients": [
+            {
+              "name": "REGADENOSON",
+              "strength": "0.4MG/5ML (0.08MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230404",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213856",
+      "sponsor_name": "MYLAN",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "REGADENOSON",
+          "active_ingredients": [
+            {
+              "name": "REGADENOSON",
+              "strength": "0.4MG/5ML (0.08MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230523",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA217455",
+      "sponsor_name": "BAXTER HLTHCARE CORP",
+      "openfda": {
+        "application_number": [
+          "ANDA217455"
+        ],
+        "brand_name": [
+          "REGADENOSON"
+        ],
+        "generic_name": [
+          "REGADENOSON"
+        ],
+        "manufacturer_name": [
+          "Baxter Healthcare Corporation"
+        ],
+        "product_ndc": [
+          "36000-364"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "REGADENOSON"
+        ],
+        "spl_id": [
+          "af34327b-48b9-4544-b9ef-4685a261a71e"
+        ],
+        "spl_set_id": [
+          "a81d66a7-b714-439e-ad7b-c7caf9d6f3b8"
+        ],
+        "package_ndc": [
+          "36000-364-01"
+        ],
+        "nui": [
+          "N0000178375",
+          "N0000175788"
+        ],
+        "pharm_class_epc": [
+          "Adenosine Receptor Agonist [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Adenosine Receptor Agonists [MoA]"
+        ],
+        "unii": [
+          "2XLN4Y044H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "REGADENOSON",
+          "active_ingredients": [
+            {
+              "name": "REGADENOSON",
+              "strength": "0.4MG/5ML (0.08MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240805",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA215955",
+      "sponsor_name": "GE HEALTHCARE",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "REGADENOSON",
+          "active_ingredients": [
+            {
+              "name": "REGADENOSON",
+              "strength": "0.4MG/5ML (0.08MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240822",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA218054",
+      "sponsor_name": "INDIES PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA218054"
+        ],
+        "brand_name": [
+          "REGADENOSON"
+        ],
+        "generic_name": [
+          "REGADENOSON"
+        ],
+        "manufacturer_name": [
+          "Indies Pharma Jamaica Limited",
+          "Marlex Pharmaceuticals, Inc.",
+          "Kanchan Healthcare Inc"
+        ],
+        "product_ndc": [
+          "83032-001",
+          "10135-803",
+          "85742-012"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "REGADENOSON"
+        ],
+        "spl_id": [
+          "46d9a23a-0b83-5f6f-e063-6394a90a8e79",
+          "b35f97f9-3052-4431-893e-ec9218aab105",
+          "10a89235-f50b-4c94-a52f-c05470e20523"
+        ],
+        "spl_set_id": [
+          "5095ab40-8503-46db-9b08-6a36f05fb5d9",
+          "843bfba9-47de-4d76-843a-997bb4564f6e",
+          "b183399d-b8dc-4924-90cd-a1c2247742f3"
+        ],
+        "package_ndc": [
+          "83032-001-02",
+          "10135-803-51",
+          "85742-012-09"
+        ],
+        "nui": [
+          "N0000178375",
+          "N0000175788"
+        ],
+        "pharm_class_epc": [
+          "Adenosine Receptor Agonist [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Adenosine Receptor Agonists [MoA]"
+        ],
+        "unii": [
+          "2XLN4Y044H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "REGADENOSON",
+          "active_ingredients": [
+            {
+              "name": "REGADENOSON",
+              "strength": "0.4MG/5ML (0.08MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220831",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA214349",
+      "sponsor_name": "HOSPIRA",
+      "openfda": {
+        "application_number": [
+          "ANDA214349"
+        ],
+        "brand_name": [
+          "REGADENOSON"
+        ],
+        "generic_name": [
+          "REGADENOSON"
+        ],
+        "manufacturer_name": [
+          "Hospira, Inc."
+        ],
+        "product_ndc": [
+          "0409-1401"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "REGADENOSON ANHYDROUS"
+        ],
+        "spl_id": [
+          "67995dbc-0e79-4b3b-a6f8-eaeb5048ff3d"
+        ],
+        "spl_set_id": [
+          "0e3f080d-b1fb-47ed-8cd3-90a4206fa704"
+        ],
+        "package_ndc": [
+          "0409-1401-05",
+          "0409-1401-01"
+        ],
+        "nui": [
+          "N0000193963",
+          "N0000175788"
+        ],
+        "pharm_class_epc": [
+          "Pharmacologic Cardiac Stress Test Agent [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Adenosine Receptor Agonists [MoA]"
+        ],
+        "unii": [
+          "7AXV542LZ4"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "REGADENOSON",
+          "active_ingredients": [
+            {
+              "name": "REGADENOSON",
+              "strength": "0.4MG/5ML (0.08MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20221026",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA216437",
+      "sponsor_name": "EUGIA PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA216437"
+        ],
+        "brand_name": [
+          "REGADENOSON"
+        ],
+        "generic_name": [
+          "REGADENOSON"
+        ],
+        "manufacturer_name": [
+          "Eugia US LLC"
+        ],
+        "product_ndc": [
+          "55150-443"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "REGADENOSON"
+        ],
+        "spl_id": [
+          "c82d9c48-e9fd-489b-a9f3-7a28f42d0a1e"
+        ],
+        "spl_set_id": [
+          "b553eb2d-0c3f-444e-ad4c-282328683110"
+        ],
+        "package_ndc": [
+          "55150-443-01"
+        ],
+        "nui": [
+          "N0000178375",
+          "N0000175788"
+        ],
+        "pharm_class_epc": [
+          "Adenosine Receptor Agonist [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Adenosine Receptor Agonists [MoA]"
+        ],
+        "unii": [
+          "2XLN4Y044H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "REGADENOSON",
+          "active_ingredients": [
+            {
+              "name": "REGADENOSON",
+              "strength": "0.4MG/5ML (0.08MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220411",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA212806",
+      "sponsor_name": "MEITHEAL",
+      "openfda": {
+        "application_number": [
+          "ANDA212806"
+        ],
+        "brand_name": [
+          "REGADENOSON"
+        ],
+        "generic_name": [
+          "REGADENOSON"
+        ],
+        "manufacturer_name": [
+          "Meitheal Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "71288-201"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "REGADENOSON"
+        ],
+        "spl_id": [
+          "347eb6ed-dadc-4127-be90-24f65150fbff"
+        ],
+        "spl_set_id": [
+          "a550b451-fb30-4c1c-a60e-6e40fba20c88"
+        ],
+        "package_ndc": [
+          "71288-201-85"
+        ],
+        "nui": [
+          "N0000178375",
+          "N0000175788"
+        ],
+        "pharm_class_epc": [
+          "Adenosine Receptor Agonist [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Adenosine Receptor Agonists [MoA]"
+        ],
+        "unii": [
+          "2XLN4Y044H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "REGADENOSON",
+          "active_ingredients": [
+            {
+              "name": "REGADENOSON",
+              "strength": "0.4MG/5ML (0.08MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220411",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213210",
+      "sponsor_name": "DR REDDYS",
+      "openfda": {
+        "application_number": [
+          "ANDA213210"
+        ],
+        "brand_name": [
+          "REGADENOSON"
+        ],
+        "generic_name": [
+          "REGADENOSON"
+        ],
+        "manufacturer_name": [
+          "Dr. Reddy's Laboratories Inc."
+        ],
+        "product_ndc": [
+          "43598-616"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "REGADENOSON ANHYDROUS"
+        ],
+        "spl_id": [
+          "4b43c865-fcdb-4e57-30a4-871e37e0e593"
+        ],
+        "spl_set_id": [
+          "03ef6420-8190-a404-f7f6-def1864a77de"
+        ],
+        "package_ndc": [
+          "43598-616-11"
+        ],
+        "nui": [
+          "N0000193963",
+          "N0000175788"
+        ],
+        "pharm_class_epc": [
+          "Pharmacologic Cardiac Stress Test Agent [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Adenosine Receptor Agonists [MoA]"
+        ],
+        "unii": [
+          "7AXV542LZ4"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "REGADENOSON",
+          "active_ingredients": [
+            {
+              "name": "REGADENOSON",
+              "strength": "0.4MG/5ML (0.08MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20080410",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "17035",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/022161lbl.pdf",
+              "date": "20080416",
+              "type": "Label"
+            },
+            {
+              "id": "21950",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2008/022161s000_LexiscanTOC.html",
+              "date": "20080602",
+              "type": "Review"
+            },
+            {
+              "id": "23699",
+              "url": "http://www.fda.gov/drugs/drugsafety/ucm375654.htm",
+              "date": "20140207",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "29341",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/022161s000ltr.pdf",
+              "date": "20080416",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20140919",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "38326",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/022161s012lbl.pdf",
+              "date": "20140922",
+              "type": "Label"
+            },
+            {
+              "id": "29345",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/022161Orig1s012ltr.pdf",
+              "date": "20140923",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20110930",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "6992",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022161s009ltr.pdf",
+              "date": "20111004",
+              "type": "Letter"
+            },
+            {
+              "id": "17037",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022161s009lbl.pdf",
+              "date": "20110930",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20110923",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "6991",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022161s006,s007,s008ltr.pdf",
+              "date": "20110928",
+              "type": "Letter"
+            },
+            {
+              "id": "38324",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022161s006s007s008lbl.pdf",
+              "date": "20110929",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20140329",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20090317",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "6989",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/022161s003ltr.pdf",
+              "date": "20090319",
+              "type": "Letter"
+            },
+            {
+              "id": "38321",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/022161s003lbl.pdf",
+              "date": "20090403",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20180531",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "54400",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/022161s015lbl.pdf",
+              "date": "20180531",
+              "type": "Label"
+            },
+            {
+              "id": "54405",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/022161Orig1s015ltr.pdf",
+              "date": "20180601",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20170117",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "46881",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/022161s013lbl.pdf",
+              "date": "20170117",
+              "type": "Label"
+            },
+            {
+              "id": "46905",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/022161Orig1s013ltr.pdf",
+              "date": "20170119",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20140109",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "6993",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/022161Orig1s011ltr.pdf",
+              "date": "20140107",
+              "type": "Letter"
+            },
+            {
+              "id": "17038",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/022161s011lbledt.pdf",
+              "date": "20140110",
+              "type": "Label"
+            },
+            {
+              "id": "29344",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/022161Orig1s011ltr_corrected.pdf",
+              "date": "20140114",
+              "type": "Letter"
+            },
+            {
+              "id": "38325",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/022161s011lbl.pdf",
+              "date": "20140107",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20110923",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "17036",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022161s006s007s008lbl.pdf",
+              "date": "20110929",
+              "type": "Label"
+            },
+            {
+              "id": "29343",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022161s006,s007,s008ltr.pdf",
+              "date": "20110928",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20110923",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "29342",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022161s006,s007,s008ltr.pdf",
+              "date": "20110928",
+              "type": "Letter"
+            },
+            {
+              "id": "38323",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022161s006s007s008lbl.pdf",
+              "date": "20110929",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20091223",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "6990",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/022161s004ltr.pdf",
+              "date": "20091231",
+              "type": "Letter"
+            },
+            {
+              "id": "38322",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/022161s004lbl.pdf",
+              "date": "20091230",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA022161",
+      "sponsor_name": "ASTELLAS",
+      "openfda": {
+        "application_number": [
+          "NDA022161"
+        ],
+        "brand_name": [
+          "LEXISCAN"
+        ],
+        "generic_name": [
+          "REGADENOSON"
+        ],
+        "manufacturer_name": [
+          "Astellas Pharma US, Inc."
+        ],
+        "product_ndc": [
+          "0469-6501"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "REGADENOSON"
+        ],
+        "spl_id": [
+          "8fb5b92b-3654-43ff-98d3-3ac23c9a0b10"
+        ],
+        "spl_set_id": [
+          "057289f4-2e18-4c1e-bed4-6c1858e2ef16"
+        ],
+        "package_ndc": [
+          "0469-6501-89"
+        ],
+        "nui": [
+          "N0000178375",
+          "N0000175788"
+        ],
+        "pharm_class_epc": [
+          "Adenosine Receptor Agonist [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Adenosine Receptor Agonists [MoA]"
+        ],
+        "unii": [
+          "2XLN4Y044H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "LEXISCAN",
+          "active_ingredients": [
+            {
+              "name": "REGADENOSON",
+              "strength": "0.4MG/5ML (0.08MG/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220411",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20240208",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20220802",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA213236",
+      "sponsor_name": "ACCORD HLTHCARE",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "REGADENOSON",
+          "active_ingredients": [
+            {
+              "name": "REGADENOSON",
+              "strength": "0.4MG/5ML (0.08MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    }
+  ]
+}

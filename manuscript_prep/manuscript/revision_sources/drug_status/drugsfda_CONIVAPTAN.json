@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 2
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20070228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 6",
+          "submission_class_code_description": "Type 6 - New Indication (no longer used)",
+          "application_docs": [
+            {
+              "id": "6693",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/022016s000ltr.pdf",
+              "date": "20070307",
+              "type": "Letter"
+            },
+            {
+              "id": "21909",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022016_vaprisol_toc.html",
+              "date": "20081103",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA022016",
+      "sponsor_name": "CUMBERLAND PHARMS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "VAPRISOL",
+          "active_ingredients": [
+            {
+              "name": "CONIVAPTAN HYDROCHLORIDE",
+              "strength": "20MG"
+            }
+          ],
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20051229",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "37473",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/021697lbl.pdf",
+              "date": "20051230",
+              "type": "Label"
+            },
+            {
+              "id": "42274",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021697s000_VaprisolTOC.html",
+              "date": "20060324",
+              "type": "Review"
+            },
+            {
+              "id": "28397",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/021697s000.pdf",
+              "date": "20060106",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20161014",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "45549",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/021697Orig1s005ltr.pdf",
+              "date": "20161017",
+              "type": "Letter"
+            },
+            {
+              "id": "45620",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/021697s005lbl.pdf",
+              "date": "20161017",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20120201",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "6007",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/021697s003ltr.pdf",
+              "date": "20120203",
+              "type": "Letter"
+            },
+            {
+              "id": "16218",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021697s003lbl.pdf",
+              "date": "20120206",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20081008",
+          "review_priority": "N/A",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "6005",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/021697s001ltr.pdf",
+              "date": "20081014",
+              "type": "Letter"
+            },
+            {
+              "id": "37474",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/021697s001lbl.pdf",
+              "date": "20081107",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20100527",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "6006",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/021697s002ltr.pdf",
+              "date": "20100602",
+              "type": "Letter"
+            },
+            {
+              "id": "16217",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021697s002lbl.pdf",
+              "date": "20100603",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA021697",
+      "sponsor_name": "APOTEX",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "VAPRISOL IN 5% DEXTROSE IN PLASTIC CONTAINER",
+          "active_ingredients": [
+            {
+              "name": "CONIVAPTAN HYDROCHLORIDE",
+              "strength": "20MG/100ML (0.2MG/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "VAPRISOL",
+          "active_ingredients": [
+            {
+              "name": "CONIVAPTAN HYDROCHLORIDE",
+              "strength": "20MG/4ML (5MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

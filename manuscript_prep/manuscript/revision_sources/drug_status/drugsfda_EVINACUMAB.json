@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230321",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "73819",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761181s001lbl.pdf",
+              "date": "20230322",
+              "type": "Label"
+            },
+            {
+              "id": "73820",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/761181Orig1s001ltr.pdf",
+              "date": "20230323",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20210211",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "66214",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/761181Orig1s000ltr.pdf",
+              "date": "20210309",
+              "type": "Letter"
+            },
+            {
+              "id": "66235",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/761181s000lbl.pdf",
+              "date": "20210216",
+              "type": "Label"
+            },
+            {
+              "id": "66747",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/761181Orig1s000TOC.html",
+              "date": "20210311",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20250925",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "83546",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/761181Orig1s002ltr.pdf",
+              "date": "20250926",
+              "type": "Letter"
+            },
+            {
+              "id": "83554",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2025/761181s002lbl.pdf",
+              "date": "20250926",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "BLA761181",
+      "sponsor_name": "REGENERON PHARMACEUTICALS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EVKEEZA",
+          "active_ingredients": [
+            {
+              "name": "EVINACUMAB-DGNB",
+              "strength": "345MG/2.3ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INJECTION",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EVKEEZA",
+          "active_ingredients": [
+            {
+              "name": "EVINACUMAB-DGNB",
+              "strength": "1200MG/8ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INJECTION",
+          "marketing_status": "Prescription"
+        }
+      ]
+    }
+  ]
+}

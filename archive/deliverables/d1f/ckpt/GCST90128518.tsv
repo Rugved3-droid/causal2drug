@@ -1,0 +1,2 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+ABCA1	D042882	Gallstones	GCST90128518	DOWN	6	rs2487052	4.0398e-51	-0.141457	0.00940563	226.2	0.014593	0.0109183	aligned_same	369	-0.103162	0.0771846	0.181365	NEGATIVE	POSITIVE	NO	

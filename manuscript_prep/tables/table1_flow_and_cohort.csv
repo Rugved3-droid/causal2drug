@@ -1,0 +1,27 @@
+﻿,N,,,
+Rows in the source target-indication table,29476,,,
+Distinct target-indication pairs,29460,,,
+Pairs after removing 4 programmes with conflicting phase labels,29456,,,
+Distinct targets / indications in those pairs,2517 / 1014,,,
+,Primary set,Sensitivity 1 (original 630),Sensitivity 2,Sensitivity 3 (MeSH C14 only)
+Cardiovascular indications (MeSH terms),93,44,62,37
+Cardiovascular target-indication pairs,2128,1543,1879,1364
+Cardiovascular targets,726,630,663,594
+  Instrumented,443 (61.0%),391 (62.1%),409 (61.7%),373 (62.8%)
+  No eQTL data (lower bound),217 (29.9%),180 (28.6%),191 (28.8%),164 (27.6%)
+    autosomal gene not tested,188 (25.9%),157 (24.9%),167 (25.2%),144 (24.2%)
+"    X-linked, not analysed by eQTLGen",27 (3.7%),21 (3.3%),22 (3.3%),18 (3.0%)
+"    mitochondrial, not analysed by eQTLGen",2 (0.3%),2 (0.3%),2 (0.3%),2 (0.3%)
+  No qualifying instrument,63 (8.7%),57 (9.0%),60 (9.0%),55 (9.3%)
+"  Uninstrumentable, upper bound",280 (38.6%),237 (37.6%),251 (37.9%),219 (36.9%)
+  Unresolved gene record,3 (0.4%),2 (0.3%),3 (0.5%),2 (0.3%)
+  Autosomal-only lower bound,188 / 697 (27.0%),157 / 607 (25.9%),167 / 639 (26.1%),144 / 574 (25.1%)
+Highest phase reached in the set,,,,
+  Preclinical,323,297,300,294
+  Phase I,91,90,93,85
+  Phase II,171,140,155,121
+  Phase III,75,51,60,50
+  Launched,66,52,55,44
+"Launched, approved CV drug verified in ChEMBL: strict rule",35,32,35,26
+"Launched, drug ever approved by FDA or EMA for a CV indication",33,30,33,24
+"Launched, approved CV drug verified in ChEMBL: permissive rule",58,46,49,40

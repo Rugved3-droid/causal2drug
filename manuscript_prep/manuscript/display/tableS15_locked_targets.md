@@ -1,0 +1,63 @@
+**Supplementary Table S15. Locked targets: no instrument in GTEx v8 non-blood tissues or in the three published plasma cis-pQTL tables (57 targets)**
+
+| Target | Chromosome | Highest phase | Indication areas | eQTLGen status | Tier | GTEx tissues in which the gene was tested, n | Proteomic studies that assayed it | Flags |
+|---|---|---|---|---|---|---|---|---|
+| ADRB3 | 8 | Phase II | Heart failure / cardiomyopathy | No eQTL data | Locked: never assayed | 22 | none |  |
+| AVPR1B | 1 | Preclinical | Heart failure / cardiomyopathy; Hypertension | No eQTL data | Locked: never assayed | 11 | none |  |
+| AVPR2 | X | Launched | Heart failure / cardiomyopathy; Hypertension | No eQTL data | Locked: never assayed | 45 | none | X |
+| CASR | 3 | Preclinical | Pulmonary hypertension | No eQTL data | Locked: never assayed | 11 | none |  |
+| CYP11B1 | 8 | Phase II | Heart failure / cardiomyopathy; Hypertension | No eQTL data | Locked: never assayed | 49 | none |  |
+| CYP11B2 | 8 | Phase II | Lipids / atherosclerosis; Heart failure / cardiomyopathy; Hypertension; Pulmonary hypertension; Unspecified CV | No eQTL data | Locked: never assayed | 2 | none |  |
+| GABRA1 | 5 | Preclinical | Cerebrovascular | No eQTL data | Locked: never assayed | 17 | none |  |
+| GHSR | 3 | Preclinical | Lipids / atherosclerosis; Cerebrovascular | No eQTL data | Locked: never assayed | 4 | none |  |
+| GRIN1 | 9 | Phase III | Ischaemic heart disease; Pulmonary hypertension; Cerebrovascular | No qualifying instrument | Locked: never assayed | 43 | none |  |
+| GRM5 | 11 | Preclinical | Cerebrovascular | No eQTL data | Locked: never assayed | 18 | none |  |
+| HCN4 | 15 | Phase III | Ischaemic heart disease; Heart failure / cardiomyopathy; Arrhythmia | No eQTL data | Locked: never assayed | 25 | none |  |
+| HDAC6 | X | Phase I | Heart failure / cardiomyopathy | No eQTL data | Locked: never assayed | 49 | none | X |
+| HTR4 | 5 | Phase I | Heart failure / cardiomyopathy; Arrhythmia | No eQTL data | Locked: never assayed | 26 | none |  |
+| KCNA5 | 12 | Phase II | Arrhythmia | No qualifying instrument | Locked: never assayed | 47 | none |  |
+| KCNJ8 | 12 | Preclinical | Ischaemic heart disease; Hypertension; Unspecified CV | No eQTL data | Locked: never assayed | 49 | none |  |
+| MAOB | X | Preclinical | Ischaemic heart disease; Cerebrovascular; Other | No eQTL data | Locked: never assayed | 49 | none | X |
+| MAS1 | 6 | Preclinical | Ischaemic heart disease; Heart failure / cardiomyopathy; Hypertension; Cerebrovascular; Other; Unspecified CV | No eQTL data | Locked: never assayed | 14 | none |  |
+| MIR122 | 18 | Phase II | Lipids / atherosclerosis | No eQTL data | Locked: never assayed | 0 | none | gene not in any GTEx v8 egenes file |
+| MIR126 | 9 | Preclinical | Other | No eQTL data | Locked: never assayed | 0 | none | gene not in any GTEx v8 egenes file |
+| MIR132 | 17 | Phase II | Heart failure / cardiomyopathy | No eQTL data | Locked: never assayed | 0 | none | gene not in any GTEx v8 egenes file |
+| MIR143 | 5 | Preclinical | Ischaemic heart disease | No eQTL data | Locked: never assayed | 0 | none | gene not in any GTEx v8 egenes file |
+| MIR145 | 5 | Preclinical | Ischaemic heart disease; Pulmonary hypertension | No eQTL data | Locked: never assayed | 18 | none | GTEx matched by symbol after documented Ensembl ID change (ENSG00000276365) |
+| MIR208A | 14 | Preclinical | Heart failure / cardiomyopathy | No eQTL data | Locked: never assayed | 0 | none | gene not in any GTEx v8 egenes file |
+| MIR21 | 17 | Preclinical | Heart failure / cardiomyopathy | No eQTL data | Locked: never assayed | 0 | none | gene not in any GTEx v8 egenes file |
+| MIR33A | 22 | Preclinical | Lipids / atherosclerosis; Unspecified CV | No eQTL data | Locked: never assayed | 0 | none | gene not in any GTEx v8 egenes file |
+| MIR499A | 20 | Preclinical | Heart failure / cardiomyopathy | No eQTL data | Locked: never assayed | 0 | none | gene not in any GTEx v8 egenes file |
+| MT-ND1 | MT | Preclinical | Heart failure / cardiomyopathy; Cerebrovascular | No eQTL data | Locked: never assayed | 0 | none | gene not in any GTEx v8 egenes file |
+| MT-ND2 | MT | Preclinical | Cerebrovascular | No eQTL data | Locked: never assayed | 0 | none | gene not in any GTEx v8 egenes file |
+| MTMR14 | 3 | Preclinical | Lipids / atherosclerosis; Other | No qualifying instrument | Locked: never assayed | 49 | none |  |
+| MTNR1A | 4 | Preclinical | Cerebrovascular | No eQTL data | Locked: never assayed | 10 | none |  |
+| PLN | 6 | Preclinical | Heart failure / cardiomyopathy | No eQTL data | Locked: never assayed | 49 | none |  |
+| RPE65 | 1 | Phase II | Other | No eQTL data | Locked: never assayed | 27 | none |  |
+| SLC10A1 | 14 | Phase I | Lipids / atherosclerosis | No qualifying instrument | Locked: never assayed | 37 | none |  |
+| SLC10A2 | 13 | Phase III | Lipids / atherosclerosis; Other | No eQTL data | Locked: never assayed | 5 | none |  |
+| SUMO1 | 2 | Preclinical | Heart failure / cardiomyopathy | No qualifying instrument | Locked: never assayed | 49 | none | GTEx whole blood only |
+| ANGPTL8 | 19 | Phase I | Lipids / atherosclerosis | No eQTL data | Locked: assayed, no instrument | 48 | deCODE |  |
+| BRD4 | 19 | Phase III | Lipids / atherosclerosis; Pulmonary hypertension; Cerebrovascular; Other | No qualifying instrument | Locked: assayed, no instrument | 49 | deCODE |  |
+| CDK5 | 7 | Preclinical | Cerebrovascular | No qualifying instrument | Locked: assayed, no instrument | 49 | Fenland |  |
+| CHRM1 | 11 | Preclinical | Cerebrovascular | No eQTL data | Locked: assayed, no instrument | 36 | UKB-PPP |  |
+| DMD | X | Preclinical | Heart failure / cardiomyopathy | No eQTL data | Locked: assayed, no instrument | 48 | UKB-PPP | X |
+| FGF18 | 5 | Preclinical | Cerebrovascular | No eQTL data | Locked: assayed, no instrument | 48 | deCODE; Fenland |  |
+| GDF2 | 10 | Preclinical | Pulmonary hypertension | No eQTL data | Locked: assayed, no instrument | 4 | UKB-PPP; deCODE; Fenland | GTEx matched by symbol after documented Ensembl ID change (ENSG00000263761) |
+| GHRHR | 7 | Preclinical | Ischaemic heart disease; Heart failure / cardiomyopathy | No eQTL data | Locked: assayed, no instrument | 26 | UKB-PPP |  |
+| GRK2 | 11 | Preclinical | Heart failure / cardiomyopathy | No qualifying instrument | Locked: assayed, no instrument | 49 | deCODE; Fenland |  |
+| HDAC2 | 6 | Preclinical | Heart failure / cardiomyopathy; Unspecified CV | No qualifying instrument | Locked: assayed, no instrument | 49 | deCODE; Fenland |  |
+| HSD11B1 | 1 | Phase II | Lipids / atherosclerosis; Ischaemic heart disease; Hypertension; Other | No qualifying instrument | Locked: assayed, no instrument | 49 | UKB-PPP |  |
+| HSPD1 | 2 | Preclinical | Lipids / atherosclerosis | No qualifying instrument | Locked: assayed, no instrument | 49 | deCODE |  |
+| HTR1A | 5 | Phase I | Lipids / atherosclerosis; Pulmonary hypertension; Unspecified CV | No eQTL data | Locked: assayed, no instrument | 13 | UKB-PPP |  |
+| IGF1 | 12 | Phase I | Other | No qualifying instrument | Locked: assayed, no instrument | 48 | deCODE; Fenland |  |
+| IL17A | 6 | Phase III | Other | No eQTL data | Locked: assayed, no instrument | 2 | UKB-PPP; deCODE; Fenland |  |
+| IL2 | 4 | Phase II | Other | No eQTL data | Locked: assayed, no instrument | 9 | UKB-PPP; deCODE |  |
+| IL21 | 4 | Preclinical | Pulmonary hypertension | No eQTL data | Locked: assayed, no instrument | 1 | deCODE; Fenland |  |
+| IL5 | 5 | Preclinical | Other | No eQTL data | Locked: assayed, no instrument | 7 | UKB-PPP; deCODE |  |
+| KIT | 4 | Phase III | Pulmonary hypertension; Other | No qualifying instrument | Locked: assayed, no instrument | 49 | UKB-PPP; deCODE; Fenland |  |
+| NR1H4 | 12 | Phase II | Lipids / atherosclerosis; Unspecified CV | No eQTL data | Locked: assayed, no instrument | 22 | deCODE; Fenland |  |
+| NRG2 | 5 | Preclinical | Heart failure / cardiomyopathy | No eQTL data | Locked: assayed, no instrument | 48 | deCODE; Fenland |  |
+| PLA2G10 | 16 | Preclinical | Lipids / atherosclerosis; Unspecified CV | No qualifying instrument | Locked: assayed, no instrument | 24 | UKB-PPP; deCODE |  |
+
+Locked is relative to the resources checked.

@@ -1,0 +1,963 @@
+
+
+ 
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Purple Book Search</title>
+
+  <!-- Bootstrap & FontAwesome -->
+  <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" defer>
+  <link rel="stylesheet" type="text/css" href="assets/css/all.min.css" defer>
+
+
+  <!-- Custom CSS -->
+  <link href="assets/css/datatables.css" rel="stylesheet" />
+  <link href="assets/css/styles.css" rel="stylesheet" />
+ 
+  
+  <script type="text/javascript" language="javascript" src="assets/js/bootstrap/bootstrap.bundle.min.js" ></script>
+  <script src="assets/js/main.js"></script>
+
+  		<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject1']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.googletagmanager.com/gtag/js?id=G-B0V4T2XCW7','gtag');
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}	
+		gtag('js', new Date());
+		gtag('config', 'G-B0V4T2XCW7');</script>
+
+
+      
+		<script language="javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=HHS&subagency=FDA&sdor=fda.gov&dclink=true"></script>
+</head>
+
+<body>
+
+  <div class="page-wrapper">
+    <!-- header-->
+    <header>
+      <div class="header">
+        <div class="container">
+          <a href="https://www.fda.gov/" class="header-link">
+            <div class="logo">
+              <img src="assets/img/logo.png" alt="FDA Logo" />
+              <div class="title">
+                <h1>U.S. FOOD & DRUG</h1>
+                <span>ADMINISTRATION</span>
+              </div>
+            </div>
+          </a>
+
+          <div class="header-actions">
+
+            <button class="glossary-btn" id="openGlossary">
+              <i class="fa fa-book"></i> Purple Book Glossary
+            </button>
+
+              <button class="search-btn"><i class="fa fa-search"></i>Search  </button>
+
+            <button class="menu-toggle" id="menuToggle" aria-label="collapseMenu"><i class="fa fa-bars"></i></button>
+          </div>
+  </header>
+
+          <!--menu panel -->
+          <nav class="menu-panel" id="menuPanel">
+            <div class="menu-container">
+              <div class="menu-grid">
+                <div class="menu-left">
+                  <div class="top-line left-line"></div>
+                  <h4>Featured</h4>
+                  <ul>
+                    <li><a href="https://www.fda.gov/about-fda/contact-fda">Contact FDA</a></li>
+                    <li><a href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents">FDA Guidance
+                        Documents</a></li>
+                    <li><a href="https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts">Recalls, Market
+                        Withdrawals & Safety Alerts</a></li>
+                    <li><a href="https://www.fda.gov/news-events/fda-newsroom/press-announcements">Press
+                        Announcements</a>
+                    </li>
+                    <li><a
+                        href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters">Warning
+                        Letters</a></li>
+                    <li><a href="https://www.fda.gov/advisory-committees">Advisory Committees</a></li>
+                    <li><a href="https://www.fda.gov/espanol">En Espanol</a></li>
+                  </ul>
+                </div>
+
+                <div class="menu-right">
+                  <div class="top-line right-line"></div>
+
+                  <section class="menu-section">
+                    <h4>Products</h4>
+                    <ul class="products-grid">
+                      <li><a href="https://www.fda.gov/food">Food</a></li>
+                      <li><a href="https://www.fda.gov/drugs">Drugs</a></li>
+                      <li><a href="https://www.fda.gov/medical-devices">Medical Devices</a></li>
+                      <li><a href="https://www.fda.gov/radiation-emitting-products">Radiation-Emitting Products</a></li>
+                      <li><a href="https://www.fda.gov/vaccines-blood-biologics">Vaccines, Blood, and Biologics</a></li>
+                      <li><a href="https://www.fda.gov/animal-veterinary">Animal and Veterinary</a></li>
+                      <li><a href="https://www.fda.gov/cosmetics">Cosmetics</a></li>
+                      <li><a href="https://www.fda.gov/tobacco-products">Tobacco Products</a></li>
+                    </ul>
+                  </section>
+
+                  <section class="menu-section">
+                    <h4>Topics</h4>
+                    <ul class="topics-grid">
+                      <li><a href="https://www.fda.gov/about-fda">About FDA</a></li>
+                      <li><a href="https://www.fda.gov/combination-products">Combination Products</a></li>
+                      <li><a href="https://www.fda.gov/regulatory-information">Regulatory Information</a></li>
+                      <li><a href="https://www.fda.gov/safety">Safety</a></li>
+                      <li><a href="https://www.fda.gov/emergency-preparedness-and-response">Emergency Preparedness</a>
+                      </li>
+                      <li><a href="https://www.fda.gov/international-programs">International Programs</a></li>
+                      <li><a href="https://www.fda.gov/news-events">News and Events</a></li>
+                      <li><a href="https://www.fda.gov/training-and-continuing-education">Training and Continuing
+                          Education</a></li>
+                      <li><a
+                          href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations">Inspections
+                          and Compliance</a></li>
+                      <li><a href="https://www.fda.gov/science-research">Science and Research</a></li>
+                    </ul>
+                  </section>
+
+                  <section class="menu-section">
+                    <h4>Information For</h4>
+                    <ul class="info-grid">
+                      <li><a href="https://www.fda.gov/consumers">Consumers</a></li>
+                      <li><a href="https://www.fda.gov/patients">Patients</a></li>
+                      <li><a href="https://www.fda.gov/industry">Industry</a></li>
+                      <li><a href="https://www.fda.gov/health-professionals">Health Professionals</a></li>
+                      <li><a href="https://www.fda.gov/federal-state-local-officials">Federal, State and Local
+                          Officials</a>
+                      </li>
+                    </ul>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </nav>
+  
+
+
+  <nav aria-label="breadcrumb" class="pb-breadcrumb">
+  <div class="container">
+    <ol class="breadcrumb mb-0">
+      <li class="breadcrumb-item"><a href="index.cfm">Purple Book Homepage</a></li>
+   
+   
+            <li class="breadcrumb-item active" aria-current="page">Download Purple Book Data</li>
+    
+
+     
+    </ol>
+  </div>
+</nav>
+
+    <!-- banner -->
+    <section class="banner-container">
+      <img src="assets/img/purpleBookbanner.jpeg" alt="Purple Book Banner" class="banner-img" />
+      <div class="banner-text">
+        <h1>Purple Book<br />Database of Licensed Biological Products</h1>
+      </div>
+    </section>
+
+
+
+    <!-- content wrapper -->
+    <main class="content-wrapper container-fluid">
+
+      <!-- Sidebar -->
+    <div id="sidebar" aria-label="Secondary navigation">
+    <ul class="usa-sidenav">
+    <li class="usa-sidenav__item"><a class="nav-link" href="index.cfm" title="Purple Book Homepage">Purple Book Homepage</a></li>
+    <li class="usa-sidenav__item"><a class="nav-link" href="index.cfm?event=about" title="About Purple Book">About Purple Book</a></li>
+    <li class="usa-sidenav__item"><a class="nav-link" href="index.cfm?event=userguide" title="User Guide">User Guide</a></li>
+    <li class="usa-sidenav__item"><a class="nav-link" href="index.cfm?event=faqs" title="FAQs">FAQs</a></li>
+    <li class="usa-sidenav__item"><a class="nav-link" href="index.cfm?event=patentlist" title="Patent List">Patent List</a></li>
+    <li class="usa-sidenav__item"><a class="nav-link" href="index.cfm?event=downloads" title="Download Purple Book Data">Download Purple Book Data</a></li>
+  </ul>
+</div>
+
+    
+
+
+     
+
+    	
+        
+
+        
+  
+    <section class="main-content">
+      <h2 class="page-title" aria-label="Download Purple Book Data">Download Purple Book Data</h2>
+        <p>Each monthly report is divided into two sections. The top section of the report lists the changes that
+          occurred during that month in three different categories: updated products (U), newly approved products
+          (N), and products added in current release (R). Updated products (U) include FDA-approved products
+          previously in the Purple Book that experienced changes during the month, resulting in an update of the
+          applicable product(s) information (e.g., change in applicant or proprietary name). Newly approved
+          products (N) include those that received initial FDA-approval during the month. Products added in
+          current release (R) include a set of products that are not newly approved but were not previously
+          included in the database. For example, some already-approved biologic products regulated by the Center
+          for Biologics Evaluation and Research (CBER) were added to the Purple Book for the first time as part of
+          an August 2020 database release. The bottom section of each report contains all products in the Purple
+          Book database for that month, including the products listed in the top section that were added or
+          changed. For more information, visit the 
+          <a href="index.cfm?event=userguide" title="User Guide" style="text-decoration: none;">User Guide</a>.</p>
+        <br />
+
+
+   <div class="container">
+          <div class="current">
+            <h2>Current Year</h2>
+
+             <p> January 2026
+          
+            <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-january-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-january-data-download.xlsx">XLSX</a> 
+          
+            </p>
+  
+            <p> February 2026
+          
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-February-data-download.csv">CSV</a> 
+               | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-February-data-download.xlsx">XLSX</a> 
+            
+              </p>
+              
+              <p> March 2026
+          
+                <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-March-data-download.csv">CSV</a> 
+                 | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-March-data-download.xlsx">XLSX</a> 
+              
+                </p> 
+
+                <p> April 2026
+          
+                  <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-April-data-download.csv">CSV</a> 
+                   | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-April-data-download.xlsx">XLSX</a> 
+                
+                  </p> 
+
+                  <p> May 2026
+          
+                    <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-May-data-download.csv">CSV</a> 
+                     | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-May-data-download.xlsx">XLSX</a> 
+                  
+                    </p>  
+
+                   <p> June 2026
+          
+                      <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-June-data-download.csv">CSV</a> 
+                       | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-June-data-download.xlsx">XLSX</a> 
+                    
+                     </p>  
+                     <p> July 2026
+          
+                      <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-July-data-download.csv">CSV</a> 
+                       | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-July-data-download.xlsx">XLSX</a> 
+                    
+                     </p>   
+
+                     <p> August 2026
+          
+                      <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-August-data-download.csv">CSV</a> 
+                       | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-August-data-download.xlsx">XLSX</a> 
+                    
+                     </p>   
+
+                     <p> September 2026
+          
+                      <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-September-data-download.csv">CSV</a> 
+                       | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-September-data-download.xlsx">XLSX</a> 
+                    
+                     </p>    
+          </div>
+
+
+           <div class="archive">
+            <button class="accordion">
+              Data Downloads Archive for 2025
+              <i class="fa-solid fa-chevron-down"></i>
+            </button>
+            <div class="archive-title">
+
+             <p> January 2025
+          
+            <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-january-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-january-data-download.xlsx">XLSX</a> 
+          
+            </p>
+            <p> February 2025 
+            <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-february-data-download.csv" ">CSV</a> 
+            | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-february-data-download.xlsx" ">XLSX</a> 
+            </p>
+             <p>March 2025 
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-march-data-download.csv" >CSV</a> | 
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-march-data-download.xlsx" >XLSX</a> 
+            </p>
+             <p>April 2025 
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-april-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-april-data-download.xlsx" >XLSX</a>
+             </p>
+             <p>May 2025 
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-may-data-download.csv" >CSV</a>
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-may-data-download.xlsx" >XLSX</a> 
+            </p>
+             <p>June 2025 
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-june-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-june-data-download.xlsx" >XLSX</a>
+            </p>
+             <p>July 2025 
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-july-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-july-data-download.xlsx" >XLSX</a>
+            </p>
+             <p>August 2025 
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-august-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-august-data-download.xlsx" >XLSX</a>
+            </p>
+             <p>September 2025 
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-september-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-september-data-download.xlsx" >XLSX</a>
+            </p>
+             <p>October 2025 
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-october-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-october-data-download.xlsx" >XLSX</a>
+            </p>
+             <p>November 2025 
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-november-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-november-data-download.xlsx" >XLSX</a>
+            </p>
+             <p>December 2025 
+            <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-december-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2025/purplebook-search-december-data-download.xlsx" >XLSX</a>
+            </p>
+
+
+            </div>
+            
+
+            <button class="accordion">
+              Data Downloads Archive for 2024
+              <i class="fa-solid fa-chevron-down"></i>
+            </button>
+            <div class="archive-title">
+
+              <p>January 2024
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-january-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-january-data-download.xlsx" >XLSX</a>  
+             </p>
+
+             <p>February 2024
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-february-data-download.csv" >CSV</a> 
+            | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-february-data-download.xlsx" >XLSX</a> 
+             </p>
+
+             <p>March 2024
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-march-data-download.csv">CSV</a> | 
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-march-data-download.xlsx">XLSX</a> 
+             </p>
+
+             <p>April 2024
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-april-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-april-data-download.xlsx">XLSX</a>
+             </p>
+
+             <p>May 2024
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-may-data-download.csv">CSV</a>
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-may-data-download.xlsx" >XLSX</a>
+             </p>
+
+             <p>June 2024
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-june-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-june-data-download.xlsx" >XLSX</a>
+             </p>
+
+             <p>July 2024
+               <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-july-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-july-data-download.xlsx">XLSX</a> 
+             </p>
+
+             <p>August 2024
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-august-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-august-data-download.xlsx">XLSX</a> 
+             </p>
+
+             <p>September 2024
+               <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-september-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-september-data-download.xlsx" >XLSX</a>
+             </p>
+
+             <p>October 2024
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-october-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-october-data-download.xlsx" >XLSX</a>
+             </p>
+
+             <p>November 2024
+            <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-november-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-november-data-download.xlsx" >XLSX</a>
+             </p>
+
+             <p>December 2024
+            <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-december-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2024/purplebook-search-december-data-download.xlsx" >XLSX</a>
+             </p>
+       
+            </div>
+
+
+            <button class="accordion">
+              Data Downloads Archive for 2023
+              <i class="fa-solid fa-chevron-down"></i>
+            </button>
+            <div class="archive-title">
+             <p>January 2023
+            <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-january-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-january-data-download.xlsx" >XLSX</a> 
+             </p>
+
+             <p>February 2023
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-february-data-download.csv">CSV</a> 
+            | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-february-data-download.xlsx" >XLSX</a> 
+             </p>
+
+             <p>March 2023
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-march-data-download.csv">CSV</a> | 
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-march-data-download.xlsx">XLSX</a> 
+             </p>
+
+             <p>April 2023
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-april-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-april-data-download.xlsx">XLSX</a>
+             </p>
+
+             <p>May 2023
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-may-data-download.csv">CSV</a>
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-may-data-download.xlsx" >XLSX</a>
+             </p>
+
+             <p>June 2023
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-june-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-june-data-download.xlsx" >XLSX</a>
+             </p>
+
+             <p>July 2023
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-july-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-july-data-download.xlsx">XLSX</a>
+             </p>
+
+             <p>August 2023
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-august-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-august-data-download.xlsx">XLSX</a>
+             </p>
+
+             <p>September 2023
+               <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-september-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-september-data-download.xlsx" >XLSX</a>
+             </p>
+
+             <p>October 2023
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-october-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-october-data-download.xlsx" >XLSX</a>
+             </p>
+
+             <p>November 2023
+            <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-november-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-november-data-download.xlsx" >XLSX</a>
+             </p>
+
+             <p>December 2023
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-december-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2023/purplebook-search-december-data-download.xlsx" >XLSX</a>
+             </p>
+            </div>
+
+            <button class="accordion">
+              Data Downloads Archive for 2022
+              <i class="fa-solid fa-chevron-down"></i>
+            </button>
+            <div class="archive-title">
+              <p>January 2022
+               <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-january-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-january-data-download.xlsx" >XLSX</a> 
+             </p>
+
+             <p>February 2022
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-february-data-download.csv" >CSV</a> 
+            | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-february-data-download.xlsx" >XLSX</a> 
+             </p>
+
+             <p>March 2022
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-march-data-download.csv">CSV</a> | 
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-march-data-download.xlsx">XLSX</a>
+             </p>
+
+             <p>April 2022
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-april-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-april-data-download.xlsx">XLSX</a>
+             </p>
+
+             <p>May 2022
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-may-data-download.csv">CSV</a>
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-may-data-download.xlsx" >XLSX</a>
+             </p>
+
+             <p>June 2022
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-june-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-june-data-download.xlsx" >XLSX</a>
+             </p>
+
+             <p>July 2022
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-july-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-july-data-download.xlsx">XLSX</a>
+             </p>
+
+             <p>August 2022
+            <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-august-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-august-data-download.xlsx">XLSX</a>
+             </p>
+
+             <p>September 2022
+               <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-september-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-september-data-download.xlsx" >XLSX</a>
+             </p>
+
+             <p>October 2022
+            <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-october-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-october-data-download.xlsx" >XLSX</a>
+             </p>
+
+             <p>November 2022
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-november-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-november-data-download.xlsx" >XLSX</a>
+             </p>
+
+             <p>December 2022
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-december-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2022/purplebook-search-december-data-download.xlsx" >XLSX</a>
+             </p>
+            </div>
+
+            <button class="accordion">
+              Data Downloads Archive for 2021
+              <i class="fa-solid fa-chevron-down"></i>
+            </button>
+            <div class="archive-title">
+              <p>January 2021
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-january-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-january-data-download.xlsx" >XLSX</a> 
+             </p>
+
+             <p>February 2021
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-february-data-download.csv" >CSV</a> 
+            | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-february-data-download.xlsx" >XLSX</a> 
+             </p>
+
+             <p>March 2021
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-march-data-download.csv">XLSX</a> 
+            | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-march-data-download.xlsx">XLSX</a>
+             </p>
+
+             <p>April 2021
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-april-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-april-data-download.xlsx">XLSX</a>
+             </p>
+
+             <p>May 2021
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-may-data-download.csv">CSV</a>
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-may-data-download.xlsx" ">XLSX</a>
+             </p>
+
+             <p>June 2021
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-june-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-june-data-download.xlsx" >XLSX</a>
+             </p>
+
+             <p>July 2021
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-july-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-july-data-download.xlsx">XLSX</a>
+             </p>
+
+             <p>August 2021
+            <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-august-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-august-data-download.xlsx">XLSX</a>
+             </p>
+
+             <p>September 2021
+               <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-september-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-september-data-download.xlsx" >XLSX</a>
+             </p>
+
+             <p>October 2021
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-october-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-october-data-download.xlsx" >XLSX</a>
+             </p>
+
+             <p>November 2021
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-november-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-november-data-download.xlsx" >XLSX</a>
+             </p>
+
+             <p>December 2021
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-december-data-download.csv" >CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2021/purplebook-search-december-data-download.xlsx" >XLSX</a>
+             </p>
+            </div>
+
+            <button class="accordion">
+              Data Downloads Archive for 2020
+              <i class="fa-solid fa-chevron-down"></i>
+            </button>
+            <div class="archive-title">
+             <p>February 2020
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-february-data-download.csv">CSV</a> 
+            | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-february-data-download.xlsx">XLSX</a> 
+             </p>
+
+             <p>March 2020
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-march-data-download.csv">CSV</a> | 
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-march-data-download.xlsx">XLSX</a>
+             </p>
+
+             <p>April 2020
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-april-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-april-data-download.xlsx">XLSX</a>
+             </p>
+
+             <p>May 2020
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-may-data-download.csv">CSV</a>
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-may-data-download.xlsx">XLSX</a>
+             </p>
+
+             <p>June 2020
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-june-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-june-data-download.xlsx">XLSX</a>
+             </p>
+
+             <p>July 2020
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-july-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-july-data-download.xlsx">XLSX</a>
+             </p>
+
+             <p>August 2020
+            <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-august-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-august-data-download.xlsx">XLSX</a>
+             </p>
+
+             <p>September 2020
+               <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-september-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-september-data-download.xlsx">XLSX</a>
+             </p>
+
+             <p>October 2020
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-october-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-october-data-download.xlsx">XLSX</a
+             </p>
+
+             <p>November 2020
+              <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-november-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-november-data-download.xlsx">XLSX</a
+             </p>
+
+             <p>December 2020
+             <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-december-data-download.csv">CSV</a> 
+             | <a href="https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2020/purplebook-search-december-data-download.xlsx">XLSX</a
+             </p>
+            </div>
+          </div>
+          </div>
+
+
+
+     </section>
+
+
+
+  <!-- scripts -->
+   <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const acc = document.getElementsByClassName("accordion");
+      const panel = document.getElementsByClassName("archive-title");
+      var allOpen = false;
+
+      for (var i = 0; i < acc.length; i++) {
+        acc[i].addEventListener("click", function () {
+
+          if (allOpen === false) {
+
+            for (var j = 0; j < panel.length; j++) {
+              panel[j].style.maxHeight = panel[j].scrollHeight + "px";
+            }
+            for (var j = 0; j < acc.length; j++) {
+              acc[j].classList.add("active");
+            }
+            allOpen = true;
+
+          }
+          else {
+            for (var j = 0; j < panel.length; j++) {
+              panel[j].style.maxHeight = null;
+            }
+            for (var j = 0; j < acc.length; j++) {
+              acc[j].classList.remove("active");
+            }
+            allOpen = false;
+          }
+
+        });
+      }
+    });
+
+  </script>
+        
+    
+
+    
+
+    <!--scripts -->
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/glossary.js"></script>
+
+
+
+  <button id="glossary-toggle" class="glossary-toggle">
+  <i class="fa-solid fa-book"></i> Glossary
+</button>
+
+</div>
+
+
+
+
+
+  <!-- footer -->
+    <footer class="footer">
+
+
+      <div class="footer-top">
+        <div class="footer-inner">
+          <div class="footer-columns">
+            <div class="footer-left">
+              <a href="https://www.fda.gov/about-fda/about-website/fdagov-archive">FDA Archive</a>
+              <a href="https://www.fda.gov/about-fda">About FDA</a>
+              <a href="https://www.fda.gov/about-fda/about-website/internet-accessibility">Accessibility</a>
+            </div>
+
+            <div class="footer-center">
+              <a href="https://www.fda.gov/about-fda/white-oak-campus-information/public-meetings-fda-white-oak-campus">Visitor
+                Information</a>
+              <a href="https://www.fda.gov/about-fda/about-website/website-policies">Website Policies / Privacy</a>
+              <a href="https://www.fda.gov/about-fda/jobs-and-training-fda/no-fear-act">No FEAR Act</a>
+              <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html/" target="_blank">Vulnerability
+                Disclosure Policy</a>
+            </div>
+
+            <div class="footer-right">
+              <a href="https://www.fda.gov/regulatory-information/freedom-information">FOIA</a>
+              <a href="https://www.hhs.gov/" target="_blank">HHS.gov</a>
+              <a href="https://www.usa.gov/" target="_blank">USA.gov</a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="footer-bottom">
+        <div class="footer-inner">
+          <div class="footer-left">
+            <a href="https://www.fda.gov/about-fda/contact-fda" class="contact-btn">Contact FDA</a>
+            <a href="https://www.facebook.com/FDA"  aria-label="facebook link"><i class="fa-brands fa-facebook-f"></i></a>
+            <a href="https://www.twitter.com/US_FDA"  aria-label="twitter link"><i class="fa-brands fa-twitter" ></i></a>
+            <a href="https://www.youtube.com/user/USFoodandDrugAdmin"  aria-label="youtube link"><i class="fa-brands fa-youtube"></i></a>
+            <a href="https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds"  aria-label="podcasts and news feeds link"><i
+                class="fa-solid fa-rss"></i></a>
+          </div>
+          <div class="footer-center">
+            <a href="https://www.fda.gov/"><img src="assets/img/logo.png" alt="FDA Logo" /></a>
+          </div>
+          <div class="footer-right">
+            <i class="fa-solid fa-phone"></i>
+            <span>1-888-INFO-FDA (1-888-463-6332)</span>
+          </div>
+        </div>
+      </div>
+
+    </footer>
+  </div>
+
+  
+  <!--scripts -->
+  <script src="assets/js/main.js" defer></script>
+
+  <button id="glossary-toggle" class="glossary-toggle">
+  <i class="fa-solid fa-book"></i> Glossary
+</button>
+
+<script type="text/javascript"  src="/aKFJaU/Pkh2l/FtxEW/1YA8/Yc1cXXtkGVzkGfL73Y/XmE7QS8hAQ/LzVaVU/o_VR8"></script></body>
+
+</html> 
+
+
+<div id="glossary-backdrop"></div>
+<div id="glossary-panel" class="glossary-panel" aria-label="Glossary">
+
+    <div class="glossary-wrapper">
+        <div class="col">
+            <h2 class="glossary-header">Glossary</h2>
+            <button class="close-btn">&times;</button>
+
+            <input name="purpleBookSearch" class="glossary-search" aria-label="purple Book Search" type="text" placeholder="Search for a term..."
+                value="">
+        </div>
+        <p style="margin-top:10px;">
+            <br>
+            <em>Example: "Biosimilar"</em>
+        </p>
+    </div>
+
+    <div class="glossary-group glossary-terms-wrapper">
+        <h2 class="glossary-description-header">3</h2>
+        <hr>
+
+        <div class="glossary-list">
+            <div class="term" data-term="351(a)">351(a)</div>
+            <div class="term" data-term="351(k) Biosimilar">351(k) Biosimilar</div>
+            <div class="term" data-term="351(k) Interchangeable">351(k) Interchangeable</div>
+        </div>
+
+        <h2 class="glossary-description-header">A</h2>
+        <hr>
+
+        <div class="glossary-list">
+            <div class="term" data-term="Applicant (sponsor)">Applicant (sponsor)</div>
+            <div class="term" data-term="Approval Date">Approval Date</div>
+        </div>
+
+        <h2 class="glossary-description-header">B</h2>
+        <hr>
+
+        <div class="glossary-list">
+            <div class="term" data-term="Biological Product">Biological Product</div>
+            <div class="term" data-term="Biosimilar">Biosimilar</div>
+            <div class="term" data-term="BLA">BLA</div>
+            <div class="term" data-term="BLA Number">BLA Number</div>
+        </div>
+
+
+
+        <h2 class="glossary-description-header">C</h2>
+        <hr>
+        <div class="glossary-list">
+            <div class="term" data-term="Center">Center</div>
+            <div class="term" data-term="Core Name">Core Name</div>
+        </div>
+
+        <h2 class="glossary-description-header">D</h2>
+        <hr>
+        <div class="glossary-list">
+            <div class="term" data-term="Date of First Licensure">Date of First Licensure</div>
+            <div class="term" data-term="Disc.">Disc.</div>
+            <div class="term" data-term="Disc.*">Disc.*</div>
+            <div class="term" data-term="Dosage Form">Dosage Form</div>
+        </div>
+
+
+        <h2 class="glossary-description-header">E</h2>
+        <hr>
+        <div class="glossary-list">
+            <div class="term" data-term="Exclusivity Expiration Date">Exclusivity Expiration Date</div>
+        </div>
+
+
+        <h2 class="glossary-description-header">F</h2>
+        <hr>
+        <div class="glossary-list">
+            <div class="term" data-term="First Interchangeable Exclusivity Expiration Date">First Interchangeable
+                Exclusivity Expiration Date</div>
+        </div>
+
+
+        <h2 class="glossary-description-header">I</h2>
+        <hr>
+        <div class="glossary-list">
+            <div class="term" data-term="Interchangeable">Interchangeable</div>
+        </div>
+
+
+        <h2 class="glossary-description-header">L</h2>
+        <hr>
+        <div class="glossary-list">
+            <div class="term" data-term="License Number">License Number</div>
+            <div class="term" data-term="License Type">License Type</div>
+            <div class="term" data-term="Licensure">Licensure</div>
+        </div>
+
+
+        <h2 class="glossary-description-header">O</h2>
+        <hr>
+        <div class="glossary-list">
+            <div class="term" data-term="Orphan Exclusivity Expiration Date">Orphan Exclusivity Expiration Date</div>
+            <div class="term" data-term="OTC (Over-the-Counter)">OTC (Over-the-Counter)</div>
+        </div>
+
+
+        <h2 class="glossary-description-header">P</h2>
+        <hr>
+        <div class="glossary-list">
+            <div class="term" data-term="Patent List Provided">Patent List Provided</div>
+            <div class="term" data-term="Product Number">Product Number</div>
+            <div class="term" data-term="Proper Name">Proper Name</div>
+            <div class="term" data-term="Proprietary Name">Proprietary Name</div>
+            <div class="term" data-term="Purple Book">Purple Book</div>
+        </div>
+
+
+        <h2 class="glossary-description-header">R</h2>
+        <hr>
+        <div class="glossary-list">
+            <div class="term" data-term="Reference Product">Reference Product</div>
+            <div class="term" data-term="Reference Product Exclusivity Expiration Date">Reference Product Exclusivity
+                Expiration Date</div>
+            <div class="term" data-term="Route of Administration">Route of Administration</div>
+            <div class="term" data-term="Rx">Rx</div>
+        </div>
+
+
+        <h2 class="glossary-description-header">M</h2>
+        <hr>
+        <div class="glossary-list">
+            <div class="term" data-term="Marketing Status">Marketing Status</div>
+        </div>
+
+
+        <h2 class="glossary-description-header">S</h2>
+        <hr>
+        <div class="glossary-list">
+            <div class="term" data-term="Strength">Strength</div>
+            <div class="term" data-term="Submission Type">Submission Type</div>
+            <div class="term" data-term="Supplement Number">Supplement Number</div>
+        </div>
+
+    </div>
+
+    <div id="glossary-detail" class="glossary-detail">
+        <h2 id="term-title" aria-label="term title"></h2>
+        <p id="term-description"></p>
+        <button id="back-btn" class="back-btn">
+            <i class="fa-solid fa-arrow-left"></i> BACK
+        </button>
+    </div>
+</div>
+
+
+
+
+ 
+
+

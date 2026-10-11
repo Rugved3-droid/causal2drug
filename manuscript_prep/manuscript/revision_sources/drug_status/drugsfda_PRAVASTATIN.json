@@ -1,0 +1,3981 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 20
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170202",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20250318",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20230413",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20210315",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA203367",
+      "sponsor_name": "AUROBINDO PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA203367"
+        ],
+        "brand_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "generic_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "65862-632",
+          "65862-633",
+          "65862-634",
+          "65862-635"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "rxcui": [
+          "904458",
+          "904467",
+          "904475",
+          "904481"
+        ],
+        "spl_id": [
+          "96c24702-0431-4bf3-bbee-22ffb54e5e19"
+        ],
+        "spl_set_id": [
+          "b06ed801-ddee-4f56-924a-59fcb451eae6"
+        ],
+        "package_ndc": [
+          "65862-632-90",
+          "65862-632-05",
+          "65862-632-99",
+          "65862-633-90",
+          "65862-633-05",
+          "65862-633-99",
+          "65862-634-90",
+          "65862-634-05",
+          "65862-634-99",
+          "65862-635-90",
+          "65862-635-05"
+        ],
+        "unii": [
+          "3M8608UQ61"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20260206",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20260806",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20190909",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20151201",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20151201",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20080211"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20141102",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077491",
+      "sponsor_name": "SENORES PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA077491"
+        ],
+        "brand_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "generic_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Amici Pharma, Inc."
+        ],
+        "product_ndc": [
+          "69292-101",
+          "69292-102",
+          "69292-103",
+          "69292-104"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "rxcui": [
+          "904458",
+          "904467",
+          "904475",
+          "904481"
+        ],
+        "spl_id": [
+          "52351ef8-7a5a-6e07-e063-6294a90af72a"
+        ],
+        "spl_set_id": [
+          "e6551230-fe4c-4a6e-9c19-ae9945b76db0"
+        ],
+        "package_ndc": [
+          "69292-101-90",
+          "69292-101-50",
+          "69292-101-10",
+          "69292-102-90",
+          "69292-102-50",
+          "69292-102-10",
+          "69292-103-90",
+          "69292-103-50",
+          "69292-103-10",
+          "69292-104-90",
+          "69292-104-50",
+          "69292-104-10"
+        ],
+        "unii": [
+          "3M8608UQ61"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20181123",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA206061",
+      "sponsor_name": "HISUN PHARM HANGZHOU",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20161120",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20250224",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20130205",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20230320",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20110927",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150415",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20080115"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20150415",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20120503",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20210211",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077793",
+      "sponsor_name": "AUROBINDO PHARMA USA",
+      "openfda": {
+        "application_number": [
+          "ANDA077793"
+        ],
+        "brand_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "generic_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited",
+          "Teva Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "84386-034",
+          "0480-7270"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "rxcui": [
+          "904481"
+        ],
+        "spl_id": [
+          "c21d4797-d252-4073-891f-330484c5f643",
+          "95e8c960-5096-43a9-8807-89cdf404a214"
+        ],
+        "spl_set_id": [
+          "c21d4797-d252-4073-891f-330484c5f643",
+          "f66cb1c1-5ff1-4b0b-89d0-8ecaee26b0b8"
+        ],
+        "package_ndc": [
+          "84386-034-90",
+          "84386-034-99",
+          "0480-7270-98",
+          "0480-7270-10"
+        ],
+        "unii": [
+          "3M8608UQ61"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20120712",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20071228",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20230426",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20061023"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20071228",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20170707",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20210305",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "20250218",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20130726",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076341",
+      "sponsor_name": "APOTEX",
+      "openfda": {
+        "application_number": [
+          "ANDA076341"
+        ],
+        "brand_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "generic_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Quallent",
+          "Apotex Corp."
+        ],
+        "product_ndc": [
+          "82009-006",
+          "82009-007",
+          "82009-008",
+          "60505-0168",
+          "60505-0169",
+          "60505-0170",
+          "60505-1323"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "rxcui": [
+          "904467",
+          "904475",
+          "904481",
+          "904458"
+        ],
+        "spl_id": [
+          "a8435e8a-3fa3-1d2d-bd06-ed67cc63bd7a",
+          "23a54cde-a404-07d5-9a4f-e7297930c0e5"
+        ],
+        "spl_set_id": [
+          "e9c188f7-cd6f-afac-b493-36552d86589e",
+          "dcf45e4f-b46e-6fbb-b67a-2ff619ab1780"
+        ],
+        "package_ndc": [
+          "82009-006-10",
+          "82009-007-90",
+          "82009-007-10",
+          "82009-008-05",
+          "60505-0168-9",
+          "60505-0168-1",
+          "60505-0168-5",
+          "60505-0168-7",
+          "60505-0168-4",
+          "60505-0169-9",
+          "60505-0169-1",
+          "60505-0169-5",
+          "60505-0169-7",
+          "60505-0169-2",
+          "60505-0170-9",
+          "60505-0170-1",
+          "60505-0170-5",
+          "60505-0170-7",
+          "60505-0170-8",
+          "60505-1323-9",
+          "60505-1323-1",
+          "60505-1323-5",
+          "60505-1323-7",
+          "60505-1323-8"
+        ],
+        "unii": [
+          "3M8608UQ61"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "19990128",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41080",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/019898_S024_PRAVACHOL_TABLETS.pdf",
+              "date": "20080219",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "19960404",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41077",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/96/019898_S016_PRAVACOL_TABLETS.pdf",
+              "date": "20071119",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20000118",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "1783",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/19898S26LTR.PDF",
+              "date": "20000118",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "69",
+          "submission_status": "AP",
+          "submission_status_date": "20200925",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "64698",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/019898Orig1s069ltr.pdf",
+              "date": "20200928",
+              "type": "Letter"
+            },
+            {
+              "id": "64726",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/019898s069lbl.pdf",
+              "date": "20200929",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19940208",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "19981026",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "19960228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19920707",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "67",
+          "submission_status": "AP",
+          "submission_status_date": "20170123",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "19980311",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "20407",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/19898-S020_Pravachol.pdf",
+              "date": "19980311",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "19960430",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19930322",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "65",
+          "submission_status": "AP",
+          "submission_status_date": "20130529",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19920318",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "19950330",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "49",
+          "submission_status": "AP",
+          "submission_status_date": "20020114",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41088",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/019898_S049_PRAVACOL_TABLETS.pdf",
+              "date": "20071119",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "63",
+          "submission_status": "AP",
+          "submission_status_date": "20121031",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "19810",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/019898Orig1s063,s064ltr.pdf",
+              "date": "20121105",
+              "type": "Letter"
+            },
+            {
+              "id": "34080",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/019898s063s064lbl.pdf",
+              "date": "20121106",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "61",
+          "submission_status": "AP",
+          "submission_status_date": "20110518",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "11827",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/019898s061lbl.pdf",
+              "date": "20110523",
+              "type": "Label"
+            },
+            {
+              "id": "19808",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/019898s061ltr.pdf",
+              "date": "20110520",
+              "type": "Letter"
+            },
+            {
+              "id": "20414",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/019898Orig1s061.pdf",
+              "date": "20130807",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "45",
+          "submission_status": "AP",
+          "submission_status_date": "20010813",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "20000623",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "20411",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/019898_s037_PRAVACHOL_TABLETS.pdf",
+              "date": "20080804",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "51",
+          "submission_status": "AP",
+          "submission_status_date": "20020614",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41089",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/019898_S051_PRAVACOL_TABLETS.pdf",
+              "date": "20071119",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "20000118",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "1782",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/19898S26LTR.PDF",
+              "date": "20000118",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "43",
+          "submission_status": "AP",
+          "submission_status_date": "20010312",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41087",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/019898_s043_PRAVACHOL TABS.pdf",
+              "date": "20080804",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "19991014",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41084",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/19898S34.PDF",
+              "date": "19991014",
+              "type": "Review"
+            },
+            {
+              "id": "20410",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/19898s34_Pravachol.pdf",
+              "date": "19991014",
+              "type": "Review"
+            },
+            {
+              "id": "1786",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1999/19898s34ltr.PDF",
+              "date": "19991014",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20000118",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "1781",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/19898S26LTR.PDF",
+              "date": "20000118",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "41",
+          "submission_status": "AP",
+          "submission_status_date": "20000824",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41086",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/019898_s041_PRAVACHOL_TABLETS.pdf",
+              "date": "20080804",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "19980520",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "19990409",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20409",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/019898_S025_PRAVACHOL_TABLETS.pdf",
+              "date": "20080219",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "19970415",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41078",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/97/019898a_s017_041597.pdf",
+              "date": "19970415",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "20000609",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41081",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/019898_S031_PRAVACHOL_TABLETS_AP.pdf",
+              "date": "20070411",
+              "type": "Review"
+            },
+            {
+              "id": "19801",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/19898S31LTR.PDF",
+              "date": "20000609",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "19940209",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "19990211",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20408",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/019898_S023_PRAVACHOL_TABLETS.pdf",
+              "date": "20080219",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19911031",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "19960702",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19930723",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "19980817",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "19960322",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19930322",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "66",
+          "submission_status": "AP",
+          "submission_status_date": "20160705",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "11829",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/019898s066lbl.pdf",
+              "date": "20160708",
+              "type": "Label"
+            },
+            {
+              "id": "1788",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/019898Orig1s066ltr.pdf",
+              "date": "20160707",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "58",
+          "submission_status": "AP",
+          "submission_status_date": "20050706",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "11825",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/019898s058lbl.pdf",
+              "date": "20050715",
+              "type": "Label"
+            },
+            {
+              "id": "19806",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/019898s058ltr.pdf",
+              "date": "20050715",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "19940928",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "64",
+          "submission_status": "AP",
+          "submission_status_date": "20121031",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "19811",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/019898Orig1s063,s064ltr.pdf",
+              "date": "20121105",
+              "type": "Letter"
+            },
+            {
+              "id": "34081",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/019898s063s064lbl.pdf",
+              "date": "20121106",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "70",
+          "submission_status": "AP",
+          "submission_status_date": "20220531",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "71183",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/019898Orig1s070ltr.pdf",
+              "date": "20220601",
+              "type": "Letter"
+            },
+            {
+              "id": "71221",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2022/019898s070lbl.pdf",
+              "date": "20220606",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "62",
+          "submission_status": "AP",
+          "submission_status_date": "20120228",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "11828",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/019898s062lbl.pdf",
+              "date": "20120228",
+              "type": "Label"
+            },
+            {
+              "id": "19809",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/019898s062ltr.pdf",
+              "date": "20120228",
+              "type": "Letter"
+            },
+            {
+              "id": "20415",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2012/019898s062.pdf",
+              "date": "20120330",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "54",
+          "submission_status": "AP",
+          "submission_status_date": "20030905",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41090",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/019898_s054_PRAVACHOL TABS.pdf",
+              "date": "20080801",
+              "type": "Review"
+            },
+            {
+              "id": "11824",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2003/19898slr054_pravachol_lbl.pdf",
+              "date": "20030925",
+              "type": "Label"
+            },
+            {
+              "id": "19805",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/19898slr054ltr.pdf",
+              "date": "20030925",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "46",
+          "submission_status": "AP",
+          "submission_status_date": "20011218",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "19803",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/19898s46ltr.pdf",
+              "date": "20011218",
+              "type": "Letter"
+            },
+            {
+              "id": "34078",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2001/19898s46lbl.pdf",
+              "date": "20011218",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "60",
+          "submission_status": "AP",
+          "submission_status_date": "20070228",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "11826",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/019898s060lbl.pdf",
+              "date": "20070307",
+              "type": "Label"
+            },
+            {
+              "id": "19807",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/019898s060ltr.pdf",
+              "date": "20070307",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "52",
+          "submission_status": "AP",
+          "submission_status_date": "20021029",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "1787",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/19898se5-052ltr.pdf",
+              "date": "20021029",
+              "type": "Letter"
+            },
+            {
+              "id": "34079",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2002/19898s052lbl.pdf",
+              "date": "20021029",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "44",
+          "submission_status": "AP",
+          "submission_status_date": "20010314",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20412",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/019898_s044_PRAVACHOL TABS.pdf",
+              "date": "20080804",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "36",
+          "submission_status": "AP",
+          "submission_status_date": "19990913",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41085",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/019898_s036_PRAVACHOL_TABLETS.pdf",
+              "date": "20080808",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "50",
+          "submission_status": "AP",
+          "submission_status_date": "20020712",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "11823",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2002/19898s50lbl.pdf",
+              "date": "20020712",
+              "type": "Label"
+            },
+            {
+              "id": "19804",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/19898slr050ltr.pdf",
+              "date": "20020712",
+              "type": "Letter"
+            },
+            {
+              "id": "20413",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/019898_s050_PRAVACHOL TABS.pdf",
+              "date": "20080804",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "42",
+          "submission_status": "AP",
+          "submission_status_date": "20010615",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "19802",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/19898S42ltr.pdf",
+              "date": "20010615",
+              "type": "Letter"
+            },
+            {
+              "id": "34077",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2001/19898s42lbl.pdf",
+              "date": "20010615",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "34",
+          "submission_status": "AP",
+          "submission_status_date": "19991014",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41083",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/19898s34_Pravachol.pdf",
+              "date": "19991014",
+              "type": "Review"
+            },
+            {
+              "id": "1785",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1999/19898s34ltr.PDF",
+              "date": "19991014",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20000118",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "19800",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/19898S26LTR.PDF",
+              "date": "20000118",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "19980327",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41079",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/19898-S018_Pravachol.pdf",
+              "date": "19980327",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "32",
+          "submission_status": "AP",
+          "submission_status_date": "20000210",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41082",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/019898s032_Pravastatin.html",
+              "date": "20000210",
+              "type": "Review"
+            },
+            {
+              "id": "1784",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/19898S32LTR.PDF",
+              "date": "20000210",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "19940302",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "NDA019898",
+      "sponsor_name": "BRISTOL MYERS SQUIBB",
+      "products": [
+        {
+          "product_number": "008",
+          "reference_drug": "Yes",
+          "brand_name": "PRAVACHOL",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "80MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "PRAVACHOL",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "40MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "PRAVACHOL",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "10MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "PRAVACHOL",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "20MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20071228",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20200604",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20071228",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20141102",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20120720",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20061023"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20250224",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20120119",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076939",
+      "sponsor_name": "WATSON LABS",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180413",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "53693",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/209869Orig1s000ltr.pdf",
+              "date": "20180416",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20230327",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20210129",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20250805",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA209869",
+      "sponsor_name": "BIOCON PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA209869"
+        ],
+        "brand_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "generic_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Biocon Pharma Inc."
+        ],
+        "product_ndc": [
+          "70377-045",
+          "70377-046",
+          "70377-047",
+          "70377-048"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "rxcui": [
+          "904458",
+          "904467",
+          "904475",
+          "904481"
+        ],
+        "spl_id": [
+          "dc0074c0-e58a-3655-2a66-084168c39615"
+        ],
+        "spl_set_id": [
+          "9bd4a493-1f75-e33a-53fb-4e2fbc64a1eb"
+        ],
+        "package_ndc": [
+          "70377-045-11",
+          "70377-045-12",
+          "70377-045-14",
+          "70377-046-11",
+          "70377-046-12",
+          "70377-046-14",
+          "70377-047-11",
+          "70377-047-12",
+          "70377-047-14",
+          "70377-048-11",
+          "70377-048-12",
+          "70377-048-13"
+        ],
+        "unii": [
+          "3M8608UQ61"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20071228",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20160201",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20120720",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20250626",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20071228",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20161125",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20061023"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20141103",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076714",
+      "sponsor_name": "DR REDDYS LABS INC",
+      "openfda": {
+        "application_number": [
+          "ANDA076714"
+        ],
+        "brand_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "generic_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Dr.Reddy's Laboratories Limited"
+        ],
+        "product_ndc": [
+          "55111-229",
+          "55111-230",
+          "55111-231",
+          "55111-274"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "rxcui": [
+          "904458",
+          "904467",
+          "904475",
+          "904481"
+        ],
+        "spl_id": [
+          "5f4e21ff-4bcc-df0d-a629-ba190d95edc0"
+        ],
+        "spl_set_id": [
+          "99cc0546-bb2d-751e-edfd-1c15a1182e0c"
+        ],
+        "package_ndc": [
+          "55111-229-30",
+          "55111-229-90",
+          "55111-229-01",
+          "55111-229-05",
+          "55111-230-30",
+          "55111-230-90",
+          "55111-230-01",
+          "55111-230-05",
+          "55111-231-30",
+          "55111-231-90",
+          "55111-231-01",
+          "55111-231-05",
+          "55111-274-30",
+          "55111-274-90",
+          "55111-274-01",
+          "55111-274-05"
+        ],
+        "unii": [
+          "3M8608UQ61"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20200604",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20071228",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20250218",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20210818",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20071228",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20240618",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20061023"
+        }
+      ],
+      "application_number": "ANDA077013",
+      "sponsor_name": "PHARMOBEDIENT",
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20160322"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20250702",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20061023"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20161114",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077904",
+      "sponsor_name": "CIPLA",
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "TA",
+          "submission_status_date": "20030930",
+          "application_docs": [
+            {
+              "id": "31123",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/076445s000ltr.pdf",
+              "date": "20070501",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA076445",
+      "sponsor_name": "RANBAXY LABS LTD",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20130418",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20221013",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20141103",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20250317",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20080108"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20210201",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20080616",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20170711",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077917",
+      "sponsor_name": "CHARTWELL RX",
+      "openfda": {
+        "application_number": [
+          "ANDA077917"
+        ],
+        "brand_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "generic_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Lupin Pharmaceuticals, Inc.",
+          "Chartwell RX, LLC"
+        ],
+        "product_ndc": [
+          "68180-485",
+          "68180-486",
+          "68180-487",
+          "68180-488",
+          "62135-847",
+          "62135-848",
+          "62135-849",
+          "62135-850"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "rxcui": [
+          "904458",
+          "904467",
+          "904475",
+          "904481"
+        ],
+        "spl_id": [
+          "a173dd76-57cb-4066-a51f-26adfb79e861",
+          "2cf16f1b-c67f-455e-e063-6394a90adc0a"
+        ],
+        "spl_set_id": [
+          "1123d56c-16f0-4f81-b56f-67b1f343ae1e",
+          "f87016fb-4c01-4279-8cf7-59819971ca15"
+        ],
+        "package_ndc": [
+          "68180-485-03",
+          "68180-485-09",
+          "68180-485-02",
+          "68180-486-09",
+          "68180-486-02",
+          "68180-486-03",
+          "68180-487-09",
+          "68180-487-02",
+          "68180-487-03",
+          "68180-488-09",
+          "68180-488-02",
+          "68180-488-03",
+          "62135-847-90",
+          "62135-848-90",
+          "62135-849-90",
+          "62135-850-90"
+        ],
+        "unii": [
+          "3M8608UQ61"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20161117",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20250317",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20230313",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20250317",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20210305",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA207068",
+      "sponsor_name": "ACCORD HLTHCARE",
+      "openfda": {
+        "application_number": [
+          "ANDA207068"
+        ],
+        "brand_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "generic_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Accord Healthcare Inc."
+        ],
+        "product_ndc": [
+          "16729-008",
+          "16729-009",
+          "16729-010",
+          "16729-011"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "rxcui": [
+          "904458",
+          "904467",
+          "904475",
+          "904481"
+        ],
+        "spl_id": [
+          "438f9112-0851-75e1-e063-6294a90a675c"
+        ],
+        "spl_set_id": [
+          "6c011348-a236-47d3-bbef-3e0b956dd080"
+        ],
+        "package_ndc": [
+          "16729-008-15",
+          "16729-008-16",
+          "16729-008-17",
+          "16729-009-15",
+          "16729-009-16",
+          "16729-009-17",
+          "16729-010-15",
+          "16729-010-16",
+          "16729-010-17",
+          "16729-011-15",
+          "16729-011-16",
+          "16729-011-17"
+        ],
+        "unii": [
+          "3M8608UQ61"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20240530",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20121017",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20240530",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20200604",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20151201",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20100527"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20250317",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA079187",
+      "sponsor_name": "PHARMOBEDIENT",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20141016",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20120720",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20071228",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20250318",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20250318",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20170630",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20140701",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20071228",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20070511"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20210201",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077987",
+      "sponsor_name": "GLENMARK PHARMS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA077987"
+        ],
+        "brand_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "generic_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Glenmark Pharmaceuticals Inc., USA"
+        ],
+        "product_ndc": [
+          "68462-195",
+          "68462-196",
+          "68462-197",
+          "68462-198"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "rxcui": [
+          "904458",
+          "904467",
+          "904475",
+          "904481"
+        ],
+        "spl_id": [
+          "a6e006b3-4256-4cbb-8ad1-b71f363430cd"
+        ],
+        "spl_set_id": [
+          "6ca01de3-a0f9-4cfb-b36a-723c7c42e2a4"
+        ],
+        "package_ndc": [
+          "68462-195-90",
+          "68462-195-05",
+          "68462-196-90",
+          "68462-196-05",
+          "68462-197-90",
+          "68462-197-05",
+          "68462-198-90",
+          "68462-198-05"
+        ],
+        "unii": [
+          "3M8608UQ61"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20250224",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20060927",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20210216",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20130205",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20120504",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20071005",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20070316",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20170123",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20151130",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20121230",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20110927",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20060424"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20100108",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA076056",
+      "sponsor_name": "AUROBINDO PHARMA USA",
+      "openfda": {
+        "application_number": [
+          "ANDA076056"
+        ],
+        "brand_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "generic_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc.",
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "0093-7201",
+          "0093-0771",
+          "0093-7202",
+          "84386-031",
+          "84386-032",
+          "84386-033"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PRAVASTATIN SODIUM"
+        ],
+        "rxcui": [
+          "904458",
+          "904467",
+          "904475"
+        ],
+        "spl_id": [
+          "72579e23-23ef-4ab7-ad64-24d5ea7997eb",
+          "cf6f7031-33b9-40d3-bc87-32f1b6af98f2"
+        ],
+        "spl_set_id": [
+          "99e0e848-f8f3-4b42-b880-8fbc42633948",
+          "cf6f7031-33b9-40d3-bc87-32f1b6af98f2"
+        ],
+        "package_ndc": [
+          "0093-0771-98",
+          "0093-0771-10",
+          "0093-7201-98",
+          "0093-7201-10",
+          "0093-7202-98",
+          "0093-7202-10",
+          "84386-031-90",
+          "84386-031-99",
+          "84386-032-90",
+          "84386-032-99",
+          "84386-033-90",
+          "84386-033-99"
+        ],
+        "unii": [
+          "3M8608UQ61"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "TA",
+          "submission_status_date": "20061121"
+        }
+      ],
+      "application_number": "ANDA077730",
+      "sponsor_name": "PLIVA HRVATSKA DOO",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "80MG"
+            }
+          ],
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20030624",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 4",
+          "submission_class_code_description": "Type 4 - New Combination",
+          "application_docs": [
+            {
+              "id": "36806",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2003/21387_pravigard_lbl.pdf",
+              "date": "20030708",
+              "type": "Label"
+            },
+            {
+              "id": "5236",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/21387ltr.pdf",
+              "date": "20030706",
+              "type": "Letter"
+            },
+            {
+              "id": "21629",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-387_Pravagard.html",
+              "date": "20040129",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA021387",
+      "sponsor_name": "BRISTOL MYERS SQUIBB",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PRAVIGARD PAC (COPACKAGED)",
+          "active_ingredients": [
+            {
+              "name": "ASPIRIN",
+              "strength": "81MG"
+            },
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "PRAVIGARD PAC (COPACKAGED)",
+          "active_ingredients": [
+            {
+              "name": "ASPIRIN",
+              "strength": "325MG"
+            },
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PRAVIGARD PAC (COPACKAGED)",
+          "active_ingredients": [
+            {
+              "name": "ASPIRIN",
+              "strength": "81MG"
+            },
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PRAVIGARD PAC (COPACKAGED)",
+          "active_ingredients": [
+            {
+              "name": "ASPIRIN",
+              "strength": "81MG"
+            },
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "PRAVIGARD PAC (COPACKAGED)",
+          "active_ingredients": [
+            {
+              "name": "ASPIRIN",
+              "strength": "325MG"
+            },
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "PRAVIGARD PAC (COPACKAGED)",
+          "active_ingredients": [
+            {
+              "name": "ASPIRIN",
+              "strength": "325MG"
+            },
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20161108",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20120326",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20080430"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20150916",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20250218",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20150916",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20110725",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077751",
+      "sponsor_name": "ZYDUS PHARMS USA",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PRAVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "PRAVASTATIN SODIUM",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    }
+  ]
+}

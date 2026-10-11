@@ -1,0 +1,16 @@
+[L01] PCSK9    eQTLGen: NO_EQTL_DATA              phase: Launched  whole-blood TPM: 0.2920   recovery tier: candidate: CV-relevant tissue or plasma protein
+[L01] APOC3    eQTLGen: NO_EQTL_DATA              phase: Launched  whole-blood TPM: 0.7884   recovery tier: candidate: CV-relevant tissue or plasma protein
+[L01] ANGPTL3  eQTLGen: NO_EQTL_DATA              phase: Launched  whole-blood TPM: 0.0180   recovery tier: candidate: CV-relevant tissue or plasma protein
+[L01] APOB     eQTLGen: NO_EQTL_DATA              phase: Launched  whole-blood TPM: 0.0168   recovery tier: candidate: CV-relevant tissue or plasma protein
+[L01] NPC1L1   eQTLGen: NO_QUALIFYING_INSTRUMENT  phase: Launched  whole-blood TPM: 0.0300   recovery tier: candidate: other tissue only
+[L01] LPA      eQTLGen: NO_EQTL_DATA              phase: Phase III whole-blood TPM: 0.0      recovery tier: candidate: CV-relevant tissue or plasma protein
+[L02] of these 6 lipid targets, without an eQTLGen whole-blood instrument: 6; with no eQTL data: 5; tested without a qualifying instrument: 1
+[L03] for contrast, HMGCR  eQTLGen: INSTRUMENTED
+[L03] for contrast, CETP   eQTLGen: INSTRUMENTED
+[L03] for contrast, LDLR   eQTLGen: INSTRUMENTED
+[L03] for contrast, LPL    eQTLGen: INSTRUMENTED
+[L04] heart failure / cardiomyopathy: uninstrumentable 70; locked 21 = 4 microRNA genes + 1 mitochondrial genes + 16 nuclear protein-coding genes; of the 16 protein-coding, never assayed by any proteomic study: 11 (ADRB3, AVPR1B, AVPR2, CYP11B1, CYP11B2, HCN4, HDAC6, HTR4, MAS1, PLN, SUMO1); assayed without a candidate: 5 (DMD, GHRHR, GRK2, HDAC2, NRG2)
+[L04] all areas: uninstrumentable 280; locked 57 = 9 microRNA genes + 2 mitochondrial genes + 46 nuclear protein-coding genes; of the 46 protein-coding, never assayed by any proteomic study: 24 (list in Table S15); assayed without a candidate: 22 (list in Table S15)
+[L05] DMD   phase Preclinical; tier locked: assayed, no instrument; GTEx tissues tested 48; proteomic studies that assayed it: UKB-PPP
+[L05] PLN   phase Preclinical; tier locked: never assayed; GTEx tissues tested 49; proteomic studies that assayed it: none
+[L05] HCN4  phase Phase III; tier locked: never assayed; GTEx tissues tested 25; proteomic studies that assayed it: none

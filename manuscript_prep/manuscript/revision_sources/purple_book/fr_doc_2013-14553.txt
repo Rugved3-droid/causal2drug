@@ -1,0 +1,1148 @@
+<html>
+<head>
+<title>Federal Register, Volume 78 Issue 118 (Wednesday, June 19, 2013)</title>
+</head>
+<body><pre>
+[Federal Register Volume 78, Number 118 (Wednesday, June 19, 2013)]
+[Proposed Rules]
+[Pages 36702-36711]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2013-14553]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+Food and Drug Administration
+
+21 CFR Part 870
+
+[Docket No. FDA-2013-N-0581]
+
+
+Cardiovascular Devices; Reclassification of Intra-Aortic Balloon 
+and Control Systems (IABP) for Acute Coronary Syndrome, Cardiac and 
+Non-Cardiac Surgery, or Complications of Heart Failure; Effective Date 
+of Requirement for Premarket Approval for IABP for Other Specific 
+Intended Uses
+
+AGENCY: Food and Drug Administration, HHS.
+
+ACTION: Proposed order.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Food and Drug Administration (FDA) is issuing a proposed 
+administrative order to reclassify intra-aortic balloon and
+
+[[Page 36703]]
+
+control system devices when indicated for acute coronary syndrome, 
+cardiac and non-cardiac surgery, or complications of heart failure, a 
+preamendments class III device, into class II (special controls) based 
+on new information. FDA is also proposing to require the filing of a 
+premarket approval application (PMA) or a notice of completion of a 
+product development protocol (PDP) for intra-aortic balloon and control 
+systems when indicated for septic shock or pulsatile flow generation. 
+The Agency is also summarizing its proposed findings regarding the 
+degree of risk of illness or injury designed to be eliminated or 
+reduced by requiring the devices to meet the statute's approval 
+requirements when indicated for septic shock or pulsatile flow 
+generation. In addition, FDA is announcing the opportunity for 
+interested persons to request that the Agency change the classification 
+of any of the devices mentioned in this document based on new 
+information. This action implements certain statutory requirements.
+
+DATES: Submit either electronic or written comments by September 17, 
+2013. FDA intends that, if a final order based on this proposed order 
+is issued, anyone who wishes to continue to market intra-aortic balloon 
+and control system devices indicated for septic shock or pulsatile flow 
+generation will need to file a PMA or a notice of completion of a PDP 
+within 90 days of the effective date of the final order. See section 
+XVII of this document for the proposed effective date of any final 
+order based on this proposed order.
+
+ADDRESSES: You may submit comments, identified by Docket No. FDA-2013-
+N-0581, by any of the following methods:
+
+Electronic Submissions
+
+    Submit electronic comments in the following way:
+    <bullet> Federal eRulemaking Portal: <a href="http://www.regulations.gov">http://www.regulations.gov</a>. 
+Follow the instructions for submitting comments.
+
+Written Submissions
+
+    Submit written submissions in the following ways:
+    <bullet> Mail/Hand delivery/Courier (for paper or CD-ROM 
+submissions): Division of Dockets Management (HFA-305), Food and Drug 
+Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852.
+    Instructions: All submissions received must include the Agency name 
+and Docket No. FDA-2013-N-0581 for this rulemaking. All comments 
+received may be posted without change to <a href="http://www.regulations.gov">http://www.regulations.gov</a>, 
+including any personal information provided. For additional information 
+on submitting comments, see the ``Comments'' heading of the 
+SUPPLEMENTARY INFORMATION section.
+    Docket: For access to the docket to read background documents or 
+comments received, go to <a href="http://www.regulations.gov">http://www.regulations.gov</a> and insert the 
+docket number, found in brackets in the heading of this document, into 
+the ``Search'' box and follow the prompts and/or go to the Division of 
+Dockets Management, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852.
+
+FOR FURTHER INFORMATION CONTACT: Angela Krueger, Center for Devices and 
+Radiological Health, Food and Drug Administration, 10903 New Hampshire 
+Ave., Bldg. 66, Rm. 1666, Silver Spring, MD 20993, 301-796-6380, 
+<a href="/cdn-cgi/l/email-protection#d1b0bfb6b4bdb0ffbaa3a4b4b6b4a391b7b5b0ffb9b9a2ffb6bea7"><span class="__cf_email__" data-cfemail="f1909f96949d90df9a838494969483b1979590df999982df969e87">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+I. Background--Regulatory Authorities
+
+    The Federal Food, Drug, and Cosmetic Act (the FD&C Act), as amended 
+by the Medical Device Amendments of 1976 (the 1976 amendments) (Pub. L. 
+94-295), the Safe Medical Devices Act of 1990 (Pub. L. 101-629), the 
+Food and Drug Administration Modernization Act of 1997 (FDAMA) (Pub. L. 
+105-115), the Medical Device User Fee and Modernization Act of 2002 
+(Pub. L. 107-250), the Medical Devices Technical Corrections Act (Pub. 
+L. 108-214), the Food and Drug Administration Amendments Act of 2007 
+(Pub. L. 110-85), and the Food and Drug Administration Safety and 
+Innovation Act (FDASIA) (Pub. L. 112-144), establish a comprehensive 
+system for the regulation of medical devices intended for human use. 
+Section 513 of the FD&C Act (21 U.S.C. 360c) established three 
+categories (classes) of devices, reflecting the regulatory controls 
+needed to provide reasonable assurance of their safety and 
+effectiveness. The three categories of devices are class I (general 
+controls), class II (special controls), and class III (premarket 
+approval).
+    Under section 513 of the FD&C Act, devices that were in commercial 
+distribution before the enactment of the 1976 amendments, May 28, 1976 
+(generally referred to as preamendments devices), are classified after 
+FDA has: (1) Received a recommendation from a device classification 
+panel (an FDA advisory committee); (2) published the panel's 
+recommendation for comment, along with a proposed regulation 
+classifying the device; and (3) published a final regulation 
+classifying the device. FDA has classified most preamendments devices 
+under these procedures.
+    Devices that were not in commercial distribution prior to May 28, 
+1976 (generally referred to as postamendments devices), are 
+automatically classified by section 513(f) of the FD&C Act into class 
+III without any FDA rulemaking process. Those devices remain in class 
+III and require premarket approval unless, and until, the device is 
+reclassified into class I or II or FDA issues an order finding the 
+device to be substantially equivalent, in accordance with section 
+513(i) of the FD&C Act, to a predicate device that does not require 
+premarket approval. The Agency determines whether new devices are 
+substantially equivalent to predicate devices by means of premarket 
+notification procedures in section 510(k) of the FD&C Act (21 U.S.C. 
+360(k)) and part 807 (21 CFR part 807).
+    A preamendments device that has been classified into class III and 
+devices found substantially equivalent by means of premarket 
+notification (510(k)) procedures to such a preamendments device or to a 
+device within that type may be marketed without submission of a PMA 
+until FDA issues a final order under section 515(b) of the FD&C Act (21 
+U.S.C. 360e(b)) requiring premarket approval or until the device is 
+subsequently reclassified into class I or class II.
+    Although, under the FD&C Act, the manufacturer of class III 
+preamendments device may respond to the call for PMAs by filing a PMA 
+or a notice of completion of a PDP, in practice, the option of filing a 
+notice of completion of a PDP has not been used. For simplicity, 
+although corresponding requirements for PDPs remain available to 
+manufacturers in response to a final order under section 515(b) of the 
+FD&C Act, this document will refer only to the requirement for the 
+filing and receiving approval of a PMA.
+    On July 9, 2012, FDASIA was enacted. Section 608(a) of FDASIA 
+amended section 513(e) of the FD&C Act, changing the process for 
+reclassifying a device from rulemaking to an administrative order. 
+Section 608(b) of FDASIA amended section 515(b) of the FD&C Act 
+changing the process for requiring premarket approval for a 
+preamendments class III device from rulemaking to an administrative 
+order.
+
+A. Reclassification
+
+    FDA is publishing this document to propose the reclassification of 
+intra-aortic balloon and control system devices when indicated for 
+acute coronary syndrome, cardiac and non-
+
+[[Page 36704]]
+
+cardiac surgery, or complications of heart failure from class III to 
+class II.
+    Section 513(e) of the FD&C Act governs reclassification of 
+classified preamendments devices. This section provides that FDA may, 
+by administrative order, reclassify a device based upon ``new 
+information.'' FDA can initiate a reclassification under section 513(e) 
+or an interested person may petition FDA to reclassify a preamendments 
+device. The term ``new information,'' as used in section 513(e) of the 
+FD&C Act, includes information developed as a result of a reevaluation 
+of the data before the Agency when the device was originally 
+classified, as well as information not presented, not available, or not 
+developed at that time. (See, e.g., Holland-Rantos Co. v. United States 
+Department of Health, Education, and Welfare, 587 F.2d 1173, 1174 n.1 
+(D.C. Cir. 1978); Upjohn v. Finch, 422 F.2d 944 (6th Cir. 1970); Bell 
+v. Goddard, 366 F.2d 177 (7th Cir. 1966).)
+    Reevaluation of the data previously before the Agency is an 
+appropriate basis for subsequent action where the reevaluation is made 
+in light of newly available authority (see Bell, 366 F.2d at 181; 
+Ethicon, Inc. v. FDA, 762 F.Supp. 382, 388-391 (D.D.C. 1991)), or in 
+light of changes in ``medical science'' (Upjohn, 422 F.2d at 951). 
+Whether data before the Agency are old or new data, the ``new 
+information'' to support reclassification under section 513(e) must be 
+``valid scientific evidence,'' as defined in section 513(a)(3) of the 
+FD&C Act and Sec.  860.7(c)(2) (21 CFR 860.7(c)(2)). (See, e.g., 
+General Medical Co. v. FDA, 770 F.2d 214 (D.C. Cir. 1985); Contact Lens 
+Association v. FDA, 766 F.2d 592 (D.C. Cir.), cert. denied, 474 U.S. 
+1062 (1985).)
+    FDA relies upon ``valid scientific evidence'' in the classification 
+process to determine the level of regulation for devices. To be 
+considered in the reclassification process, the valid scientific 
+evidence upon which the Agency relies must be publicly available. 
+Publicly available information excludes trade secret and/or 
+confidential commercial information, e.g., the contents of a pending 
+PMA. (See section 520(c) of the FD&C Act (21 U.S.C. 360j(c)).) Section 
+520(h)(4) of the FD&C Act, added by FDAMA, provides that FDA may use, 
+for reclassification of a device, certain information in a PMA 6 years 
+after the application has been approved. This can include information 
+from clinical and preclinical tests or studies that demonstrate the 
+safety or effectiveness of the device but does not include descriptions 
+of methods of manufacture or product composition and other trade 
+secrets.
+    Section 513(e)(1) of the FD&C Act sets forth the process for 
+issuing a final order. Specifically, prior to the issuance of a final 
+order reclassifying a device, the following must occur: (1) Publication 
+of a proposed order in the Federal Register; (2) a meeting of a device 
+classification panel described in section 513(b) of the FD&C Act; and 
+(3) consideration of comments to a public docket. FDA has held a 
+meeting of a device classification panel described in section 513(b) of 
+the FD&C Act with respect to intra-aortic balloon and control system 
+devices, and therefore, has met this requirement under section 
+515(b)(1) of the FD&C Act.
+    FDAMA added section 510(m) to the FD&C Act, which provides that a 
+class II device may be exempted from the premarket notification 
+requirements under section 510(k) of the FD&C Act, if the Agency 
+determines that premarket notification is not necessary to assure the 
+safety and effectiveness of the device.
+
+B. Requirement for Premarket Approval Application
+
+    FDA is proposing to require PMAs for intra-aortic balloon and 
+control system devices when indicated for septic shock or pulsatile 
+flow generation.
+    Section 515(b)(1) of the FD&C Act sets forth the process for 
+issuing a final order. Specifically, prior to the issuance of a final 
+order requiring premarket approval for a preamendments class III 
+device, the following must occur: (1) Publication of a proposed order 
+in the Federal Register; (2) a meeting of a device classification panel 
+described in section 513(b) of the FD&C Act; and (3) consideration of 
+comments from all affected stakeholders, including patients, payers, 
+and providers. FDA has held a meeting of a device classification panel 
+described in section 513(b) of the FD&C Act with respect to intra-
+aortic balloon and control system devices, and therefore, has met this 
+requirement under section 515(b)(1) of the FD&C Act.
+    Section 515(b)(2) of the FD&C Act provides that a proposed order to 
+require premarket approval shall contain: (1) The proposed order, (2) 
+the proposed findings with respect to the degree of risk of illness or 
+injury designed to be eliminated or reduced by requiring the device to 
+have an approved PMA or a declared completed PDP and the benefit to the 
+public from the use of the device, (3) an opportunity for the 
+submission of comments on the proposed order and the proposed findings, 
+and (4) an opportunity to request a change in the classification of the 
+device based on new information relevant to the classification of the 
+device.
+    Section 515(b)(3) of the FD&C Act provides that FDA shall, after 
+the close of the comment period on the proposed order, consideration of 
+any comments received, and a meeting of a device classification panel 
+described in section 513(b) of the FD&C Act, issue a final order to 
+require premarket approval or publish a document terminating the 
+proceeding together with the reasons for such termination. If FDA 
+terminates the proceeding, FDA is required to initiate reclassification 
+of the device under section 513(e) of the FD&C Act, unless the reason 
+for termination is that the device is a banned device under section 516 
+of the FD&C Act (21 U.S.C. 360f).
+    A preamendments class III device may be commercially distributed 
+without a PMA until 90 days after FDA issues a final order (a final 
+rule issued under section 515(b) of the FD&C Act prior to the enactment 
+of FDASIA is considered to be a final order for purposes of section 
+501(f) of the FD&C Act (21 U.S.C. 351(f))) requiring premarket approval 
+for the device, or 30 months after final classification of the device 
+under section 513 of the FD&C Act, whichever is later. For intra-aortic 
+balloon and control system devices, the preamendments class III devices 
+that are the subject of this proposal, the later of these two time 
+periods is the 90-day period. Since these devices were classified in 
+1980, the 30-month period has expired (45 FR 7939; February 5, 1980). 
+Therefore, if the proposal to require premarket approval for intra-
+aortic balloon and control system devices indicated for septic shock or 
+pulsatile flow generation is finalized, section 501(f)(2)(B) of the 
+FD&C Act requires that a PMA for such device be filed within 90 days of 
+the date of issuance of the final order. If a PMA is not filed for such 
+device within 90 days after the issuance of a final order, the device 
+would be deemed adulterated under section 501(f) of the FD&C Act.
+    Also, a preamendments device subject to the order process under 
+section 515(b) of the FD&C Act is not required to have an approved 
+investigational device exemption (IDE) (see part 812 (21 CFR part 812)) 
+contemporaneous with its interstate distribution until the date 
+identified by FDA in the final order requiring the filing of a PMA for 
+the device. At that time, an IDE is required only if a PMA has not been 
+filed. If the manufacturer, importer, or other sponsor of the device 
+submits an IDE application and FDA approves it, the device may be 
+distributed for investigational use. If a PMA is not filed by the later 
+of the two dates, and the
+
+[[Page 36705]]
+
+device is not distributed for investigational use under an IDE, the 
+device is deemed to be adulterated within the meaning of section 
+501(f)(1)(A) of the FD&C Act, and subject to seizure and condemnation 
+under section 304 of the FD&C Act (21 U.S.C. 334) if its distribution 
+continues. Other enforcement actions include, but are not limited to, 
+the following: Shipment of devices in interstate commerce will be 
+subject to injunction under section 302 of the FD&C Act (21 U.S.C. 
+332), and the individuals responsible for such shipment will be subject 
+to prosecution under section 303 of the FD&C Act (21 U.S.C. 333). In 
+the past, FDA has requested that manufacturers take action to prevent 
+the further use of devices for which no PMA has been filed and may 
+determine that such a request is appropriate for the class III devices 
+that are the subject of this proposed order, if finalized.
+    In accordance with section 515(b) of the FD&C Act, interested 
+persons are being offered the opportunity to request reclassification 
+of intra-aortic balloon and control system devices indicated for septic 
+shock or pulsatile flow generation.
+
+II. Regulatory History of the Device
+
+    In the preamble to the proposed rule (44 FR 13369; March 9, 1979), 
+the Cardiovascular Device Classification Panel (the 1979 Panel) 
+recommended that intra-aortic balloon and control system devices be 
+classified into class III because the device is life-supporting, and 
+there was insufficient medical and scientific information to establish 
+a standard to assure the safety and effectiveness of the device. The 
+1979 Panel noted that controversy exists as to whether the device is 
+beneficial in many situations in which it is used and that it is 
+difficult to use the device safely and effectively. The 1979 Panel 
+further noted that accurate and precise labeling and directions for use 
+are especially critical and voiced concern that the various components 
+of the device would not function properly if its modular components 
+were poorly matched. The 1979 Panel indicated that the balloon of the 
+device is used within the main artery of the body and because this 
+portion of the device is in contact with internal tissues and blood, 
+the materials used with it require special controls, and because the 
+device is electrically powered and portions of the device may be in 
+direct contact with the heart, the electrical characteristics of the 
+device, e.g., electrical leakage current, need to meet certain 
+requirements. Additionally, if the design of the device is inadequate 
+for accurate and precise blood pumping, a resulting failure could lead 
+to death. Consequently, the 1979 Panel believed that premarket approval 
+was necessary to assure the safety and effectiveness of the device. In 
+1980, FDA classified intra-aortic balloon and control system devices 
+into class III after receiving no comments on the proposed rule (45 FR 
+7939; February 5, 1980).
+    In 1987, FDA published a clarification by inserting language in the 
+codified language stating that no effective date had been established 
+for the requirement for premarket approval for intra-aortic balloon and 
+control system devices (52 FR 17736; May 11, 1987).
+    In 2009, FDA published an order for the submission of information 
+on intra-aortic balloon and control system devices by August 7, 2009 
+(74 FR 16214; April 9, 2009). FDA received four responses to that order 
+from device manufacturers. One manufacturer stated in their response 
+that they were ``not aware of adequate and valid scientific information 
+that would support reclassification of the device to Class I or II.'' 
+The other three manufacturers recommended that intra-aortic balloon and 
+control system devices be reclassified to class II. The manufacturers 
+stated that safety and effectiveness of these devices may be assured 
+based on data available in the clinical literature; preclinical and 
+clinical testing; 40 or more years of knowledge and information 
+regarding the clinical use of the devices; and the overall number of 
+marketed devices.
+    As explained further in sections VII and XI of this document, a 
+meeting of the Circulatory System Devices Panel (the 2012 Panel) took 
+place December 5, 2012, to discuss whether intra-aortic balloon and 
+control system devices should be reclassified or remain in class III. 
+The 2012 Panel recommended that intra-aortic balloon and control system 
+devices be reclassified to class II with special controls when 
+indicated for acute coronary syndrome, cardiac and non-cardiac surgery, 
+or complications of heart failure based on available evidence that 
+supports the safety and effectiveness of the devices for these uses and 
+the ability of special controls to mitigate identified risks to health. 
+The 2012 Panel also recommended that intra-aortic balloon and control 
+system devices indicated for septic shock or pulsatile flow generation 
+remain in class III because the devices are life-supporting and there 
+was insufficient information to establish special controls for these 
+uses. FDA is not aware of new information that would provide a basis 
+for a different recommendation or findings.
+
+III. Device Description
+
+    An intra-aortic balloon and control system, also known as an intra-
+aortic balloon pump (IABP), consists of a balloon, which inflates and 
+deflates in synchronization with the cardiac cycle, and console, which 
+provides the pneumatic flow of helium to the balloon so that it can 
+inflate and deflate. The balloon is usually manufactured from 
+polyurethane. It is inserted through the femoral artery and resides in 
+the descending aorta. Conventional timing sets inflation of the balloon 
+to occur at the onset of diastole or the aortic valve closure 
+timepoint. During diastole, the balloon will inflate, increasing blood 
+flow to the coronary arteries, therefore increasing myocardial oxygen 
+supply. The balloon remains inflated throughout the diastolic phase, 
+maintaining the increased pressure in the aorta. The deflation of the 
+balloon takes place at the onset of systole during the isovolumetric 
+contraction or very early in the systolic ejection phase. This 
+deflation will cause a decrease in pressure in the aorta and this 
+decrease in pressure assists the left ventricle by reducing the 
+pressure that needs to be generated to achieve ejection through the 
+aortic valve. As the balloon deflates during systole, it increases 
+blood flow to the systemic circulation by reducing afterload and also 
+decreases the oxygen demand of the myocardium.
+    The console includes software that controls the inflation and 
+deflation of the balloon based upon the patient's electrocardiogram or 
+arterial pressure waveform. The console also controls the amount of 
+helium that is transferred from the internal helium cylinder to the 
+balloon. Most balloons come in sizes of 30cc, 40cc, and 50cc with a 
+catheter diameter of 7.5Fr or 8Fr.
+
+IV. Proposed Reclassification
+
+    FDA is proposing that intra-aortic balloon and control system 
+devices when indicated for acute coronary syndrome, cardiac and non-
+cardiac surgery, or complications of heart failure be reclassified from 
+class III to class II. In this proposed order, the Agency has 
+identified special controls under section 513(a)(1)(B) of the FD&C Act 
+that, together with general controls applicable to the devices, would 
+provide reasonable assurance of their safety and effectiveness. Absent 
+the special controls identified in this proposed order, general 
+controls applicable to the device are insufficient to provide 
+reasonable assurance of the safety and effectiveness of the device.
+    Therefore, in accordance with sections 513(e) and 515(i) of the 
+FD&C
+
+[[Page 36706]]
+
+Act and Sec.  860.130, based on new information with respect to the 
+devices and taking into account the public health benefit of the use of 
+the device and the nature and known incidence of the risk of the 
+device, FDA, on its own initiative, is proposing to reclassify this 
+preamendments class III device into class II when indicated for acute 
+coronary syndrome, cardiac and non-cardiac surgery, or complications of 
+heart failure. FDA believes that this new information is sufficient to 
+demonstrate that the proposed special controls can effectively mitigate 
+the risks to health identified in the next section, and that these 
+special controls, together with general controls, will provide a 
+reasonable assurance of safety and effectiveness for intra-aortic 
+balloon and control system devices when indicated for acute coronary 
+syndrome, cardiac and non-cardiac surgery, or complications of heart 
+failure.
+    Section 510(m) of the FD&C Act authorizes the Agency to exempt 
+class II devices from premarket notification (510(k)) submission. FDA 
+has considered intra-aortic balloon and control system devices when 
+indicated for acute coronary syndrome, cardiac and non-cardiac surgery, 
+or complications of heart failure in accordance with the reserved 
+criteria set forth in section 513(a) of the FD&C Act and decided that 
+the device requires premarket notification. Therefore, the Agency does 
+not intend to exempt this proposed class II device from premarket 
+notification (510(k)) submission.
+
+V. Risks to Health
+
+    After considering available information, including the 
+recommendations of the advisory committees (panels) for the 
+classification of these devices, FDA has evaluated the risks to health 
+associated with the use of intra-aortic balloon and control system 
+devices and determined that the following risks to health are 
+associated with its use:
+    <bullet> Cardiac arrhythmias or electrical shock: Excessive 
+electrical leakage current can disturb the normal electrophysiology of 
+the heart, leading to the onset of cardiac arrhythmias.
+    <bullet> Ineffective cardiac assist (poor augmentation): Failure to 
+sense or synchronize on heartbeat, failure to inflate and deflate at 
+the proper intervals, and/or failure of the balloon to fully unwrap can 
+lead to improper or ineffective pumping of blood.
+    <bullet> Thromboembolism: Inadequate blood compatibility of the 
+materials used in this device and/or inadequate surface finish and 
+cleanliness can lead to potentially debilitating or fatal 
+thromboemboli.
+    <bullet> Aortic rupture or dissection: Improper sizing or over 
+inflation of the balloon can cause a rupture in the main artery.
+    <bullet> Limb ischemia: Improper operation of the device which 
+restricts blood flow to the peripheral vascular tree results in tissue 
+ischemia in the limbs.
+    <bullet> Gas embolism: Balloon rupture or a leak in the balloon can 
+cause potentially debilitating or fatal gas emboli to escape into the 
+bloodstream.
+    <bullet> Hemolysis: Poor material-blood compatibility or excessive 
+disruption of the normal hemodynamic flow patterns can cause hemolysis.
+    <bullet> Infection: Defects in the design or construction of the 
+device preventing adequate sterilization can allow pathogenic organisms 
+to be introduced and may cause an infection in a patient.
+    <bullet> Insertion site bleeding: Improper sizing of the cannula 
+can cause trauma to the artery during insertion of the catheter.
+    <bullet> Thrombus/large blood clots: Leaks of the membrane (balloon 
+surface) or catheter can result in gaseous embolic injury of organs or 
+cause a large blood clot to form within the balloon membrane requiring 
+surgical removal of the catheter.
+    <bullet> Balloon entrapment: A balloon perforation can cause blood 
+to enter the balloon forming a large hardened mass of blood within the 
+balloon. This can cause the balloon to become ``entrapped ``in the 
+femoral/iliac system upon removal. Balloon entrapment is characterized 
+by undue resistance to balloon removal.
+    <bullet> Insertion difficulty/inability to insert the catheter: 
+Device sizing, insertion technique and/or patient anatomy, specifically 
+tortuous and/or narrowed femoral arteries, can cause insertion 
+difficulties. As a result, therapy can be delayed and there could be an 
+increased risk of vascular damage and/or bleeding due to forceful 
+insertion.
+    <bullet> Vessel occlusion resulting in ischemia, infarction to an 
+organ (including paraplegia) and/or compartment syndrome: Malposition 
+of the balloon can compromise circulation due to large vessel occlusion 
+from catheter migration, resulting in ischemia, infarction to an organ 
+or increased compartment pressures, leading to muscle and nerve damage. 
+Vessel occlusion can also be caused by dislodged atherosclerotic plaque 
+and/or clots.
+    <bullet> Thrombocytopenia: Improper inflation of the balloon can 
+cause a drop in platelets.
+    <bullet> Stroke: Mechanical disruption of atheroma or thrombus 
+liberation causing embolism; disruption of the cranial circulation by 
+the balloon, including obstruction, dissection or perforation; or 
+complications resulting from the use of anticoagulation, can lead to 
+stroke.
+    <bullet> Death: Mechanical failure of the device, vascular 
+complications or bleeding can lead to death.
+
+VI. Summary of Reasons for Reclassification
+
+    If properly manufactured and used as intended, intra-aortic balloon 
+and control system devices can provide a treatment option for patients 
+when indicated for acute coronary syndrome, cardiac and non-cardiac 
+surgery, or complications of heart failure, by increasing myocardial 
+oxygen supply, decreasing myocardial oxygen demand, and improving 
+cardiac output. FDA believes that intra-aortic balloon and control 
+system devices indicated for acute coronary syndrome, cardiac and non-
+cardiac surgery, or complications of heart failure, should be 
+reclassified from class III to class II because, in light of new 
+information about the effectiveness of these devices, FDA believes that 
+special controls, in addition to general controls, can be established 
+to provide reasonable assurance of the safety and effectiveness of the 
+device, and because general controls themselves are insufficient to 
+provide reasonable assurance of its safety and effectiveness.
+
+VII. Summary of Data Upon Which the Reclassification Is Based
+
+    Since the time of the original 1979 Panel recommendation, 
+sufficient evidence has been developed to support a reclassification of 
+intra-aortic balloon and control system devices to class II with 
+special controls when indicated for acute coronary syndrome, cardiac 
+and non-cardiac surgery, or complications of heart failure. FDA has 
+been reviewing these devices for many years and their risks are well 
+known. FDA conducted a comprehensive review of available literature for 
+IABP devices for acute coronary syndrome, cardiac and non-cardiac 
+surgery, and complications of heart failure. FDA's review found 18 
+cohort studies (9 retrospective and 9 prospective), 6 randomized 
+controlled trials, 3 case-control studies, 2 case series, 4 systematic 
+reviews, and a meta-analysis, which provided consistent evidence of the 
+safety and effectiveness of intra-aortic balloon and control system 
+devices for acute coronary syndrome, cardiac and non-cardiac surgery, 
+and complications of heart failure.
+
+[[Page 36707]]
+
+    Collectively these studies support that the overall complication 
+rates for intra-aortic balloon and control systems is low. For example, 
+in the Benchmark Registry (Ref. 1), there were low IABP complication 
+rates, including IABP-related mortality (0.05 percent and 0.07 percent 
+in the United States and European Union, respectively), major limb 
+ischemia (0.09 percent, 0.8 percent) and severe bleeding (0.9 percent, 
+0.8 percent). This is consistent with other studies of IABP use with 
+large sample sizes. Additionally, in the most recently published trial 
+of IABP use, the IABP SHOCK II trial (Ref. 2), published in October 
+2012, 600 patients were randomized to IABP (301 patients) or no IABP 
+(299 patients). The IABP group and the control group did not differ 
+significantly with respect to the rates of adverse events, including 
+major bleeding (3.3 percent and 4.4 percent, respectively; P = 0.51), 
+peripheral ischemic complications (4.3 percent and 3.4 percent, P = 
+0.53), sepsis (15.7 percent and 20.5 percent, P = 0.15), and stroke 
+(0.7 percent and 1.7 percent, P = 0.28). These rates represent recent 
+IABP usage outcomes in a randomized trial of patients with high 
+associated morbidity using modern aggressive interventional approaches 
+to acute myocardial infarction (MI) and cardiogenic shock, which 
+include the use of percutaneous coronary intervention and aggressive 
+anticoagulation. The trial demonstrates low rates of adverse events 
+that can be attributed directly to the IABP itself.
+    It is important to note that the patients in whom IABP is used have 
+severe comorbidities and underlying illnesses. As a result, overall 
+mortality in these patients is high. Patients recruited for studies on 
+the IABP are of a population segment that is at an inherently greater 
+risk of mortality because of the high-risk procedures they require, and 
+the illnesses that necessitated the procedures. Additionally, there are 
+trends to less balloon-related mortality over time, as balloon catheter 
+sizes have decreased and procedural techniques have improved.
+    The literature data also supports the effectiveness of IABP for 
+acute coronary syndrome, cardiac and non-cardiac surgery, and 
+complications of heart failure. With respect to acute coronary 
+syndrome, the Benchmark Registry (Ref. 1) demonstrated that the 
+mortality of patients with cardiogenic shock was 30.7 percent, which 
+was low compared to other cardiogenic shock trials, and has been cited 
+as evidence of a benefit from IABP use. Further evaluation of this 
+registry has shown that in U.S. patients, compared to patients outside 
+the United States (OUS), an IABP was placed at earlier stages of the 
+disease. After appropriate adjustment of risk factors, U.S. patients 
+showed decreased mortality (10.8 percent (U.S.) vs. 18 percent (OUS), P 
+< 0.001). The results of the Global Utilization of Streptokinase and 
+Tissue Plasminogen Activator for Occluded Coronary Arteries (GUSTO-1 
+trial) (Ref. 3) also demonstrated a 12-month survival advantage in 
+cardiogenic shock with early IABP implantation. This was a 
+retrospective study of IABP use in patients presenting with acute MI 
+and cardiogenic shock who received systemic fibrinolysis. Sixty-eight 
+of 310 cardiogenic shock patients received an IABP. The significantly 
+higher frequency of IABP use in the United States in relation to Europe 
+in these two trials was associated with more bleeding complications, 
+but also with a lower mortality rate, both nonsignificantly at 30 days 
+(47 percent vs. 60 percent) and significantly at 1 year (57 percent vs. 
+67 percent). This mortality benefit is also supported by two 
+publications regarding the National Registry of Myocardial Infarction 
+(Refs. 4 and 5).
+    The literature regarding the effectiveness of IABPs in cardiac and 
+non-cardiac surgery has demonstrated utility in some studies and in 
+others has been equivocal in demonstrating effectiveness. However, FDA 
+and the 2012 Panel (as described in further detail in this document) 
+find that there are certain subgroups of patients that may benefit from 
+IABP use for cardiac and non-cardiac surgery indications. This is 
+demonstrated in Christenson et al. (Ref. 6), which randomized 30 high-
+risk off-pump coronary artery bypass graft (CABG) surgery recipients to 
+receive an IABP preoperatively or no IABP. The use of an IABP improved 
+preoperative and postoperative cardiac performance significantly (P < 
+0.0001). The postoperative course was also improved, including 
+decreased pneumonia and acute renal failure, shorter duration of 
+ventilator support, and fewer patients requiring postoperative 
+inotropic medications for greater than 48 hours. The lengths of stay in 
+the intensive care unit and in the hospital were shorter in the IABP 
+group. Additionally, Miceli et al. (Ref. 7) studied 141 consecutive 
+patients from 2004-2007 undergoing CABG, in which 38 patients (27 
+percent) received a prophylactic IABP. After risk-adjusting for 
+propensity score, prophylactic IABP patients had a lower incidence of 
+postcardiotomy low cardiac output syndrome (adjusted OR 0.07, P < 
+0.006) and postoperative myocardial infarction (adjusted OR 0.04, P < 
+0.04), as well as a shorter length of hospital stay (10.4<plus-
+minus>0.8 vs. 12.2<plus-minus>0.6 days, P < 0.0001) compared to those 
+who did not receive an IABP.
+    Much of the evidence that supports the effectiveness of an IABP for 
+complications of heart failure is outlined previously in this document 
+with respect to acute coronary syndrome (e.g., cardiogenic shock from 
+acute MI). However, there are additional smaller studies that support 
+use in heart failure specifically, including bridge to transplant and 
+acute decompensated dilated cardiomyopathy. For example, Norkiene et 
+al. (Ref. 8) studied 11 patients with decompensated dilated 
+cardiomyopathy (CMP) listed for heart transplant who were recorded in 
+the Benchmark Registry from September 2004 to December 2005, with New 
+York Heart Association Class IV functional status. Frequency of 
+complications and clinical outcomes were assessed prior to and after 
+IABP insertion as well as hemodynamics and end-organ function (renal 
+and hepatic). After 48 hours of IABP support, there was a significant 
+increase of mean systemic arterial pressure from 74.5<plus-minus>9.6 to 
+82.3<plus-minus>4.7 mmHg (P = 0.02), and ejection fraction from 
+14.7<plus-minus>6.4 to 21.0<plus-minus>8.6 (P = 0.014). Improvement of 
+the cardiac index, pulmonary wedge pressure, and end-organ perfusion 
+markers did not reach statistical significance. The authors concluded 
+that IABP support may be successfully and safely used in acute 
+decompensated dilated cardiomyopathy patients as an urgent measure of 
+cardiac support to stabilize the patient and maintain organ perfusion 
+until transplant is available, ventricular assist device is placed, or 
+the patient is weaned from the IABP.
+    Rosenbaum et al. (Ref. 9) studied 43 patients with end-stage 
+congestive heart failure in whom an IABP was used as a bridge to 
+transplant. Twenty-seven patients had non-ischemic CMP (NICM), and 16 
+had ischemic CMP (ISCM). Hemodynamics improved in both groups, 
+immediately (15 to 30 minutes) following IABP insertion, with greater 
+improvement (p < 0.05) in cardiac index and a trend toward greater 
+reduction in filling pressures in the NICM group. Systemic vascular 
+resistance fell to a similar degree in both groups. During continued 
+IABP support (0.13 to 38 days in NICM, 1 to 54 days in ISCM), all 
+hemodynamic changes persisted in both groups, with a larger decrease (p 
+< 0.05) in systemic vascular resistance and greater increase (p < 0.05) 
+in cardiac index in the patients with NICM. The reduction in filling 
+pressures, however, tended to be greater in patients with
+
+[[Page 36708]]
+
+ISCM. Complications from the IABP were low. The authors concluded that 
+IABP use was both safe and effective in this group as a bridge to 
+transplant.
+    The literature data outlined previously in this document supports a 
+conclusion of reasonable evidence for the safety and effectiveness of 
+intra-aortic balloon and control system devices when indicated for 
+acute coronary syndrome, cardiac and non-cardiac surgery, and 
+complications of heart failure. In addition, bench studies designed to 
+demonstrate the devices' ability to function as intended have been well 
+characterized.
+    FDA's presentation to the 2012 Panel included a summary of the 
+available safety and effectiveness information for intra-aortic balloon 
+and control system devices when indicated for acute coronary syndrome, 
+cardiac and non-cardiac surgery, or complications of heart failure, 
+including adverse event reports from FDA's Manufacturer and User 
+Facility Device Experience (MAUDE) database and available literature. 
+Based on the available scientific literature, which supports that use 
+of intra-aortic balloon and control system devices may be beneficial 
+for patients when indicated for acute coronary syndrome, cardiac and 
+non-cardiac surgery, or complications of heart failure, FDA recommended 
+to the 2012 Panel that intra-aortic balloon and control system devices 
+indicated for acute coronary syndrome, cardiac and non-cardiac surgery, 
+or complications of heart failure be reclassified to class II (special 
+controls). The 2012 Panel discussed and made recommendations regarding 
+the regulatory classification of intra-aortic balloon and control 
+system devices to either reconfirm to class III (subject to premarket 
+approval application) or reclassify to class II (subject to special 
+controls) as directed by section 515(i) of the FD&C Act. The 2012 Panel 
+agreed with FDA's conclusion that the available scientific evidence is 
+adequate to support the safety and effectiveness of intra-aortic 
+balloon and control system devices when indicated for acute coronary 
+syndrome, cardiac and non-cardiac surgery, or complications of heart 
+failure. Several members of the 2012 Panel noted that not all available 
+data supports the effectiveness of the device conclusively; however, 
+there was consensus that IABPs improve hemodynamics and provide an 
+important tool for clinicians in treating a patient population with 
+high morbidity and mortality. The 2012 Panel also acknowledged that 
+intra-aortic balloon and control systems are life-supporting devices 
+and provided the following rationale per Sec.  860.93 for recommending 
+that IABPs for acute coronary syndrome, cardiac and non-cardiac 
+surgery, or complications of heart failure be reclassified to class II: 
+(1) There is a wealth of clinical experience that attests to the 
+benefit of the device; (2) there is an important advantage to use of 
+intra-aortic balloon counter-pulsation to provide hemodynamic stability 
+or protection from ischemia in precarious or unstable patients; and (3) 
+the recommended special controls will mitigate the health risks 
+associated with the device.
+    The 2012 Panel also agreed with the identified risks to health 
+presented at the meeting; however, the 2012 Panel recommended that 
+compartment syndrome, death, and stroke be added to the list of risks 
+to health and that ischemia be added to ``vessel occlusion resulting in 
+infarction to an organ (including paraplegia)''. FDA agrees with the 
+2012 Panel's recommendations and modified the risks to health 
+accordingly as outlined in section V. The 2012 Panel also agreed with 
+FDA's proposed special controls outlined in section VIII; however, the 
+2012 Panel further recommended that information about IABP clinical 
+trials should be added to the device labeling as a special control. FDA 
+does not agree with this recommendation from the 2012 Panel. FDA 
+determined that it was not appropriate to require that clinical trial 
+information be included in the device labeling as a special control 
+because available clinical trial information would most accurately 
+represent the device type, not individual devices, so including such 
+information in the labeling for a specific device may be misleading. On 
+this basis, the special controls outlined in section VIII were not 
+modified based on this recommendation from the 2012 Panel.
+    The 2012 Panel transcript and other meeting materials are available 
+on FDA's Web site (Ref. 10).
+
+VIII. Proposed Special Controls
+
+    FDA believes that the following special controls, together with 
+general controls, are sufficient to mitigate the risks to health 
+described in section V: (1) Appropriate analysis and non-clinical 
+testing must be conducted to validate electromagnetic compatibility and 
+electrical safety of the device; (2) appropriate software verification, 
+validation, and hazard analysis must be performed; (3) the device must 
+be demonstrated to be biocompatible; (4) sterility and shelf life 
+testing must demonstrate the sterility of patient-contacting components 
+and the shelf life of these components; (5) non-clinical performance 
+evaluation of the device must provide a reasonable assurance of safety 
+and effectiveness for mechanical integrity, durability, and 
+reliability; and (6) labeling must bear all information required for 
+the safe and effective use of the device, including a detailed summary 
+of the device- and procedure-related complications pertinent to use of 
+the device.
+    Intra-aortic balloon and control system devices are prescription 
+devices restricted to patient use only upon the authorization of a 
+practitioner licensed by law to administer or use the device. (Proposed 
+21 CFR 870.3535(a); see section 520(e) of the FD&C Act and 21 CFR 
+801.109 (Prescription devices)). Prescription-use requirements are a 
+type of general controls authorized under section 520(e) of the FD&C 
+Act and defined as a general control in section 513(a)(1)(A)(i) of the 
+FD&C Act; and under 21 CFR 807.81, the device would continue to be 
+subject to 510(k) notification requirements.
+
+IX. Dates New Requirements Apply
+
+    In accordance with section 515(b) of the FD&C Act, FDA is proposing 
+to require that a PMA be filed with the Agency for intra-aortic balloon 
+and control systems indicated for septic shock or pulsatile flow 
+generation within 90 days after issuance of any final order based on 
+this proposal. An applicant whose device was legally in commercial 
+distribution before May 28, 1976, or whose device has been found to be 
+substantially equivalent to such a device, will be permitted to 
+continue marketing such class III devices during FDA's review of the 
+PMA provided that the PMA is timely filed. FDA intends to review any 
+PMA for the device within 180 days of the date of filing. FDA cautions 
+that under section 515(d)(1)(B)(i) of the FD&C Act, the Agency may not 
+enter into an agreement to extend the review period for a PMA beyond 
+180 days unless the Agency finds that ``the continued availability of 
+the device is necessary for the public health.''
+    An applicant whose device was legally in commercial distribution 
+before May 28, 1976, or whose device has been found to be substantially 
+equivalent to such a device, who does not intend to market such device 
+for septic shock or pulsatile flow generation, may remove such intended 
+uses from the device's labeling by initiating a correction within 90 
+days after issuance of any final order based on this proposal. Under 21 
+CFR 806.10(a)(2) a device manufacturer or importer initiating a 
+correction to remedy a violation of the FD&C Act that
+
+[[Page 36709]]
+
+may present a risk to health is required to submit a written report of 
+the correction to FDA.
+    FDA intends that under Sec.  812.2(d), the preamble to any final 
+order based on this proposal will state that, as of the date on which 
+the filing of a PMA is required to be filed, the exemptions from the 
+requirements of the IDE regulations for preamendments class III devices 
+in Sec.  812.2(c)(1) and (c)(2) will cease to apply to any device that 
+is: (1) Not legally on the market on or before that date, or (2) 
+legally on the market on or before that date but for which a PMA is not 
+filed by that date, or for which PMA approval has been denied or 
+withdrawn.
+    If a PMA for a class III device is not filed with FDA within 90 
+days after the date of issuance of any final order requiring premarket 
+approval for the device, the device would be deemed adulterated under 
+section 501(f) of the FD&C Act. The device may be distributed for 
+investigational use only if the requirements of the IDE regulations are 
+met. The requirements for significant risk devices include submitting 
+an IDE application to FDA for review and approval. An approved IDE is 
+required to be in effect before an investigation of the device may be 
+initiated or continued under Sec.  812.30. FDA, therefore, recommends 
+that IDE applications be submitted to FDA at least 30 days before the 
+end of the 90-day period after the issuance of the final order to avoid 
+interrupting any ongoing investigations.
+    Because intra-aortic balloon and control systems indicated for 
+acute coronary syndrome, cardiac and non-cardiac surgery, or 
+complications of heart failure, can currently be marketed after 
+receiving clearance of an application for premarket notification and 
+FDA is proposing to reclassify these devices as class II requiring 
+clearance of an application for premarket notification, this order, if 
+finalized, will not require a new premarket submission for intra-aortic 
+balloon and control systems indicated for acute coronary syndrome, 
+cardiac and non-cardiac surgery, or complications of heart failure.
+
+X. Proposed Findings With Respect to Risks and Benefits
+
+    As required by section 515(b) of the FD&C Act, FDA is publishing 
+its proposed findings regarding: (1) The degree of risk of illness or 
+injury designed to be eliminated or reduced by requiring that this 
+device have an approved PMA when indicated for septic shock or 
+pulsatile flow generation and (2) the benefits to the public from the 
+use of intra-aortic balloon and control systems indicated for septic 
+shock or pulsatile flow generation.
+    These findings are based on the reports and recommendations of the 
+advisory committees (panels) for the classification of these devices 
+along with information submitted in response to the 515(i) order (74 FR 
+16214; April 9, 2009), and any additional information that FDA has 
+obtained. Additional information regarding the risks as well as 
+classification associated with this device type is discussed in Section 
+XI B., Summary of Data, and can also be found in 44 FR 13284-13434, 
+March 9, 1979; 45 FR 7907-7971, February 5, 1980; and 52 FR 17736, May 
+11, 1987.
+
+XI. Device Subject to the Proposal To Require a PMA--Intra-Aortic 
+Balloon and Control System Devices When Indicated for Septic Shock or 
+Pulsatile Flow Generation (Sec.  870.3535(c))
+
+A. Identification
+
+    An intra-aortic balloon and control system is a prescription device 
+that consists of an inflatable balloon, which is placed in the aorta to 
+improve cardiovascular functioning during certain life-threatening 
+emergencies, and a control system for regulating the inflation and 
+deflation of the balloon. The control system, which monitors and is 
+synchronized with the electrocardiogram, provides a means for setting 
+the inflation and deflation of the balloon with the cardiac cycle.
+
+B. Summary of Data
+
+    When indicated for septic shock or pulsatile flow generation, FDA 
+concludes that the safety and effectiveness of these devices have not 
+been established by adequate scientific evidence. There is limited 
+scientific evidence regarding the effectiveness of intra-aortic balloon 
+and control system devices for these indications. Specifically, based 
+on FDA's review of the published scientific literature, it appears that 
+there are no studies regarding intra-aortic balloon and controls 
+systems indicated for septic shock in humans. The use of the IABP for 
+pulsatile flow generation made up less than 1 percent of the 
+indications for use evaluated in FDA's literature search. Three 
+observational studies regarding pulsatile flow generation were found 
+during FDA's review of the literature. All three articles state that 
+the device is associated with low mortality and adverse event rates; 
+however, none of the studies was stratified by indication. As a result, 
+it cannot be concluded that these results apply to septic shock or 
+pulsatile flow generation specifically.
+    FDA presented the findings of our literature search for intra-
+aortic balloon and control system devices for the indications of septic 
+shock and pulsatile flow generation to the 2012 Panel on December 5, 
+2012. Based on FDA's findings, the Panel recommended that available 
+scientific evidence is not adequate to support the effectiveness of 
+intra-aortic balloon and control system devices for the indications of 
+septic shock or pulsatile flow generation. As a result, the 2012 Panel 
+concluded that intra-aortic balloon and control system devices for the 
+indications of septic shock or pulsatile flow generation should remain 
+in class III (subject to premarket approval application). The 2012 
+Panel transcript and other meeting materials are available on FDA's Web 
+site (Ref. 10).
+
+C. Risks to Health
+
+    The risks to health for intra-aortic balloon and control system 
+devices for the indications of septic shock or pulsatile flow 
+generation are the same as outlined in section V.
+
+D. Benefits of Intra-Aortic Balloon and Control System Devices
+
+    As discussed previously in this document, there is limited 
+scientific evidence regarding the effectiveness of intra-aortic balloon 
+and control system devices for the indications of septic shock or 
+pulsatile flow generation. For indications of septic shock, the 
+hemodynamic effects generated by use of intra-aortic balloon and 
+control systems do not address the fundamental hemodynamic derangements 
+of septic shock syndrome. FDA is not aware of any theoretical or 
+demonstrated benefit to using intra-aortic balloon and control systems 
+for this clinical syndrome. For indications of pulsatile flow 
+generation, it is impossible to estimate the direct effect of the 
+devices on patient outcomes based on the lack of effectiveness data for 
+this indication as described previously.
+
+XII. PMA Requirements
+
+    A PMA for intra-aortic balloon and control system devices indicated 
+for septic shock or pulsatile flow generation must include the 
+information required by section 515(c)(1) of the FD&C Act. Such a PMA 
+should also include a detailed discussion of the risks identified 
+previously, as well as a discussion of the effectiveness of the device 
+for which premarket approval is sought. In addition, a PMA must include 
+all data and information on: (1) Any risks known, or that should be 
+reasonably known, to the applicant that have not been identified in 
+this
+
+[[Page 36710]]
+
+document; (2) the effectiveness of the device that is the subject of 
+the application; and (3) full reports of all preclinical and clinical 
+information from investigations on the safety and effectiveness of the 
+device for which premarket approval is sought.
+    A PMA must include valid scientific evidence to demonstrate 
+reasonable assurance of the safety and effectiveness of the device for 
+its intended use (see Sec.  860.7(c)(1)). Valid scientific evidence is 
+``evidence from well-controlled investigations, partially controlled 
+studies, studies and objective trials without matched controls, well-
+documented case histories conducted by qualified experts, and reports 
+of significant human experience with a marketed device, from which it 
+can fairly and responsibly be concluded by qualified experts that there 
+is reasonable assurance of the safety and effectiveness of a device 
+under its conditions of use . . . Isolated case reports, random 
+experience, reports lacking sufficient details to permit scientific 
+evaluation, and unsubstantiated opinions are not regarded as valid 
+scientific evidence to show safety or effectiveness.'' (see Sec.  
+860.7(c)(2)).
+
+XIII. Opportunity To Request a Change in Classification
+
+    Before requiring the filing of a PMA for a device, FDA is required 
+by section 515(b)(2)(D) of the FD&C Act to provide an opportunity for 
+interested persons to request a change in the classification of the 
+device based on new information relevant to the classification. Any 
+proceeding to reclassify the device will be under the authority of 
+section 513(e) of the FD&C Act.
+    A request for a change in the classification of intra-aortic 
+balloon and control system devices indicated for septic shock or 
+pulsatile flow generation is to be in the form of a reclassification 
+petition containing the information required by Sec.  860.123, 
+including new information relevant to the classification of the device.
+
+XIV. Codification of Orders
+
+    Prior to the amendments by FDASIA, section 513(e) of the FD&C Act 
+provided for FDA to issue regulations to reclassify devices and section 
+515(b) of the FD&C Act provided for FDA to issue regulations to require 
+approval of an application for premarket approval for preamendments 
+devices or devices found to be substantially equivalent to 
+preamendments devices. Because sections 513(e) and 515(b) as amended 
+require FDA to issue final orders rather than regulations, FDA will 
+continue to codify reclassifications and requirements for approval of 
+an application for premarket approval, resulting from changes issued in 
+final orders, in the Code of Federal Regulations. Therefore, under 
+section 513(e)(1)(A)(i) of the FD&C Act, as amended by FDASIA, in this 
+proposed order, we are proposing to revoke the requirements in Sec.  
+870.4360 related to the classification of non-roller type 
+cardiopulmonary and circulatory bypass blood pump devices as class III 
+devices and to codify the reclassification of non-roller type 
+cardiopulmonary and circulatory bypass blood pump devices into class 
+II.
+
+XV. Environmental Impact
+
+    The Agency has determined under 21 CFR 25.34(b) that this action is 
+of a type that does not individually or cumulatively have a significant 
+effect on the human environment. Therefore, neither an environmental 
+assessment nor an environmental impact statement is required.
+
+XVI. Paperwork Reduction Act of 1995
+
+    This proposed order refers to collections of information that are 
+subject to review by the Office of Management and Budget (OMB) under 
+the Paperwork Reduction Act of 1995 (44 U.S.C. 3501-3520).
+    The collections of information in 21 CFR part 814 have been 
+approved under OMB control number 0910-0231. The collections of 
+information in part 807, subpart E, have been approved under OMB 
+control number 0910-0120.
+    The effect of this order, if finalized, is to shift certain devices 
+from the 510(k) premarket notification process to the PMA process. FDA 
+estimates that there will be two fewer 510(k) submissions as a result 
+of this order, if finalized. Based on FDA's most recent estimates, this 
+will result in a 91-hour burden decrease to OMB control number 0910-
+0120, which is the control number for the 510(k) premarket notification 
+process. However, because FDA does not expect to receive any new PMAs 
+as a result of this order, if finalized, we estimate no burden increase 
+to OMB control number 0910-0231 based on this order, if finalized. 
+Therefore, on net, FDA expects a burden hour decrease of 91 due to this 
+proposed regulatory change.
+    The collections of information in 21 CFR part 812 have been 
+approved under OMB control number 0910-0078.
+
+XVII. Proposed Effective Date
+
+    FDA is proposing that any final order based on this proposed order 
+become effective 90 days after date of publication of the final order 
+in the Federal Register.
+
+XVIII. Comments
+
+    Interested persons may submit either electronic comments regarding 
+this document to <a href="http://www.regulations.gov">http://www.regulations.gov</a> or written comments to the 
+Division of Dockets Management (see ADDRESSES). It is only necessary to 
+submit one set of comments. Identify comments with the docket number 
+found in the brackets in the heading of this document. Received 
+comments may be seen in the Division of Dockets Management between 9 
+a.m. and 4 p.m., Monday through Friday, and will be posted to the 
+docket at <a href="http://www.regulations.gov">http://www.regulations.gov</a>.
+
+XIX. References
+
+    The following references have been placed on display in the 
+Division of Dockets Management (see ADDRESSES), and may be seen by 
+interested persons between 9 a.m. and 4 p.m., Monday through Friday, 
+and are available electronically at <a href="http://www.regulations.gov">http://www.regulations.gov</a>. (FDA 
+has verified the Web site address in this reference section, but FDA is 
+not responsible for any subsequent changes to the Web site after this 
+document publishes in the Federal Register.)
+1. Cohen, M., P. Urban, J.T. Christenson, et al., ``Intra-Aortic 
+Balloon Counterpulsation in U.S. and non-U.S. Centres: Results of 
+the Benchmark (Registered Trademark) Registry,'' European Heart 
+Journal, vol. 24, pp. 1763-1770, 2003.
+2. Thiele, H., U. Zeymer, F.J. Neumann, et al. for the IABP-SHOCK II 
+Trial Investigators, ``Intraaortic Balloon Support for Myocardial 
+Infarction With Cardiogenic Shock.'' New England Journal of 
+Medicine, vol. 367, pp. 1287-1296, 2012.
+3. Anderson, R.D., M.E. Ohman, and D.R. Holmes for the GUSTO-I 
+Investigators, ``Use of Intraaortic Balloon Counterpulsation in 
+Patients Presenting With Cardiogenic Shock: Observations from the 
+GUSTO-I Study,'' Journal of the American College of Cardiology, vol. 
+30, pp. 708-715, 1997.
+4. Chen, E.W., J.G. Canto, L.S. Parsons, et al., ``Relation Between 
+Hospital Intra-Aortic Balloon Counterpulsation Volume and Mortality 
+in Acute Myocardial Infarction Complicated by Cardiogenic Shock,'' 
+Circulation, vol. 108, pp. 951-957, 2003.
+5. Barron, H.V., N.R. Every, L.S. Parsons, et al., ``The Use of 
+Intraaortic Balloon Counterpulsation in Patients With Cardiogenic 
+Shock Complicating Acute Myocardial Infarction: Data From the 
+National Registry of Myocardial Infarction 2,'' American Heart 
+Journal, vol. 141, pp. 933-939, 2001.
+6. Christenson, J.T., M. Licker, and A. Kalangos, ``The Role of 
+Intraaortic Counterpulsion in High Risk OPCAB Surgery: A Prospective 
+Randomised Study,'' Journal of Cardiac Surgery, vol. 18, pp. 286-
+294, 2003.
+
+[[Page 36711]]
+
+7. Miceli, A., B. Fiorani, T.H. Danesi, et al., ``Prophylactic 
+Intra-Aortic Balloon Pump in High-Risk Patients Undergoing Coronary 
+Artery Bypass Grafting: A Propensity Score Analysis,'' Interactive 
+Cardiovascular and Thoracic Surgery, vol. 9, pp. 291-294, 2009.
+8. Norkiene, I., D. Ringaitiene, K. Rucinskas, et al., ``Intra-
+Aortic Balloon Counterpulsation in Decompensated Cardiomyopathy 
+Patients: Bridge to Transplantation or Assist Device.'' Interactive 
+Cardiovascular and Thoracic Surgery, vol. 6, pp. 66-70, 2007.
+9. Rosenbaum, A.M., S. Murali, and B.F. Uretsky, ``Intra-Aortic 
+Balloon Counterpulsation as a `Bridge' to Cardiac Transplantation. 
+Effects in Nonischemic and Ischemic Cardiomyopathy,'' Chest, vol. 
+106, pp. 1683-1688, 1994.
+10. The panel transcript and other meeting materials are available 
+on FDA's Web site, available at <a href="http://www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/MedicalDevices/MedicalDevicesAdvisoryCommittee/CirculatorySystemDevicesPanel/ucm300073.htm">http://www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/MedicalDevices/MedicalDevicesAdvisoryCommittee/CirculatorySystemDevicesPanel/ucm300073.htm</a>.
+
+List of Subjects in 21 CFR Part 870
+
+    Medical devices, Cardiovascular devices.
+
+    Therefore, under the Federal Food, Drug, and Cosmetic Act and under 
+authority delegated to the Commissioner of Food and Drugs, it is 
+proposed that 21 CFR part 870 be amended as follows:
+
+PART 870--CARDIOVASCULAR DEVICES
+
+0
+1. The authority citation for 21 CFR part 870 continues to read as 
+follows:
+
+    Authority: 21 U.S.C. 351, 360, 360c, 360e, 360j, 371.
+
+0
+2. Revise Sec.  870.3535 to read as follows:
+
+
+Sec.  870.3535  Intra-aortic balloon and control system.
+
+    (a) Identification. An intra-aortic balloon and control system is a 
+prescription device that consists of an inflatable balloon, which is 
+placed in the aorta to improve cardiovascular functioning during 
+certain life-threatening emergencies, and a control system for 
+regulating the inflation and deflation of the balloon. The control 
+system, which monitors and is synchronized with the electrocardiogram, 
+provides a means for setting the inflation and deflation of the balloon 
+with the cardiac cycle.
+    (b) Classification. (1) Class II (special controls) when the device 
+is indicated for acute coronary syndrome, cardiac and non-cardiac 
+surgery, or complications of heart failure. The special controls for 
+this device are:
+    (i) Appropriate analysis and non-clinical testing must be conducted 
+to validate electromagnetic compatibility and electrical safety of the 
+device;
+    (ii) Appropriate software verification, validation, and hazard 
+analysis must be performed;
+    (iii) The device must be demonstrated to be biocompatible;
+    (iv) Sterility and shelf life testing must demonstrate the 
+sterility of patient-contacting components and the shelf life of these 
+components;
+    (v) Non-clinical performance evaluation of the device must provide 
+a reasonable assurance of safety and effectiveness for mechanical 
+integrity, durability, and reliability; and
+    (vi) Labeling must bear all information required for the safe and 
+effective use of the device, including a detailed summary of the 
+device- and procedure-related complications pertinent to use of the 
+device.
+    (2) Class III (premarket approval) when the device is indicated for 
+septic shock and pulsatile flow generation.
+    (c) Date premarket approval application (PMA) or notice of 
+completion of product development protocol (PDP) is required. A PMA or 
+notice of completion of a PDP is required to be filed with FDA on or 
+before [A DATE WILL BE ADDED 90 DAYS AFTER DATE OF PUBLICATION OF A 
+FUTURE FINAL ORDER IN THE FEDERAL REGISTER], for any intra-aortic 
+balloon and control system indicated for septic shock or pulsatile flow 
+generation that was in commercial distribution before May 28, 1976, or 
+that has, on or before [A DATE WILL BE ADDED 90 DAYS AFTER DATE OF 
+PUBLICATION OF A FUTURE FINAL ORDER IN THE FEDERAL REGISTER], been 
+found to be substantially equivalent to any intra-aortic balloon and 
+control system indicated for septic shock or pulsatile flow generation 
+that was in commercial distribution before May 28, 1976. Any other 
+intra-aortic balloon and control system indicated for septic shock or 
+pulsatile flow generation shall have an approved PMA or declared 
+completed PDP in effect before being placed in commercial distribution.
+
+    Dated: June 12, 2013.
+Leslie Kux,
+Assistant Commissioner for Policy.
+[FR Doc. 2013-14553 Filed 6-18-13; 8:45 am]
+BILLING CODE 4160-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

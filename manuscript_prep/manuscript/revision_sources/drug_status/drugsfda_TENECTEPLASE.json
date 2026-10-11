@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5195",
+          "submission_status": "AP",
+          "submission_status_date": "20240105",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "77237",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/103909Orig15195Correctedlbl.pdf",
+              "date": "20240118",
+              "type": "Label"
+            },
+            {
+              "id": "77242",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/103909Orig15195Correctedltr.pdf",
+              "date": "20240119",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5187",
+          "submission_status": "AP",
+          "submission_status_date": "20180228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "52803",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/103909Orig1s5187ltr.pdf",
+              "date": "20180302",
+              "type": "Letter"
+            },
+            {
+              "id": "52968",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/103909s5187lbl.pdf",
+              "date": "20180315",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000602",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "39730",
+              "url": "https://web.archive.org/web/20160803130402/http://www.fda.gov/Drugs/DevelopmentApprovalProcess/HowDrugsareDevelopedandApproved/ApprovalApplications/TherapeuticBiologicApplications/ucm093370.htm",
+              "date": "20040329",
+              "type": "Label"
+            },
+            {
+              "id": "43290",
+              "url": "https://web.archive.org/web/20090119110643/http://www.fda.gov/cder/biologics/products/tenegen060200.htm",
+              "date": "20040329",
+              "type": "Review"
+            },
+            {
+              "id": "9489",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/tenegen060200L.htm",
+              "date": "20040329",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5194",
+          "submission_status": "AP",
+          "submission_status_date": "20230331",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "73921",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2023/103909s5194lbl.pdf",
+              "date": "20230403",
+              "type": "Label"
+            },
+            {
+              "id": "73939",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/103909Orig1s5194ltr.pdf",
+              "date": "20230403",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5109",
+          "submission_status": "AP",
+          "submission_status_date": "20080513",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5197",
+          "submission_status": "AP",
+          "submission_status_date": "20250228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "81383",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2025/103909s5197lbl.pdf",
+              "date": "20250228",
+              "type": "Label"
+            },
+            {
+              "id": "81419",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/103909Orig1s5197ltr.pdf",
+              "date": "20250304",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "BLA103909",
+      "sponsor_name": "GENENTECH",
+      "openfda": {
+        "application_number": [
+          "BLA103909"
+        ],
+        "brand_name": [
+          "TNKASE"
+        ],
+        "generic_name": [
+          "TENECTEPLASE"
+        ],
+        "manufacturer_name": [
+          "Genentech, Inc."
+        ],
+        "product_ndc": [
+          "50242-014",
+          "50242-176",
+          "50242-120"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "rxcui": [
+          "284422",
+          "313212",
+          "2711697",
+          "2711699"
+        ],
+        "spl_id": [
+          "d87d7f04-a851-4187-846d-527dd4bbab6d",
+          "f5fbdeb3-d456-45dc-8c37-4e15ca1c66ea"
+        ],
+        "spl_set_id": [
+          "e647640d-c395-4b4b-a0be-1162f9c21d84",
+          "739a3c53-caf6-40d6-a6af-84ce733a948b"
+        ],
+        "package_ndc": [
+          "50242-176-01",
+          "50242-037-06",
+          "50242-901-09",
+          "50242-014-03",
+          "50242-009-01",
+          "50242-907-01",
+          "50242-120-47"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TNKASE",
+          "active_ingredients": [
+            {
+              "name": "TENECTEPLASE",
+              "strength": "50MG/VIAL"
+            }
+          ],
+          "dosage_form": "VIAL",
+          "route": null,
+          "marketing_status": "Prescription"
+        }
+      ]
+    }
+  ]
+}

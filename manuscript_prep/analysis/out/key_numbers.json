@@ -1,0 +1,2673 @@
+{
+ "flow": {
+  "raw_rows": 29476,
+  "distinct_ti_uid": 29460,
+  "frozen_pairs": 29456,
+  "targets": 2517,
+  "indications": 1014
+ },
+ "sets": {
+  "PRIMARY": {
+   "label": "Primary: all indications Minikel tags cardiovascular + lipid tokens",
+   "terms": 93,
+   "pairs": 2128,
+   "targets": 726,
+   "flagged_not_primarily_cardiac": {
+    "terms": 15,
+    "pairs": 170,
+    "targets_only_via_flagged": 46
+   }
+  },
+  "SENS1": {
+   "label": "Sensitivity 1: original atlas set (MeSH C14 branch + lipid tokens)",
+   "terms": 44,
+   "pairs": 1543,
+   "targets": 630
+  },
+  "SENS2": {
+   "label": "Sensitivity 2: sensitivity 1 + signs/symptoms terms tagged cardiovascular",
+   "terms": 62,
+   "pairs": 1879,
+   "targets": 663
+  },
+  "C14ONLY": {
+   "label": "Sensitivity 3: MeSH C14 branch only",
+   "terms": 37,
+   "pairs": 1364,
+   "targets": 594
+  }
+ },
+ "gene_records": {
+  "unmapped_as_shipped": 60,
+  "resolved": 45,
+  "unresolved": 15,
+  "unresolved_in_primary": [
+   "MIR195",
+   "MIR29B1",
+   "MIR92A1"
+  ]
+ },
+ "eqtlgen_tested_genes": 19250,
+ "overall": {
+  "PRIMARY": {
+   "n": 726,
+   "instrumented": 443,
+   "no_eqtl_data": 217,
+   "no_eqtl_data_x_linked": 29,
+   "no_eqtl_data_autosomal": 188,
+   "no_eqtl_data_chrX": 27,
+   "no_eqtl_data_chrMT": 2,
+   "no_eqtl_data_chrY": 0,
+   "n_not_on_x_y_mt": 697,
+   "autosomal_lower_bound": 188,
+   "autosomal_lower_pct": 27.0,
+   "no_qualifying_instrument": 63,
+   "unresolved": 3,
+   "lower_bound": 217,
+   "lower_pct": 29.9,
+   "upper_bound": 280,
+   "upper_pct": 38.6,
+   "instrumented_pct": 61.0,
+   "no_qualifying_instrument_pct": 8.7
+  },
+  "SENS1": {
+   "n": 630,
+   "instrumented": 391,
+   "no_eqtl_data": 180,
+   "no_eqtl_data_x_linked": 23,
+   "no_eqtl_data_autosomal": 157,
+   "no_eqtl_data_chrX": 21,
+   "no_eqtl_data_chrMT": 2,
+   "no_eqtl_data_chrY": 0,
+   "n_not_on_x_y_mt": 607,
+   "autosomal_lower_bound": 157,
+   "autosomal_lower_pct": 25.9,
+   "no_qualifying_instrument": 57,
+   "unresolved": 2,
+   "lower_bound": 180,
+   "lower_pct": 28.6,
+   "upper_bound": 237,
+   "upper_pct": 37.6,
+   "instrumented_pct": 62.1,
+   "no_qualifying_instrument_pct": 9.0
+  },
+  "SENS2": {
+   "n": 663,
+   "instrumented": 409,
+   "no_eqtl_data": 191,
+   "no_eqtl_data_x_linked": 24,
+   "no_eqtl_data_autosomal": 167,
+   "no_eqtl_data_chrX": 22,
+   "no_eqtl_data_chrMT": 2,
+   "no_eqtl_data_chrY": 0,
+   "n_not_on_x_y_mt": 639,
+   "autosomal_lower_bound": 167,
+   "autosomal_lower_pct": 26.1,
+   "no_qualifying_instrument": 60,
+   "unresolved": 3,
+   "lower_bound": 191,
+   "lower_pct": 28.8,
+   "upper_bound": 251,
+   "upper_pct": 37.9,
+   "instrumented_pct": 61.7,
+   "no_qualifying_instrument_pct": 9.0
+  },
+  "C14ONLY": {
+   "n": 594,
+   "instrumented": 373,
+   "no_eqtl_data": 164,
+   "no_eqtl_data_x_linked": 20,
+   "no_eqtl_data_autosomal": 144,
+   "no_eqtl_data_chrX": 18,
+   "no_eqtl_data_chrMT": 2,
+   "no_eqtl_data_chrY": 0,
+   "n_not_on_x_y_mt": 574,
+   "autosomal_lower_bound": 144,
+   "autosomal_lower_pct": 25.1,
+   "no_qualifying_instrument": 55,
+   "unresolved": 2,
+   "lower_bound": 164,
+   "lower_pct": 27.6,
+   "upper_bound": 219,
+   "upper_pct": 36.9,
+   "instrumented_pct": 62.8,
+   "no_qualifying_instrument_pct": 9.3
+  },
+  "ALL_2517": {
+   "n": 2517,
+   "instrumented": 1603,
+   "no_eqtl_data": 663,
+   "no_eqtl_data_x_linked": 110,
+   "no_eqtl_data_autosomal": 553,
+   "no_eqtl_data_chrX": 107,
+   "no_eqtl_data_chrMT": 3,
+   "no_eqtl_data_chrY": 0,
+   "n_not_on_x_y_mt": 2407,
+   "autosomal_lower_bound": 553,
+   "autosomal_lower_pct": 23.0,
+   "no_qualifying_instrument": 236,
+   "unresolved": 15,
+   "lower_bound": 663,
+   "lower_pct": 26.3,
+   "upper_bound": 899,
+   "upper_pct": 35.7,
+   "instrumented_pct": 63.7,
+   "no_qualifying_instrument_pct": 9.4
+  }
+ },
+ "no_instrument_subtypes_primary": {
+  "T3 no cis-eQTL at FDR<0.05": 36,
+  "T2 cis-eQTL at FDR<0.05, none at p<5e-8": 26,
+  "T1 significant cis-eQTL only outside +-100 kb": 1
+ },
+ "no_instrument_subtypes_all": {
+  "T2 cis-eQTL at FDR<0.05, none at p<5e-8": 96,
+  "T3 no cis-eQTL at FDR<0.05": 126,
+  "T1 significant cis-eQTL only outside +-100 kb": 14
+ },
+ "by_phase": {
+  "PRIMARY": {
+   "Preclinical": {
+    "n": 323,
+    "instrumented": 196,
+    "no_eqtl_data": 97,
+    "no_eqtl_data_x_linked": 12,
+    "no_eqtl_data_autosomal": 85,
+    "no_eqtl_data_chrX": 10,
+    "no_eqtl_data_chrMT": 2,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 311,
+    "autosomal_lower_bound": 85,
+    "autosomal_lower_pct": 27.3,
+    "no_qualifying_instrument": 29,
+    "unresolved": 1,
+    "lower_bound": 97,
+    "lower_pct": 30.0,
+    "upper_bound": 126,
+    "upper_pct": 39.0,
+    "instrumented_pct": 60.7,
+    "no_qualifying_instrument_pct": 9.0
+   },
+   "Phase I": {
+    "n": 91,
+    "instrumented": 53,
+    "no_eqtl_data": 26,
+    "no_eqtl_data_x_linked": 6,
+    "no_eqtl_data_autosomal": 20,
+    "no_eqtl_data_chrX": 6,
+    "no_eqtl_data_chrMT": 0,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 85,
+    "autosomal_lower_bound": 20,
+    "autosomal_lower_pct": 23.5,
+    "no_qualifying_instrument": 10,
+    "unresolved": 2,
+    "lower_bound": 26,
+    "lower_pct": 28.6,
+    "upper_bound": 36,
+    "upper_pct": 39.6,
+    "instrumented_pct": 58.2,
+    "no_qualifying_instrument_pct": 11.0
+   },
+   "Phase II": {
+    "n": 171,
+    "instrumented": 105,
+    "no_eqtl_data": 57,
+    "no_eqtl_data_x_linked": 9,
+    "no_eqtl_data_autosomal": 48,
+    "no_eqtl_data_chrX": 9,
+    "no_eqtl_data_chrMT": 0,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 162,
+    "autosomal_lower_bound": 48,
+    "autosomal_lower_pct": 29.6,
+    "no_qualifying_instrument": 9,
+    "unresolved": 0,
+    "lower_bound": 57,
+    "lower_pct": 33.3,
+    "upper_bound": 66,
+    "upper_pct": 38.6,
+    "instrumented_pct": 61.4,
+    "no_qualifying_instrument_pct": 5.3
+   },
+   "Phase III": {
+    "n": 75,
+    "instrumented": 50,
+    "no_eqtl_data": 14,
+    "no_eqtl_data_x_linked": 0,
+    "no_eqtl_data_autosomal": 14,
+    "no_eqtl_data_chrX": 0,
+    "no_eqtl_data_chrMT": 0,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 75,
+    "autosomal_lower_bound": 14,
+    "autosomal_lower_pct": 18.7,
+    "no_qualifying_instrument": 11,
+    "unresolved": 0,
+    "lower_bound": 14,
+    "lower_pct": 18.7,
+    "upper_bound": 25,
+    "upper_pct": 33.3,
+    "instrumented_pct": 66.7,
+    "no_qualifying_instrument_pct": 14.7
+   },
+   "Launched": {
+    "n": 66,
+    "instrumented": 39,
+    "no_eqtl_data": 23,
+    "no_eqtl_data_x_linked": 2,
+    "no_eqtl_data_autosomal": 21,
+    "no_eqtl_data_chrX": 2,
+    "no_eqtl_data_chrMT": 0,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 64,
+    "autosomal_lower_bound": 21,
+    "autosomal_lower_pct": 32.8,
+    "no_qualifying_instrument": 4,
+    "unresolved": 0,
+    "lower_bound": 23,
+    "lower_pct": 34.8,
+    "upper_bound": 27,
+    "upper_pct": 40.9,
+    "instrumented_pct": 59.1,
+    "no_qualifying_instrument_pct": 6.1
+   }
+  },
+  "SENS1": {
+   "Preclinical": {
+    "n": 297,
+    "instrumented": 183,
+    "no_eqtl_data": 85,
+    "no_eqtl_data_x_linked": 10,
+    "no_eqtl_data_autosomal": 75,
+    "no_eqtl_data_chrX": 8,
+    "no_eqtl_data_chrMT": 2,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 287,
+    "autosomal_lower_bound": 75,
+    "autosomal_lower_pct": 26.1,
+    "no_qualifying_instrument": 29,
+    "unresolved": 0,
+    "lower_bound": 85,
+    "lower_pct": 28.6,
+    "upper_bound": 114,
+    "upper_pct": 38.4,
+    "instrumented_pct": 61.6,
+    "no_qualifying_instrument_pct": 9.8
+   },
+   "Phase I": {
+    "n": 90,
+    "instrumented": 58,
+    "no_eqtl_data": 23,
+    "no_eqtl_data_x_linked": 4,
+    "no_eqtl_data_autosomal": 19,
+    "no_eqtl_data_chrX": 4,
+    "no_eqtl_data_chrMT": 0,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 86,
+    "autosomal_lower_bound": 19,
+    "autosomal_lower_pct": 22.1,
+    "no_qualifying_instrument": 7,
+    "unresolved": 2,
+    "lower_bound": 23,
+    "lower_pct": 25.6,
+    "upper_bound": 30,
+    "upper_pct": 33.3,
+    "instrumented_pct": 64.4,
+    "no_qualifying_instrument_pct": 7.8
+   },
+   "Phase II": {
+    "n": 140,
+    "instrumented": 87,
+    "no_eqtl_data": 45,
+    "no_eqtl_data_x_linked": 8,
+    "no_eqtl_data_autosomal": 37,
+    "no_eqtl_data_chrX": 8,
+    "no_eqtl_data_chrMT": 0,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 132,
+    "autosomal_lower_bound": 37,
+    "autosomal_lower_pct": 28.0,
+    "no_qualifying_instrument": 8,
+    "unresolved": 0,
+    "lower_bound": 45,
+    "lower_pct": 32.1,
+    "upper_bound": 53,
+    "upper_pct": 37.9,
+    "instrumented_pct": 62.1,
+    "no_qualifying_instrument_pct": 5.7
+   },
+   "Phase III": {
+    "n": 51,
+    "instrumented": 33,
+    "no_eqtl_data": 9,
+    "no_eqtl_data_x_linked": 1,
+    "no_eqtl_data_autosomal": 8,
+    "no_eqtl_data_chrX": 1,
+    "no_eqtl_data_chrMT": 0,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 50,
+    "autosomal_lower_bound": 8,
+    "autosomal_lower_pct": 16.0,
+    "no_qualifying_instrument": 9,
+    "unresolved": 0,
+    "lower_bound": 9,
+    "lower_pct": 17.6,
+    "upper_bound": 18,
+    "upper_pct": 35.3,
+    "instrumented_pct": 64.7,
+    "no_qualifying_instrument_pct": 17.6
+   },
+   "Launched": {
+    "n": 52,
+    "instrumented": 30,
+    "no_eqtl_data": 18,
+    "no_eqtl_data_x_linked": 0,
+    "no_eqtl_data_autosomal": 18,
+    "no_eqtl_data_chrX": 0,
+    "no_eqtl_data_chrMT": 0,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 52,
+    "autosomal_lower_bound": 18,
+    "autosomal_lower_pct": 34.6,
+    "no_qualifying_instrument": 4,
+    "unresolved": 0,
+    "lower_bound": 18,
+    "lower_pct": 34.6,
+    "upper_bound": 22,
+    "upper_pct": 42.3,
+    "instrumented_pct": 57.7,
+    "no_qualifying_instrument_pct": 7.7
+   }
+  },
+  "SENS2": {
+   "Preclinical": {
+    "n": 300,
+    "instrumented": 181,
+    "no_eqtl_data": 89,
+    "no_eqtl_data_x_linked": 10,
+    "no_eqtl_data_autosomal": 79,
+    "no_eqtl_data_chrX": 8,
+    "no_eqtl_data_chrMT": 2,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 290,
+    "autosomal_lower_bound": 79,
+    "autosomal_lower_pct": 27.2,
+    "no_qualifying_instrument": 29,
+    "unresolved": 1,
+    "lower_bound": 89,
+    "lower_pct": 29.7,
+    "upper_bound": 118,
+    "upper_pct": 39.3,
+    "instrumented_pct": 60.3,
+    "no_qualifying_instrument_pct": 9.7
+   },
+   "Phase I": {
+    "n": 93,
+    "instrumented": 59,
+    "no_eqtl_data": 23,
+    "no_eqtl_data_x_linked": 4,
+    "no_eqtl_data_autosomal": 19,
+    "no_eqtl_data_chrX": 4,
+    "no_eqtl_data_chrMT": 0,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 89,
+    "autosomal_lower_bound": 19,
+    "autosomal_lower_pct": 21.3,
+    "no_qualifying_instrument": 9,
+    "unresolved": 2,
+    "lower_bound": 23,
+    "lower_pct": 24.7,
+    "upper_bound": 32,
+    "upper_pct": 34.4,
+    "instrumented_pct": 63.4,
+    "no_qualifying_instrument_pct": 9.7
+   },
+   "Phase II": {
+    "n": 155,
+    "instrumented": 96,
+    "no_eqtl_data": 50,
+    "no_eqtl_data_x_linked": 9,
+    "no_eqtl_data_autosomal": 41,
+    "no_eqtl_data_chrX": 9,
+    "no_eqtl_data_chrMT": 0,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 146,
+    "autosomal_lower_bound": 41,
+    "autosomal_lower_pct": 28.1,
+    "no_qualifying_instrument": 9,
+    "unresolved": 0,
+    "lower_bound": 50,
+    "lower_pct": 32.3,
+    "upper_bound": 59,
+    "upper_pct": 38.1,
+    "instrumented_pct": 61.9,
+    "no_qualifying_instrument_pct": 5.8
+   },
+   "Phase III": {
+    "n": 60,
+    "instrumented": 41,
+    "no_eqtl_data": 10,
+    "no_eqtl_data_x_linked": 0,
+    "no_eqtl_data_autosomal": 10,
+    "no_eqtl_data_chrX": 0,
+    "no_eqtl_data_chrMT": 0,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 60,
+    "autosomal_lower_bound": 10,
+    "autosomal_lower_pct": 16.7,
+    "no_qualifying_instrument": 9,
+    "unresolved": 0,
+    "lower_bound": 10,
+    "lower_pct": 16.7,
+    "upper_bound": 19,
+    "upper_pct": 31.7,
+    "instrumented_pct": 68.3,
+    "no_qualifying_instrument_pct": 15.0
+   },
+   "Launched": {
+    "n": 55,
+    "instrumented": 32,
+    "no_eqtl_data": 19,
+    "no_eqtl_data_x_linked": 1,
+    "no_eqtl_data_autosomal": 18,
+    "no_eqtl_data_chrX": 1,
+    "no_eqtl_data_chrMT": 0,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 54,
+    "autosomal_lower_bound": 18,
+    "autosomal_lower_pct": 33.3,
+    "no_qualifying_instrument": 4,
+    "unresolved": 0,
+    "lower_bound": 19,
+    "lower_pct": 34.5,
+    "upper_bound": 23,
+    "upper_pct": 41.8,
+    "instrumented_pct": 58.2,
+    "no_qualifying_instrument_pct": 7.3
+   }
+  },
+  "C14ONLY": {
+   "Preclinical": {
+    "n": 294,
+    "instrumented": 178,
+    "no_eqtl_data": 84,
+    "no_eqtl_data_x_linked": 10,
+    "no_eqtl_data_autosomal": 74,
+    "no_eqtl_data_chrX": 8,
+    "no_eqtl_data_chrMT": 2,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 284,
+    "autosomal_lower_bound": 74,
+    "autosomal_lower_pct": 26.1,
+    "no_qualifying_instrument": 32,
+    "unresolved": 0,
+    "lower_bound": 84,
+    "lower_pct": 28.6,
+    "upper_bound": 116,
+    "upper_pct": 39.5,
+    "instrumented_pct": 60.5,
+    "no_qualifying_instrument_pct": 10.9
+   },
+   "Phase I": {
+    "n": 85,
+    "instrumented": 56,
+    "no_eqtl_data": 23,
+    "no_eqtl_data_x_linked": 5,
+    "no_eqtl_data_autosomal": 18,
+    "no_eqtl_data_chrX": 5,
+    "no_eqtl_data_chrMT": 0,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 80,
+    "autosomal_lower_bound": 18,
+    "autosomal_lower_pct": 22.5,
+    "no_qualifying_instrument": 4,
+    "unresolved": 2,
+    "lower_bound": 23,
+    "lower_pct": 27.1,
+    "upper_bound": 27,
+    "upper_pct": 31.8,
+    "instrumented_pct": 65.9,
+    "no_qualifying_instrument_pct": 4.7
+   },
+   "Phase II": {
+    "n": 121,
+    "instrumented": 81,
+    "no_eqtl_data": 33,
+    "no_eqtl_data_x_linked": 4,
+    "no_eqtl_data_autosomal": 29,
+    "no_eqtl_data_chrX": 4,
+    "no_eqtl_data_chrMT": 0,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 117,
+    "autosomal_lower_bound": 29,
+    "autosomal_lower_pct": 24.8,
+    "no_qualifying_instrument": 7,
+    "unresolved": 0,
+    "lower_bound": 33,
+    "lower_pct": 27.3,
+    "upper_bound": 40,
+    "upper_pct": 33.1,
+    "instrumented_pct": 66.9,
+    "no_qualifying_instrument_pct": 5.8
+   },
+   "Phase III": {
+    "n": 50,
+    "instrumented": 32,
+    "no_eqtl_data": 9,
+    "no_eqtl_data_x_linked": 1,
+    "no_eqtl_data_autosomal": 8,
+    "no_eqtl_data_chrX": 1,
+    "no_eqtl_data_chrMT": 0,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 49,
+    "autosomal_lower_bound": 8,
+    "autosomal_lower_pct": 16.3,
+    "no_qualifying_instrument": 9,
+    "unresolved": 0,
+    "lower_bound": 9,
+    "lower_pct": 18.0,
+    "upper_bound": 18,
+    "upper_pct": 36.0,
+    "instrumented_pct": 64.0,
+    "no_qualifying_instrument_pct": 18.0
+   },
+   "Launched": {
+    "n": 44,
+    "instrumented": 26,
+    "no_eqtl_data": 15,
+    "no_eqtl_data_x_linked": 0,
+    "no_eqtl_data_autosomal": 15,
+    "no_eqtl_data_chrX": 0,
+    "no_eqtl_data_chrMT": 0,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 44,
+    "autosomal_lower_bound": 15,
+    "autosomal_lower_pct": 34.1,
+    "no_qualifying_instrument": 3,
+    "unresolved": 0,
+    "lower_bound": 15,
+    "lower_pct": 34.1,
+    "upper_bound": 18,
+    "upper_pct": 40.9,
+    "instrumented_pct": 59.1,
+    "no_qualifying_instrument_pct": 6.8
+   }
+  }
+ },
+ "by_phase_chi2_primary_no_eqtl_data": {
+  "chi2": 6.32858494045548,
+  "dof": 4,
+  "p": 0.17591645500159028,
+  "note": "descriptive, not pre-registered"
+ },
+ "launched": {
+  "PRIMARY": {
+   "all_launched": {
+    "n": 66,
+    "instrumented": 39,
+    "no_eqtl_data": 23,
+    "no_eqtl_data_x_linked": 2,
+    "no_eqtl_data_autosomal": 21,
+    "no_eqtl_data_chrX": 2,
+    "no_eqtl_data_chrMT": 0,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 64,
+    "autosomal_lower_bound": 21,
+    "autosomal_lower_pct": 32.8,
+    "no_qualifying_instrument": 4,
+    "unresolved": 0,
+    "lower_bound": 23,
+    "lower_pct": 34.8,
+    "upper_bound": 27,
+    "upper_pct": 40.9,
+    "instrumented_pct": 59.1,
+    "no_qualifying_instrument_pct": 6.1
+   },
+   "strict": {
+    "tally": {
+     "n": 35,
+     "instrumented": 22,
+     "no_eqtl_data": 10,
+     "no_eqtl_data_x_linked": 1,
+     "no_eqtl_data_autosomal": 9,
+     "no_eqtl_data_chrX": 1,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 34,
+     "autosomal_lower_bound": 9,
+     "autosomal_lower_pct": 26.5,
+     "no_qualifying_instrument": 3,
+     "unresolved": 0,
+     "lower_bound": 10,
+     "lower_pct": 28.6,
+     "upper_bound": 13,
+     "upper_pct": 37.1,
+     "instrumented_pct": 62.9,
+     "no_qualifying_instrument_pct": 8.6
+    },
+    "no_eqtl_data": [
+     "AGTR1",
+     "ANGPTL3",
+     "APOB",
+     "APOC3",
+     "AVPR2",
+     "F2",
+     "PCSK9",
+     "PLG",
+     "REN",
+     "SLC5A1"
+    ],
+    "no_eqtl_data_x_linked": [
+     "AVPR2"
+    ],
+    "no_qualifying_instrument": [
+     "IL1B",
+     "ITGA2B",
+     "NPC1L1"
+    ],
+    "beyond_PCSK9": {
+     "lower": 9,
+     "upper": 12
+    }
+   },
+   "approved": {
+    "tally": {
+     "n": 33,
+     "instrumented": 21,
+     "no_eqtl_data": 9,
+     "no_eqtl_data_x_linked": 1,
+     "no_eqtl_data_autosomal": 8,
+     "no_eqtl_data_chrX": 1,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 32,
+     "autosomal_lower_bound": 8,
+     "autosomal_lower_pct": 25.0,
+     "no_qualifying_instrument": 3,
+     "unresolved": 0,
+     "lower_bound": 9,
+     "lower_pct": 27.3,
+     "upper_bound": 12,
+     "upper_pct": 36.4,
+     "instrumented_pct": 63.6,
+     "no_qualifying_instrument_pct": 9.1
+    },
+    "no_eqtl_data": [
+     "AGTR1",
+     "ANGPTL3",
+     "APOB",
+     "APOC3",
+     "AVPR2",
+     "F2",
+     "PCSK9",
+     "REN",
+     "SLC5A1"
+    ],
+    "no_eqtl_data_x_linked": [
+     "AVPR2"
+    ],
+    "no_qualifying_instrument": [
+     "IL1B",
+     "ITGA2B",
+     "NPC1L1"
+    ],
+    "beyond_PCSK9": {
+     "lower": 8,
+     "upper": 11
+    }
+   },
+   "permissive": {
+    "tally": {
+     "n": 58,
+     "instrumented": 34,
+     "no_eqtl_data": 20,
+     "no_eqtl_data_x_linked": 2,
+     "no_eqtl_data_autosomal": 18,
+     "no_eqtl_data_chrX": 2,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 56,
+     "autosomal_lower_bound": 18,
+     "autosomal_lower_pct": 32.1,
+     "no_qualifying_instrument": 4,
+     "unresolved": 0,
+     "lower_bound": 20,
+     "lower_pct": 34.5,
+     "upper_bound": 24,
+     "upper_pct": 41.4,
+     "instrumented_pct": 58.6,
+     "no_qualifying_instrument_pct": 6.9
+    },
+    "no_eqtl_data": [
+     "ADRA1A",
+     "ADRA1B",
+     "ADRA1D",
+     "ADRA2B",
+     "ADRA2C",
+     "AGTR1",
+     "ANGPTL3",
+     "APOB",
+     "APOC3",
+     "AVPR2",
+     "EDNRA",
+     "EDNRB",
+     "F2",
+     "GHR",
+     "GLA",
+     "PCSK9",
+     "PDE4C",
+     "PLG",
+     "REN",
+     "SLC5A1"
+    ],
+    "no_eqtl_data_x_linked": [
+     "AVPR2",
+     "GLA"
+    ],
+    "no_qualifying_instrument": [
+     "GUCY1B1",
+     "IL1B",
+     "ITGA2B",
+     "NPC1L1"
+    ],
+    "beyond_PCSK9": {
+     "lower": 19,
+     "upper": 23
+    }
+   },
+   "permissive_only": {
+    "ADRA1A": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "ADRA1B": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "ADRA1D": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "ADRA2A": [
+     "INSTRUMENTED",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "ADRA2B": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "ADRA2C": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "C5AR1": [
+     "INSTRUMENTED",
+     "no strictly cardiovascular approved indication on a directly linked drug"
+    ],
+    "CACNA1C": [
+     "INSTRUMENTED",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "EDNRA": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "EDNRB": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "EPAS1": [
+     "INSTRUMENTED",
+     "no strictly cardiovascular approved indication on a directly linked drug"
+    ],
+    "GHR": [
+     "NO_EQTL_DATA",
+     "no strictly cardiovascular approved indication on a directly linked drug"
+    ],
+    "GLA": [
+     "NO_EQTL_DATA",
+     "no strictly cardiovascular approved indication on a directly linked drug"
+    ],
+    "GUCY1A1": [
+     "INSTRUMENTED",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "GUCY1B1": [
+     "NO_QUALIFYING_INSTRUMENT",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "KLKB1": [
+     "INSTRUMENTED",
+     "no strictly cardiovascular approved indication on a directly linked drug"
+    ],
+    "PDE4A": [
+     "INSTRUMENTED",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "PDE4B": [
+     "INSTRUMENTED",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "PDE4C": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "PDE4D": [
+     "INSTRUMENTED",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "SERPING1": [
+     "INSTRUMENTED",
+     "no strictly cardiovascular approved indication on a directly linked drug"
+    ],
+    "TUBB": [
+     "INSTRUMENTED",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "VEGFA": [
+     "INSTRUMENTED",
+     "no strictly cardiovascular approved indication on a directly linked drug"
+    ]
+   },
+   "not_verified_either": {
+    "AGT": [
+     "NO_EQTL_DATA",
+     "NO approved or phase 3 CV indication found"
+    ],
+    "EGFR": [
+     "NO_EQTL_DATA",
+     "NO approved or phase 3 CV indication found"
+    ],
+    "ITGB2": [
+     "INSTRUMENTED",
+     "NO approved or phase 3 CV indication found"
+    ],
+    "LPL": [
+     "INSTRUMENTED",
+     "no ChEMBL mechanism for this gene"
+    ],
+    "PPARG": [
+     "INSTRUMENTED",
+     "PARTIAL phase 3 CV indication only"
+    ],
+    "RXFP1": [
+     "NO_EQTL_DATA",
+     "PARTIAL phase 3 CV indication only"
+    ],
+    "SLC12A2": [
+     "INSTRUMENTED",
+     "no ChEMBL mechanism for this gene"
+    ],
+    "TNF": [
+     "INSTRUMENTED",
+     "PARTIAL phase 3 CV indication only"
+    ]
+   }
+  },
+  "SENS1": {
+   "all_launched": {
+    "n": 52,
+    "instrumented": 30,
+    "no_eqtl_data": 18,
+    "no_eqtl_data_x_linked": 0,
+    "no_eqtl_data_autosomal": 18,
+    "no_eqtl_data_chrX": 0,
+    "no_eqtl_data_chrMT": 0,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 52,
+    "autosomal_lower_bound": 18,
+    "autosomal_lower_pct": 34.6,
+    "no_qualifying_instrument": 4,
+    "unresolved": 0,
+    "lower_bound": 18,
+    "lower_pct": 34.6,
+    "upper_bound": 22,
+    "upper_pct": 42.3,
+    "instrumented_pct": 57.7,
+    "no_qualifying_instrument_pct": 7.7
+   },
+   "strict": {
+    "tally": {
+     "n": 32,
+     "instrumented": 20,
+     "no_eqtl_data": 9,
+     "no_eqtl_data_x_linked": 0,
+     "no_eqtl_data_autosomal": 9,
+     "no_eqtl_data_chrX": 0,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 32,
+     "autosomal_lower_bound": 9,
+     "autosomal_lower_pct": 28.1,
+     "no_qualifying_instrument": 3,
+     "unresolved": 0,
+     "lower_bound": 9,
+     "lower_pct": 28.1,
+     "upper_bound": 12,
+     "upper_pct": 37.5,
+     "instrumented_pct": 62.5,
+     "no_qualifying_instrument_pct": 9.4
+    },
+    "no_eqtl_data": [
+     "AGTR1",
+     "ANGPTL3",
+     "APOB",
+     "APOC3",
+     "F2",
+     "PCSK9",
+     "PLG",
+     "REN",
+     "SLC5A1"
+    ],
+    "no_eqtl_data_x_linked": [],
+    "no_qualifying_instrument": [
+     "IL1B",
+     "ITGA2B",
+     "NPC1L1"
+    ],
+    "beyond_PCSK9": {
+     "lower": 8,
+     "upper": 11
+    }
+   },
+   "approved": {
+    "tally": {
+     "n": 30,
+     "instrumented": 19,
+     "no_eqtl_data": 8,
+     "no_eqtl_data_x_linked": 0,
+     "no_eqtl_data_autosomal": 8,
+     "no_eqtl_data_chrX": 0,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 30,
+     "autosomal_lower_bound": 8,
+     "autosomal_lower_pct": 26.7,
+     "no_qualifying_instrument": 3,
+     "unresolved": 0,
+     "lower_bound": 8,
+     "lower_pct": 26.7,
+     "upper_bound": 11,
+     "upper_pct": 36.7,
+     "instrumented_pct": 63.3,
+     "no_qualifying_instrument_pct": 10.0
+    },
+    "no_eqtl_data": [
+     "AGTR1",
+     "ANGPTL3",
+     "APOB",
+     "APOC3",
+     "F2",
+     "PCSK9",
+     "REN",
+     "SLC5A1"
+    ],
+    "no_eqtl_data_x_linked": [],
+    "no_qualifying_instrument": [
+     "IL1B",
+     "ITGA2B",
+     "NPC1L1"
+    ],
+    "beyond_PCSK9": {
+     "lower": 7,
+     "upper": 10
+    }
+   },
+   "permissive": {
+    "tally": {
+     "n": 46,
+     "instrumented": 26,
+     "no_eqtl_data": 16,
+     "no_eqtl_data_x_linked": 0,
+     "no_eqtl_data_autosomal": 16,
+     "no_eqtl_data_chrX": 0,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 46,
+     "autosomal_lower_bound": 16,
+     "autosomal_lower_pct": 34.8,
+     "no_qualifying_instrument": 4,
+     "unresolved": 0,
+     "lower_bound": 16,
+     "lower_pct": 34.8,
+     "upper_bound": 20,
+     "upper_pct": 43.5,
+     "instrumented_pct": 56.5,
+     "no_qualifying_instrument_pct": 8.7
+    },
+    "no_eqtl_data": [
+     "ADRA1A",
+     "ADRA1B",
+     "ADRA1D",
+     "ADRA2B",
+     "ADRA2C",
+     "AGTR1",
+     "ANGPTL3",
+     "APOB",
+     "APOC3",
+     "EDNRA",
+     "EDNRB",
+     "F2",
+     "PCSK9",
+     "PLG",
+     "REN",
+     "SLC5A1"
+    ],
+    "no_eqtl_data_x_linked": [],
+    "no_qualifying_instrument": [
+     "GUCY1B1",
+     "IL1B",
+     "ITGA2B",
+     "NPC1L1"
+    ],
+    "beyond_PCSK9": {
+     "lower": 15,
+     "upper": 19
+    }
+   },
+   "permissive_only": {
+    "ADRA1A": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "ADRA1B": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "ADRA1D": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "ADRA2A": [
+     "INSTRUMENTED",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "ADRA2B": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "ADRA2C": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "C5AR1": [
+     "INSTRUMENTED",
+     "no strictly cardiovascular approved indication on a directly linked drug"
+    ],
+    "CACNA1C": [
+     "INSTRUMENTED",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "EDNRA": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "EDNRB": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "GUCY1A1": [
+     "INSTRUMENTED",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "GUCY1B1": [
+     "NO_QUALIFYING_INSTRUMENT",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "TUBB": [
+     "INSTRUMENTED",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "VEGFA": [
+     "INSTRUMENTED",
+     "no strictly cardiovascular approved indication on a directly linked drug"
+    ]
+   },
+   "not_verified_either": {
+    "AGT": [
+     "NO_EQTL_DATA",
+     "NO approved or phase 3 CV indication found"
+    ],
+    "ITGB2": [
+     "INSTRUMENTED",
+     "NO approved or phase 3 CV indication found"
+    ],
+    "LPL": [
+     "INSTRUMENTED",
+     "no ChEMBL mechanism for this gene"
+    ],
+    "PPARG": [
+     "INSTRUMENTED",
+     "PARTIAL phase 3 CV indication only"
+    ],
+    "RXFP1": [
+     "NO_EQTL_DATA",
+     "PARTIAL phase 3 CV indication only"
+    ],
+    "SLC12A2": [
+     "INSTRUMENTED",
+     "no ChEMBL mechanism for this gene"
+    ]
+   }
+  },
+  "SENS2": {
+   "all_launched": {
+    "n": 55,
+    "instrumented": 32,
+    "no_eqtl_data": 19,
+    "no_eqtl_data_x_linked": 1,
+    "no_eqtl_data_autosomal": 18,
+    "no_eqtl_data_chrX": 1,
+    "no_eqtl_data_chrMT": 0,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 54,
+    "autosomal_lower_bound": 18,
+    "autosomal_lower_pct": 33.3,
+    "no_qualifying_instrument": 4,
+    "unresolved": 0,
+    "lower_bound": 19,
+    "lower_pct": 34.5,
+    "upper_bound": 23,
+    "upper_pct": 41.8,
+    "instrumented_pct": 58.2,
+    "no_qualifying_instrument_pct": 7.3
+   },
+   "strict": {
+    "tally": {
+     "n": 35,
+     "instrumented": 22,
+     "no_eqtl_data": 10,
+     "no_eqtl_data_x_linked": 1,
+     "no_eqtl_data_autosomal": 9,
+     "no_eqtl_data_chrX": 1,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 34,
+     "autosomal_lower_bound": 9,
+     "autosomal_lower_pct": 26.5,
+     "no_qualifying_instrument": 3,
+     "unresolved": 0,
+     "lower_bound": 10,
+     "lower_pct": 28.6,
+     "upper_bound": 13,
+     "upper_pct": 37.1,
+     "instrumented_pct": 62.9,
+     "no_qualifying_instrument_pct": 8.6
+    },
+    "no_eqtl_data": [
+     "AGTR1",
+     "ANGPTL3",
+     "APOB",
+     "APOC3",
+     "AVPR2",
+     "F2",
+     "PCSK9",
+     "PLG",
+     "REN",
+     "SLC5A1"
+    ],
+    "no_eqtl_data_x_linked": [
+     "AVPR2"
+    ],
+    "no_qualifying_instrument": [
+     "IL1B",
+     "ITGA2B",
+     "NPC1L1"
+    ],
+    "beyond_PCSK9": {
+     "lower": 9,
+     "upper": 12
+    }
+   },
+   "approved": {
+    "tally": {
+     "n": 33,
+     "instrumented": 21,
+     "no_eqtl_data": 9,
+     "no_eqtl_data_x_linked": 1,
+     "no_eqtl_data_autosomal": 8,
+     "no_eqtl_data_chrX": 1,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 32,
+     "autosomal_lower_bound": 8,
+     "autosomal_lower_pct": 25.0,
+     "no_qualifying_instrument": 3,
+     "unresolved": 0,
+     "lower_bound": 9,
+     "lower_pct": 27.3,
+     "upper_bound": 12,
+     "upper_pct": 36.4,
+     "instrumented_pct": 63.6,
+     "no_qualifying_instrument_pct": 9.1
+    },
+    "no_eqtl_data": [
+     "AGTR1",
+     "ANGPTL3",
+     "APOB",
+     "APOC3",
+     "AVPR2",
+     "F2",
+     "PCSK9",
+     "REN",
+     "SLC5A1"
+    ],
+    "no_eqtl_data_x_linked": [
+     "AVPR2"
+    ],
+    "no_qualifying_instrument": [
+     "IL1B",
+     "ITGA2B",
+     "NPC1L1"
+    ],
+    "beyond_PCSK9": {
+     "lower": 8,
+     "upper": 11
+    }
+   },
+   "permissive": {
+    "tally": {
+     "n": 49,
+     "instrumented": 28,
+     "no_eqtl_data": 17,
+     "no_eqtl_data_x_linked": 1,
+     "no_eqtl_data_autosomal": 16,
+     "no_eqtl_data_chrX": 1,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 48,
+     "autosomal_lower_bound": 16,
+     "autosomal_lower_pct": 33.3,
+     "no_qualifying_instrument": 4,
+     "unresolved": 0,
+     "lower_bound": 17,
+     "lower_pct": 34.7,
+     "upper_bound": 21,
+     "upper_pct": 42.9,
+     "instrumented_pct": 57.1,
+     "no_qualifying_instrument_pct": 8.2
+    },
+    "no_eqtl_data": [
+     "ADRA1A",
+     "ADRA1B",
+     "ADRA1D",
+     "ADRA2B",
+     "ADRA2C",
+     "AGTR1",
+     "ANGPTL3",
+     "APOB",
+     "APOC3",
+     "AVPR2",
+     "EDNRA",
+     "EDNRB",
+     "F2",
+     "PCSK9",
+     "PLG",
+     "REN",
+     "SLC5A1"
+    ],
+    "no_eqtl_data_x_linked": [
+     "AVPR2"
+    ],
+    "no_qualifying_instrument": [
+     "GUCY1B1",
+     "IL1B",
+     "ITGA2B",
+     "NPC1L1"
+    ],
+    "beyond_PCSK9": {
+     "lower": 16,
+     "upper": 20
+    }
+   },
+   "permissive_only": {
+    "ADRA1A": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "ADRA1B": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "ADRA1D": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "ADRA2A": [
+     "INSTRUMENTED",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "ADRA2B": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "ADRA2C": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "C5AR1": [
+     "INSTRUMENTED",
+     "no strictly cardiovascular approved indication on a directly linked drug"
+    ],
+    "CACNA1C": [
+     "INSTRUMENTED",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "EDNRA": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "EDNRB": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "GUCY1A1": [
+     "INSTRUMENTED",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "GUCY1B1": [
+     "NO_QUALIFYING_INSTRUMENT",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "TUBB": [
+     "INSTRUMENTED",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "VEGFA": [
+     "INSTRUMENTED",
+     "no strictly cardiovascular approved indication on a directly linked drug"
+    ]
+   },
+   "not_verified_either": {
+    "AGT": [
+     "NO_EQTL_DATA",
+     "NO approved or phase 3 CV indication found"
+    ],
+    "ITGB2": [
+     "INSTRUMENTED",
+     "NO approved or phase 3 CV indication found"
+    ],
+    "LPL": [
+     "INSTRUMENTED",
+     "no ChEMBL mechanism for this gene"
+    ],
+    "PPARG": [
+     "INSTRUMENTED",
+     "PARTIAL phase 3 CV indication only"
+    ],
+    "RXFP1": [
+     "NO_EQTL_DATA",
+     "PARTIAL phase 3 CV indication only"
+    ],
+    "SLC12A2": [
+     "INSTRUMENTED",
+     "no ChEMBL mechanism for this gene"
+    ]
+   }
+  },
+  "C14ONLY": {
+   "all_launched": {
+    "n": 44,
+    "instrumented": 26,
+    "no_eqtl_data": 15,
+    "no_eqtl_data_x_linked": 0,
+    "no_eqtl_data_autosomal": 15,
+    "no_eqtl_data_chrX": 0,
+    "no_eqtl_data_chrMT": 0,
+    "no_eqtl_data_chrY": 0,
+    "n_not_on_x_y_mt": 44,
+    "autosomal_lower_bound": 15,
+    "autosomal_lower_pct": 34.1,
+    "no_qualifying_instrument": 3,
+    "unresolved": 0,
+    "lower_bound": 15,
+    "lower_pct": 34.1,
+    "upper_bound": 18,
+    "upper_pct": 40.9,
+    "instrumented_pct": 59.1,
+    "no_qualifying_instrument_pct": 6.8
+   },
+   "strict": {
+    "tally": {
+     "n": 26,
+     "instrumented": 18,
+     "no_eqtl_data": 6,
+     "no_eqtl_data_x_linked": 0,
+     "no_eqtl_data_autosomal": 6,
+     "no_eqtl_data_chrX": 0,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 26,
+     "autosomal_lower_bound": 6,
+     "autosomal_lower_pct": 23.1,
+     "no_qualifying_instrument": 2,
+     "unresolved": 0,
+     "lower_bound": 6,
+     "lower_pct": 23.1,
+     "upper_bound": 8,
+     "upper_pct": 30.8,
+     "instrumented_pct": 69.2,
+     "no_qualifying_instrument_pct": 7.7
+    },
+    "no_eqtl_data": [
+     "AGTR1",
+     "F2",
+     "PCSK9",
+     "PLG",
+     "REN",
+     "SLC5A1"
+    ],
+    "no_eqtl_data_x_linked": [],
+    "no_qualifying_instrument": [
+     "IL1B",
+     "ITGA2B"
+    ],
+    "beyond_PCSK9": {
+     "lower": 5,
+     "upper": 7
+    }
+   },
+   "approved": {
+    "tally": {
+     "n": 24,
+     "instrumented": 17,
+     "no_eqtl_data": 5,
+     "no_eqtl_data_x_linked": 0,
+     "no_eqtl_data_autosomal": 5,
+     "no_eqtl_data_chrX": 0,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 24,
+     "autosomal_lower_bound": 5,
+     "autosomal_lower_pct": 20.8,
+     "no_qualifying_instrument": 2,
+     "unresolved": 0,
+     "lower_bound": 5,
+     "lower_pct": 20.8,
+     "upper_bound": 7,
+     "upper_pct": 29.2,
+     "instrumented_pct": 70.8,
+     "no_qualifying_instrument_pct": 8.3
+    },
+    "no_eqtl_data": [
+     "AGTR1",
+     "F2",
+     "PCSK9",
+     "REN",
+     "SLC5A1"
+    ],
+    "no_eqtl_data_x_linked": [],
+    "no_qualifying_instrument": [
+     "IL1B",
+     "ITGA2B"
+    ],
+    "beyond_PCSK9": {
+     "lower": 4,
+     "upper": 6
+    }
+   },
+   "permissive": {
+    "tally": {
+     "n": 40,
+     "instrumented": 24,
+     "no_eqtl_data": 13,
+     "no_eqtl_data_x_linked": 0,
+     "no_eqtl_data_autosomal": 13,
+     "no_eqtl_data_chrX": 0,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 40,
+     "autosomal_lower_bound": 13,
+     "autosomal_lower_pct": 32.5,
+     "no_qualifying_instrument": 3,
+     "unresolved": 0,
+     "lower_bound": 13,
+     "lower_pct": 32.5,
+     "upper_bound": 16,
+     "upper_pct": 40.0,
+     "instrumented_pct": 60.0,
+     "no_qualifying_instrument_pct": 7.5
+    },
+    "no_eqtl_data": [
+     "ADRA1A",
+     "ADRA1B",
+     "ADRA1D",
+     "ADRA2B",
+     "ADRA2C",
+     "AGTR1",
+     "EDNRA",
+     "EDNRB",
+     "F2",
+     "PCSK9",
+     "PLG",
+     "REN",
+     "SLC5A1"
+    ],
+    "no_eqtl_data_x_linked": [],
+    "no_qualifying_instrument": [
+     "GUCY1B1",
+     "IL1B",
+     "ITGA2B"
+    ],
+    "beyond_PCSK9": {
+     "lower": 12,
+     "upper": 15
+    }
+   },
+   "permissive_only": {
+    "ADRA1A": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "ADRA1B": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "ADRA1D": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "ADRA2A": [
+     "INSTRUMENTED",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "ADRA2B": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "ADRA2C": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "C5AR1": [
+     "INSTRUMENTED",
+     "no strictly cardiovascular approved indication on a directly linked drug"
+    ],
+    "CACNA1C": [
+     "INSTRUMENTED",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "EDNRA": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "EDNRB": [
+     "NO_EQTL_DATA",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "GUCY1A1": [
+     "INSTRUMENTED",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "GUCY1B1": [
+     "NO_QUALIFYING_INSTRUMENT",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "TUBB": [
+     "INSTRUMENTED",
+     "no direct link: every approved CV drug is linked through a family or group target"
+    ],
+    "VEGFA": [
+     "INSTRUMENTED",
+     "no strictly cardiovascular approved indication on a directly linked drug"
+    ]
+   },
+   "not_verified_either": {
+    "AGT": [
+     "NO_EQTL_DATA",
+     "NO approved or phase 3 CV indication found"
+    ],
+    "ITGB2": [
+     "INSTRUMENTED",
+     "NO approved or phase 3 CV indication found"
+    ],
+    "RXFP1": [
+     "NO_EQTL_DATA",
+     "PARTIAL phase 3 CV indication only"
+    ],
+    "SLC12A2": [
+     "INSTRUMENTED",
+     "no ChEMBL mechanism for this gene"
+    ]
+   }
+  }
+ },
+ "phase3_with_chembl_approved_cv_drug_primary": {
+  "strict": {
+   "ADORA2A": "INSTRUMENTED",
+   "AVPR1A": "NO_EQTL_DATA",
+   "DPP4": "INSTRUMENTED",
+   "HCN4": "NO_EQTL_DATA",
+   "PDE3A": "NO_QUALIFYING_INSTRUMENT",
+   "SLC6A2": "NO_EQTL_DATA"
+  },
+  "approved": {
+   "ADORA2A": "INSTRUMENTED",
+   "AVPR1A": "NO_EQTL_DATA",
+   "DPP4": "INSTRUMENTED",
+   "HCN4": "NO_EQTL_DATA",
+   "PDE3A": "NO_QUALIFYING_INSTRUMENT",
+   "SLC6A2": "NO_EQTL_DATA"
+  },
+  "permissive": {
+   "ADORA1": "INSTRUMENTED",
+   "ADORA2A": "INSTRUMENTED",
+   "AVPR1A": "NO_EQTL_DATA",
+   "BDKRB2": "NO_EQTL_DATA",
+   "CACNA2D1": "NO_EQTL_DATA",
+   "DPP4": "INSTRUMENTED",
+   "F11": "NO_EQTL_DATA",
+   "F12": "INSTRUMENTED",
+   "GRIN1": "NO_QUALIFYING_INSTRUMENT",
+   "HCN4": "NO_EQTL_DATA",
+   "IL6R": "INSTRUMENTED",
+   "PDE3A": "NO_QUALIFYING_INSTRUMENT",
+   "SCN9A": "INSTRUMENTED",
+   "SLC10A2": "NO_EQTL_DATA",
+   "SLC6A2": "NO_EQTL_DATA"
+  }
+ },
+ "chembl_verified_any_label_primary": {
+  "strict": {
+   "n": 41,
+   "instrumented": 24,
+   "no_eqtl_data": 13,
+   "no_eqtl_data_x_linked": 1,
+   "no_eqtl_data_autosomal": 12,
+   "no_eqtl_data_chrX": 1,
+   "no_eqtl_data_chrMT": 0,
+   "no_eqtl_data_chrY": 0,
+   "n_not_on_x_y_mt": 40,
+   "autosomal_lower_bound": 12,
+   "autosomal_lower_pct": 30.0,
+   "no_qualifying_instrument": 4,
+   "unresolved": 0,
+   "lower_bound": 13,
+   "lower_pct": 31.7,
+   "upper_bound": 17,
+   "upper_pct": 41.5,
+   "instrumented_pct": 58.5,
+   "no_qualifying_instrument_pct": 9.8
+  },
+  "approved": {
+   "n": 39,
+   "instrumented": 23,
+   "no_eqtl_data": 12,
+   "no_eqtl_data_x_linked": 1,
+   "no_eqtl_data_autosomal": 11,
+   "no_eqtl_data_chrX": 1,
+   "no_eqtl_data_chrMT": 0,
+   "no_eqtl_data_chrY": 0,
+   "n_not_on_x_y_mt": 38,
+   "autosomal_lower_bound": 11,
+   "autosomal_lower_pct": 28.9,
+   "no_qualifying_instrument": 4,
+   "unresolved": 0,
+   "lower_bound": 12,
+   "lower_pct": 30.8,
+   "upper_bound": 16,
+   "upper_pct": 41.0,
+   "instrumented_pct": 59.0,
+   "no_qualifying_instrument_pct": 10.3
+  },
+  "permissive": {
+   "n": 73,
+   "instrumented": 40,
+   "no_eqtl_data": 27,
+   "no_eqtl_data_x_linked": 2,
+   "no_eqtl_data_autosomal": 25,
+   "no_eqtl_data_chrX": 2,
+   "no_eqtl_data_chrMT": 0,
+   "no_eqtl_data_chrY": 0,
+   "n_not_on_x_y_mt": 71,
+   "autosomal_lower_bound": 25,
+   "autosomal_lower_pct": 35.2,
+   "no_qualifying_instrument": 6,
+   "unresolved": 0,
+   "lower_bound": 27,
+   "lower_pct": 37.0,
+   "upper_bound": 33,
+   "upper_pct": 45.2,
+   "instrumented_pct": 54.8,
+   "no_qualifying_instrument_pct": 8.2
+  }
+ },
+ "strict_not_approved_primary": [
+  "MTOR",
+  "PLG"
+ ],
+ "example_eligible_primary": {
+  "launched_no_eqtl_data": [
+   "AGTR1",
+   "ANGPTL3",
+   "APOB",
+   "APOC3",
+   "AVPR2",
+   "F2",
+   "PCSK9",
+   "PLG",
+   "REN",
+   "SLC5A1"
+  ],
+  "launched_no_qualifying_instrument": [
+   "IL1B",
+   "ITGA2B",
+   "NPC1L1"
+  ],
+  "launched_instrumented": [
+   "ACE",
+   "ADRB1",
+   "ADRB2",
+   "F10",
+   "F2R",
+   "HMGCR",
+   "ITGAV",
+   "ITGB3",
+   "KCNH2",
+   "MS4A1",
+   "MTOR",
+   "NR3C1",
+   "PDE5A",
+   "PLAT",
+   "PLAU",
+   "PPARA",
+   "PTGER2",
+   "PTGIR",
+   "SCN5A",
+   "SERPINC1",
+   "SLC12A1",
+   "SLC5A2"
+  ],
+  "phase3_uninstrumentable": [
+   "AVPR1A",
+   "HCN4",
+   "PDE3A",
+   "SLC6A2"
+  ]
+ },
+ "label_mismatches_primary": {
+  "Phase III in Minikel; ChEMBL lists an approved drug with an approved CV indication": 15,
+  "Launched in Minikel; not strict-verified in ChEMBL": 31
+ },
+ "window": {
+  "PRIMARY": {
+   "100kb": {
+    "overall": {
+     "n": 726,
+     "instrumented": 443,
+     "no_eqtl_data": 217,
+     "no_eqtl_data_x_linked": 29,
+     "no_eqtl_data_autosomal": 188,
+     "no_eqtl_data_chrX": 27,
+     "no_eqtl_data_chrMT": 2,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 697,
+     "autosomal_lower_bound": 188,
+     "autosomal_lower_pct": 27.0,
+     "no_qualifying_instrument": 63,
+     "unresolved": 3,
+     "lower_bound": 217,
+     "lower_pct": 29.9,
+     "upper_bound": 280,
+     "upper_pct": 38.6,
+     "instrumented_pct": 61.0,
+     "no_qualifying_instrument_pct": 8.7
+    },
+    "launched": {
+     "n": 66,
+     "instrumented": 39,
+     "no_eqtl_data": 23,
+     "no_eqtl_data_x_linked": 2,
+     "no_eqtl_data_autosomal": 21,
+     "no_eqtl_data_chrX": 2,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 64,
+     "autosomal_lower_bound": 21,
+     "autosomal_lower_pct": 32.8,
+     "no_qualifying_instrument": 4,
+     "unresolved": 0,
+     "lower_bound": 23,
+     "lower_pct": 34.8,
+     "upper_bound": 27,
+     "upper_pct": 40.9,
+     "instrumented_pct": 59.1,
+     "no_qualifying_instrument_pct": 6.1
+    }
+   },
+   "500kb": {
+    "overall": {
+     "n": 726,
+     "instrumented": 444,
+     "no_eqtl_data": 217,
+     "no_eqtl_data_x_linked": 29,
+     "no_eqtl_data_autosomal": 188,
+     "no_eqtl_data_chrX": 27,
+     "no_eqtl_data_chrMT": 2,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 697,
+     "autosomal_lower_bound": 188,
+     "autosomal_lower_pct": 27.0,
+     "no_qualifying_instrument": 62,
+     "unresolved": 3,
+     "lower_bound": 217,
+     "lower_pct": 29.9,
+     "upper_bound": 279,
+     "upper_pct": 38.4,
+     "instrumented_pct": 61.2,
+     "no_qualifying_instrument_pct": 8.5
+    },
+    "launched": {
+     "n": 66,
+     "instrumented": 40,
+     "no_eqtl_data": 23,
+     "no_eqtl_data_x_linked": 2,
+     "no_eqtl_data_autosomal": 21,
+     "no_eqtl_data_chrX": 2,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 64,
+     "autosomal_lower_bound": 21,
+     "autosomal_lower_pct": 32.8,
+     "no_qualifying_instrument": 3,
+     "unresolved": 0,
+     "lower_bound": 23,
+     "lower_pct": 34.8,
+     "upper_bound": 26,
+     "upper_pct": 39.4,
+     "instrumented_pct": 60.6,
+     "no_qualifying_instrument_pct": 4.5
+    }
+   },
+   "1Mb": {
+    "overall": {
+     "n": 726,
+     "instrumented": 444,
+     "no_eqtl_data": 217,
+     "no_eqtl_data_x_linked": 29,
+     "no_eqtl_data_autosomal": 188,
+     "no_eqtl_data_chrX": 27,
+     "no_eqtl_data_chrMT": 2,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 697,
+     "autosomal_lower_bound": 188,
+     "autosomal_lower_pct": 27.0,
+     "no_qualifying_instrument": 62,
+     "unresolved": 3,
+     "lower_bound": 217,
+     "lower_pct": 29.9,
+     "upper_bound": 279,
+     "upper_pct": 38.4,
+     "instrumented_pct": 61.2,
+     "no_qualifying_instrument_pct": 8.5
+    },
+    "launched": {
+     "n": 66,
+     "instrumented": 40,
+     "no_eqtl_data": 23,
+     "no_eqtl_data_x_linked": 2,
+     "no_eqtl_data_autosomal": 21,
+     "no_eqtl_data_chrX": 2,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 64,
+     "autosomal_lower_bound": 21,
+     "autosomal_lower_pct": 32.8,
+     "no_qualifying_instrument": 3,
+     "unresolved": 0,
+     "lower_bound": 23,
+     "lower_pct": 34.8,
+     "upper_bound": 26,
+     "upper_pct": 39.4,
+     "instrumented_pct": 60.6,
+     "no_qualifying_instrument_pct": 4.5
+    }
+   }
+  },
+  "SENS1": {
+   "100kb": {
+    "overall": {
+     "n": 630,
+     "instrumented": 391,
+     "no_eqtl_data": 180,
+     "no_eqtl_data_x_linked": 23,
+     "no_eqtl_data_autosomal": 157,
+     "no_eqtl_data_chrX": 21,
+     "no_eqtl_data_chrMT": 2,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 607,
+     "autosomal_lower_bound": 157,
+     "autosomal_lower_pct": 25.9,
+     "no_qualifying_instrument": 57,
+     "unresolved": 2,
+     "lower_bound": 180,
+     "lower_pct": 28.6,
+     "upper_bound": 237,
+     "upper_pct": 37.6,
+     "instrumented_pct": 62.1,
+     "no_qualifying_instrument_pct": 9.0
+    },
+    "launched": {
+     "n": 52,
+     "instrumented": 30,
+     "no_eqtl_data": 18,
+     "no_eqtl_data_x_linked": 0,
+     "no_eqtl_data_autosomal": 18,
+     "no_eqtl_data_chrX": 0,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 52,
+     "autosomal_lower_bound": 18,
+     "autosomal_lower_pct": 34.6,
+     "no_qualifying_instrument": 4,
+     "unresolved": 0,
+     "lower_bound": 18,
+     "lower_pct": 34.6,
+     "upper_bound": 22,
+     "upper_pct": 42.3,
+     "instrumented_pct": 57.7,
+     "no_qualifying_instrument_pct": 7.7
+    }
+   },
+   "500kb": {
+    "overall": {
+     "n": 630,
+     "instrumented": 392,
+     "no_eqtl_data": 180,
+     "no_eqtl_data_x_linked": 23,
+     "no_eqtl_data_autosomal": 157,
+     "no_eqtl_data_chrX": 21,
+     "no_eqtl_data_chrMT": 2,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 607,
+     "autosomal_lower_bound": 157,
+     "autosomal_lower_pct": 25.9,
+     "no_qualifying_instrument": 56,
+     "unresolved": 2,
+     "lower_bound": 180,
+     "lower_pct": 28.6,
+     "upper_bound": 236,
+     "upper_pct": 37.5,
+     "instrumented_pct": 62.2,
+     "no_qualifying_instrument_pct": 8.9
+    },
+    "launched": {
+     "n": 52,
+     "instrumented": 31,
+     "no_eqtl_data": 18,
+     "no_eqtl_data_x_linked": 0,
+     "no_eqtl_data_autosomal": 18,
+     "no_eqtl_data_chrX": 0,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 52,
+     "autosomal_lower_bound": 18,
+     "autosomal_lower_pct": 34.6,
+     "no_qualifying_instrument": 3,
+     "unresolved": 0,
+     "lower_bound": 18,
+     "lower_pct": 34.6,
+     "upper_bound": 21,
+     "upper_pct": 40.4,
+     "instrumented_pct": 59.6,
+     "no_qualifying_instrument_pct": 5.8
+    }
+   },
+   "1Mb": {
+    "overall": {
+     "n": 630,
+     "instrumented": 392,
+     "no_eqtl_data": 180,
+     "no_eqtl_data_x_linked": 23,
+     "no_eqtl_data_autosomal": 157,
+     "no_eqtl_data_chrX": 21,
+     "no_eqtl_data_chrMT": 2,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 607,
+     "autosomal_lower_bound": 157,
+     "autosomal_lower_pct": 25.9,
+     "no_qualifying_instrument": 56,
+     "unresolved": 2,
+     "lower_bound": 180,
+     "lower_pct": 28.6,
+     "upper_bound": 236,
+     "upper_pct": 37.5,
+     "instrumented_pct": 62.2,
+     "no_qualifying_instrument_pct": 8.9
+    },
+    "launched": {
+     "n": 52,
+     "instrumented": 31,
+     "no_eqtl_data": 18,
+     "no_eqtl_data_x_linked": 0,
+     "no_eqtl_data_autosomal": 18,
+     "no_eqtl_data_chrX": 0,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 52,
+     "autosomal_lower_bound": 18,
+     "autosomal_lower_pct": 34.6,
+     "no_qualifying_instrument": 3,
+     "unresolved": 0,
+     "lower_bound": 18,
+     "lower_pct": 34.6,
+     "upper_bound": 21,
+     "upper_pct": 40.4,
+     "instrumented_pct": 59.6,
+     "no_qualifying_instrument_pct": 5.8
+    }
+   }
+  },
+  "SENS2": {
+   "100kb": {
+    "overall": {
+     "n": 663,
+     "instrumented": 409,
+     "no_eqtl_data": 191,
+     "no_eqtl_data_x_linked": 24,
+     "no_eqtl_data_autosomal": 167,
+     "no_eqtl_data_chrX": 22,
+     "no_eqtl_data_chrMT": 2,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 639,
+     "autosomal_lower_bound": 167,
+     "autosomal_lower_pct": 26.1,
+     "no_qualifying_instrument": 60,
+     "unresolved": 3,
+     "lower_bound": 191,
+     "lower_pct": 28.8,
+     "upper_bound": 251,
+     "upper_pct": 37.9,
+     "instrumented_pct": 61.7,
+     "no_qualifying_instrument_pct": 9.0
+    },
+    "launched": {
+     "n": 55,
+     "instrumented": 32,
+     "no_eqtl_data": 19,
+     "no_eqtl_data_x_linked": 1,
+     "no_eqtl_data_autosomal": 18,
+     "no_eqtl_data_chrX": 1,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 54,
+     "autosomal_lower_bound": 18,
+     "autosomal_lower_pct": 33.3,
+     "no_qualifying_instrument": 4,
+     "unresolved": 0,
+     "lower_bound": 19,
+     "lower_pct": 34.5,
+     "upper_bound": 23,
+     "upper_pct": 41.8,
+     "instrumented_pct": 58.2,
+     "no_qualifying_instrument_pct": 7.3
+    }
+   },
+   "500kb": {
+    "overall": {
+     "n": 663,
+     "instrumented": 410,
+     "no_eqtl_data": 191,
+     "no_eqtl_data_x_linked": 24,
+     "no_eqtl_data_autosomal": 167,
+     "no_eqtl_data_chrX": 22,
+     "no_eqtl_data_chrMT": 2,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 639,
+     "autosomal_lower_bound": 167,
+     "autosomal_lower_pct": 26.1,
+     "no_qualifying_instrument": 59,
+     "unresolved": 3,
+     "lower_bound": 191,
+     "lower_pct": 28.8,
+     "upper_bound": 250,
+     "upper_pct": 37.7,
+     "instrumented_pct": 61.8,
+     "no_qualifying_instrument_pct": 8.9
+    },
+    "launched": {
+     "n": 55,
+     "instrumented": 33,
+     "no_eqtl_data": 19,
+     "no_eqtl_data_x_linked": 1,
+     "no_eqtl_data_autosomal": 18,
+     "no_eqtl_data_chrX": 1,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 54,
+     "autosomal_lower_bound": 18,
+     "autosomal_lower_pct": 33.3,
+     "no_qualifying_instrument": 3,
+     "unresolved": 0,
+     "lower_bound": 19,
+     "lower_pct": 34.5,
+     "upper_bound": 22,
+     "upper_pct": 40.0,
+     "instrumented_pct": 60.0,
+     "no_qualifying_instrument_pct": 5.5
+    }
+   },
+   "1Mb": {
+    "overall": {
+     "n": 663,
+     "instrumented": 410,
+     "no_eqtl_data": 191,
+     "no_eqtl_data_x_linked": 24,
+     "no_eqtl_data_autosomal": 167,
+     "no_eqtl_data_chrX": 22,
+     "no_eqtl_data_chrMT": 2,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 639,
+     "autosomal_lower_bound": 167,
+     "autosomal_lower_pct": 26.1,
+     "no_qualifying_instrument": 59,
+     "unresolved": 3,
+     "lower_bound": 191,
+     "lower_pct": 28.8,
+     "upper_bound": 250,
+     "upper_pct": 37.7,
+     "instrumented_pct": 61.8,
+     "no_qualifying_instrument_pct": 8.9
+    },
+    "launched": {
+     "n": 55,
+     "instrumented": 33,
+     "no_eqtl_data": 19,
+     "no_eqtl_data_x_linked": 1,
+     "no_eqtl_data_autosomal": 18,
+     "no_eqtl_data_chrX": 1,
+     "no_eqtl_data_chrMT": 0,
+     "no_eqtl_data_chrY": 0,
+     "n_not_on_x_y_mt": 54,
+     "autosomal_lower_bound": 18,
+     "autosomal_lower_pct": 33.3,
+     "no_qualifying_instrument": 3,
+     "unresolved": 0,
+     "lower_bound": 19,
+     "lower_pct": 34.5,
+     "upper_bound": 22,
+     "upper_pct": 40.0,
+     "instrumented_pct": 60.0,
+     "no_qualifying_instrument_pct": 5.5
+    }
+   }
+  },
+  "primary_targets_gaining_instrument": [
+   {
+    "gene": "IL1B",
+    "nearest_bp": 119995,
+    "at": "500kb",
+    "phase": "Launched"
+   }
+  ],
+  "max_distance_observed_bp": 812919
+ },
+ "enrichment": {
+  "PRIMARY": {
+   "NO_EQTL_DATA_vs_instrumented__tissue_restricted": {
+    "table": [
+     [
+      189,
+      13
+     ],
+     [
+      290,
+      149
+     ]
+    ],
+    "odds_ratio": 7.469761273209549,
+    "ci_lo": 4.117141864655163,
+    "ci_hi": 13.552443737183324,
+    "p_fisher": 1.0224034524725443e-15
+   },
+   "NO_QUALIFYING_INSTRUMENT_vs_instrumented__tissue_restricted": {
+    "table": [
+     [
+      46,
+      17
+     ],
+     [
+      290,
+      149
+     ]
+    ],
+    "odds_ratio": 1.39026369168357,
+    "ci_lo": 0.7703876035994788,
+    "ci_hi": 2.508909960885742,
+    "p_fisher": 0.31723087739760963
+   },
+   "NO_EQTL_DATA_vs_instrumented__secreted": {
+    "table": [
+     [
+      83,
+      123
+     ],
+     [
+      136,
+      304
+     ]
+    ],
+    "odds_ratio": 1.5083692013390722,
+    "ci_lo": 1.0692259282097507,
+    "ci_hi": 2.12787362102011,
+    "p_fisher": 0.020562422096011918
+   },
+   "NO_QUALIFYING_INSTRUMENT_vs_instrumented__secreted": {
+    "table": [
+     [
+      16,
+      47
+     ],
+     [
+      136,
+      304
+     ]
+    ],
+    "odds_ratio": 0.7609511889862328,
+    "ci_lo": 0.4166750889218589,
+    "ci_hi": 1.3896840185906885,
+    "p_fisher": 0.4634219850043956
+   }
+  },
+  "SENS1": {
+   "NO_EQTL_DATA_vs_instrumented__tissue_restricted": {
+    "table": [
+     [
+      159,
+      8
+     ],
+     [
+      257,
+      131
+     ]
+    ],
+    "odds_ratio": 10.130836575875486,
+    "ci_lo": 4.830188728761904,
+    "ci_hi": 21.248413983485097,
+    "p_fisher": 2.3867920915075675e-15
+   },
+   "NO_QUALIFYING_INSTRUMENT_vs_instrumented__tissue_restricted": {
+    "table": [
+     [
+      43,
+      14
+     ],
+     [
+      257,
+      131
+     ]
+    ],
+    "odds_ratio": 1.565591995553085,
+    "ci_lo": 0.8265502175812449,
+    "ci_hi": 2.965431796403786,
+    "p_fisher": 0.1770025399661402
+   },
+   "NO_EQTL_DATA_vs_instrumented__secreted": {
+    "table": [
+     [
+      63,
+      106
+     ],
+     [
+      117,
+      272
+     ]
+    ],
+    "odds_ratio": 1.381712626995646,
+    "ci_lo": 0.9451773397992816,
+    "ci_hi": 2.019864107199854,
+    "p_fisher": 0.11465335073109592
+   },
+   "NO_QUALIFYING_INSTRUMENT_vs_instrumented__secreted": {
+    "table": [
+     [
+      13,
+      44
+     ],
+     [
+      117,
+      272
+     ]
+    ],
+    "odds_ratio": 0.6868686868686869,
+    "ci_lo": 0.35658450262390123,
+    "ci_hi": 1.3230765485574725,
+    "p_fisher": 0.27954319615528933
+   }
+  },
+  "SENS2": {
+   "NO_EQTL_DATA_vs_instrumented__tissue_restricted": {
+    "table": [
+     [
+      167,
+      10
+     ],
+     [
+      269,
+      137
+     ]
+    ],
+    "odds_ratio": 8.505204460966542,
+    "ci_lo": 4.350285436609491,
+    "ci_hi": 16.62844978264784,
+    "p_fisher": 6.710949163211349e-15
+   },
+   "NO_QUALIFYING_INSTRUMENT_vs_instrumented__tissue_restricted": {
+    "table": [
+     [
+      45,
+      15
+     ],
+     [
+      269,
+      137
+     ]
+    ],
+    "odds_ratio": 1.5278810408921932,
+    "ci_lo": 0.8223147372657373,
+    "ci_hi": 2.838840615796267,
+    "p_fisher": 0.18813896606394573
+   },
+   "NO_EQTL_DATA_vs_instrumented__secreted": {
+    "table": [
+     [
+      68,
+      112
+     ],
+     [
+      125,
+      282
+     ]
+    ],
+    "odds_ratio": 1.3697142857142857,
+    "ci_lo": 0.9483564601402177,
+    "ci_hi": 1.9782827484640169,
+    "p_fisher": 0.10529751221252465
+   },
+   "NO_QUALIFYING_INSTRUMENT_vs_instrumented__secreted": {
+    "table": [
+     [
+      14,
+      46
+     ],
+     [
+      125,
+      282
+     ]
+    ],
+    "odds_ratio": 0.6866086956521739,
+    "ci_lo": 0.36413260915620743,
+    "ci_hi": 1.294669823824931,
+    "p_fisher": 0.2905814197790588
+   }
+  },
+  "ALL_2517": {
+   "NO_EQTL_DATA_vs_instrumented__tissue_restricted": {
+    "table": [
+     [
+      543,
+      53
+     ],
+     [
+      943,
+      645
+     ]
+    ],
+    "odds_ratio": 7.007643210148262,
+    "ci_lo": 5.194963622426383,
+    "ci_hi": 9.452821411250012,
+    "p_fisher": 2.2110214519170863e-52
+   },
+   "NO_QUALIFYING_INSTRUMENT_vs_instrumented__tissue_restricted": {
+    "table": [
+     [
+      156,
+      76
+     ],
+     [
+      943,
+      645
+     ]
+    ],
+    "odds_ratio": 1.4039738795557293,
+    "ci_lo": 1.048553441353592,
+    "ci_hi": 1.8798685662889918,
+    "p_fisher": 0.025743244862126712
+   },
+   "NO_EQTL_DATA_vs_instrumented__secreted": {
+    "table": [
+     [
+      223,
+      399
+     ],
+     [
+      381,
+      1210
+     ]
+    ],
+    "odds_ratio": 1.774975496483992,
+    "ci_lo": 1.4528175913261863,
+    "ci_hi": 2.1685709423732025,
+    "p_fisher": 3.043499786620705e-08
+   },
+   "NO_QUALIFYING_INSTRUMENT_vs_instrumented__secreted": {
+    "table": [
+     [
+      46,
+      186
+     ],
+     [
+      381,
+      1210
+     ]
+    ],
+    "odds_ratio": 0.785426015296475,
+    "ci_lo": 0.5575507341210594,
+    "ci_hi": 1.106435679753861,
+    "p_fisher": 0.18437512809253861
+   }
+  },
+  "PRIMARY_autosomal_only": {
+   "NO_EQTL_DATA_vs_instrumented__tissue_restricted": {
+    "table": [
+     [
+      166,
+      7
+     ],
+     [
+      290,
+      149
+     ]
+    ],
+    "odds_ratio": 12.18423645320197,
+    "ci_lo": 5.576137258177426,
+    "ci_hi": 26.62337942449767,
+    "p_fisher": 3.169430070665947e-17
+   }
+  }
+ },
+ "blood_tpm": {
+  "INSTRUMENTED": {
+   "n": 441,
+   "median": 5.43758,
+   "pct_below_1": 26.1
+  },
+  "NO_EQTL_DATA": {
+   "n": 211,
+   "median": 0.015618,
+   "pct_below_1": 92.4
+  },
+  "NO_QUALIFYING_INSTRUMENT": {
+   "n": 63,
+   "median": 0.543467,
+   "pct_below_1": 57.1
+  }
+ },
+ "tissue_yield_primary": {
+  "whole_blood_eQTLGen": {
+   "n": 443,
+   "pct": 61.0
+  },
+  "heart_LV": {
+   "n": 48,
+   "pct": 6.6
+  },
+  "heart_atrial": {
+   "n": 47,
+   "pct": 6.5
+  },
+  "artery_aorta": {
+   "n": 66,
+   "pct": 9.1
+  },
+  "liver": {
+   "n": 32,
+   "pct": 4.4
+  },
+  "cardiac_union": {
+   "n": 125,
+   "pct": 17.2
+  }
+ },
+ "no_eqtl_data_with_tissue_instrument_primary": {
+  "n": 217,
+  "any_of_4_tissues": 28
+ },
+ "gwas_file_attrition": {
+  "PRIMARY": {
+   "pairs": 2128,
+   "pairs_with_eur_harmonised_gwas": 771,
+   "lost_unindexed": 404,
+   "lost_pct": 52.4,
+   "index_status_never_probed": 8,
+   "distinct_indications_with_gwas": 22
+  },
+  "SENS1": {
+   "pairs": 1543,
+   "pairs_with_eur_harmonised_gwas": 448,
+   "lost_unindexed": 265,
+   "lost_pct": 59.2,
+   "index_status_never_probed": 2,
+   "distinct_indications_with_gwas": 12
+  },
+  "SENS2": {
+   "pairs": 1879,
+   "pairs_with_eur_harmonised_gwas": 667,
+   "lost_unindexed": 300,
+   "lost_pct": 45.0,
+   "index_status_never_probed": 8,
+   "distinct_indications_with_gwas": 20
+  },
+  "C14ONLY": {
+   "pairs": 1364,
+   "pairs_with_eur_harmonised_gwas": 401,
+   "lost_unindexed": 218,
+   "lost_pct": 54.4,
+   "index_status_never_probed": 2,
+   "distinct_indications_with_gwas": 11
+  }
+ },
+ "x_linked_blood_expressed_primary": [
+  "ABCD1",
+  "ATP6AP2",
+  "BGN",
+  "BTK",
+  "CD40LG",
+  "CYSLTR1",
+  "GLA",
+  "HDAC6",
+  "LAMP2",
+  "MT-ND1",
+  "MT-ND2",
+  "TLR7",
+  "TLR8",
+  "TMSB4X"
+ ],
+ "eqtlgen_tested_genes_by_chromosome": {
+  "autosomal": 19123,
+  "not in GRCh37.87": 127
+ },
+ "no_eqtl_data_by_chromosome": {
+  "PRIMARY": {
+   "no_eqtl_data": 217,
+   "on_X_Y_MT": 29,
+   "autosomal": 188,
+   "on_X": 27,
+   "on_MT": 2,
+   "on_Y": 0,
+   "X_with_blood_tpm_ge1": 12,
+   "MT_with_blood_tpm_ge1": 2,
+   "targets_on_X_Y_MT_in_set": 29,
+   "X_Y_MT_with_blood_tpm_ge1": 14,
+   "autosomal_with_tpm": 182,
+   "autosomal_blood_tpm_below_1": 180,
+   "n": 726,
+   "autosomal_lower_bound_pct": 27.0
+  },
+  "SENS1": {
+   "no_eqtl_data": 180,
+   "on_X_Y_MT": 23,
+   "autosomal": 157,
+   "on_X": 21,
+   "on_MT": 2,
+   "on_Y": 0,
+   "X_with_blood_tpm_ge1": 8,
+   "MT_with_blood_tpm_ge1": 2,
+   "targets_on_X_Y_MT_in_set": 23,
+   "X_Y_MT_with_blood_tpm_ge1": 10,
+   "autosomal_with_tpm": 151,
+   "autosomal_blood_tpm_below_1": 149,
+   "n": 630,
+   "autosomal_lower_bound_pct": 25.9
+  },
+  "SENS2": {
+   "no_eqtl_data": 191,
+   "on_X_Y_MT": 24,
+   "autosomal": 167,
+   "on_X": 22,
+   "on_MT": 2,
+   "on_Y": 0,
+   "X_with_blood_tpm_ge1": 9,
+   "MT_with_blood_tpm_ge1": 2,
+   "targets_on_X_Y_MT_in_set": 24,
+   "X_Y_MT_with_blood_tpm_ge1": 11,
+   "autosomal_with_tpm": 161,
+   "autosomal_blood_tpm_below_1": 159,
+   "n": 663,
+   "autosomal_lower_bound_pct": 26.1
+  },
+  "C14ONLY": {
+   "no_eqtl_data": 164,
+   "on_X_Y_MT": 20,
+   "autosomal": 144,
+   "on_X": 18,
+   "on_MT": 2,
+   "on_Y": 0,
+   "X_with_blood_tpm_ge1": 6,
+   "MT_with_blood_tpm_ge1": 2,
+   "targets_on_X_Y_MT_in_set": 20,
+   "X_Y_MT_with_blood_tpm_ge1": 8,
+   "autosomal_with_tpm": 139,
+   "autosomal_blood_tpm_below_1": 137,
+   "n": 594,
+   "autosomal_lower_bound_pct": 25.1
+  },
+  "ALL_2517": {
+   "no_eqtl_data": 663,
+   "on_X_Y_MT": 110,
+   "autosomal": 553,
+   "on_X": 107,
+   "on_MT": 3,
+   "on_Y": 0,
+   "X_with_blood_tpm_ge1": 50,
+   "MT_with_blood_tpm_ge1": 3,
+   "targets_on_X_Y_MT_in_set": 110,
+   "X_Y_MT_with_blood_tpm_ge1": 53,
+   "autosomal_with_tpm": 537,
+   "autosomal_blood_tpm_below_1": 528,
+   "n": 2517,
+   "autosomal_lower_bound_pct": 23.0
+  }
+ }
+}

@@ -1,0 +1,2 @@
+gene	gwas_acc	mesh_term	n_merged	eqtl_lead_rsid	eqtl_lead_z	gwas_lead_rsid	gwas_lead_z	gwas_genome_wide_sig	lead_r2	lead_dist_bp	abf_gap	abf_PP3	abf_PP4	susie_PP4	n_cs_exposure	n_cs_outcome	dentist_rmse_eqtlgen	dentist_rmse_gwas	note
+FLT1	GCST90399720	Idiopathic Pulmonary Fibrosis	314	rs56728557	-22.57	rs17626077	-2.513	False											excluded_R15_gwas_not_genome_wide_significant

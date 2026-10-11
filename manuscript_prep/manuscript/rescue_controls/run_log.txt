@@ -1,0 +1,15 @@
+run started 2026-10-11T14:05:14Z
+PCSK9_LDL   UKB-PPP plasma cis-pQTL (ST10)     rs11591147         -> PASS
+            exposure beta -1.1211 (SE 0.0234, F 2305) for allele T; outcome GCST90239658 N=1320016 beta -0.43370 (SE 0.00543), harmonization aligned_same
+            MR beta +0.3868 (95% CI +0.3774 to +0.3963), p 0; expected POSITIVE, observed POSITIVE; criteria {'instrument_p_lt_5e-8': True, 'F_ge_10': True, 'mr_p_lt_0.05': True, 'direction_matches': True}
+ANGPTL3_TG  UKB-PPP plasma cis-pQTL (ST10)     rs775677524        -> NOT HARMONIZABLE
+            harmonize_one status: not_snp | outcome study GCST90239664
+APOC3_TG    Fenland plasma cis-pQTL (ST2)      rs964184           -> PASS
+            exposure beta -0.2103 (SE 0.0196, F 115) for allele C; outcome GCST90239664 N=1320016 beta -0.24629 (SE 0.00199), harmonization aligned_same
+            MR beta +1.1711 (95% CI +1.1526 to +1.1897), p 0; expected POSITIVE, observed POSITIVE; criteria {'instrument_p_lt_5e-8': True, 'F_ge_10': True, 'mr_p_lt_0.05': True, 'direction_matches': True}
+AGTR1_SBP   GTEx v8 Artery_Tibial cis-eQTL     chr3_148624775_T_G -> FAIL
+            exposure beta +0.2122 (SE 0.0271, F 61) for allele G; outcome GCST90310294 N=1028980 beta -0.00790 (SE 0.02500), harmonization aligned_same
+            MR beta -0.0372 (95% CI -0.2682 to +0.1937), p 0.752; expected POSITIVE, observed NEGATIVE; criteria {'instrument_p_lt_5e-8': True, 'F_ge_10': True, 'mr_p_lt_0.05': False, 'direction_matches': False}
+REN_SBP     UKB-PPP plasma cis-pQTL (ST10)     rs193280350        -> NOT HARMONIZABLE
+            variant position absent from the outcome file (11 rows within +-1 kb) | outcome study GCST90310294
+run finished 2026-10-11T14:06:21Z

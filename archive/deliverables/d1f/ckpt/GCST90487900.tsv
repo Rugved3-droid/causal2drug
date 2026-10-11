@@ -1,0 +1,9 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+C5	D017497	Hidradenitis Suppurativa	GCST90487900	DOWN	15									0							no_overlap_after_harmonization
+C5AR1	D017497	Hidradenitis Suppurativa	GCST90487900	DOWN	2									0							no_overlap_after_harmonization
+HAVCR2	D017497	Hidradenitis Suppurativa	GCST90487900	DOWN	4	rs6897249	6.6164e-37	0.101821	0.00802286	161.1	0.0676586	0.1245	aligned_flipped	1	0.664484	1.22273	0.586825	POSITIVE	POSITIVE	YES	
+IL1R1	D017497	Hidradenitis Suppurativa	GCST90487900	DOWN	3									0							no_overlap_after_harmonization
+JAK1	D017497	Hidradenitis Suppurativa	GCST90487900	DOWN	1									0							no_overlap_after_harmonization
+SYK	D017497	Hidradenitis Suppurativa	GCST90487900	DOWN	11									0							no_overlap_after_harmonization
+TNF	D017497	Hidradenitis Suppurativa	GCST90487900	DOWN	3	rs116171018	3.9856e-16	-0.125598	0.0154318	66.24	0.0973923	0.2925	aligned_same	1	-0.775431	2.32886	0.73916	NEGATIVE	POSITIVE	NO	
+TYK2	D017497	Hidradenitis Suppurativa	GCST90487900	DOWN	5									0							no_overlap_after_harmonization

@@ -1,0 +1,19 @@
+{
+  "class_a": 232,
+  "class_b": 1,
+  "class_a_launched": 21,
+  "class_a_phase3": 18,
+  "modality": {
+    "tissue eQTL": 50,
+    "cardiac eQTL": 101,
+    "liver eQTL": 35,
+    "vascular eQTL": 19,
+    "UNKNOWN": 12,
+    "pQTL": 15
+  },
+  "cv_pairs_partc": 103,
+  "cv_pairs_lost_unindexed": 57,
+  "cv_loci_screened": 65,
+  "cv_loci_gwas_sig": 3,
+  "cv_loci_coloc_usable": 2
+}

@@ -1,0 +1,2 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+VDR	D014808	Vitamin D Deficiency	GCST90473203	UP	4	rs7975232	6.5086e-56	0.136127	0.00864098	248.2	-0.00365361	0.0184509	aligned_flipped	338	-0.0268398	0.135542	0.843031	NEGATIVE	NEGATIVE	YES	

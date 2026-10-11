@@ -1,0 +1,2 @@
+gene	gwas_acc	mesh_term	n_merged	eqtl_lead_rsid	eqtl_lead_z	gwas_lead_rsid	gwas_lead_z	gwas_genome_wide_sig	lead_r2	lead_dist_bp	abf_gap	abf_PP3	abf_PP4	susie_PP4	n_cs_exposure	n_cs_outcome	dentist_rmse_eqtlgen	dentist_rmse_gwas	note
+SLC18A2	GCST90473176	Diabetes Mellitus	130	rs181440	-23.88	rs28634565	1.892	False											excluded_R15_gwas_not_genome_wide_significant

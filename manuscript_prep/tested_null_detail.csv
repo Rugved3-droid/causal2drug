@@ -1,0 +1,56 @@
+gene,ensembl_id,max_cv_phase,subtype,gtex_blood_tpm,tissue_restricted,n_hits_outside_100kb,best_p_outside,best_snp_outside,min_distance_bp_from_gene_body,gene_length_bp
+ACHE,ENSG00000087085,Phase II,"T3 tested, no cis-eQTL at FDR<0.05",1.53168,YES,0,,,,6979
+ADCY5,ENSG00000173175,Preclinical,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",0.119349,YES,0,,,,167462
+ANGPTL4,ENSG00000167772,Phase I,"T3 tested, no cis-eQTL at FDR<0.05",0.422891,YES,0,,,,11084
+AOC3,ENSG00000131471,Phase II,"T3 tested, no cis-eQTL at FDR<0.05",2.08337,YES,0,,,,6946
+APOA1,ENSG00000118137,Phase III,"T3 tested, no cis-eQTL at FDR<0.05",0.713321,YES,0,,,,2199
+APOE,ENSG00000130203,Phase II,"T3 tested, no cis-eQTL at FDR<0.05",3.27425,YES,0,,,,3639
+ATP1A1,ENSG00000163399,Preclinical,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",25.944,YES,0,,,,37593
+B4GALT2,ENSG00000117411,Preclinical,"T3 tested, no cis-eQTL at FDR<0.05",0.816337,NO,0,,,,12225
+BRD4,ENSG00000141867,Phase III,"T3 tested, no cis-eQTL at FDR<0.05",21.1275,NO,0,,,,95709
+CD74,ENSG00000019582,Preclinical,"T3 tested, no cis-eQTL at FDR<0.05",1152.79,YES,0,,,,11292
+CDK5,ENSG00000164885,Preclinical,"T3 tested, no cis-eQTL at FDR<0.05",13.3369,YES,0,,,,4718
+CHRM3,ENSG00000133019,Preclinical,"T3 tested, no cis-eQTL at FDR<0.05",0.008549,YES,0,,,,528885
+DLG4,ENSG00000132535,Phase I,"T3 tested, no cis-eQTL at FDR<0.05",3.17196,YES,0,,,,29812
+EEF2K,ENSG00000103319,Preclinical,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",1.52294,YES,0,,,,80951
+ENPEP,ENSG00000138792,Phase III,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",0.014664,YES,0,,,,199552
+FKBP8,ENSG00000105701,Preclinical,"T3 tested, no cis-eQTL at FDR<0.05",2185.67,NO,0,,,,12326
+FZD4,ENSG00000174804,Preclinical,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",0.110477,YES,0,,,,9712
+GPR176,ENSG00000166073,Preclinical,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",0.052653,YES,0,,,,121860
+GRIN1,ENSG00000176884,Phase III,"T3 tested, no cis-eQTL at FDR<0.05",0.039658,YES,0,,,,30365
+HCN2,ENSG00000099822,Phase III,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",0.543467,YES,0,,,,27266
+HDAC2,ENSG00000196591,Preclinical,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",4.01601,NO,0,,,,78280
+HSD11B1,ENSG00000117594,Phase II,"T3 tested, no cis-eQTL at FDR<0.05",0.1825,YES,0,,,,48785
+HSPA1A,ENSG00000204389,Preclinical,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",201.068,NO,0,,,,2432
+HSPD1,ENSG00000144381,Preclinical,"T3 tested, no cis-eQTL at FDR<0.05",27.9973,YES,0,,,,30156
+HTR7,ENSG00000148680,Phase I,"T3 tested, no cis-eQTL at FDR<0.05",0.08791,YES,0,,,,117093
+IL1B,ENSG00000125538,Launched,"T1 genome-wide-significant cis-eQTL exists, but only outside gene body +-100 kb",29.4903,YES,50,4.5107e-16,rs6542082,119995,7152
+INHBA,ENSG00000122641,Phase I,"T3 tested, no cis-eQTL at FDR<0.05",0.157586,YES,0,,,,17994
+ITGA2B,ENSG00000005961,Launched,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",36.2607,YES,0,,,,17325
+KIT,ENSG00000157404,Phase III,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",0.217265,YES,0,,,,82796
+LRP5,ENSG00000162337,Preclinical,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",0.333741,YES,0,,,,136666
+MCU,ENSG00000156026,Preclinical,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",10.4369,YES,0,,,,195563
+MDK,ENSG00000110492,Preclinical,"T3 tested, no cis-eQTL at FDR<0.05",1.18422,YES,0,,,,3069
+MTMR14,ENSG00000163719,Preclinical,"T3 tested, no cis-eQTL at FDR<0.05",47.2998,NO,0,,,,52960
+NOTCH3,ENSG00000074181,Preclinical,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",0.338676,YES,0,,,,41348
+NPC1L1,ENSG00000015520,Launched,"T3 tested, no cis-eQTL at FDR<0.05",0.030092,YES,0,,,,28780
+NPR2,ENSG00000159899,Phase II,"T3 tested, no cis-eQTL at FDR<0.05",0.276565,NO,0,,,,17578
+NPR3,ENSG00000113389,Preclinical,"T3 tested, no cis-eQTL at FDR<0.05",0.059456,YES,0,,,,102643
+NRG4,ENSG00000169752,Phase I,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",0.089764,YES,0,,,,123826
+NTRK1,ENSG00000198400,Preclinical,"T3 tested, no cis-eQTL at FDR<0.05",0.271881,YES,0,,,,66210
+PDE3A,ENSG00000172572,Phase III,"T3 tested, no cis-eQTL at FDR<0.05",0.041784,YES,0,,,,315136
+PDGFRA,ENSG00000134853,Phase III,"T3 tested, no cis-eQTL at FDR<0.05",0.101329,YES,0,,,,69150
+PDGFRB,ENSG00000113721,Phase II,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",1.15671,NO,0,,,,42035
+PLA2G10,ENSG00000069764,Preclinical,"T3 tested, no cis-eQTL at FDR<0.05",0.0,YES,0,,,,22121
+PRKACA,ENSG00000072062,Preclinical,"T3 tested, no cis-eQTL at FDR<0.05",50.325,YES,0,,,,26396
+PTGER3,ENSG00000050628,Phase II,"T3 tested, no cis-eQTL at FDR<0.05",0.038431,YES,0,,,,195455
+PYCARD,ENSG00000103490,Preclinical,"T3 tested, no cis-eQTL at FDR<0.05",197.707,YES,0,,,,1965
+RHOA,ENSG00000067560,Preclinical,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",349.052,NO,0,,,,53853
+RRM2,ENSG00000171848,Preclinical,"T3 tested, no cis-eQTL at FDR<0.05",2.14485,YES,0,,,,9090
+SCN11A,ENSG00000168356,Preclinical,"T3 tested, no cis-eQTL at FDR<0.05",0.008519,YES,0,,,,104792
+SLC10A1,ENSG00000100652,Phase I,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",0.123798,YES,0,,,,21872
+SLC6A4,ENSG00000108576,Phase III,"T3 tested, no cis-eQTL at FDR<0.05",0.144586,YES,0,,,,41683
+SREBF2,ENSG00000198911,Phase I,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",16.1045,NO,0,,,,74203
+SUMO1,ENSG00000116030,Preclinical,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",34.3657,NO,0,,,,32428
+TGFB1,ENSG00000105329,Phase II,"T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8",337.627,NO,0,,,,52324
+TYRO3,ENSG00000092445,Preclinical,"T3 tested, no cis-eQTL at FDR<0.05",0.087065,YES,0,,,,21663

@@ -1,0 +1,197 @@
+gene,max_clinical_phase,n_protein_altering_assoc,top_variant,consequence,trait,p_value,cv_relevant_trait
+ADRB1,Launched,72,rs1801253,missense_variant,triglycerides to total lipids in medium HDL percentage,4e-32,True
+ADRB2,Launched,17,rs1042714,stop_gained,hematological measurement,4e-149,True
+F10,Launched,2,rs61753266,missense_variant,coagulation factor X amount,2e-119,False
+ITGB2,Launched,6,rs2230531,missense_variant,level of integrin alpha-M in blood,4e-34,False
+LPL,Launched,423,rs328,stop_gained,triglyceride measurement,0.0,True
+MTOR,Launched,5,rs28991009,missense_variant,intraocular pressure measurement,3e-21,False
+PDE5A,Launched,7,rs149385790,missense_variant,body height,2e-14,False
+PLAT,Launched,4,rs2020921,missense_variant,tissue-type plasminogen activator measurement,2e-51,False
+PLAU,Launched,18,rs55744193,missense_variant,amount of urokinase-type plasminogen activator (human) in blood,6e-192,True
+PPARA,Launched,16,rs1800234,missense_variant,triglyceride measurement,3e-31,True
+PPARG,Launched,68,rs1801282,missense_variant,sex hormone-binding globulin measurement,3e-67,True
+PTGIR,Launched,1,rs4987262,missense_variant,platelet count,5e-10,False
+SERPINC1,Launched,4,rs2227624,missense_variant,antithrombin-III measurement,6e-50,False
+SLC12A1,Launched,1,rs34819316,missense_variant,urate measurement,3e-08,False
+SLC5A2,Launched,3,rs141627694,missense_variant,Glycosuria,5e-15,False
+VEGFA,Launched,5,rs138551969,missense_variant,hyperuricemia,2e-16,False
+A2M,Phase III,2,rs55761427,missense_variant,level of pregnancy zone protein in blood,6e-37,False
+ABCA1,Phase I,110,rs146292819,missense_variant,apolipoprotein A 1 measurement,4e-90,True
+ABL1,Phase III,1,rs2229067,missense_variant,ABL1/DNMBP protein level ratio in blood,2e-19,False
+ADAM17,Preclinical,1,rs61754178,missense_variant,protein measurement,5e-10,False
+ADAMTS13,Preclinical,15,rs28647808,missense_variant,a disintegrin and metalloproteinase with thrombospondin motifs 13 measurement,7e-104,True
+ADAMTS4,Preclinical,13,rs4233367,missense_variant,vitrin measurement,2e-118,True
+ADCY6,Phase II,9,rs55770045,missense_variant,blood protein amount,1e-15,False
+ADORA3,Phase II,2,rs35511654,missense_variant,level of interleukin-12 subunit beta in blood,2e-08,False
+AGER,Preclinical,26,rs2070600,missense_variant,FEV/FVC ratio,3e-239,False
+AKR1B1,Preclinical,6,rs2229542,missense_variant,level of aldo-keto reductase family 1 member B1 in blood,2e-105,False
+ALDH2,Phase I,143,rs671,missense_variant,alcohol consumption quality,0.0,True
+ANGPT1,Phase II,1,rs141029929,missense_variant,blood protein amount,2e-14,False
+APOL1,Preclinical,45,rs2239785,missense_variant,apolipoprotein L1 measurement,1e-44,True
+APP,Phase II,1,rs63750066,missense_variant,B-cell chronic lymphocytic leukemia,2e-07,False
+ASGR1,Phase I,473,rs55714927,missense_variant,soluble CD163 measurement,5e-322,True
+AXL,Preclinical,13,rs35538872,missense_variant,level of tyrosine-protein kinase receptor UFO in blood,4e-108,True
+BAG3,Preclinical,41,rs2234962,missense_variant,electrocardiography,5e-54,True
+BCL2L1,Preclinical,1,rs763223337,missense_variant,platelet count,2e-10,False
+BCR,Phase III,3,rs5751602,missense_variant,BCR/PLXNA4 protein level ratio in blood,2e-45,False
+BMP2,Phase II,3,rs235768,missense_variant,cup-to-disc ratio measurement,2e-15,False
+C3,Phase I,43,rs2230199,missense_variant,macular degeneration,2e-94,False
+C5,Phase II,1,rs17612,missense_variant,Pain,5e-06,False
+CA2,Preclinical,2,rs703,missense_variant,vital capacity,7e-14,False
+CALCRL,Preclinical,4,rs61739909,missense_variant,BMI-adjusted waist-hip ratio,3e-14,False
+CAPN1,Preclinical,2,rs10895991,missense_variant,glial fibrillary acidic protein measurement,3e-32,False
+CAPN2,Preclinical,3,rs145466296,missense_variant,blood protein amount,3e-71,False
+CASP8,Preclinical,17,rs1045485,missense_variant,CASP8/SEPTIN9 protein level ratio in blood,0.0,True
+CCR2,Phase I,13,rs1799864,missense_variant,CCL11/CCL2 protein level ratio in blood,9e-138,False
+CCR5,Phase I,2,rs62625034,missense_variant,C-C motif chemokine 4 level,8e-83,False
+CD36,Preclinical,110,rs75326924,missense_variant,platelet count,1e-128,True
+CD40,Preclinical,1,rs41282788,missense_variant,"tumor necrosis factor, receptor superfamily, member 5 measurement",5e-47,False
+CETP,Phase III,63,rs1800777,missense_variant,apolipoprotein A 1 measurement,0.0,True
+CHRNB2,Phase II,1,rs202079239,missense_variant,forced expiratory volume,4e-07,False
+CLCN2,Phase II,1,rs545787624,inframe_insertion,platelet crit,3e-19,False
+CNR2,Phase II,1,rs41311993,missense_variant,level of tissue alpha-L-fucosidase in blood,1e-25,False
+CPT1A,Phase II,282,rs2229738,missense_variant,polyunsaturated fatty acids to total fatty acids percentage,0.0,True
+CPT2,Phase II,9,rs1799822,missense_variant,metabolite measurement,1e-65,False
+CR1,Preclinical,4,rs17259045,missense_variant,hematocrit,4e-12,False
+CSF1,Preclinical,6,rs1058885,missense_variant,BTN2A1/CSF1 protein level ratio in blood,1e-211,False
+CSF1R,Phase II,3,rs56048668,missense_variant,macrophage colony-stimulating factor 1 receptor level,2e-307,False
+CSF3R,Preclinical,8,rs148916169,missense_variant,granulocyte colony-stimulating factor level,1e-53,False
+CTSS,Phase I,31,rs41271951,missense_variant,cathepsin S measurement,0.0,True
+CXCR2,Preclinical,45,rs55799208,missense_variant,neutrophil count,2e-143,False
+DBH,Phase II,41,rs6271,missense_variant,dopamine beta-hydroxylase measurement,3e-229,True
+DGAT1,Phase III,1,rs55962377,missense_variant,body height,8e-09,False
+DGAT2,Phase I,3,rs151179593,missense_variant,degree of unsaturation measurement,3e-09,True
+DHFR,Preclinical,2,rs1650697,missense_variant,cortical thickness,1e-27,False
+DNASE1,Preclinical,3,rs1053874,missense_variant,body mass index,5e-10,False
+DPP3,Preclinical,3,rs11550299,missense_variant,triglycerides to total lipids in large VLDL percentage,6e-11,True
+DPP4,Phase III,1,rs144519975,missense_variant,level of dipeptidyl peptidase 4 in blood serum,3e-93,False
+ECE1,Phase I,1,rs141146885,missense_variant,alkaline phosphatase measurement,1e-40,False
+EDN1,Preclinical,11,rs5370,missense_variant,level of endothelin-1 in blood serum,2e-217,True
+EGLN2,Phase II,12,rs61750953,missense_variant,high density lipoprotein cholesterol measurement,2e-26,True
+EPAS1,Preclinical,1,rs59901247,missense_variant,amino acid measurement,3e-06,False
+EPHB4,Preclinical,1,rs35638378,missense_variant,protein measurement,2e-08,False
+EPHX2,Phase II,6,rs751141,missense_variant,X-24309 measurement,7e-80,False
+EPOR,Phase II,3,rs370865377,stop_gained,erythropoetin measurement,2e-11,False
+ERBB2,Phase II,4,rs141116145,missense_variant,receptor tyrosine-protein kinase erbb-2 measurement,1e-42,False
+ESR1,Phase II,2,rs139960913,missense_variant,body height,1e-11,False
+ESR2,Phase II,21,rs12881815,missense_variant,body height,8e-39,True
+F12,Phase I,1,rs35515200,missense_variant,level of coagulation factor XII in blood,6e-19,False
+F13A1,Preclinical,9,rs5985,missense_variant,blood coagulation trait,3e-186,True
+F2RL3,Phase II,1,rs773902,missense_variant,platelet reactivity efficacy,2e-13,False
+F7,Preclinical,10,rs6046,missense_variant,prothrombin time measurement,2e-297,False
+FAS,Preclinical,2,rs28362322,missense_variant,tumor necrosis factor receptor superfamily member 6 measurement,2e-59,False
+FCGR2A,Phase I,74,rs1801274,missense_variant,low affinity immunoglobulin gamma Fc region receptor II-a measurement,0.0,False
+FDFT1,Phase III,2,rs181750463,missense_variant,heart rate,1e-12,True
+FKBP4,Phase I,76,rs56196860,missense_variant,testosterone measurement,5e-310,True
+FLT1,Preclinical,1,rs35832528,missense_variant,level of vascular endothelial growth factor receptor 1 in blood serum,1e-13,True
+FLT3,Preclinical,30,rs1933437,missense_variant,FLT3/FLT3LG protein level ratio in blood,1e-55,True
+FLT4,Preclinical,9,rs34221241,missense_variant,FLT4/ICAM2 protein level ratio in blood,0.0,True
+GAS6,Preclinical,1,rs78824256,missense_variant,anorectal malformation,1e-18,False
+GCNT1,Preclinical,13,rs11546569,missense_variant,"beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase measurement",1e-243,False
+GIPR,Phase III,62,rs1800437,missense_variant,body mass index,5e-90,True
+GLP1R,Phase III,30,rs3765467,missense_variant,blood glucose amount,5e-67,False
+GP1BA,Phase II,31,rs6065,missense_variant,platelet count,0.0,True
+GP6,Phase III,249,rs1613662,missense_variant,CD84/GP6 protein level ratio in blood,0.0,True
+GRM2,Preclinical,1,rs116567227,missense_variant,C-C motif chemokine 4 level,5e-10,False
+GSK3B,Phase III,2,rs58605236,splice_acceptor_variant,neutrophil count,3e-12,False
+GZMB,Preclinical,12,rs8192917,missense_variant,granzyme b measurement,0.0,False
+HCAR3,Phase II,3,rs1798192,missense_variant,BMI-adjusted waist-hip ratio,6e-08,False
+HGF,Phase III,17,rs5745687,stop_gained,hepatocyte growth factor  level,3e-81,True
+HSPG2,Phase I,10,rs142433309,missense_variant,alkaline phosphatase measurement,3e-176,True
+IFNAR1,Phase II,7,rs2257167,missense_variant,interferon alpha/beta receptor 1 measurement,0.0,False
+IGF1R,Phase II,6,rs150801101,missense_variant,hyperuricemia,2e-16,False
+IGFBP3,Preclinical,27,rs2854746,missense_variant,blood protein amount,2e-189,True
+IL17RA,Preclinical,62,rs140221307,missense_variant,monocyte count,0.0,False
+IL1RAP,Preclinical,1,rs34908328,splice_acceptor_variant,interleukin 1 Receptor accessory protein measurement,0.0,False
+IL6R,Phase III,42,rs2228145,missense_variant,blood protein amount,0.0,True
+INHBB,Phase I,4,rs11900747,missense_variant,prostate carcinoma,6e-22,False
+INSR,Preclinical,2,rs1799816,missense_variant,triglyceride measurement,9e-13,True
+IRS1,Phase III,2,rs41265094,missense_variant,appendicular lean mass,1e-17,False
+ITGA2,Preclinical,2,rs143262642,missense_variant,level of integrin alpha-2 in blood,5e-33,False
+JAK1,Phase III,5,rs368776025,missense_variant,C-reactive protein measurement,3e-19,False
+JAK2,Preclinical,221,rs77375493,missense_variant,myeloproliferative disorder,1e-323,True
+KCNJ11,Preclinical,41,rs5215,missense_variant,type 2 diabetes mellitus,1e-107,True
+KCNMB1,Phase I,1,rs11739136,missense_variant,cognitive function measurement,2e-06,False
+KCNQ1,Preclinical,6,rs143709408,missense_variant,chronic kidney disease,2e-16,False
+KLK1,Preclinical,2,rs56349210,missense_variant,level of kallikrein-1 in blood,8e-34,False
+KLKB1,Phase II,38,rs3733402,missense_variant,protein measurement,0.0,True
+LAG3,Preclinical,1,rs149722682,missense_variant,autoimmune thyroid disease,2e-09,False
+LCAT,Phase II,188,rs4986970,missense_variant,total lipids in large LDL,4e-83,True
+LDLR,Preclinical,31,rs2228671,stop_gained,total cholesterol measurement,9e-24,True
+LGALS1,Preclinical,3,rs139136100,missense_variant,amount of galectin-1 (human) in blood,7e-314,False
+LIPA,Preclinical,10,rs1727,missense_variant,level of complement C1q subcomponent subunit A in blood,2e-67,True
+LIPE,Preclinical,2,rs138983180,missense_variant,testosterone measurement,2e-17,False
+LMNA,Preclinical,6,rs505058,missense_variant,body height,1e-15,False
+LOXL2,Phase I,8,rs1063582,missense_variant,body height,4e-302,False
+LRP1,Preclinical,19,rs141826184,missense_variant,protein kinase C-binding protein NELL1 measurement,4e-79,True
+LRRK2,Preclinical,12,rs34637584,missense_variant,Parkinson disease,4e-148,False
+MAP3K5,Phase II,7,rs56379668,missense_variant,MAP3K5/MAVS protein level ratio in blood,2e-32,False
+MASP2,Preclinical,10,rs72550870,missense_variant,protein measurement,2e-142,False
+MC1R,Phase II,156,rs1805007,missense_variant,skin neoplasm,1e-323,False
+MED17,Preclinical,1,rs763249105,frameshift_variant,mean corpuscular hemoglobin concentration,5e-10,False
+MME,Phase II,23,rs61762319,missense_variant,endoglin measurement,3e-39,True
+MMP14,Preclinical,41,rs17880989,missense_variant,body height,1e-52,True
+MMP8,Preclinical,12,rs35231465,stop_gained,MMP8/MMP9 protein level ratio in blood,0.0,False
+MMP9,Preclinical,13,rs17576,missense_variant,MMP9/OSM protein level ratio in blood,0.0,False
+MPO,Phase III,98,rs119468010,missense_variant,amount of myeloperoxidase (human) in blood,0.0,False
+MYBPC3,Preclinical,47,rs3729989,missense_variant,OLR1/PLAUR protein level ratio in blood,2e-56,True
+MYC,Phase II,1,rs4645959,missense_variant,body height,8e-15,False
+NFATC1,Preclinical,6,rs1051978,missense_variant,serum creatinine amount,7e-18,False
+NISCH,Preclinical,3,rs887515,missense_variant,high density lipoprotein cholesterol measurement,1e-19,True
+NLN,Preclinical,1,rs6860508,missense_variant,body height,1e-14,False
+NLRP3,Phase I,2,rs139814109,missense_variant,C-reactive protein measurement,3e-16,False
+NOS2,Phase I,2,rs2297518,missense_variant,"level of nitric oxide synthase, inducible in blood",2e-25,False
+NOS3,Phase III,2,rs1799983,missense_variant,stroke disorder,2e-08,True
+NR1H3,Phase I,11,rs61731956,missense_variant,high density lipoprotein cholesterol measurement,4e-41,True
+NRG1,Phase III,3,rs10503929,missense_variant,amount of GDNF family receptor alpha-3 (human) in blood,4e-13,False
+OLR1,Phase II,3,rs11053646,missense_variant,MMP9/OLR1 protein level ratio in blood,7e-63,True
+P2RY13,Preclinical,1,rs1466684,missense_variant,monocyte count,2e-10,False
+P2RY2,Preclinical,86,rs2511241,missense_variant,matrix metalloproteinase-9 measurement,7e-202,True
+PARP1,Phase II,6,rs1805404,missense_variant,platelet count,5e-20,False
+PARP2,Preclinical,1,rs750147320,frameshift_variant,white matter hyperintensity measurement,3e-07,False
+PCSK6,Preclinical,6,rs34631529,missense_variant,apolipoprotein B measurement,1e-12,True
+PDE4A,Phase II,2,rs1051738,missense_variant,psoriasis,3e-14,False
+PGP,Preclinical,5,rs116977380,missense_variant,protein measurement,1e-141,False
+PI3,Phase II,1,rs41282752,missense_variant,amount of elafin (human) in blood,7e-54,False
+PINK1,Preclinical,1,rs74315358,missense_variant,"mosquito bite reaction itch intensity measurement, mosquito bite reaction size measurement",6e-06,False
+PLA2G7,Phase III,7,rs76863441,missense_variant,lipoprotein-associated phospholipase A(2) measurement,1e-178,True
+PLAUR,Preclinical,182,rs4760,missense_variant,ENG/TNFRSF10C protein level ratio in blood,0.0,True
+PPID,Preclinical,8,rs2070631,missense_variant,peptidyl-prolyl cis-trans isomerase D measurement,5e-270,False
+PPP1R15A,Phase II,14,rs556052,missense_variant,Red cell distribution width,1e-44,False
+PTPRB,Preclinical,2,rs113791087,missense_variant,leukocyte quantity,2e-08,False
+PYGL,Preclinical,2,rs35026927,missense_variant,"glycogen phosphorylase, liver form measurement",7e-13,False
+QPCT,Preclinical,3,rs2255991,missense_variant,amount of glutaminyl-peptide cyclotransferase (human) in blood,0.0,False
+RET,Phase II,3,rs10900296,splice_donor_variant,proto-oncogene tyrosine-protein kinase receptor Ret measurement,2e-145,False
+RIPK1,Preclinical,2,rs55861377,missense_variant,protein measurement,2e-09,False
+RLN1,Phase I,1,rs2273782,missense_variant,level of prorelaxin H2 in blood,3e-93,False
+ROCK2,Phase I,1,rs2230774,missense_variant,lymphocyte count,2e-13,False
+RRM1,Preclinical,1,rs137969593,missense_variant,erythrocyte volume,1e-12,False
+RYR1,Phase I,3,rs147213895,missense_variant,serum creatinine amount,6e-11,False
+RYR2,Phase II,9,rs34967813,missense_variant,smoking initiation,2e-16,False
+S1PR1,Phase II,6,rs41287280,missense_variant,lymphocyte count,1e-37,False
+SCARB1,Preclinical,15,rs150728540,missense_variant,high density lipoprotein cholesterol measurement,8e-59,True
+SCN9A,Phase II,1,rs12478318,missense_variant,triacylglycerol 58:10 measurement,5e-06,False
+SELL,Preclinical,1,rs3177980,missense_variant,amyotrophic lateral sclerosis,4e-06,False
+SELP,Phase II,18,rs6136,missense_variant,ITGB1/SELP protein level ratio in blood,0.0,False
+SELPLG,Phase II,1,rs7300972,missense_variant,P-selectin glycoprotein ligand 1 measurement,4e-56,False
+SEMA3A,Preclinical,1,rs571612402,missense_variant,5-methyluridine (ribothymidine) measurement,9e-07,False
+SERPINA1,Preclinical,825,rs17580,missense_variant,neutrophil cytosol factor 2 measurement,0.0,True
+SERPINF2,Phase I,21,rs2070863,missense_variant,serum albumin amount,1e-60,False
+SHC1,Preclinical,7,rs8191981,missense_variant,eosinophil count,4e-57,False
+SIGMAR1,Preclinical,1,rs1800866,missense_variant,amount of N-acylethanolamine-hydrolyzing acid amidase (human) in blood,4e-22,False
+SLC9A3,Phase I,1,rs202102039,splice_acceptor_variant,level of programmed cell death protein 6 in blood,9e-234,False
+SOAT1,Phase III,3,rs13306731,missense_variant,body height,3e-08,False
+SREBF1,Phase I,6,rs36215896,missense_variant,body height,9e-25,True
+STAT3,Preclinical,2,rs2293152,missense_variant,multiple sclerosis,4e-08,False
+STAT4,Preclinical,1,rs140675301,missense_variant,"ACPA-positive rheumatoid arthritis, rheumatoid arthritis, rheumatoid factor seropositivity measurement",2e-09,False
+STK4,Preclinical,2,rs33963346,missense_variant,MGLL/STK4 protein level ratio in blood,2e-69,False
+TEK,Phase I,11,rs35030851,missense_variant,angiopoietin-1 receptor measurement,7e-300,False
+TFRC,Preclinical,14,rs3817672,missense_variant,soluble transferrin receptor measurement,0.0,False
+THBS1,Preclinical,1,rs2292305,missense_variant,vital capacity,7e-09,False
+TLR2,Phase II,1,rs3804100,missense_variant,body height,3e-07,False
+TLR4,Phase II,14,rs4986790,missense_variant,toll-like receptor 4 measurement,1e-105,False
+TP53,Preclinical,13,rs1042522,missense_variant,sex hormone-binding globulin measurement,0.0,True
+TPSAB1,Phase I,1,rs144979264,missense_variant,tryptase beta-2 measurement,0.0,False
+TRPM7,Preclinical,1,rs8042919,missense_variant,acne,4e-08,False
+VDR,Phase I,2,rs2228570,start_lost,eosinophil percentage of leukocytes,1e-09,False
+VWF,Phase II,31,rs216311,missense_variant,dihydrofolate reductase measurement,0.0,True

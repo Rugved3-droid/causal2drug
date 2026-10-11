@@ -1,0 +1,1019 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 8
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20211230",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "69851",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/214051Orig1s000ltr.pdf",
+              "date": "20220112",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA214051",
+      "sponsor_name": "INGENUS PHARMS LLC",
+      "openfda": {
+        "application_number": [
+          "ANDA214051"
+        ],
+        "brand_name": [
+          "IVABRADINE"
+        ],
+        "generic_name": [
+          "IVABRADINE"
+        ],
+        "manufacturer_name": [
+          "Ingenus Pharmaceuticals, LLC"
+        ],
+        "product_ndc": [
+          "50742-362",
+          "50742-363"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "IVABRADINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1649485",
+          "1649493"
+        ],
+        "spl_id": [
+          "6d23c13f-f81d-4bc9-9ded-be94c025e8f7"
+        ],
+        "spl_set_id": [
+          "2e70f883-8c01-4ac2-815d-4a6d561c711a"
+        ],
+        "package_ndc": [
+          "50742-362-60",
+          "50742-363-60"
+        ],
+        "unii": [
+          "TP19837BZK"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "IVABRADINE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "IVABRADINE HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "IVABRADINE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "IVABRADINE HYDROCHLORIDE",
+              "strength": "EQ 7.5MG BASE"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240905",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213276",
+      "sponsor_name": "BIONPHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA213276"
+        ],
+        "brand_name": [
+          "IVABRADINE"
+        ],
+        "generic_name": [
+          "IVABRADINE"
+        ],
+        "manufacturer_name": [
+          "Bionpharma Inc."
+        ],
+        "product_ndc": [
+          "69452-190",
+          "69452-191"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "IVABRADINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1649485",
+          "1649493"
+        ],
+        "spl_id": [
+          "2eacec81-3528-a573-e063-6394a90a6da4"
+        ],
+        "spl_set_id": [
+          "2ead1cf3-e61a-49c4-e063-6294a90a330f"
+        ],
+        "package_ndc": [
+          "69452-190-17",
+          "69452-190-30",
+          "69452-191-17",
+          "69452-191-30"
+        ],
+        "unii": [
+          "TP19837BZK"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "IVABRADINE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "IVABRADINE HYDROCHLORIDE",
+              "strength": "EQ 7.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "IVABRADINE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "IVABRADINE HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20210804",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "68298",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/206143s008,209964s002lblrpl.pdf",
+              "date": "20210805",
+              "type": "Label"
+            },
+            {
+              "id": "68308",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/206143Orig1s008;209964Orig1s002ltr.pdf",
+              "date": "20210830",
+              "type": "Letter"
+            },
+            {
+              "id": "68405",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/206143s008,209964s002lblrpl.pdf#page=24",
+              "date": "20210818",
+              "type": "Medication Guide"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20170110",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "46804",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/206143Orig1s002lbl.pdf",
+              "date": "20170111",
+              "type": "Label"
+            },
+            {
+              "id": "46856",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/206143Orig1s002ltr.pdf",
+              "date": "20170119",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150415",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "63926",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/N206143_ivabradine_Orig_WR_11.pdf",
+              "date": "19000101",
+              "type": "Pediatric Written Request"
+            },
+            {
+              "id": "63927",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/N206143_ivabradine_Amend_1.pdf",
+              "date": "19000101",
+              "type": "Pediatric Amendment 1"
+            },
+            {
+              "id": "66842",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/402_209964 ivabradine clinical bpca.pdf",
+              "date": "19000101",
+              "type": "Pediatric Medical Review"
+            },
+            {
+              "id": "66843",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/401_209964 ivabradine CDTL bpca.pdf",
+              "date": "19000101",
+              "type": "Pediatric CDTL Review"
+            },
+            {
+              "id": "66844",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/403_209964 ivabradine clinpharm bpca.pdf",
+              "date": "19000101",
+              "type": "Pediatric Clinical Pharmacology Review"
+            },
+            {
+              "id": "66845",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/404_209964 ivabradine statistics bpca.pdf",
+              "date": "19000101",
+              "type": "Pediatric Statistical Review"
+            },
+            {
+              "id": "10548",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/206143Orig1s000ltr.pdf",
+              "date": "20150416",
+              "type": "Letter"
+            },
+            {
+              "id": "19706",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/206143Orig1s000lbl.pdf",
+              "date": "20150416",
+              "type": "Label"
+            },
+            {
+              "id": "23013",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2015/206143Orig1s000TOC.html",
+              "date": "20151120",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20190513",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "58664",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/206143s007lbl.pdf",
+              "date": "20190513",
+              "type": "Label"
+            },
+            {
+              "id": "58729",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/206143Orig1s007ltr.pdf",
+              "date": "20190515",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160505",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA206143",
+      "sponsor_name": "AMGEN INC",
+      "openfda": {
+        "application_number": [
+          "NDA206143"
+        ],
+        "brand_name": [
+          "CORLANOR"
+        ],
+        "generic_name": [
+          "IVABRADINE"
+        ],
+        "manufacturer_name": [
+          "Amgen Inc"
+        ],
+        "product_ndc": [
+          "55513-800",
+          "55513-810",
+          "55513-813"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "IVABRADINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1649485",
+          "1649491",
+          "1649493",
+          "1649495",
+          "2168592",
+          "2168596"
+        ],
+        "spl_id": [
+          "8ab000cd-0258-489a-b1bb-4cc1ca359d6c"
+        ],
+        "spl_set_id": [
+          "92018a65-38f6-45f7-91d4-a34921b81d0d"
+        ],
+        "package_ndc": [
+          "55513-800-60",
+          "55513-800-99",
+          "55513-810-60",
+          "55513-813-01",
+          "55513-813-28"
+        ],
+        "unii": [
+          "TP19837BZK"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "CORLANOR",
+          "active_ingredients": [
+            {
+              "name": "IVABRADINE HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "CORLANOR",
+          "active_ingredients": [
+            {
+              "name": "IVABRADINE HYDROCHLORIDE",
+              "strength": "EQ 7.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20221005",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213366",
+      "sponsor_name": "ANNORA PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA213366"
+        ],
+        "brand_name": [
+          "IVABRADINE"
+        ],
+        "generic_name": [
+          "IVABRADINE"
+        ],
+        "manufacturer_name": [
+          "Camber Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "31722-053",
+          "31722-054"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "IVABRADINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1649485",
+          "1649493"
+        ],
+        "spl_id": [
+          "174dfa8e-391c-3a0d-e063-6294a90af7ca"
+        ],
+        "spl_set_id": [
+          "602d1c55-0e4d-452a-a087-888fdbaa7568"
+        ],
+        "package_ndc": [
+          "31722-053-60",
+          "31722-054-60"
+        ],
+        "unii": [
+          "TP19837BZK"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "IVABRADINE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "IVABRADINE HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "IVABRADINE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "IVABRADINE HYDROCHLORIDE",
+              "strength": "EQ 7.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20231129",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213442",
+      "sponsor_name": "ZYDUS PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA213442"
+        ],
+        "brand_name": [
+          "IVABRADINE"
+        ],
+        "generic_name": [
+          "IVABRADINE"
+        ],
+        "manufacturer_name": [
+          "Zydus Pharmaceuticals USA Inc.",
+          "Zydus Lifesciences Limited"
+        ],
+        "product_ndc": [
+          "70710-1471",
+          "70710-1472",
+          "70771-1863",
+          "70771-1864"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "IVABRADINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1649485",
+          "1649493"
+        ],
+        "spl_id": [
+          "cbea8583-e207-402a-b79a-83ff14a3fa9b",
+          "b83cc3b5-db55-4fc0-a89d-2cae17fcd445"
+        ],
+        "spl_set_id": [
+          "89134202-971b-4413-a9c9-d31a5c29722b",
+          "246b495a-ea7b-4cbe-9a5f-87c2c0a59cb3"
+        ],
+        "package_ndc": [
+          "70710-1471-6",
+          "70710-1471-8",
+          "70710-1472-6",
+          "70710-1472-8",
+          "70771-1863-6",
+          "70771-1863-8",
+          "70771-1864-6",
+          "70771-1864-8"
+        ],
+        "unii": [
+          "TP19837BZK"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "IVABRADINE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "IVABRADINE HYDROCHLORIDE",
+              "strength": "EQ 7.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "IVABRADINE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "IVABRADINE HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20210804",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "68299",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/206143s008,209964s002lblrpl.pdf",
+              "date": "20210805",
+              "type": "Label"
+            },
+            {
+              "id": "68309",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/206143Orig1s008;209964Orig1s002ltr.pdf",
+              "date": "20210830",
+              "type": "Letter"
+            },
+            {
+              "id": "68406",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/206143s008,209964s002lblrpl.pdf#page=24",
+              "date": "20210818",
+              "type": "Medication Guide"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190422",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "58362",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/209964lbl.pdf",
+              "date": "20190422",
+              "type": "Label"
+            },
+            {
+              "id": "58363",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/209964lbl.pdf#page=24",
+              "date": "20190422",
+              "type": "Medication Guide"
+            },
+            {
+              "id": "58373",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/209964Orig1s000ltr.pdf",
+              "date": "20190424",
+              "type": "Letter"
+            },
+            {
+              "id": "60827",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/209964Orig1s000TOC.html",
+              "date": "20191113",
+              "type": "Review"
+            },
+            {
+              "id": "63081",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/209964 ivabradine CDTL bpca.pdf",
+              "date": "19000101",
+              "type": "Pediatric CDTL Review"
+            },
+            {
+              "id": "63082",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/209964 ivabradine clinical bpca.pdf",
+              "date": "19000101",
+              "type": "Pediatric Medical Review"
+            },
+            {
+              "id": "63083",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/209964 ivabradine clinpharm bpca.pdf",
+              "date": "19000101",
+              "type": "Pediatric Clinical Pharmacology Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA209964",
+      "sponsor_name": "AMGEN INC",
+      "openfda": {
+        "application_number": [
+          "NDA209964"
+        ],
+        "brand_name": [
+          "CORLANOR"
+        ],
+        "generic_name": [
+          "IVABRADINE"
+        ],
+        "manufacturer_name": [
+          "Amgen Inc"
+        ],
+        "product_ndc": [
+          "55513-813",
+          "55513-800",
+          "55513-810"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "IVABRADINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1649485",
+          "1649491",
+          "1649493",
+          "1649495",
+          "2168592",
+          "2168596"
+        ],
+        "spl_id": [
+          "8ab000cd-0258-489a-b1bb-4cc1ca359d6c"
+        ],
+        "spl_set_id": [
+          "92018a65-38f6-45f7-91d4-a34921b81d0d"
+        ],
+        "package_ndc": [
+          "55513-800-60",
+          "55513-800-99",
+          "55513-810-60",
+          "55513-813-01",
+          "55513-813-28"
+        ],
+        "unii": [
+          "TP19837BZK"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "CORLANOR",
+          "active_ingredients": [
+            {
+              "name": "IVABRADINE",
+              "strength": "5MG/5ML (1MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250428",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213483",
+      "sponsor_name": "MSN",
+      "openfda": {
+        "application_number": [
+          "ANDA213483"
+        ],
+        "brand_name": [
+          "IVABRADINE"
+        ],
+        "generic_name": [
+          "IVABRADINE"
+        ],
+        "manufacturer_name": [
+          "Novadoz Pharmaceuticals LLC",
+          "Northstar Rx LLC"
+        ],
+        "product_ndc": [
+          "72205-336",
+          "72205-337",
+          "72603-934",
+          "72603-935"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "IVABRADINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1649485",
+          "1649493"
+        ],
+        "spl_id": [
+          "c154911d-3174-409f-9619-3fe38dda4dbd",
+          "a7fb4728-1c41-4c01-8adb-a22dca0b1b1b"
+        ],
+        "spl_set_id": [
+          "676907d3-b374-4baa-8422-c04706409540",
+          "5157767b-16d5-4a69-b6bd-95d360d19fda"
+        ],
+        "package_ndc": [
+          "72205-336-60",
+          "72205-336-18",
+          "72205-337-60",
+          "72205-337-18",
+          "72603-934-01",
+          "72603-935-01"
+        ],
+        "unii": [
+          "TP19837BZK"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "IVABRADINE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "IVABRADINE HYDROCHLORIDE",
+              "strength": "EQ 7.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "IVABRADINE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "IVABRADINE HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20241108",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "71924",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/215238Orig1s000TAltr.pdf",
+              "date": "20220826",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA215238",
+      "sponsor_name": "ALEMBIC",
+      "openfda": {
+        "application_number": [
+          "ANDA215238"
+        ],
+        "brand_name": [
+          "IVABRADINE"
+        ],
+        "generic_name": [
+          "IVABRADINE"
+        ],
+        "manufacturer_name": [
+          "Alembic Pharmaceuticals Limited",
+          "Alembic Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "46708-679",
+          "46708-680",
+          "62332-679",
+          "62332-680"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "IVABRADINE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1649485",
+          "1649493"
+        ],
+        "spl_id": [
+          "51ac7345-3188-4382-ab1d-9120d6c88927",
+          "7532e07e-8646-4fdc-aed2-f72e01e8947f"
+        ],
+        "spl_set_id": [
+          "51ac7345-3188-4382-ab1d-9120d6c88927",
+          "53f15531-796d-442b-a73c-05f048218531"
+        ],
+        "package_ndc": [
+          "46708-679-60",
+          "46708-679-45",
+          "46708-680-60",
+          "46708-680-45",
+          "62332-679-60",
+          "62332-679-45",
+          "62332-680-60",
+          "62332-680-45"
+        ],
+        "unii": [
+          "TP19837BZK"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "IVABRADINE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "IVABRADINE HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "IVABRADINE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "IVABRADINE HYDROCHLORIDE",
+              "strength": "EQ 7.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    }
+  ]
+}

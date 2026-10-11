@@ -1,0 +1,116 @@
+{
+  "absent_vs_instrumented_tissue_restricted": {
+    "table": [
+      [
+        533,
+        53
+      ],
+      [
+        926,
+        635
+      ]
+    ],
+    "rows": [
+      "ABSENT",
+      "INSTR"
+    ],
+    "cols": [
+      "tissue-restricted",
+      "low-specificity"
+    ],
+    "odds_ratio": 6.896267166551204,
+    "ci95": [
+      5.109826886818038,
+      9.307262630587378
+    ],
+    "p_fisher": 2.889653506334365e-51
+  },
+  "testednull_vs_instrumented_tissue_restricted": {
+    "table": [
+      [
+        153,
+        72
+      ],
+      [
+        926,
+        635
+      ]
+    ],
+    "rows": [
+      "TESTNUL",
+      "INSTR"
+    ],
+    "cols": [
+      "tissue-restricted",
+      "low-specificity"
+    ],
+    "odds_ratio": 1.457208423326134,
+    "ci95": [
+      1.0819448674708445,
+      1.9626290145231073
+    ],
+    "p_fisher": 0.013152355796512596
+  },
+  "absent_vs_instrumented_secreted": {
+    "table": [
+      [
+        215,
+        397
+      ],
+      [
+        374,
+        1190
+      ]
+    ],
+    "rows": [
+      "ABSENT",
+      "INSTR"
+    ],
+    "cols": [
+      "secreted",
+      "not secreted"
+    ],
+    "odds_ratio": 1.723150904511106,
+    "ci95": [
+      1.4071416156476377,
+      2.1101280828446285
+    ],
+    "p_fisher": 1.8392747041331816e-07
+  },
+  "testednull_vs_instrumented_secreted": {
+    "table": [
+      [
+        46,
+        179
+      ],
+      [
+        374,
+        1190
+      ]
+    ],
+    "rows": [
+      "TESTNUL",
+      "INSTR"
+    ],
+    "cols": [
+      "secreted",
+      "not secreted"
+    ],
+    "odds_ratio": 0.8176739461655663,
+    "ci95": [
+      0.5795561605910845,
+      1.1536253562658696
+    ],
+    "p_fisher": 0.27455691038371755
+  },
+  "blood_tpm": {
+    "median_absent": 0.0127785,
+    "median_tested_null": 1.15671,
+    "median_instrumented": 5.491045,
+    "mw_absent_vs_instr_p": 4.475282316892997e-207,
+    "mw_testednull_vs_instr_p": 8.893592910427107e-12,
+    "n_absent": 634,
+    "n_tested_null": 227,
+    "n_instrumented": 1566
+  }
+}

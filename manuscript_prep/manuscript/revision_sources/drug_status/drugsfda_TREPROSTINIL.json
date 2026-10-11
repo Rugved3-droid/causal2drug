@@ -1,0 +1,2725 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 12
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20210211",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA211574",
+      "sponsor_name": "ALEMBIC GLOBAL",
+      "openfda": {
+        "application_number": [
+          "ANDA211574"
+        ],
+        "brand_name": [
+          "TREPROSTINIL"
+        ],
+        "generic_name": [
+          "TREPROSTINIL"
+        ],
+        "manufacturer_name": [
+          "Alembic Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "62332-514",
+          "62332-515",
+          "62332-516",
+          "62332-517"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS",
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "TREPROSTINIL"
+        ],
+        "rxcui": [
+          "349407",
+          "349408",
+          "349409",
+          "349410"
+        ],
+        "spl_id": [
+          "5384ef7c-88cc-4ab7-8eb7-627eba752f9d"
+        ],
+        "spl_set_id": [
+          "4a684b13-669d-4721-8ed4-30cc7762b0b8"
+        ],
+        "package_ndc": [
+          "62332-514-20",
+          "62332-515-20",
+          "62332-516-20",
+          "62332-517-20"
+        ],
+        "nui": [
+          "N0000175416",
+          "M0017817",
+          "N0000009909"
+        ],
+        "pharm_class_epc": [
+          "Prostacycline Vasodilator [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Prostaglandins I [CS]"
+        ],
+        "pharm_class_pe": [
+          "Vasodilation [PE]"
+        ],
+        "unii": [
+          "RUM6K67ESG"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "5MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "1MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "10MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "2.5MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20220707",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20230918",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200522",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210214",
+      "sponsor_name": "DR REDDYS",
+      "openfda": {
+        "application_number": [
+          "ANDA210214"
+        ],
+        "brand_name": [
+          "STERILE DILUENT FOR TREPROSTINIL",
+          "TREPROSTINIL"
+        ],
+        "generic_name": [
+          "WATER",
+          "TREPROSTINIL"
+        ],
+        "manufacturer_name": [
+          "Dr.Reddy's Laboratories Inc.,"
+        ],
+        "product_ndc": [
+          "43598-126",
+          "43598-649",
+          "43598-646",
+          "43598-647",
+          "43598-648"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS",
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "WATER",
+          "TREPROSTINIL"
+        ],
+        "rxcui": [
+          "349407",
+          "349408",
+          "349409",
+          "349410"
+        ],
+        "spl_id": [
+          "61347918-bb33-236c-6a2e-280b59e7ab31"
+        ],
+        "spl_set_id": [
+          "33050ee2-519b-1f0b-d4df-9e14dd329c57"
+        ],
+        "package_ndc": [
+          "43598-649-11",
+          "43598-646-11",
+          "43598-647-11",
+          "43598-648-11",
+          "43598-126-11"
+        ],
+        "nui": [
+          "N0000175416",
+          "M0017817",
+          "N0000009909"
+        ],
+        "pharm_class_epc": [
+          "Prostacycline Vasodilator [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Prostaglandins I [CS]"
+        ],
+        "pharm_class_pe": [
+          "Vasodilation [PE]"
+        ],
+        "unii": [
+          "059QF0KO0R",
+          "RUM6K67ESG"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "5MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "1MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "10MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "2.5MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20141006",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "40305",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/203496s001lbl.pdf",
+              "date": "20141009",
+              "type": "Label"
+            },
+            {
+              "id": "10226",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/203496Orig1s001ltr.pdf",
+              "date": "20141008",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20131220",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "19478",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/203496Orig1s000lbl_edt.pdf",
+              "date": "20131223",
+              "type": "Label"
+            },
+            {
+              "id": "22924",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2013/203496Orig1s000TOC.html",
+              "date": "20141209",
+              "type": "Review"
+            },
+            {
+              "id": "24436",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2013/203496Orig1s000SumR.pdf",
+              "date": "20141209",
+              "type": "Summary Review"
+            },
+            {
+              "id": "32433",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/203496Orig1s000ltr.pdf",
+              "date": "20131224",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20170124",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "46981",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/203496s006lbl.pdf",
+              "date": "20170124",
+              "type": "Label"
+            },
+            {
+              "id": "47005",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/203496Orig1s006ltr.pdf",
+              "date": "20170127",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20260804",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "86779",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/203496s017lbl.pdf",
+              "date": "20260804",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20160128",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "40306",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/203496s002lbl.pdf",
+              "date": "20160211",
+              "type": "Label"
+            },
+            {
+              "id": "10227",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/203496Orig1s002ltr.pdf",
+              "date": "20160128",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20201103",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "67028",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/203496Orig1s013lbl.pdf",
+              "date": "20251209",
+              "type": "Label"
+            },
+            {
+              "id": "84389",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/203496Orig1s013ltr.pdf",
+              "date": "20251212",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20191018",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "60597",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/203496s011lbl.pdf",
+              "date": "20191021",
+              "type": "Label"
+            },
+            {
+              "id": "60618",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/203496Orig1s011ltr.pdf",
+              "date": "20191022",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20170607",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "48715",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/203496s007lbl.pdf",
+              "date": "20170614",
+              "type": "Label"
+            },
+            {
+              "id": "48753",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/203496Orig1s007ltr.pdf",
+              "date": "20170616",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA203496",
+      "sponsor_name": "UNITED THERAP",
+      "openfda": {
+        "application_number": [
+          "NDA203496"
+        ],
+        "brand_name": [
+          "ORENITRAM"
+        ],
+        "generic_name": [
+          "TREPROSTINIL"
+        ],
+        "manufacturer_name": [
+          "United Therapeutics Corporation"
+        ],
+        "product_ndc": [
+          "66302-300",
+          "66302-302",
+          "66302-310",
+          "66302-325",
+          "66302-350",
+          "66302-361",
+          "66302-362",
+          "66302-363"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TREPROSTINIL"
+        ],
+        "rxcui": [
+          "1488665",
+          "1488667",
+          "1488670",
+          "1488671",
+          "1488674",
+          "1488675",
+          "1488678",
+          "1488679",
+          "1858831",
+          "1858833",
+          "2630666",
+          "2630667",
+          "2630668",
+          "2630669",
+          "2630670",
+          "2630671"
+        ],
+        "spl_id": [
+          "bd66c62e-4aee-4fd0-bc7d-f78994dd9e29"
+        ],
+        "spl_set_id": [
+          "8ed2003a-c801-411e-831e-d06079bb0d7c"
+        ],
+        "package_ndc": [
+          "66302-300-01",
+          "66302-300-10",
+          "66302-300-02",
+          "66302-302-01",
+          "66302-302-10",
+          "66302-302-02",
+          "66302-310-01",
+          "66302-310-10",
+          "66302-310-02",
+          "66302-325-01",
+          "66302-325-10",
+          "66302-325-02",
+          "66302-350-01",
+          "66302-350-10",
+          "66302-350-02",
+          "66302-361-28",
+          "66302-362-56",
+          "66302-363-84"
+        ],
+        "nui": [
+          "N0000175416",
+          "M0017817",
+          "N0000009909"
+        ],
+        "pharm_class_epc": [
+          "Prostacycline Vasodilator [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Prostaglandins I [CS]"
+        ],
+        "pharm_class_pe": [
+          "Vasodilation [PE]"
+        ],
+        "unii": [
+          "RUM6K67ESG"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "005",
+          "reference_drug": "Yes",
+          "brand_name": "ORENITRAM",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL DIOLAMINE",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "ORENITRAM",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL DIOLAMINE",
+              "strength": "EQ 1MG BASE"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ORENITRAM",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL DIOLAMINE",
+              "strength": "EQ 0.125MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "ORENITRAM",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL DIOLAMINE",
+              "strength": "EQ 2.5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "ORENITRAM",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL DIOLAMINE",
+              "strength": "EQ 0.25MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250523",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "application_docs": [
+            {
+              "id": "69267",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/213005Orig1s000ltr.pdf",
+              "date": "20250528",
+              "type": "Letter"
+            },
+            {
+              "id": "82398",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2025/213005s000lbl.pdf",
+              "date": "20250602",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA213005",
+      "sponsor_name": "LIQUIDIA TECH",
+      "openfda": {
+        "application_number": [
+          "NDA213005"
+        ],
+        "brand_name": [
+          "YUTREPIA"
+        ],
+        "generic_name": [
+          "TREPROSTINIL"
+        ],
+        "manufacturer_name": [
+          "Liquidia Technologies, Inc."
+        ],
+        "product_ndc": [
+          "72964-011",
+          "72964-012",
+          "72964-013",
+          "72964-014"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "RESPIRATORY (INHALATION)"
+        ],
+        "substance_name": [
+          "TREPROSTINIL SODIUM"
+        ],
+        "rxcui": [
+          "2714659",
+          "2714664",
+          "2714666",
+          "2714668",
+          "2714670",
+          "2714672",
+          "2714674",
+          "2714676"
+        ],
+        "spl_id": [
+          "92c4515d-7de1-4bde-9ee9-f350696ba98d"
+        ],
+        "spl_set_id": [
+          "e8f6d534-115c-440e-bdbb-b443a29bb468"
+        ],
+        "package_ndc": [
+          "72964-011-01",
+          "72964-012-01",
+          "72964-013-01",
+          "72964-014-01"
+        ],
+        "unii": [
+          "7JZ75N2NT6"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "YUTREPIA",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL SODIUM",
+              "strength": "EQ 0.0795MG BASE/INH"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "POWDER",
+          "route": "INHALATION",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "YUTREPIA",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL SODIUM",
+              "strength": "EQ 0.0265MG BASE/INH"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "POWDER",
+          "route": "INHALATION",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "YUTREPIA",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL SODIUM",
+              "strength": "EQ 0.106MG BASE/INH"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "POWDER",
+          "route": "INHALATION",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "YUTREPIA",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL SODIUM",
+              "strength": "EQ 0.053MG BASE/INH"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "POWDER",
+          "route": "INHALATION",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190926",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA206648",
+      "sponsor_name": "TEVA PHARMS USA",
+      "openfda": {
+        "application_number": [
+          "ANDA206648"
+        ],
+        "brand_name": [
+          "TREPROSTINIL"
+        ],
+        "generic_name": [
+          "TREPROSTINIL"
+        ],
+        "manufacturer_name": [
+          "Teva Parenteral Medicines, Inc."
+        ],
+        "product_ndc": [
+          "0703-0666",
+          "0703-0676",
+          "0703-0686",
+          "0703-0696"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS",
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "TREPROSTINIL"
+        ],
+        "rxcui": [
+          "349407",
+          "349408",
+          "349409",
+          "349410"
+        ],
+        "spl_id": [
+          "c7be0baa-694d-498d-a474-3611f7773954"
+        ],
+        "spl_set_id": [
+          "4b2ce4aa-4302-49db-9456-c8cf0e034968"
+        ],
+        "package_ndc": [
+          "0703-0666-01",
+          "0703-0676-01",
+          "0703-0686-01",
+          "0703-0696-01"
+        ],
+        "nui": [
+          "N0000175416",
+          "M0017817",
+          "N0000009909"
+        ],
+        "pharm_class_epc": [
+          "Prostacycline Vasodilator [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Prostaglandins I [CS]"
+        ],
+        "pharm_class_pe": [
+          "Vasodilation [PE]"
+        ],
+        "unii": [
+          "RUM6K67ESG"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "5MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "1MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "10MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "2.5MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "TA",
+          "submission_status_date": "20200819",
+          "review_priority": "N/A",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "66253",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/021272Orig1s030ltr.pdf",
+              "date": "20210217",
+              "type": "Letter"
+            },
+            {
+              "id": "66841",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/021272Orig1s030lbl.pdf",
+              "date": "20210323",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20160122",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20130926",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "42068",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2013/021272Orig1s020.pdf",
+              "date": "20140116",
+              "type": "Review"
+            },
+            {
+              "id": "4857",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/021272Orig1s020ltredt.pdf",
+              "date": "20131001",
+              "type": "Letter"
+            },
+            {
+              "id": "14825",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021272s020lbl.pdf",
+              "date": "20130927",
+              "type": "Label"
+            },
+            {
+              "id": "27310",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/021272Orig1s020ltr.pdf",
+              "date": "20130926",
+              "type": "Letter"
+            },
+            {
+              "id": "36531",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021272s020lbledt.pdf",
+              "date": "20130927",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20020521",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "14821",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2002/21272lbl.pdf",
+              "date": "20020521",
+              "type": "Label"
+            },
+            {
+              "id": "21562",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-272_Remodulin.html",
+              "date": "20020731",
+              "type": "Review"
+            },
+            {
+              "id": "27304",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/21272ini.pdf",
+              "date": "20020521",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20080204",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "4855",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/021272s009ltr.pdf",
+              "date": "20080207",
+              "type": "Letter"
+            },
+            {
+              "id": "14824",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/021272s009lbl.pdf",
+              "date": "20080214",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "20230307",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "73711",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/021272Orig1s037ltr.pdf",
+              "date": "20230308",
+              "type": "Letter"
+            },
+            {
+              "id": "74053",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021272Orig1s037lbl.pdf",
+              "date": "20230425",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20060320",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "14822",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021272S005lbl.pdf",
+              "date": "20060322",
+              "type": "Label"
+            },
+            {
+              "id": "21564",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021272Orig1s005.pdf",
+              "date": "20151118",
+              "type": "Review"
+            },
+            {
+              "id": "27306",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/021272S005ltr.pdf",
+              "date": "20060323",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20141222",
+          "review_priority": "N/A",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "45363",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/021272s019lbl.pdf",
+              "date": "20160927",
+              "type": "Label"
+            },
+            {
+              "id": "27309",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/021272Orig1s019ltr.pdf",
+              "date": "20141230",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20180730",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "55068",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/208276s000,021272s025lbl.pdf",
+              "date": "20180731",
+              "type": "Label"
+            },
+            {
+              "id": "55082",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/208276Orig1s000,021272Oirg1s025ltr.pdf",
+              "date": "20180803",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20060120",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "27305",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/021272s003ltr.pdf",
+              "date": "20060130",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20110208",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "27308",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021272s015ltr.pdf",
+              "date": "20110214",
+              "type": "Letter"
+            },
+            {
+              "id": "36530",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021272s015lbl.pdf",
+              "date": "20110209",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20140103",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20100108",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "4856",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/021272s011ltr.pdf",
+              "date": "20100115",
+              "type": "Letter"
+            },
+            {
+              "id": "36529",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021272s011lbl.pdf",
+              "date": "20100112",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20080912",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "14823",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/021272s008lbl.pdf",
+              "date": "20080919",
+              "type": "Label"
+            },
+            {
+              "id": "27307",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/021272s008ltr.pdf",
+              "date": "20080916",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20180608",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "54538",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/021272s026lbl.pdf",
+              "date": "20180612",
+              "type": "Label"
+            },
+            {
+              "id": "54561",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/021272Orig1s026ltr.pdf",
+              "date": "20180614",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "32",
+          "submission_status": "AP",
+          "submission_status_date": "20210730",
+          "review_priority": "N/A",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "68585",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/021272Orig1s032ltr.pdf",
+              "date": "20210913",
+              "type": "Letter"
+            },
+            {
+              "id": "68588",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/021272Orig1s032lbl.pdf",
+              "date": "20210913",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20041124",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "21563",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021272Orig1s002.pdf",
+              "date": "20111010",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA021272",
+      "sponsor_name": "UNITED THERAP",
+      "openfda": {
+        "application_number": [
+          "NDA021272"
+        ],
+        "brand_name": [
+          "REMODULIN",
+          "STERILE DILUENT FOR REMODULIN"
+        ],
+        "generic_name": [
+          "TREPROSTINIL",
+          "WATER"
+        ],
+        "manufacturer_name": [
+          "United Therapeutics Corporation"
+        ],
+        "product_ndc": [
+          "66302-101",
+          "66302-111",
+          "66302-112",
+          "66302-114",
+          "66302-102",
+          "66302-105",
+          "66302-110",
+          "66302-120",
+          "66302-150"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS",
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "TREPROSTINIL",
+          "WATER"
+        ],
+        "rxcui": [
+          "349407",
+          "349408",
+          "349409",
+          "349410",
+          "352211",
+          "352212",
+          "352213",
+          "352214",
+          "2590175",
+          "2590177",
+          "2667748",
+          "2667750",
+          "2667752",
+          "2667754",
+          "2667756",
+          "2667758"
+        ],
+        "spl_id": [
+          "b6a60240-eed2-4929-bb92-b139e8200652"
+        ],
+        "spl_set_id": [
+          "6c80bb38-e8db-4138-9f0d-dbbf9c673185"
+        ],
+        "package_ndc": [
+          "66302-111-01",
+          "66302-112-01",
+          "66302-114-01",
+          "66302-101-01",
+          "66302-102-01",
+          "66302-105-01",
+          "66302-110-01",
+          "66302-120-01",
+          "66302-150-50"
+        ],
+        "nui": [
+          "N0000175416",
+          "M0017817",
+          "N0000009909"
+        ],
+        "pharm_class_epc": [
+          "Prostacycline Vasodilator [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Prostaglandins I [CS]"
+        ],
+        "pharm_class_pe": [
+          "Vasodilation [PE]"
+        ],
+        "unii": [
+          "059QF0KO0R",
+          "RUM6K67ESG"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "007",
+          "reference_drug": "Yes",
+          "brand_name": "REMODULIN",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "0.2MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "Yes",
+          "brand_name": "REMODULIN",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "20MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "REMODULIN",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "5MG/ML"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "REMODULIN",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "1MG/ML"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "008",
+          "reference_drug": "Yes",
+          "brand_name": "REMODULIN",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "0.4MG/ML"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "Yes",
+          "brand_name": "REMODULIN",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "0.1MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "REMODULIN",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "10MG/ML"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "REMODULIN",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "2.5MG/ML"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "TA",
+          "submission_status_date": "20230403",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "74153",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/208906Orig1s000TA_ltr.pdf",
+              "date": "20230502",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA208906",
+      "sponsor_name": "ACTAVIS LABS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "0.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "0.125MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20140801",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20140520",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "38647",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/022387s009lbl.pdf",
+              "date": "20140528",
+              "type": "Label"
+            },
+            {
+              "id": "7313",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/022387Orig1s009ltr.pdf",
+              "date": "20140522",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20130107",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20260403",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "85641",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/022387Orig1s028ltr.pdf",
+              "date": "20260407",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20160606",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "7314",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/022387Orig1s014ltr.pdf",
+              "date": "20160608",
+              "type": "Letter"
+            },
+            {
+              "id": "17305",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/022387s014lbl.pdf",
+              "date": "20160613",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20090730",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "38644",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/022387LBL.pdf",
+              "date": "20090730",
+              "type": "Label"
+            },
+            {
+              "id": "44499",
+              "title": "Usage Instructions",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/022387UsageInstr.pdf",
+              "date": "20090805",
+              "type": "Other"
+            },
+            {
+              "id": "7312",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/022387s000ltr.pdf",
+              "date": "20090806",
+              "type": "Letter"
+            },
+            {
+              "id": "22009",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2009/022387s000TOC.html",
+              "date": "20100406",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20220520",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "71123",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/022387Orig1s020ltr.pdf",
+              "date": "20220523",
+              "type": "Letter"
+            },
+            {
+              "id": "71130",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2022/022387s020lbl.pdf",
+              "date": "20220523",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20150623",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20130430",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "29670",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/022387Orig1s008ltr.pdf",
+              "date": "20130502",
+              "type": "Letter"
+            },
+            {
+              "id": "38646",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/022387s008lbl.pdf",
+              "date": "20130501",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20110208",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "29669",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022387s004ltr.pdf",
+              "date": "20110214",
+              "type": "Letter"
+            },
+            {
+              "id": "38645",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022387s004lbl.pdf",
+              "date": "20110209",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20210331",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "66936",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/022387s017lbl.pdf",
+              "date": "20210401",
+              "type": "Label"
+            },
+            {
+              "id": "66944",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/022387Orig1s017ltr.pdf",
+              "date": "20210401",
+              "type": "Letter"
+            },
+            {
+              "id": "69507",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/022387Orig1s017.pdf",
+              "date": "20211207",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20171019",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "50139",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/022387Orig1s015ltr.pdf",
+              "date": "20171023",
+              "type": "Letter"
+            },
+            {
+              "id": "50162",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/022387s015lbl.pdf",
+              "date": "20171024",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA022387",
+      "sponsor_name": "UNITED THERAP",
+      "openfda": {
+        "application_number": [
+          "NDA022387"
+        ],
+        "brand_name": [
+          "TYVASO"
+        ],
+        "generic_name": [
+          "TREPROSTINIL"
+        ],
+        "manufacturer_name": [
+          "United Therapeutics Corporation"
+        ],
+        "product_ndc": [
+          "66302-206"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TREPROSTINIL"
+        ],
+        "rxcui": [
+          "857795",
+          "857799"
+        ],
+        "spl_id": [
+          "78a0b514-481a-4ea9-8ec6-8b60acdf2158"
+        ],
+        "spl_set_id": [
+          "cbc31ab1-a80f-4b50-a3b1-39910b0fb609"
+        ],
+        "package_ndc": [
+          "66302-206-01",
+          "66302-206-02",
+          "66302-206-03",
+          "66302-206-04"
+        ],
+        "nui": [
+          "N0000175416",
+          "M0017817",
+          "N0000009909"
+        ],
+        "pharm_class_epc": [
+          "Prostacycline Vasodilator [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Prostaglandins I [CS]"
+        ],
+        "pharm_class_pe": [
+          "Vasodilation [PE]"
+        ],
+        "unii": [
+          "RUM6K67ESG"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "TYVASO",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "0.6MG/ML"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "INHALATION",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220523",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "71137",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2022/214324s000lbl.pdf",
+              "date": "20220524",
+              "type": "Label"
+            },
+            {
+              "id": "71138",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/214324Orig1s000ltr.pdf",
+              "date": "20220524",
+              "type": "Letter"
+            },
+            {
+              "id": "71519",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/214324Orig1s000TOC.html",
+              "date": "20220706",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20260923",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "87255",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/214324Orig1s007ltr.pdf",
+              "date": "20260923",
+              "type": "Letter"
+            },
+            {
+              "id": "87264",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/214324Orig1s007lbl.pdf",
+              "date": "20260923",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA214324",
+      "sponsor_name": "UNITED THERAP",
+      "openfda": {
+        "application_number": [
+          "NDA214324"
+        ],
+        "brand_name": [
+          "TYVASO DPI"
+        ],
+        "generic_name": [
+          "TREPROSTINIL"
+        ],
+        "manufacturer_name": [
+          "United Therapeutics Corporation"
+        ],
+        "product_ndc": [
+          "66302-610",
+          "66302-616",
+          "66302-716",
+          "66302-632",
+          "66302-732",
+          "66302-648",
+          "66302-748",
+          "66302-664",
+          "66302-764",
+          "66302-680",
+          "66302-780",
+          "66302-600",
+          "66302-620",
+          "66302-630",
+          "66302-640",
+          "66302-720",
+          "66302-650",
+          "66302-660",
+          "66302-670"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "rxcui": [
+          "2602751",
+          "2602754",
+          "2602756",
+          "2602758",
+          "2602760",
+          "2602762",
+          "2602764",
+          "2602766",
+          "2602767",
+          "2602768",
+          "2602769",
+          "2602770",
+          "2602771",
+          "2602772",
+          "2602773",
+          "2602774",
+          "2641906",
+          "2641907",
+          "2641911",
+          "2641912",
+          "2641913",
+          "2641914",
+          "2697737",
+          "2697739",
+          "2727470",
+          "2727471",
+          "2727472",
+          "2727473"
+        ],
+        "spl_id": [
+          "81912284-3d3a-430e-a55e-df239b084535"
+        ],
+        "spl_set_id": [
+          "ddc3d400-bcb3-4b09-aae2-0768b10a5b0f"
+        ],
+        "package_ndc": [
+          "66302-616-03",
+          "66302-716-04",
+          "66302-632-03",
+          "66302-732-04",
+          "66302-648-03",
+          "66302-748-04",
+          "66302-664-03",
+          "66302-764-04",
+          "66302-680-03",
+          "66302-780-04",
+          "66302-600-02",
+          "66302-620-03",
+          "66302-630-03",
+          "66302-640-03",
+          "66302-720-04",
+          "66302-610-02",
+          "66302-650-03",
+          "66302-660-03",
+          "66302-670-03"
+        ],
+        "nui": [
+          "N0000175416",
+          "M0017817",
+          "N0000009909"
+        ],
+        "pharm_class_epc": [
+          "Prostacycline Vasodilator [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Prostaglandins I [CS]"
+        ],
+        "pharm_class_pe": [
+          "Vasodilation [PE]"
+        ],
+        "unii": [
+          "RUM6K67ESG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TREPROSTINIL"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "005",
+          "reference_drug": "Yes",
+          "brand_name": "TYVASO DPI",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "0.08MG/INH"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "POWDER",
+          "route": "INHALATION",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "TYVASO DPI",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "0.048MG/INH"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "POWDER",
+          "route": "INHALATION",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "TYVASO DPI",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "0.016MG/INH"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "POWDER",
+          "route": "INHALATION",
+          "marketing_status": "Prescription",
+          "te_code": "TBD"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "TYVASO DPI",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "0.064MG/INH"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "POWDER",
+          "route": "INHALATION",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "TYVASO DPI",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "0.032MG/INH"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "POWDER",
+          "route": "INHALATION",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20181120",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20181120",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180418",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20240314",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20171130",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "50587",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/203649Orig1s000lbl.pdf",
+              "date": "20171204",
+              "type": "Label"
+            },
+            {
+              "id": "32455",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/203649Orig1s000ltr.pdf",
+              "date": "20141104",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20181120",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA203649",
+      "sponsor_name": "SANDOZ",
+      "openfda": {
+        "application_number": [
+          "ANDA203649"
+        ],
+        "brand_name": [
+          "TREPROSTINIL",
+          "DILUENT"
+        ],
+        "generic_name": [
+          "TREPROSTINIL",
+          "WATER SOLUTION"
+        ],
+        "manufacturer_name": [
+          "Sandoz Inc"
+        ],
+        "product_ndc": [
+          "0781-3420",
+          "0781-3425",
+          "0781-3427",
+          "0781-3430",
+          "0781-6021"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS",
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "TREPROSTINIL",
+          "WATER"
+        ],
+        "rxcui": [
+          "349407",
+          "349408",
+          "349409",
+          "349410"
+        ],
+        "spl_id": [
+          "fe80d00e-9eba-4192-9515-f9a5ad686a53"
+        ],
+        "spl_set_id": [
+          "473297ca-a872-4052-a053-87dc8f0d3c13"
+        ],
+        "package_ndc": [
+          "0781-3420-80",
+          "0781-3425-80",
+          "0781-3427-80",
+          "0781-3430-80",
+          "0781-6021-94"
+        ],
+        "nui": [
+          "N0000175416",
+          "M0017817",
+          "N0000009909"
+        ],
+        "pharm_class_epc": [
+          "Prostacycline Vasodilator [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Prostaglandins I [CS]"
+        ],
+        "pharm_class_pe": [
+          "Vasodilation [PE]"
+        ],
+        "unii": [
+          "059QF0KO0R",
+          "RUM6K67ESG"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "10MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "2.5MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "5MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "1MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180730",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "55067",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/208276s000,021272s025lbl.pdf",
+              "date": "20180731",
+              "type": "Label"
+            },
+            {
+              "id": "55081",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/208276Orig1s000,021272Oirg1s025ltr.pdf",
+              "date": "20180803",
+              "type": "Letter"
+            },
+            {
+              "id": "58352",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/208276Orig1s000TOC.html",
+              "date": "20180730",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA208276",
+      "sponsor_name": "UNITED THERAP",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "REMODULIN",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "100MG/20ML (5MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "REMODULIN",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "20MG/20ML (1MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "REMODULIN",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "200MG/20ML (10MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "REMODULIN",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "50MG/20ML (2.5MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20221027",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190924",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "57321",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/209382Orig1s000TAltr.pdf",
+              "date": "20190122",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA209382",
+      "sponsor_name": "PH HEALTH",
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "10MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "2.5MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "5MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TREPROSTINIL",
+          "active_ingredients": [
+            {
+              "name": "TREPROSTINIL",
+              "strength": "1MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        }
+      ]
+    }
+  ]
+}

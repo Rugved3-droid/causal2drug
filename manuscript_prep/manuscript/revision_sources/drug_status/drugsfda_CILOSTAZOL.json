@@ -1,0 +1,1580 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 16
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20040204",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3600",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/20863slr007ltr.pdf",
+              "date": "20040303",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20001227",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20000626",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19990331",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20070118",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "13634",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/020863s019lbl.pdf",
+              "date": "20070124",
+              "type": "Label"
+            },
+            {
+              "id": "26074",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/020863s019ltr.pdf",
+              "date": "20070125",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20150730",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "13637",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/020863s023lbl.pdf",
+              "date": "20150804",
+              "type": "Label"
+            },
+            {
+              "id": "26076",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/020863Orig1s023ltr.pdf",
+              "date": "20150731",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20071113",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "13635",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/020863s021lbl.pdf",
+              "date": "20071119",
+              "type": "Label"
+            },
+            {
+              "id": "3601",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/020863s021ltr.pdf",
+              "date": "20071119",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20020920",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20051123",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "26073",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/020863s011ltr.pdf",
+              "date": "20051130",
+              "type": "Letter"
+            },
+            {
+              "id": "35526",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/020863s011lbl.pdf",
+              "date": "20051130",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20010307",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20000707",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19990115",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "13633",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/1999/cilo_label.htm",
+              "date": "20040614",
+              "type": "Label"
+            },
+            {
+              "id": "21027",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20863.html",
+              "date": "19990115",
+              "type": "Review"
+            },
+            {
+              "id": "3599",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1999/cilostazol_letter.pdf",
+              "date": "19990115",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20000216",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20170517",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "48449",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020863s024lbl.pdf",
+              "date": "20170518",
+              "type": "Label"
+            },
+            {
+              "id": "48454",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/020863Orig1s024ltr.pdf",
+              "date": "20170519",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20150123",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "13636",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/020863s022lbl.pdf",
+              "date": "20150129",
+              "type": "Label"
+            },
+            {
+              "id": "26075",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/020863Orig1s022ltr.pdf",
+              "date": "20150126",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020863",
+      "sponsor_name": "OTSUKA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "PLETAL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "50MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "PLETAL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "100MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20060329"
+        }
+      ],
+      "application_number": "ANDA077208",
+      "sponsor_name": "SLATE RUN PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA077208"
+        ],
+        "brand_name": [
+          "CILOSTAZOL"
+        ],
+        "generic_name": [
+          "CILOSTAZOL"
+        ],
+        "manufacturer_name": [
+          "Slate Run Pharmaceuticals, LLC"
+        ],
+        "product_ndc": [
+          "70436-156",
+          "70436-157"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CILOSTAZOL"
+        ],
+        "rxcui": [
+          "242461",
+          "242462"
+        ],
+        "spl_id": [
+          "45be0b2e-7ae1-42d2-e063-6394a90a1da6"
+        ],
+        "spl_set_id": [
+          "db0278e9-4ece-4aaf-9216-6bcbec58206a"
+        ],
+        "package_ndc": [
+          "70436-156-06",
+          "70436-157-06"
+        ],
+        "nui": [
+          "N0000175598",
+          "N0000175086"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 3 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 3 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "N7Z035406B"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20071029"
+        }
+      ],
+      "application_number": "ANDA077898",
+      "sponsor_name": "PLIVA HRVATSKA DOO",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20201110",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20090603",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20041123",
+          "application_docs": [
+            {
+              "id": "31187",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/77019LTR.pdf",
+              "date": "20041202",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA077019",
+      "sponsor_name": "AUROBINDO PHARMA USA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20080909",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20160325",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20080709",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20050517"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20160325",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077024",
+      "sponsor_name": "HIKMA PHARMS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20171201",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20051108"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20160404",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20080310",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077310",
+      "sponsor_name": "CHARTWELL RX",
+      "openfda": {
+        "application_number": [
+          "ANDA077310"
+        ],
+        "brand_name": [
+          "CILOSTAZOL"
+        ],
+        "generic_name": [
+          "CILOSTAZOL"
+        ],
+        "manufacturer_name": [
+          "Chartwell RX, LLC"
+        ],
+        "product_ndc": [
+          "62135-983",
+          "62135-986"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CILOSTAZOL"
+        ],
+        "rxcui": [
+          "242461",
+          "242462"
+        ],
+        "spl_id": [
+          "3dfa32ae-94ba-4885-e063-6394a90a9333"
+        ],
+        "spl_set_id": [
+          "77e77eaf-5556-43ac-844e-c0e29f02fe07"
+        ],
+        "package_ndc": [
+          "62135-983-60",
+          "62135-986-60"
+        ],
+        "nui": [
+          "N0000175598",
+          "N0000175086"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 3 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 3 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "N7Z035406B"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20050301"
+        }
+      ],
+      "application_number": "ANDA077020",
+      "sponsor_name": "IVAX SUB TEVA PHARMS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20171201",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20041123",
+          "application_docs": [
+            {
+              "id": "8992",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/77021ltr.pdf",
+              "date": "20041202",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20160404",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20080310",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077021",
+      "sponsor_name": "CHARTWELL RX",
+      "openfda": {
+        "application_number": [
+          "ANDA077021"
+        ],
+        "brand_name": [
+          "CILOSTAZOL"
+        ],
+        "generic_name": [
+          "CILOSTAZOL"
+        ],
+        "manufacturer_name": [
+          "Chartwell RX, LLC"
+        ],
+        "product_ndc": [
+          "62135-986",
+          "62135-983"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CILOSTAZOL"
+        ],
+        "rxcui": [
+          "242461",
+          "242462"
+        ],
+        "spl_id": [
+          "3dfa32ae-94ba-4885-e063-6394a90a9333"
+        ],
+        "spl_set_id": [
+          "77e77eaf-5556-43ac-844e-c0e29f02fe07"
+        ],
+        "package_ndc": [
+          "62135-983-60",
+          "62135-986-60"
+        ],
+        "nui": [
+          "N0000175598",
+          "N0000175086"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 3 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 3 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "N7Z035406B"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20201118",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20100706",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20100527",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20041123",
+          "application_docs": [
+            {
+              "id": "8993",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/77022ltr.pdf",
+              "date": "20041202",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20080214",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20170321",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20060214",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077022",
+      "sponsor_name": "EPIC PHARMA LLC",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20180719",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20041126"
+        }
+      ],
+      "application_number": "ANDA077028",
+      "sponsor_name": "ACTAVIS ELIZABETH",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "100MG"
+            }
+          ],
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20060508",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20160404",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20141231",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20041124"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20140923",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20080627",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20201218",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20061207",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20160404",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20120309",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20141106",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA077027",
+      "sponsor_name": "TEVA",
+      "openfda": {
+        "application_number": [
+          "ANDA077027"
+        ],
+        "brand_name": [
+          "CILOSTAZOL"
+        ],
+        "generic_name": [
+          "CILOSTAZOL"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "0093-2064",
+          "0093-2065"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CILOSTAZOL"
+        ],
+        "rxcui": [
+          "242461",
+          "242462"
+        ],
+        "spl_id": [
+          "01457771-0b8c-4f1b-8513-01ad09ac97cc"
+        ],
+        "spl_set_id": [
+          "a6292311-9cb2-49ff-b8bf-12e2dbd196cd"
+        ],
+        "package_ndc": [
+          "0093-2065-06",
+          "0093-2064-06",
+          "0093-2064-50"
+        ],
+        "nui": [
+          "N0000175598",
+          "N0000175086"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 3 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 3 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "N7Z035406B"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20041210"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20160404",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20080829",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20201116",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20160404",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20070816",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077030",
+      "sponsor_name": "APOTEX",
+      "openfda": {
+        "application_number": [
+          "ANDA077030"
+        ],
+        "brand_name": [
+          "CILOSTAZOL"
+        ],
+        "generic_name": [
+          "CILOSTAZOL"
+        ],
+        "manufacturer_name": [
+          "Apotex Corp."
+        ],
+        "product_ndc": [
+          "60505-2521",
+          "60505-2522"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CILOSTAZOL"
+        ],
+        "rxcui": [
+          "242461",
+          "242462"
+        ],
+        "spl_id": [
+          "a10eb847-1c2f-7cdf-4274-81e6e3aab180"
+        ],
+        "spl_set_id": [
+          "ceac1ae3-c343-28ca-c083-b748d21a15e6"
+        ],
+        "package_ndc": [
+          "60505-2521-3",
+          "60505-2521-1",
+          "60505-2521-8",
+          "60505-2522-3",
+          "60505-2522-1",
+          "60505-2522-8"
+        ],
+        "nui": [
+          "N0000175598",
+          "N0000175086"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 3 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 3 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "N7Z035406B"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20171228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20100831",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20060420"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20171228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20110510",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077323",
+      "sponsor_name": "RISING",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160329",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20120924"
+        }
+      ],
+      "application_number": "ANDA077831",
+      "sponsor_name": "CHARTWELL RX",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20180315",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180315",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20090928"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20180315",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077708",
+      "sponsor_name": "SANKALP LIFECARE",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20120924"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160329",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077722",
+      "sponsor_name": "CHARTWELL RX",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CILOSTAZOL",
+          "active_ingredients": [
+            {
+              "name": "CILOSTAZOL",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    }
+  ]
+}

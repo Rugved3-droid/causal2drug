@@ -1,0 +1,22 @@
+**Supplementary Table S9. Tissue-restricted expression and secretion among uninstrumentable versus instrumented targets**
+
+| Set | Group | Feature | Group with feature | Instrumented with feature | Odds ratio | 95% CI | p |
+|---|---|---|---|---|---|---|---|
+| Primary set | No eQTL data | tissue restricted | 189 / 202 | 290 / 439 | 7.47 | 4.12-13.55 | 1.02×10⁻¹⁵ |
+| Primary set | No qualifying instrument | tissue restricted | 46 / 63 | 290 / 439 | 1.39 | 0.77-2.51 | 0.317 |
+| Primary set | No eQTL data | secreted | 83 / 206 | 136 / 440 | 1.51 | 1.07-2.13 | 0.0206 |
+| Primary set | No qualifying instrument | secreted | 16 / 63 | 136 / 440 | 0.76 | 0.42-1.39 | 0.463 |
+| Sensitivity 1 (original 630) | No eQTL data | tissue restricted | 159 / 167 | 257 / 388 | 10.13 | 4.83-21.25 | 2.39×10⁻¹⁵ |
+| Sensitivity 1 (original 630) | No qualifying instrument | tissue restricted | 43 / 57 | 257 / 388 | 1.57 | 0.83-2.97 | 0.177 |
+| Sensitivity 1 (original 630) | No eQTL data | secreted | 63 / 169 | 117 / 389 | 1.38 | 0.95-2.02 | 0.115 |
+| Sensitivity 1 (original 630) | No qualifying instrument | secreted | 13 / 57 | 117 / 389 | 0.69 | 0.36-1.32 | 0.28 |
+| Sensitivity 2 | No eQTL data | tissue restricted | 167 / 177 | 269 / 406 | 8.51 | 4.35-16.63 | 6.71×10⁻¹⁵ |
+| Sensitivity 2 | No qualifying instrument | tissue restricted | 45 / 60 | 269 / 406 | 1.53 | 0.82-2.84 | 0.188 |
+| Sensitivity 2 | No eQTL data | secreted | 68 / 180 | 125 / 407 | 1.37 | 0.95-1.98 | 0.105 |
+| Sensitivity 2 | No qualifying instrument | secreted | 14 / 60 | 125 / 407 | 0.69 | 0.36-1.29 | 0.291 |
+| All 2,517 targets | No eQTL data | tissue restricted | 543 / 596 | 943 / 1588 | 7.01 | 5.19-9.45 | 2.21×10⁻⁵² |
+| All 2,517 targets | No qualifying instrument | tissue restricted | 156 / 232 | 943 / 1588 | 1.40 | 1.05-1.88 | 0.0257 |
+| All 2,517 targets | No eQTL data | secreted | 223 / 622 | 381 / 1591 | 1.77 | 1.45-2.17 | 3.04×10⁻⁰⁸ |
+| All 2,517 targets | No qualifying instrument | secreted | 46 / 232 | 381 / 1591 | 0.79 | 0.56-1.11 | 0.184 |
+
+Human Protein Atlas annotation. Tissue restricted: RNA tissue specificity 'Tissue enriched', 'Group enriched' or 'Tissue enhanced' versus 'Low tissue specificity'. Odds ratio with Woolf 95% CI; Fisher exact p.

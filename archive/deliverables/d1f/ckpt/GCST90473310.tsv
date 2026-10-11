@@ -1,0 +1,2 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+SLC18A2	D004421	Dystonia	GCST90473310	DOWN	4	rs181440	4.7345e-126	-0.188758	0.00790386	570.3	-0.0323463	0.0412341	aligned_flipped	130	0.171364	0.21845	0.432773	POSITIVE	POSITIVE	YES	

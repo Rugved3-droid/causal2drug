@@ -1,0 +1,15 @@
+(a) studies mapped to EFO_0004611: 740
+(b) of those, with harmonised sumstats: 292
+(c) of those, with .tbi: 212
+(d) of those, European-ancestry-only (R2a): 102
+eligible after all of (a)-(d): 39
+
+Top 5 eligible (tbi_present=True), ranked by max_parsed_N:
+  GCST90239658   N=1320016   Graham SE      2021-12-09  low density lipoprotein cholesterol meas
+  GCST90474384   N=431240    UK Biobank Whole-Genome Sequencing Consortium 2025-08-06  low density lipoprotein cholesterol meas
+  GCST90079033   N=411351    Backman JD     2021-10-18  low density lipoprotein cholesterol meas
+  GCST90475420   N=404745    Verma A        2024-07-19  low density lipoprotein cholesterol meas
+  GCST90475416   N=404741    Verma A        2024-07-19  low density lipoprotein cholesterol meas
+
+SELECTED: GCST90239658  (N=1320016)  ./GCST90239001-GCST90240000/GCST90239658/harmonised/GCST90239658.h.tsv.gz
+wrote D:\causal2drug\manuscript_prep\manuscript\rescue_controls\gwas_selection_EFO_0004611.csv

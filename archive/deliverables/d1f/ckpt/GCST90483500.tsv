@@ -1,0 +1,2 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+NFE2L2	D011085	Polycystic Ovary Syndrome	GCST90483500	UP	2	rs1806649	3.5356e-12	0.0653408	0.00939533	48.37	-0.0566	0.0271	aligned_same	17	-0.866228	0.414749	0.0367473	NEGATIVE	NEGATIVE	YES	

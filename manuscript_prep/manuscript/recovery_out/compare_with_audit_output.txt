@@ -1,0 +1,40 @@
+[X01] targets: map 280, audit 280, same set: True
+[X02] category                                                   differences: 0 
+[X02] reporting tier                                             differences: 0 
+[X02] GTEx ID used                                               differences: 0 
+[X02] GTEx tissues tested (n)                                    differences: 0 
+[X02] GTEx non-blood tissues with a candidate                    differences: 0 
+[X02] GTEx best CV tissue and variant                            differences: 0 
+[X02] UKB-PPP assayed                                            differences: 0 
+[X02] UKB-PPP candidate yes/no                                   differences: 0 
+[X02] UKB-PPP lead variant (GRCh38 position)                     differences: 0 
+[X02] UKB-PPP sheet of the lead                                  differences: 0 
+[X02] UKB-PPP -log10 p of the lead                               differences: 0 
+[X02] deCODE candidate yes/no                                    differences: 0 
+[X02] deCODE lead variant                                        differences: 0 
+[X02] deCODE assayed (map) vs included (audit)                   differences: 0 
+[X02] Fenland assayed                                            differences: 0 
+[X02] Fenland candidate yes/no                                   differences: 0 
+[X02] Fenland lead variant (GRCh37 position)                     differences: 0 
+
+[X03] category changed by the fixes: 0 []
+[X03] tier changed by the fixes: 0 []
+[X04] ukbppp lead variant changed by the fixes: 9
+        ANGPTL3   rs763015008 (p <1e-300) -> rs775677524 (p 1e-500)
+        CDH17     rs763526069 (p <1e-300) -> rs11786049 (p 1e-525)
+        F11       rs2289252 (p <1e-300) -> rs3756011 (p 1e-971)
+        F9        rs422187 (p <1e-300) -> rs6048 (p 1e-836)
+        GHR       rs4073476 (p <1e-300) -> rs6873545 (p 1e-2137)
+        GLA       rs3027584 (p <1e-300) -> rs3027578 (p 1e-1169)
+        ITGB6     rs6432601 (p <1e-300) -> rs146596903 (p 1e-451)
+        SCG3      rs2606134 (p <1e-300) -> rs2606145 (p 1e-2117)
+        TYRO3     rs8024626 (p <1e-300) -> rs17676332 (p 1e-2027)
+[X04] decode lead variant changed by the fixes: 2
+        MBL2      rs1800451 (p <1e-300) -> rs7899547 (p 1e-3018)
+        SERPINA4  rs5511 (p <1e-300) -> rs5512 (p 1e-505)
+[X04] fenland lead variant changed by the fixes: 0
+[X05] UKB-PPP sheet of the lead changed by the fixes: 30 ACHE, AGT, ALPP, ANGPTL3, ANGPTL4, AOC3, APOE, CDH17, CPB2, F11, F9, GHR, GLA, IL12B, IL5RA, ITGB6, KDR, LAMP2, LPA, MBL2, MMP10, NELL1, PCSK9, PDGFRB, PLG, PON1, SCG3, SERPINA4, TYRO3, VEGFD
+[X06] Fenland assayed changed by the fixes: 2 CCN1, GRK2
+[X07] ukbppp candidate yes/no changed by the fixes: 0 []
+[X07] decode candidate yes/no changed by the fixes: 0 []
+[X07] fenland candidate yes/no changed by the fixes: 0 []

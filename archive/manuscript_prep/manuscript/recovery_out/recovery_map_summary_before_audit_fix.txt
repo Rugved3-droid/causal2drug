@@ -1,0 +1,280 @@
+[R01] primary-set targets: 726; in scope (no eQTL data or no qualifying instrument): 280; out of scope, unresolved gene record: 3 (MIR195, MIR29B1, MIR92A1)
+[R02b] targets in no GTEx egenes file under their GRCh37 Ensembl ID: 13; HGNC documents a different current ID for 6 (ADRA2B, GDF2, MIR122, MIR143, MIR145, MIR21); that ID is in GTEx v8 for 3; symbol match applied (same symbol and chromosome; >= 95% of the GTEx gene body inside the current Ensembl GRCh38 record of that ID) for 3
+        ADRA2B  ENSG00000222040 -> ENSG00000274286 | GRCh37 2:96778707-96781984 (-), length 3278 | GTEx v26 2:96112875-96116245, length 3371 | Ensembl GRCh38 2:96112876-96116571 (-) | share of GTEx body inside it 0.9997 | same strand as GRCh37: True | applied: True
+        GDF2    ENSG00000128802 -> ENSG00000263761 | GRCh37 10:48413092-48416853 (-), length 3762 | GTEx v26 10:47322490-47326270, length 3781 | Ensembl GRCh38 10:47322451-47327592 (+) | share of GTEx body inside it 1.0 | same strand as GRCh37: False | applied: True
+        MIR145  ENSG00000269936 -> ENSG00000276365 | GRCh37 5:148809849-148812397 (+), length 2549 | GTEx v26 5:149430646-149430733, length 88 | Ensembl GRCh38 5:149430646-149430733 (+) | share of GTEx body inside it 1.0 | same strand as GRCh37: True | applied: True
+[R02] GTEx v8: tissues with target rows 49; genes in any egenes file 39832, of which on chromosome X 1293 (GTEx v8 covers X)
+[R03] UKB-PPP ST3: 2941 protein rows, 2938 distinct gene symbols; multi-gene entries: AMY1A;AMY1B;AMY1C; BOLA2B;BOLA2; CGB5;CGB8;CGB3; CKMT1B;CKMT1A; CTAG1A;CTAG1B; DEFA1;DEFA1B; DEFB103B;DEFB103A; DEFB104B;DEFB104A; DEFB4A;DEFB4B; EBI3;IL27; FUT3;FUT5; IL12A;IL12B; LGALS7B;LGALS7; MICB;MICA; SPACA5B;SPACA5
+[R04] UKB-PPP ST9: 14287 rows, 1955 labelled cis
+[R04] UKB-PPP ST10: 23588 rows, 2060 labelled cis
+[R05] UKB-PPP cis rows on chromosome X (both sheets): 81
+[R06] deCODE ST01: 5284 aptamer rows; 'Included in analysis': {'Yes': 4907, 'No': 377}
+[R07] deCODE ST02: 28191 rows, 7572 labelled cis, 109 of those on chromosome X
+[R08] Fenland ST3: 4030 aptamer rows, 3870 gene symbols. Build check on single-gene aptamers with coordinates: 3933 compared; start and end identical to Ensembl GRCh37.87 for 3917; identical to GENCODE v26 (GRCh38) for 11
+[R08] Fenland build taken as GRCh37: True
+[R09] Fenland ST2 cis.trans labels: {'cis': 3233, 'trans': 7314, 'none': 127}; rows with a blank p-value (not counted): [('TP53I3', 'cis'), ('HTR6', 'trans')]; in-scope targets among them: none
+[R09] Fenland ST2: 10674 rows, 3233 labelled cis, 50 of those on chromosome X
+[R09b] CONFLICT CHECK, sub-type label vs chromosome for in-scope non-autosomal targets: {('X-linked: chromosome not analysed by eQTLGen', 'X'): 27, ('mitochondrial: genome not analysed by eQTLGen', 'MT'): 2}
+
+[R10] 1. Overall
+                                                     n  fixable-tissue fixable-protein fixable-both locked   fixable (any)
+  all in-scope targets                             280             128              24           71     57   223 (79.6%)   [X-linked: 27, of which locked 4]
+
+[R11] 2. By eQTLGen status
+                                                     n  fixable-tissue fixable-protein fixable-both locked   fixable (any)
+  no eQTL data: autosomal, not tested              188              86              16           49     37   151 (80.3%)   [X-linked: 0, of which locked 0]
+  no eQTL data: X-linked, not analysed              27              13               2            8      4   23 (85.2%)   [X-linked: 27, of which locked 4]
+  no eQTL data: mitochondrial genome (MT)            2               0               0            0      2   0 (0.0%)   [X-linked: 0, of which locked 0]
+  no qualifying instrument                          63              29               6           14     14   49 (77.8%)   [X-linked: 0, of which locked 0]
+
+[R12] 3. By highest clinical phase in the primary set
+                                                     n  fixable-tissue fixable-protein fixable-both locked   fixable (any)
+  Preclinical                                      126              49              12           31     34   92 (73.0%)   [X-linked: 10, of which locked 2]
+  Phase I                                           36              21               4            5      6   30 (83.3%)   [X-linked: 6, of which locked 1]
+  Phase II                                          66              35               4           17     10   56 (84.8%)   [X-linked: 9, of which locked 0]
+  Phase III                                         25               8               2            9      6   19 (76.0%)   [X-linked: 0, of which locked 0]
+  Launched                                          27              15               2            9      1   26 (96.3%)   [X-linked: 2, of which locked 1]
+
+[R13] 4. By indication area (a target is counted in each area it appears in)
+                                                     n  fixable-tissue fixable-protein fixable-both locked   fixable (any)
+  Lipids / atherosclerosis                          71              28               9           20     14   57 (80.3%)   [X-linked: 8, of which locked 0]
+  Ischaemic heart disease                           65              26               6           24      9   56 (86.2%)   [X-linked: 7, of which locked 1]
+  Heart failure / cardiomyopathy                    70              38               2            9     21   49 (70.0%)   [X-linked: 8, of which locked 3]
+  Arrhythmia                                        18              12               1            2      3   15 (83.3%)   [X-linked: 0, of which locked 0]
+  Hypertension                                      31              20               1            3      7   24 (77.4%)   [X-linked: 1, of which locked 1]
+  Pulmonary hypertension                            38              18               3            8      9   29 (76.3%)   [X-linked: 5, of which locked 0]
+  Thrombosis                                        22               9               4            9      0   22 (100.0%)   [X-linked: 2, of which locked 0]
+  Cerebrovascular                                   72              34               6           19     13   59 (81.9%)   [X-linked: 6, of which locked 1]
+  Other                                             94              37               6           38     13   81 (86.2%)   [X-linked: 9, of which locked 1]
+  Unspecified CV                                    57              29               3           17      8   49 (86.0%)   [X-linked: 3, of which locked 0]
+
+[R14] Strict-verified launched targets (PROVISIONAL pending manual review)
+                                                     n  fixable-tissue fixable-protein fixable-both locked   fixable (any)
+  strict-verified, Launched in primary set          13               5               2            5      1   12 (92.3%)   [X-linked: 1, of which locked 1]
+
+[R15] 5. The 13 named targets
+  AGTR1    fixable-tissue   
+           tier: plausible rescue
+           GTEx non-blood tissues with instrument (6), lead p: Cells_Cultured_fibroblasts (5.8e-41); Nerve_Tibial (1.4e-14); Artery_Tibial (3e-14); Heart_Atrial_Appendage (7.7e-14); Colon_Sigmoid (2.7e-13); Adipose_Subcutaneous (6.9e-11)
+           of which CV-relevant: Heart_Atrial_Appendage; Artery_Tibial; GTEx whole blood instrument: False
+           UKB-PPP  not assayed
+           deCODE   not assayed
+           Fenland  not assayed
+  ANGPTL3  fixable-protein  
+           tier: plausible rescue
+           GTEx non-blood tissues with instrument (0), lead p: none
+           of which CV-relevant: none; GTEx whole blood instrument: False
+           UKB-PPP  instrument: rs763015008 (chr1:62508787), p=<1e-300, 88733 bp from gene body
+           deCODE   instrument: rs773045547 (chr1:62602317), p=6.03e-269, 0 bp from gene body
+           Fenland  instrument: rs72649573 (chr1:63063616), p=2.6e-23, 0 bp from gene body
+  APOB     fixable-both     
+           tier: plausible rescue
+           GTEx non-blood tissues with instrument (9), lead p: Skin_Sun_Exposed_Lower_leg (4.6e-58); Skin_Not_Sun_Exposed_Suprapubic (2.3e-35); Heart_Left_Ventricle (1.1e-30); Adipose_Subcutaneous (4.9e-29); Nerve_Tibial (8.4e-16); Heart_Atrial_Appendage (1.1e-11); Artery_Tibial (8e-11); Esophagus_Gastroesophageal_Junction (6.9e-09); Esophagus_Muscularis (1.1e-08)
+           of which CV-relevant: Heart_Left_Ventricle; Heart_Atrial_Appendage; Artery_Tibial; GTEx whole blood instrument: False
+           UKB-PPP  assayed; no cis-pQTL in table
+           deCODE   instrument: rs563290 (chr2:21065354), p=2e-13, 21281 bp from gene body
+           Fenland  instrument: rs541041 (chr2:21294975), p=1.05e-13, 28030 bp from gene body
+  APOC3    fixable-protein  
+           tier: plausible rescue
+           GTEx non-blood tissues with instrument (0), lead p: none
+           of which CV-relevant: none; GTEx whole blood instrument: False
+           UKB-PPP  not assayed
+           deCODE   instrument: rs964184 (chr11:116778201), p=2.95e-63, 51505 bp from gene body
+           Fenland  instrument: rs964184 (chr11:116648917), p=8.39e-27, 51505 bp from gene body
+  AVPR2    locked           [X] 
+           tier: locked: never assayed
+           GTEx non-blood tissues with instrument (0), lead p: none
+           of which CV-relevant: none; GTEx whole blood instrument: False
+           UKB-PPP  not assayed
+           deCODE   not assayed
+           Fenland  not assayed
+  F2       fixable-both     
+           tier: plausible rescue
+           GTEx non-blood tissues with instrument (3), lead p: Artery_Tibial (3.3e-15); Brain_Cerebellum (2e-12); Testis (1.1e-09)
+           of which CV-relevant: Artery_Tibial; GTEx whole blood instrument: False
+           UKB-PPP  instrument: rs1799963 (chr11:46739505), p=6.3e-127, 0 bp from gene body
+           deCODE   instrument: rs3136516 (chr11:46739206), p=4.68e-41, 0 bp from gene body
+           Fenland  instrument: rs1799963 (chr11:46761055), p=2.4e-33, 0 bp from gene body
+  PCSK9    fixable-both     
+           tier: plausible rescue
+           GTEx non-blood tissues with instrument (6), lead p: Nerve_Tibial (2.5e-64); Adipose_Visceral_Omentum (2.3e-28); Lung (4.4e-20); Testis (1.8e-18); Brain_Cerebellar_Hemisphere (9.7e-11); Brain_Cerebellum (2.1e-10)
+           of which CV-relevant: none; GTEx whole blood instrument: True
+           UKB-PPP  instrument: rs11591147 (chr1:55039974), p=<1e-300, 0 bp from gene body
+           deCODE   instrument: rs11591147 (chr1:55039974), p=3.98e-117, 0 bp from gene body
+           Fenland  instrument: rs11591147 (chr1:55505647), p=2.41e-64, 0 bp from gene body
+  PLG      fixable-both     
+           tier: plausible rescue
+           GTEx non-blood tissues with instrument (1), lead p: Testis (5.2e-15)
+           of which CV-relevant: none; GTEx whole blood instrument: False
+           UKB-PPP  instrument: rs73015965 (chr6:160706469), p=<1e-300, 0 bp from gene body
+           deCODE   instrument: rs143079629 (chr6:160707780), p=1.15e-159, 0 bp from gene body
+           Fenland  instrument: rs537579467 (chr6:161155264), p=2.03e-178, 0 bp from gene body
+  REN      fixable-both     
+           tier: plausible rescue
+           GTEx non-blood tissues with instrument (5), lead p: Skin_Sun_Exposed_Lower_leg (4.3e-24); Ovary (1.5e-12); Skin_Not_Sun_Exposed_Suprapubic (1.4e-11); Testis (5.9e-11); Brain_Cortex (1.6e-08)
+           of which CV-relevant: none; GTEx whole blood instrument: False
+           UKB-PPP  instrument: rs193280350 (chr1:204179521), p=9.18e-128, 0 bp from gene body
+           deCODE   instrument: rs193280350 (chr1:204179521), p=1.12e-103, 0 bp from gene body
+           Fenland  instrument: rs141995914 (chr1:204207097), p=3.62e-34, 71632 bp from gene body
+  SLC5A1   fixable-tissue   
+           tier: off-target-tissue rescue
+           GTEx non-blood tissues with instrument (3), lead p: Thyroid (8.5e-18); Spleen (4.7e-14); Nerve_Tibial (1.8e-09)
+           of which CV-relevant: none; GTEx whole blood instrument: False
+           UKB-PPP  not assayed
+           deCODE   not assayed
+           Fenland  not assayed
+  IL1B     fixable-tissue   
+           tier: off-target-tissue rescue
+           GTEx non-blood tissues with instrument (2), lead p: Testis (6.8e-26); Skin_Sun_Exposed_Lower_leg (4.7e-11)
+           of which CV-relevant: none; GTEx whole blood instrument: False
+           UKB-PPP  assayed; no cis-pQTL in table
+           deCODE   assayed; no cis-pQTL in table
+           Fenland  assayed; no cis-pQTL in table
+  ITGA2B   fixable-tissue   
+           tier: off-target-tissue rescue
+           GTEx non-blood tissues with instrument (1), lead p: Thyroid (7.6e-17)
+           of which CV-relevant: none; GTEx whole blood instrument: False
+           UKB-PPP  not assayed
+           deCODE   not assayed
+           Fenland  assayed; no cis-pQTL in table
+  NPC1L1   fixable-tissue   
+           tier: off-target-tissue rescue
+           GTEx non-blood tissues with instrument (2), lead p: Adipose_Subcutaneous (1.7e-18); Testis (9.2e-10)
+           of which CV-relevant: none; GTEx whole blood instrument: False
+           UKB-PPP  not assayed
+           deCODE   not assayed
+           Fenland  not assayed
+
+[R23] REPORTING TIERS, overall and by eQTLGen status
+                                                     n  plausible rescue off-target-tissue rescue locked: never assayed locked: assayed, no instrument
+  all in-scope targets                             280       151 (53.9%)               72 (25.7%)            35 (12.5%)                      22 (7.9%)   [locked, total 57 (20.4%)]
+  no eQTL data: autosomal, not tested              188       105 (55.9%)               46 (24.5%)            25 (13.3%)                      12 (6.4%)   [locked, total 37 (19.7%)]
+  no eQTL data: X-linked, not analysed              27        15 (55.6%)                8 (29.6%)             3 (11.1%)                       1 (3.7%)   [locked, total 4 (14.8%)]
+  no eQTL data: mitochondrial genome (MT)            2          0 (0.0%)                 0 (0.0%)            2 (100.0%)                       0 (0.0%)   [locked, total 2 (100.0%)]
+  no qualifying instrument                          63        31 (49.2%)               18 (28.6%)              5 (7.9%)                      9 (14.3%)   [locked, total 14 (22.2%)]
+
+[R24] REPORTING TIERS by highest clinical phase in the primary set
+                                                     n  plausible rescue off-target-tissue rescue locked: never assayed locked: assayed, no instrument
+  Preclinical                                      126        65 (51.6%)               27 (21.4%)            21 (16.7%)                     13 (10.3%)   [locked, total 34 (27.0%)]
+  Phase I                                           36        18 (50.0%)               12 (33.3%)              3 (8.3%)                       3 (8.3%)   [locked, total 6 (16.7%)]
+  Phase II                                          66        35 (53.0%)               21 (31.8%)             7 (10.6%)                       3 (4.5%)   [locked, total 10 (15.2%)]
+  Phase III                                         25        16 (64.0%)                3 (12.0%)             3 (12.0%)                      3 (12.0%)   [locked, total 6 (24.0%)]
+  Launched                                          27        17 (63.0%)                9 (33.3%)              1 (3.7%)                       0 (0.0%)   [locked, total 1 (3.7%)]
+
+[R25] REPORTING TIERS by indication area (a target is counted in each area it appears in)
+                                                     n  plausible rescue off-target-tissue rescue locked: never assayed locked: assayed, no instrument
+  Lipids / atherosclerosis                          71        41 (57.7%)               16 (22.5%)              7 (9.9%)                       7 (9.9%)   [locked, total 14 (19.7%)]
+  Ischaemic heart disease                           65        41 (63.1%)               15 (23.1%)             7 (10.8%)                       2 (3.1%)   [locked, total 9 (13.8%)]
+  Heart failure / cardiomyopathy                    70        25 (35.7%)               24 (34.3%)            16 (22.9%)                       5 (7.1%)   [locked, total 21 (30.0%)]
+  Arrhythmia                                        18        11 (61.1%)                4 (22.2%)             3 (16.7%)                       0 (0.0%)   [locked, total 3 (16.7%)]
+  Hypertension                                      31        15 (48.4%)                9 (29.0%)             6 (19.4%)                       1 (3.2%)   [locked, total 7 (22.6%)]
+  Pulmonary hypertension                            38        17 (44.7%)               12 (31.6%)             4 (10.5%)                      5 (13.2%)   [locked, total 9 (23.7%)]
+  Thrombosis                                        22        17 (77.3%)                5 (22.7%)              0 (0.0%)                       0 (0.0%)   [locked, total 0 (0.0%)]
+  Cerebrovascular                                   72        43 (59.7%)               16 (22.2%)             9 (12.5%)                       4 (5.6%)   [locked, total 13 (18.1%)]
+  Other                                             94        60 (63.8%)               21 (22.3%)              6 (6.4%)                       7 (7.4%)   [locked, total 13 (13.8%)]
+  Unspecified CV                                    57        30 (52.6%)               19 (33.3%)              4 (7.0%)                       4 (7.0%)   [locked, total 8 (14.0%)]
+
+[R26] REPORTING TIERS, the 13 named targets and the strict-verified launched targets (PROVISIONAL)
+                                                     n  plausible rescue off-target-tissue rescue locked: never assayed locked: assayed, no instrument
+  the 13 named targets                              13         8 (61.5%)                4 (30.8%)              1 (7.7%)                       0 (0.0%)   [locked, total 1 (7.7%)]
+  strict-verified, Launched in primary set          13         8 (61.5%)                4 (30.8%)              1 (7.7%)                       0 (0.0%)   [locked, total 1 (7.7%)]
+
+[R27] plausible rescue (151): through a CV-relevant tissue only 56; through a plasma cis-pQTL only 60; through both 35
+[R28] off-target-tissue rescues (72), with every tissue that has an instrument:
+        ABCG5     Preclinical Spleen
+        ABCG8     Preclinical Adipose_Subcutaneous; Colon_Transverse
+        ADRA1B    Launched    Cells_Cultured_fibroblasts; Skin_Not_Sun_Exposed_Suprapubic
+        ADRA1D    Launched    Brain_Cortex; Testis
+        APLN      Phase I     Esophagus_Muscularis
+        AQP4      Phase I     Nerve_Tibial; Ovary; Pituitary; Testis
+        AR        Phase II    Brain_Frontal_Cortex_BA9; Brain_Nucleus_accumbens_basal_ganglia; Cells_Cultured_fibroblasts; Thyroid
+        ATP1A1    Preclinical Esophagus_Mucosa
+        BDKRB1    Phase II    Brain_Cerebellar_Hemisphere; Brain_Cerebellum; Brain_Cortex; Esophagus_Mucosa; Nerve_Tibial; Pancreas
+        BDKRB2    Phase III   Brain_Cerebellar_Hemisphere; Brain_Cerebellum; Brain_Putamen_basal_ganglia; Breast_Mammary_Tissue; Cells_Cultured_fibroblasts; Esophagus_Mucosa; Lung; Spleen
+        CACNA1G   Phase II    Cells_Cultured_fibroblasts; Lung
+        CACNA2D1  Phase III   Adipose_Subcutaneous; Cells_Cultured_fibroblasts; Esophagus_Mucosa; Lung; Skin_Not_Sun_Exposed_Suprapubic; Skin_Sun_Exposed_Lower_leg
+        CHRNA3    Phase II    Brain_Caudate_basal_ganglia; Brain_Nucleus_accumbens_basal_ganglia; Brain_Putamen_basal_ganglia; Colon_Sigmoid; Muscle_Skeletal; Nerve_Tibial; Testis
+        CHRNB4    Phase II    Esophagus_Mucosa; Testis
+        CMA1      Phase II    Adipose_Subcutaneous; Esophagus_Mucosa; Esophagus_Muscularis; Nerve_Tibial; Skin_Not_Sun_Exposed_Suprapubic; Skin_Sun_Exposed_Lower_leg
+        CRHR1     Phase II    Adipose_Subcutaneous; Adipose_Visceral_Omentum; Breast_Mammary_Tissue; Esophagus_Muscularis; Muscle_Skeletal; Nerve_Tibial
+        CYP7A1    Preclinical Adipose_Subcutaneous; Breast_Mammary_Tissue; Nerve_Tibial; Spleen
+        DLG4      Phase I     Muscle_Skeletal
+        DRD1      Phase II    Adipose_Subcutaneous; Adipose_Visceral_Omentum
+        DRD2      Phase I     Adipose_Subcutaneous; Esophagus_Gastroesophageal_Junction; Esophagus_Muscularis; Stomach
+        DRD3      Phase I     Testis
+        EDNRA     Launched    Esophagus_Mucosa; Skin_Not_Sun_Exposed_Suprapubic; Testis
+        EDNRB     Launched    Esophagus_Muscularis
+        EEF2K     Preclinical Cells_Cultured_fibroblasts; Muscle_Skeletal; Nerve_Tibial
+        FGF1      Preclinical Brain_Spinal_cord_cervical_c-1; Cells_Cultured_fibroblasts; Muscle_Skeletal; Nerve_Tibial; Skin_Not_Sun_Exposed_Suprapubic; Testis
+        FGF4      Preclinical Nerve_Tibial
+        FKBP8     Preclinical Cells_Cultured_fibroblasts; Nerve_Tibial
+        FZD4      Preclinical Testis
+        GABRA5    Phase II    Colon_Sigmoid; Esophagus_Gastroesophageal_Junction; Esophagus_Mucosa; Esophagus_Muscularis; Pancreas; Prostate; Stomach; Testis; Thyroid
+        GCGR      Preclinical Adipose_Subcutaneous; Adipose_Visceral_Omentum; Colon_Sigmoid; Esophagus_Gastroesophageal_Junction; Esophagus_Muscularis; Lung; Nerve_Tibial; Skin_Not_Sun_Exposed_Suprapubic; Spleen
+        GPC3      Preclinical Cells_Cultured_fibroblasts
+        GPR119    Phase II    Testis
+        GRIN2B    Phase I     Nerve_Tibial
+        GRM4      Phase I     Brain_Cerebellar_Hemisphere; Brain_Cerebellum; Pancreas
+        HCN2      Phase III   Cells_Cultured_fibroblasts; Esophagus_Mucosa
+        HRH3      Phase II    Brain_Cerebellum
+        HTR7      Phase I     Adipose_Subcutaneous; Cells_Cultured_fibroblasts; Colon_Sigmoid
+        IL1A      Phase II    Skin_Not_Sun_Exposed_Suprapubic; Skin_Sun_Exposed_Lower_leg
+        IL1B      Launched    Skin_Sun_Exposed_Lower_leg; Testis
+        ITGA2B    Launched    Thyroid
+        ITGB1BP2  Preclinical Thyroid
+        ITGB8     Phase II    Pancreas
+        KCNJ1     Phase I     Lung; Skin_Not_Sun_Exposed_Suprapubic; Skin_Sun_Exposed_Lower_leg
+        MC5R      Preclinical Testis
+        MCU       Preclinical Brain_Cerebellar_Hemisphere; Brain_Cerebellum
+        MTNR1B    Preclinical Testis
+        NOX1      Preclinical Brain_Caudate_basal_ganglia; Brain_Cerebellar_Hemisphere; Brain_Cerebellum; Colon_Transverse; Nerve_Tibial; Small_Intestine_Terminal_Ileum
+        NOX4      Preclinical Cells_Cultured_fibroblasts
+        NPC1L1    Launched    Adipose_Subcutaneous; Testis
+        NPR1      Phase II    Colon_Sigmoid; Esophagus_Gastroesophageal_Junction
+        NPY2R     Preclinical Brain_Amygdala; Brain_Anterior_cingulate_cortex_BA24; Brain_Caudate_basal_ganglia; Brain_Cortex; Brain_Frontal_Cortex_BA9; Brain_Hippocampus; Brain_Hypothalamus; Brain_Putamen_basal_ganglia; Brain_Spinal_cord_cervical_c-1; Brain_Substantia_nigra
+        NPY4R     Preclinical Colon_Transverse; Skin_Not_Sun_Exposed_Suprapubic; Skin_Sun_Exposed_Lower_leg
+        NTRK1     Preclinical Brain_Nucleus_accumbens_basal_ganglia; Nerve_Tibial
+        OPRD1     Preclinical Adipose_Visceral_Omentum; Testis
+        OPRM1     Preclinical Testis
+        PRKACA    Preclinical Esophagus_Mucosa
+        PTGER3    Phase II    Adipose_Subcutaneous; Brain_Cortex; Brain_Frontal_Cortex_BA9; Minor_Salivary_Gland; Skin_Not_Sun_Exposed_Suprapubic; Skin_Sun_Exposed_Lower_leg
+        PYCARD    Preclinical Cells_Cultured_fibroblasts; Esophagus_Mucosa; Skin_Sun_Exposed_Lower_leg
+        RHOA      Preclinical Muscle_Skeletal
+        RXFP1     Launched    Cells_Cultured_fibroblasts
+        RXRG      Preclinical Adipose_Subcutaneous; Colon_Sigmoid; Muscle_Skeletal; Nerve_Tibial; Testis
+        SCN1A     Phase II    Brain_Cerebellum; Brain_Cortex; Brain_Nucleus_accumbens_basal_ganglia; Testis
+        SLC22A12  Phase II    Adipose_Subcutaneous
+        SLC5A1    Launched    Nerve_Tibial; Spleen; Thyroid
+        SREBF2    Phase I     Cells_Cultured_fibroblasts; Testis
+        SSTR2     Phase II    Testis
+        SSTR4     Preclinical Brain_Cerebellar_Hemisphere; Brain_Cerebellum; Brain_Nucleus_accumbens_basal_ganglia
+        TLR8      Phase I     Adipose_Subcutaneous
+        TMSB4X    Phase II    Nerve_Tibial
+        UCN2      Phase I     Esophagus_Mucosa; Skin_Sun_Exposed_Lower_leg; Testis
+        UCN3      Phase II    Colon_Sigmoid
+        XDH       Phase II    Cells_Cultured_fibroblasts; Esophagus_Mucosa; Thyroid
+[R29] off-target-tissue rescues: tissue frequency: Testis 21; Nerve_Tibial 17; Cells_Cultured_fibroblasts 16; Adipose_Subcutaneous 14; Esophagus_Mucosa 13; Skin_Not_Sun_Exposed_Suprapubic 10; Skin_Sun_Exposed_Lower_leg 9; Brain_Cerebellum 8; Esophagus_Muscularis 7; Colon_Sigmoid 7; Muscle_Skeletal 7; Thyroid 6; Brain_Cerebellar_Hemisphere 6; Spleen 5; Brain_Cortex 5; Brain_Nucleus_accumbens_basal_ganglia 5; Lung 5; Pancreas 4; Adipose_Visceral_Omentum 4; Esophagus_Gastroesophageal_Junction 4; Colon_Transverse 3; Brain_Frontal_Cortex_BA9 3; Brain_Putamen_basal_ganglia 3; Breast_Mammary_Tissue 3; Brain_Caudate_basal_ganglia 3; Stomach 2; Brain_Spinal_cord_cervical_c-1 2; Ovary 1; Pituitary 1; Prostate 1; Small_Intestine_Terminal_Ileum 1; Brain_Amygdala 1; Brain_Anterior_cingulate_cortex_BA24 1; Brain_Hippocampus 1; Brain_Hypothalamus 1; Brain_Substantia_nigra 1; Minor_Salivary_Gland 1
+[R29] off-target-tissue rescues resting on a single tissue: 27; on testis only: 7
+[R30] locked: never assayed (35): ADRB3, AVPR1B, AVPR2(X), CASR, CYP11B1, CYP11B2, GABRA1, GHSR, GRIN1, GRM5, HCN4, HDAC6(X), HTR4, KCNA5, KCNJ8, MAOB(X), MAS1, MIR122, MIR126, MIR132, MIR143, MIR145, MIR208A, MIR21, MIR33A, MIR499A, MT-ND1, MT-ND2, MTMR14, MTNR1A, PLN, RPE65, SLC10A1, SLC10A2, SUMO1
+[R30] locked: assayed, no instrument (22): ANGPTL8, BRD4, CDK5, CHRM1, DMD(X), FGF18, GDF2, GHRHR, GRK2, HDAC2, HSD11B1, HSPD1, HTR1A, IGF1, IL17A, IL2, IL21, IL5, KIT, NR1H4, NRG2, PLA2G10
+[R31] amendment 8, before -> after: ADRA2B: locked -> fixable-tissue (plausible rescue); MIR145: locked -> locked (locked: never assayed); GDF2: locked -> locked (locked: assayed, no instrument)
+
+[R16] 6. GTEx: targets with an instrument in >=1 non-blood tissue: 199; through a CV-relevant tissue: 91; only through another tissue: 108
+        Heart_Left_Ventricle     tested 175   instrument  22
+        Heart_Atrial_Appendage   tested 197   instrument  29
+        Artery_Aorta             tested 200   instrument  34
+        Artery_Coronary          tested 211   instrument  11
+        Artery_Tibial            tested 197   instrument  44
+        Liver                    tested 196   instrument  11
+        Kidney_Cortex            tested 215   instrument   0
+        Adrenal_Gland            tested 211   instrument  26
+[R17] GTEx: targets in no egenes file (not tested in any tissue): 10; tested in >=1 tissue: 270
+[R18] GTEx Whole Blood: tested 126; instrument 10; locked targets flagged 'GTEx whole blood only': 1
+[R19] pQTL tables, per study (of 280 in-scope targets):
+        UKB-PPP  assayed; no cis-pQTL in table 24; cis-pQTL reported; outside +-100 kb 5; instrument 76; not assayed 175
+        deCODE   assayed; no cis-pQTL in table 61; cis-pQTL reported; outside +-100 kb 2; instrument 68; not assayed 149
+        Fenland  assayed; no cis-pQTL in table 51; cis-pQTL reported; distance UNVERIFIED 1; cis-pQTL reported; outside +-100 kb 2; instrument 58; not assayed 168
+[R20] pQTL: assayed in >=1 study 155; instrument in >=1 study 95; in all three 44; targets flagged UNVERIFIED-dependent 0
+[R21] locked (relative to GTEx v8 non-blood tissues and the UKB-PPP, deCODE and Fenland published cis-pQTL tables): 57. Of these, assayed in no pQTL study: 35; not in any GTEx egenes file: 10
+[R22] locked, Launched in primary set: AVPR2*
+       (* = strict-verified)

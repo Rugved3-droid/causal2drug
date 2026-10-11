@@ -1,0 +1,180 @@
+{
+ "PCSK9_LDL": {
+  "url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90239001-GCST90240000/GCST90239658/harmonised/GCST90239658.h.tsv.gz",
+  "columns": [
+   "chromosome",
+   "base_pair_location",
+   "effect_allele",
+   "other_allele",
+   "beta",
+   "standard_error",
+   "effect_allele_frequency",
+   "p_value",
+   "variant_id",
+   "n",
+   "N_studies",
+   "hm_coordinate_conversion",
+   "hm_code",
+   "rsid"
+  ],
+  "rows_at_position": [
+   [
+    "1",
+    "55039974",
+    "T",
+    "G",
+    "-0.433696",
+    "0.005426",
+    "0.0163",
+    "5.18e-1390",
+    "rs11591147",
+    "1224401",
+    "158",
+    "rs",
+    "10",
+    "rs11591147"
+   ]
+  ],
+  "n_rows_in_window": 36,
+  "retrieved_utc": "2026-10-11T14:05:30Z"
+ },
+ "ANGPTL3_TG": {
+  "url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90239001-GCST90240000/GCST90239664/harmonised/GCST90239664.h.tsv.gz",
+  "columns": [
+   "chromosome",
+   "base_pair_location",
+   "effect_allele",
+   "other_allele",
+   "beta",
+   "standard_error",
+   "effect_allele_frequency",
+   "p_value",
+   "variant_id",
+   "n",
+   "N_studies",
+   "hm_coordinate_conversion",
+   "hm_code",
+   "rsid"
+  ],
+  "rows_at_position": [
+   [
+    "1",
+    "62604866",
+    "A",
+    "AGTTAATGTG",
+    "-0.0709327",
+    "0.001566",
+    "0.336",
+    "5.36e-448",
+    "rs34483103",
+    "1105142",
+    "127",
+    "rs",
+    "10",
+    "rs67461605"
+   ]
+  ],
+  "n_rows_in_window": 23,
+  "retrieved_utc": "2026-10-11T14:05:46Z"
+ },
+ "APOC3_TG": {
+  "url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90239001-GCST90240000/GCST90239664/harmonised/GCST90239664.h.tsv.gz",
+  "columns": [
+   "chromosome",
+   "base_pair_location",
+   "effect_allele",
+   "other_allele",
+   "beta",
+   "standard_error",
+   "effect_allele_frequency",
+   "p_value",
+   "variant_id",
+   "n",
+   "N_studies",
+   "hm_coordinate_conversion",
+   "hm_code",
+   "rsid"
+  ],
+  "rows_at_position": [
+   [
+    "11",
+    "116778201",
+    "C",
+    "G",
+    "-0.246288",
+    "0.00198782",
+    "0.865",
+    "2.6e-3336",
+    "rs964184",
+    "1249772",
+    "174",
+    "rs",
+    "6",
+    "rs964184"
+   ]
+  ],
+  "n_rows_in_window": 29,
+  "retrieved_utc": "2026-10-11T14:05:58Z"
+ },
+ "AGTR1_SBP": {
+  "url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90310001-GCST90311000/GCST90310294/harmonised/GCST90310294.h.tsv.gz",
+  "columns": [
+   "chromosome",
+   "base_pair_location",
+   "effect_allele",
+   "other_allele",
+   "beta",
+   "standard_error",
+   "effect_allele_frequency",
+   "p_value",
+   "rsid",
+   "rs_id",
+   "n",
+   "hm_coordinate_conversion",
+   "hm_code",
+   "variant_id"
+  ],
+  "rows_at_position": [
+   [
+    "3",
+    "148624775",
+    "G",
+    "T",
+    "-0.0079",
+    "0.025",
+    "0.6045",
+    "0.753",
+    "rs275692",
+    "rs275692",
+    "992870",
+    "lo",
+    "10",
+    "3_148624775_T_G"
+   ]
+  ],
+  "n_rows_in_window": 9,
+  "retrieved_utc": "2026-10-11T14:06:08Z"
+ },
+ "REN_SBP": {
+  "url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90310001-GCST90311000/GCST90310294/harmonised/GCST90310294.h.tsv.gz",
+  "columns": [
+   "chromosome",
+   "base_pair_location",
+   "effect_allele",
+   "other_allele",
+   "beta",
+   "standard_error",
+   "effect_allele_frequency",
+   "p_value",
+   "rsid",
+   "rs_id",
+   "n",
+   "hm_coordinate_conversion",
+   "hm_code",
+   "variant_id"
+  ],
+  "rows_at_position": [],
+  "n_rows_in_window": 11,
+  "retrieved_utc": "2026-10-11T14:06:21Z"
+ }
+}

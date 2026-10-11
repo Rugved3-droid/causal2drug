@@ -1,0 +1,945 @@
+<html>
+<head>
+<title>Federal Register, Volume 61 Issue 115 (Thursday, June 13, 1996)</title>
+</head>
+<body><pre>[Federal Register Volume 61, Number 115 (Thursday, June 13, 1996)]
+[Proposed Rules]
+[Pages 30001-30009]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 96-14894]
+
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+[[Page 30002]]
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+Food and Drug Administration
+
+21 CFR Part 343
+
+[Docket No. 77N-094A]
+RIN 0910-AA01
+
+
+Internal Analgesic, Antipyretic, and Antirheumatic Drug Products 
+for Over-the-Counter Human Use; Proposed Amendment to the Tentative 
+Final Monograph
+
+AGENCY: Food and Drug Administration, HHS.
+
+ACTION: Notice of proposed rulemaking.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Food and Drug Administration (FDA) is proposing to amend 
+the tentative final monograph for over-the-counter (OTC) internal 
+analgesic, antipyretic, and antirheumatic drug products to include the 
+use of aspirin, buffered aspirin, and aspirin in combination with 
+antacid to reduce the risk of vascular mortality in people with a 
+suspected acute myocardial infarction (MI). This proposal is in 
+response to two citizen petitions and is part of the ongoing review of 
+OTC drug products conducted by FDA.
+
+DATES: Submit written comments by September 11, 1996. Written comments 
+on the agency's economic impact determination by September 11, 1996. 
+The agency is proposing that any final rule that may issue based on 
+this proposal be effective 12 months after the date of its publication 
+in the Federal Register.
+ADDRESSES: Written comments to the Dockets Management Branch (HFA-305), 
+Food and Drug Administration, 12420 Parklawn Dr., rm. 1-23, Rockville, 
+MD 20857.
+
+FOR FURTHER INFORMATION CONTACT: William E. Gilbertson, Center for Drug 
+Evaluation and Research (HFD-105), Food and Drug Administration, 5600 
+Fishers Lane, -Rockville, MD 20857, 301-827-2304.
+SUPPLEMENTARY INFORMATION:
+
+I. Introduction
+
+    In the Federal Register of November 16, 1988 (53 FR 46204), the 
+agency published a tentative final monograph (TFM) to establish 
+conditions under which OTC internal analgesic, antipyretic, and 
+antirheumatic drug products are generally recognized as safe and 
+effective and not misbranded (hereinafter referred to as the 1988 TFM). 
+The 1988 TFM included professional labeling for drug products 
+containing aspirin, buffered aspirin, and aspirin in combination with 
+an antacid for certain cardiovascular and cerebrovascular uses to: (1) 
+Reduce the risk of death and/or nonfatal MI in patients with a previous 
+infarction or unstable angina pectoris, and (2) reduce the risk of 
+recurrent transient ischemic attacks (TIA's) or stroke in men who have 
+had transient ischemia of the brain due to fibrin platelet emboli.
+    The agency has received two citizen petitions (Refs. 1 and 2), 
+submitted in accord with Sec. 10.30 (21 CFR 10.30), requesting that the 
+professional labeling section of the monograph for OTC internal 
+analgesic, antipyretic, and antirheumatic drug products be amended to 
+include an indication for the use of aspirin in treating acute MI. One 
+petition included reports of four studies to support this indication. 
+The petitions are on public display in the Dockets Management Branch 
+(address above).
+    FDA has reviewed the information in the petitions and finds that it 
+supports the safety and effectiveness of aspirin, buffered aspirin, or 
+aspirin in combination with antacid to reduce the risk of vascular 
+mortality in patients with a suspected acute MI. Therefore, the agency 
+is proposing to amend the professional labeling in Sec. 343.80 of the 
+1988 TFM for OTC internal analgesic drug products to include 
+information on aspirin, buffered aspirin, or aspirin in combination 
+with antacid for this indication. Final agency action on this proposal 
+will occur in a future issue of the Federal Register.
+
+II. The Citizen Petitions
+
+A. The Agency's Evaluation of the Citizen Petitions
+
+    One citizen petition (Ref. 1) included reports of four clinical 
+trials conducted to evaluate the safety and effectiveness of aspirin in 
+treating acute MI (Refs. 3 through 6).  The petition cited the results 
+of the Second International Study of Infarct Survival (ISIS-2) (Ref. 3) 
+as primary support for the safety and effectiveness of aspirin in the 
+treatment of acute MI to reduce the risk of fatal and nonfatal 
+cardiovascular and cerebrovascular events.
+    The ISIS-2 study was undertaken after a pilot study (Ref. 7) of 619 
+subjects suggested that aspirin was effective in reducing the incidence 
+of nonfatal reinfarction, death, and stroke in subjects with suspected 
+acute MI. The ISIS-2 study was a 2 x 2 factorial study of 17,187 
+subjects (both men and women) with suspected acute MI, randomized so 
+that 8,592 subjects received a single dose of streptokinase (1.5 
+million units (MU)) and 8,595 received an intravenous placebo 
+(hepatitis-B-antigen-free albumin). Streptokinase or placebo was 
+intravenously infused over about 1 hour in 50 to 200 milliliters of 
+physiological saline. Of the subjects, 8,587 were also allocated 
+randomly to receive oral aspirin (162.5 milligrams (mg), enteric-
+coated) daily for 1 month (the first dose crushed, sucked, or chewed), 
+and 8,600 received oral placebo (enteric-coated starch tablets). Thus, 
+within 24 hours of the onset of symptoms, 4,300 subjects received 
+streptokinase plus oral placebo, 4,295 received aspirin plus placebo 
+infusion, 4,292 received both active treatments, and 4,300 received 
+double placebo. Subjects in whom acute MI was suspected but not 
+confirmed were eligible for the study if they were entered within 24 
+hours of the onset of symptoms and had no clear indication for, or 
+contraindication to, streptokinase or aspirin. Subjects from 417 
+hospitals in 16 countries were included in the study. Information 
+collected and recorded prior to randomization included patient 
+identifiers, age, systolic blood pressure, hours from onset of pain, 
+aspirin use in the week prior to admission, and details concerning the 
+planned treatment. Ancillary treatment (including treatment with 
+aspirin) was not restricted. Electrocardiogram (ECG) results were not 
+used as a basis for randomization. Once enrolled, subjects remained in 
+the assigned treatment group for an intent-to-treat analysis of 
+results.
+    An ECG done prerandomization was submitted along with information 
+on compliance with the study treatment, other drug use, and adverse 
+events. Observers blind to the treatment assignment read the ECG's and 
+reviewed the deaths. Causes of death were categorized as ``vascular'' 
+or ``nonvascular.'' The protocol defined vascular deaths as those 
+attributed to cardiac, cerebral, hemorrhagic, other vascular, or 
+unknown causes. Further details of reports of stroke were collected for 
+blinded review by a neurologist.
+    Three primary analyses were conducted to assess the following 
+effects: (1) Streptokinase on vascular mortality during the first 35 
+days, (2) streptokinase on vascular mortality during the entire study 
+period (a median followup of 15 months), and (3) oral daily aspirin on 
+vascular mortality during the first 35 days. The effects of allocated 
+treatment on clinical events (reinfarction, cardiac rupture, cardiac 
+arrest, bleeding, and stroke) and on nonvascular mortality were also
+
+[[Page 30003]]
+
+evaluated. Although not specified in the protocol, subgroup analysis on 
+vascular mortality in days 0 to 35 was performed for certain 
+parameters, such as age, gender, diabetes, and systolic blood pressure.
+    Results were presented as absolute changes and as changes in the 
+odds of death. The report states: ``* * * a change from 10 percent dead 
+(odds 10/90) to 8 percent dead (odds 8/92) involves an odds ratio of 8/
+92 divided by 10/90, or 0.78, and is therefore described as a 22 
+percent reduction in the odds of death (rather than as a 20 percent 
+reduction in the risk of death).'' (A change from 10 percent dead (risk 
+10/100) to 8 percent dead (risk 8/100) would represent a 20 percent 
+reduction in risk of death.)
+    During the first 35 days, there were 804 (9.4 percent) vascular 
+deaths in the 8,587 subjects randomized to receive oral aspirin, and 
+1,016 (11.8 percent) vascular deaths in the 8,600 subjects randomized 
+to placebo. These results represent an absolute reduction of 2.4 
+percent in the mean 35-day vascular mortality attributable to aspirin 
+and a highly significant (23 percent) reduction in the odds of vascular 
+death (2p < 0.00001, confidence interval 15 to 30 percent). Although 
+not an endpoint specified in the protocol, an effect of aspirin was 
+still present after the median 15-month followup was completed, with a 
+total reduction of early and late vascular mortality of 1.9 percent, 
+highly significant (2p < 0.001).
+    The number of nonvascular deaths in subjects allocated to receive 
+aspirin was not significantly different from subjects receiving placebo 
+for the 15-month median followup. One nonvascular death occurred before 
+5 weeks, and 24 deaths occurred after 5 weeks in the aspirin group, 
+compared to 7 and 32, respectively, in the placebo group. Total 
+mortality (vascular plus nonvascular) was reduced at both 35 days (9.4 
+percent versus 11.9 percent, odds ratio 0.77) and after 15 months 
+median followup (16.0 percent versus 18.1 percent odds ratio 0.87) for 
+the aspirin group and placebo group). The reduction in all-cause 
+mortality was highly significant (2p < 0.001) at both times.
+    The beneficial effects of aspirin on vascular mortality in days 0 
+to 35 was found to be independent of streptokinase infusion. (See Table 
+1.)
+Table 1.--Beneficial Effects of Aspirin on Vascular Mortality in Days 0 
+To 35
+
+                                                                                                                
+----------------------------------------------------------------------------------------------------------------
+                                                                                      Percent         Percent   
+ Treatment\1\ Tablet/Infusion    Vascular Deaths/No. of Subjects      Percent        Absolute      Reduction in 
+                                                                                      Change       Odds of Death
+----------------------------------------------------------------------------------------------------------------
+A/S+A/P                         804/8,587\2\                            9.4                                     
+ vs                                                                                                             
+P/S+P/P                         1,016/8,600\3\-                        11.8            -2.4            23       
+                                                                                                    (2p<0.00001)
+                                                                                                                
+A/P                             461/4,295                              10.7                                     
+vs                                                                                                              
+P/P                             568/4,300                              13.2            -2.5-      21 (2p<0.001) 
+                                                                                                                
+A/S                             343/4,292                               8.0                                     
+vs                                                                                                              
+P/S                             448/4,300                              10.4            -2.4       25 (2p<0.001) 
+                                                                                                                
+A/S                             343/4,292                               8.0                                     
+vs                                                                                                              
+P/P                             568/4,300                              13.2            -5.2-           42       
+                                                                                                    (2p<0.00001)
+                                                                                                                
+A/S                             343/4,292                               8.0                                     
+vs                                                                                                              
+A/P                             461/4,295                              10.7            -2.7-      28 (2p<0.0001)
+                                                                                                                
+P/S                             448/4,300                              10.4                                     
+vs                                                                                                              
+P/P-                            568/4,300                              13.2            -2.8       23 (2p<0.0001)
+                                                                                                                
+A/S+P/S                         791/8,592\4\-                           9.2                                     
+vs                                                                                                              
+A/P+P/P                         1,029/8,595\5\                         12.0            -2.8            25       
+                                                                                                    (2p<0.00001)
+----------------------------------------------------------------------------------------------------------------
+\1\ A=aspirin, S=streptokinase, and P=placebo.                                                                  
+\2\ Inludes 4,295 allocated aspirin tablets + placebo infusion and 4,292 allocated aspirin tablets +            
+  streptokinase infusion.                                                                                       
+\3\ Includes 4,300 allocated placebo tablets + placebo infusion and 4,300 allocated placebo tablets +           
+  streptokinase infusion.                                                                                       
+\4\Includes 4,292 allocated aspirin tablets + placebo infusion and 4,300 allocated streptokinase infusion +     
+  placebo tablets.                                                                                              
+\5\Includes 4,295 allocated aspirin tablets + placebo infusion and 4,300 allocated placebo tablets + placebo    
+  infusion.                                                                                                     
+
+    Each subject received one tablet and one infusion (e.g., each 
+subject was allocated either a single active ingredient plus placebo, 
+both active ingredients, or two placebos). Aspirin reduced the odds of 
+death within 35 days by 25 percent (standard deviation (SD) 6) in 
+people who were also given streptokinase infusion, and by 21 percent 
+(SD 6) in people given a placebo infusion (2p < 0.001). Thus, aspirin 
+was effective in reducing mortality both in the presence and absence of 
+streptokinase.
+    Similarly, there were significantly fewer deaths in the 
+streptokinase group compared to the placebo both in the presence and 
+absence of aspirin. The effect of the combined therapy of aspirin plus 
+streptokinase was approximately additive. The 35-day vascular mortality 
+of the group that received aspirin plus streptokinase was 8 percent 
+compared to 13.2 percent for the double-placebo group. These results 
+represent an absolute reduction of 5.2 percent and a 42-percent 
+reduction in odds of death in
+
+[[Page 30004]]
+
+the aspirin plus streptokinase group (2p < 0.00001).
+    -When specific clinical events (fatal plus nonfatal) that occurred 
+in the hospital were evaluated separately, statistically significant 
+absolute reductions favoring aspirin were found for reinfarction (1.5 
+percent absolute reduction, 45 percent odds reduction, 2p < 0.00001), 
+cardiac arrest (1.2 percent absolute reduction, 14.2 percent odds 
+reduction, 2p < 0.01), and total stroke (0.4 percent absolute 
+reduction, 41.5 percent odds reduction, 2p < 0.01). Moreover, the 
+effect of aspirin over and above its effect on mortality was evidenced 
+by small, but significant, reductions in vascular morbidity in those 
+subjects who were discharged.
+    -The combination of streptokinase infusion and daily aspirin was 
+significantly better than either active treatment alone for vascular 
+mortality (See Table 1). The differences in favor of aspirin plus 
+streptokinase compared to double placebo for specific clinical events 
+were 1.1 percent in reinfarction, 2.5 percent in cardiac arrest, and 
+0.5 percent (2p = 0.02) in total stroke. The effects of aspirin and 
+aspirin in combination with streptokinase on major clinical events that 
+occurred in a hospital is shown in Table 2.
+Table 2.--Effects of Aspirin and Aspirin plus Streptokinase on Major 
+Clinical Events in Hospital
+
+                                                                                                                
+----------------------------------------------------------------------------------------------------------------
+                                      Aspirin                                Aspirin plus Streptokinase         
+                 -----------------------------------------------------------------------------------------------
+                                                      Percent                         Placebo         Percent   
+                  Asprin Tablets      Placebo        Absolute       Aspirin and    Infusion and      Absolute   
+                                      Tablets         Change       Streptokinase      Tablet          Change    
+----------------------------------------------------------------------------------------------------------------
+Number                                                                                                          
+ randomized         8,587           8,600                           4,292           4,300                       
+Number                                                                                                          
+ discharged                                                                                                     
+ alive              8,492           8,489                           4,239           4,238                       
+Reinfarction                                                                                                    
+ (any)                156             284               1.5            77             123               1.1     
+  (any                                                                                                          
+   discharged                                                                                                   
+   alive)              83             170               1.0            46              61               0.4     
+Cardiac rupture                                                                                                 
+ (any)                 69              81               0.1            31              38               0.2     
+  (any                                                                                                          
+   discharged                                                                                                   
+   alive)               7               5               0.0             2               1               0.0     
+Cardiac arrest                                                                                                  
+ (any)               690-             793               1.2           311             417               2.5     
+  (any                                                                                                          
+   discharged                                                                                                   
+   alive)             259             289               0.4           133             129              -0.1     
+Stroke (any)-          47              81               0.4            25              45               0.5     
+  (fatal)              20              30               0.1            12              18               0.1     
+  (disabled)           17              23               0.1             9              15               0.1     
+  (not disabled)       10              28               0.2             4              12               0.2     
+  (hemorrhagic)         5               2               0.0             5               0              -0.1     
+  (any                                                                                                          
+   discharged                                                                                                   
+   alive)              27              51               0.3            13              27               0.3     
+Major bleeds                                                                                                    
+ (transfused)         31-              33               0.0-           24              11              -0.3     
+Minor bleeds                                                                                                    
+  (not                                                                                                          
+   transfused)        215             163              -0.6           167              33              -3.2     
+----------------------------------------------------------------------------------------------------------------
+
+    Subgroup analysis was done for 35-day vascular mortality for 3,945 
+women assigned to either aspirin (1,994) or oral placebo (1,951), and 
+for 13,125 men assigned to aspirin (6,540) or oral placebo (6,585). 
+Vascular mortality was higher in women than men in both the placebo and 
+the aspirin group, but the absolute reduction of risk of vascular death 
+was 2.6 percent for women and 2.4 percent for men, representing a 19 
+percent (p = 0.018) odds reduction for women and a 25 percent (p < 
+0.0001) odds reduction for men. These data suggest that beneficial 
+effects of aspirin may be expected in treating both men and women for 
+an acute MI.
+    Subgroup analyses suggest that all age groups analyzed benefited 
+from aspirin. There were 1 percent fewer vascular deaths recorded for 
+3,870 subjects under 60 years of age who received aspirin than for 
+3,850 subjects who received oral placebo (18 percent relative risk 
+reduction). In subjects 60 to 69 years old, 3.1 percent fewer vascular 
+deaths were recorded for 2,999 subjects who received aspirin than for 
+3,057 subjects who received placebo (22 percent relative risk 
+reduction). Subjects over 70 years old (1,718 on aspirin versus 1,693 
+on placebo) appeared to have the greatest (4.7 percent) absolute 
+reduction in vascular death. The relative risk reduction in subjects 
+over 70 years old was 21 percent for those who received aspirin.--
+    However, the agency agrees with the investigators' conclusion that 
+more weight should be placed on the overall results than on any 
+particular subgroup of people. The agency has determined that the 
+evidence is insufficient at present to validate efficacy results in 
+particular subsets of patients with suspected acute MI.
+    The principal entry criterion for subjects in the ISIS-2 study was 
+that the responsible physician suspected acute MI based on clinical 
+presentation. The protocol did not require that MI be documented in 
+those entering the study. The agency notes that the only preliminary 
+indications of an MI are chest pain and changes in the ECG. The report 
+did not indicate how many of the subjects actually had an acute MI. In 
+a retrospective analysis, about 98 percent of the subjects admitted to 
+the study had some ECG abnormality.
+    Aspirin produced similar-sized reductions in vascular mortality 
+among subjects treated early and treated late after the onset of 
+symptoms (odds reductions at 0 to 4, 5 to 12, and 13 to 24 hours were 
+25 percent, 21 percent, and 21 percent, respectively). The effects of 
+streptokinase appeared to be greatest among those treated earliest. 
+When comparing subjects who received both aspirin and streptokinase to 
+subjects who received double placebo, the odds of death were more 
+reduced among those subjects randomized 0 to 4 hours (53 percent odds 
+reduction; 2p < 0.00001) after the onset of pain than those randomized 
+later: 5 to 12 hours (32 percent odds reduction; 2p < 0.0001), and 13 
+to 24 hours (38 percent odds reduction; 2p < 0.01).
+    The aspirin regimen was well tolerated. There was no difference in 
+the incidence of major bleeding (bleeds requiring transfusion) between 
+the two groups (0.4 percent for aspirin; 0.4 percent for placebo). 
+There was a small but statistically significant 0.6 percent (SD = 0.2, 
+2p < 0.01) increase in minor bleeding in people taking aspirin compared 
+to placebo (2.5 versus 1.9
+
+[[Page 30005]]
+
+percent). No other significant adverse effects were reported. Although 
+there were five confirmed cerebral hemorrhages in the aspirin group 
+compared with two in the placebo group, this difference was not 
+statistically significant. As discussed above, the incidence of stroke 
+of any cause was lower in subjects taking aspirin when compared to 
+those on oral placebo (47 versus 81), a 0.4 percent absolute reduction 
+and a 41.5 percent reduction in odds of stroke (2p < 0.01) in subjects 
+taking aspirin.
+    The second study (Ref. 4) was a study of low dose aspirin (75 mg 
+daily) and intravenous heparin in 945 men with unstable coronary artery 
+disease, defined as non-Q-wave MI or increasing angina within the 
+previous 4 weeks associated with ischemia (deficiency of oxygen supply 
+to the heart muscle, due to the constriction or obstruction of a blood 
+vessel) in a resting ECG or during a predischarge exercise test. The 
+subjects were randomized within 72 hours after admission to coronary 
+care units to receive bolus intravenous injections of heparin (10,000 
+units 4 times a day for 1 day and 7,500 units 4 times a day for 4 
+additional days) or placebo (saline) for 5 days, and oral aspirin (75 
+mg daily) or placebo for 1 year. The study was stopped early after 
+publication of the ISIS-2 study. As a result, the minimum period of 
+randomized treatment was reduced to 3 months. A detailed report of this 
+study has not been submitted to the agency for review.
+    One hundred and forty-nine subjects were excluded from the study 
+(115 with no evidence of myocardial ischemia after an exercise test, 
+and 34 with an anterior Q-wave MI before recruitment). The remaining 
+796 subjects were randomized to either double placebo (199), heparin 
+and aspirin (210), aspirin and placebo (189), or heparin and placebo 
+(198).
+    The combined rate of MI or death in subjects on aspirin (aspirin 
+with placebo and aspirin with heparin) was 9.1 percent and 10.6 percent 
+lower at 1 and 3 months, respectively, than the combined rate for 
+subjects receiving placebo (double placebo or placebo with heparin), a 
+risk reduction of 68 percent at 1 month (p = 0.0001) and 62 percent at 
+3 months (p = 0.0001). Heparin alone did not appear to affect the rate 
+of death or MI. However, the combination of heparin and aspirin was the 
+only regimen that significantly reduced the risk of MI during the first 
+5 days in the hospital. Thus, the authors suggested that reduction of 
+events in the aspirin treated group may have been influenced by initial 
+simultaneous treatment with heparin.
+    A few side effects were reported with the daily aspirin dose used 
+in this study, although details were not provided. Hematological side 
+effects were reported to be rare and minor. Gastrointestinal side 
+effects were similar in the aspirin and placebo groups at 1 month, but 
+were more frequent with aspirin (5.2 percent to 6.5 percent) than with 
+placebo (0.7 percent to 1.9 percent) at 3 months.
+    This study primarily involved the use of aspirin in subjects with 
+unstable angina. The agency has already accepted the benefits of 
+aspirin in unstable angina and has included that indication in 
+Sec. 343.80(c).
+    The third study (Ref. 5) compared the effect of aspirin (100 mg 
+daily) to placebo for 3 months on infarct size, death, reinfarction, 
+unstable angina, and revascularization in 100 subjects with early 
+symptoms of first anterior wall acute MI. All subjects also received 
+subcutaneous heparin until they were mobilized. In addition, those 
+subjects who were less than 70 years of age and had symptoms for less 
+than 4 hours when recruited (24 subjects on aspirin and 26 subjects on 
+placebo) also received thrombolysis therapy (intravenous 
+streptokinase). The study was randomized for aspirin but not for 
+thrombolysis.
+    The primary endpoint was infarct size in the first 72 hours. The 
+size of the infarct was determined by the cumulative release of serum 
+lactate dehydrogenase (LDH) in the first 72 hours. Secondary endpoints 
+were death, reinfarction, unstable angina, and revascularization. The 
+results showed a 10 percent difference in infarct size (1,431 
+<plus-minus> 782 versus 1,592 <plus-minus> 1,082 LDH units per liter) 
+for the aspirin versus placebo group. This difference was not 
+statistically significant (p = 0.35). Of the secondary endpoints 
+evaluated, only reinfarction was significantly lower in the aspirin 
+than the placebo group (4 percent versus 18 percent, p < 0.03) at 3 
+months. Mortality rate was 20 percent in subjects given aspirin 
+compared to 24 percent in those given placebo. This difference was not 
+statistically significant (p = 0.65).
+    The significant reduction in incidence of reinfarction in this 
+study is surprising because of the small size of the study and may 
+depend on an atypical incidence of reinfarction in the control group 
+(18 percent at 3 months). This was much higher than in the control 
+group of the ISIS-2 study (approximately 3 percent at 35 days). 
+Followup for this third study was longer than for the ISIS-2 study (3 
+months versus 35 days). Only subjects with early signs of first 
+anterior wall infarction were eligible for entry in the third study, 
+while in the ISIS-2 study subjects with only ``suspected acute MI'' 
+were eligible. The more stringent entry criteria and the longer 
+followup period may account for the higher incidence of reinfarction in 
+the control group and the significant effect of aspirin on reinfarction 
+in the third study. A detailed report of this study was not submitted 
+to the agency. Based on the information provided, this study provides 
+little additional evidence of the effectiveness of aspirin in treating 
+acute MI.
+    The fourth study (Ref. 6) was an uncontrolled study to evaluate 
+infarct vessel patency in subjects started on both aspirin (325 mg/day) 
+and dipyridamole (75 mg/day) after thrombolytic therapy with 
+streptokinase. In the absence of a control group, the study cannot 
+provide any information on the effectiveness of aspirin in treating 
+acute MI.
+    The second petition (Ref. 2) also requested the agency to approve 
+professional labeling for aspirin for prevention of fatal and nonfatal 
+cardiovascular events in patients with suspected acute MI. The petition 
+requested approval of an initial dose of ``at least 162 mg aspirin'' 
+during the 24 hours following acute MI, with continued treatment for at 
+least the subsequent 30-day followup period at the minimum dose of 162 
+mg/day. The petition relied primarily on the results of ISIS-2 (Ref. 3) 
+to support the labeling claim. Data from that study are summarized 
+above.
+    In addition to ISIS-2, the petition included results of four 
+published efficacy studies of aspirin in acute MI (Refs. 5, 7, 8, and 
+9). The study by Verheugt et al. (Ref. 5) was also submitted in the 
+first petition and is discussed above.
+    In the ISIS-2 pilot study (Ref. 7), there was a nonsignificant 
+reduction in nonfatal reinfarction in 313 subjects who received 325 mg 
+aspirin on alternate days compared with 306 subjects who received 
+placebo. In-hospital death (all causes) was reported to be 
+significantly lower in the aspirin-treated group. Postdischarge death 
+was reported at a similar rate in both the aspirin and placebo 
+subjects.
+    Elwood and Williams (Ref. 8) found no evidence of reduced mortality 
+in males or females evaluated up to 28 days after a single 300 mg dose 
+of aspirin. Aspirin or placebo was administered to 2,530 subjects, upon 
+first suspicion of acute MI. Analysis was
+
+[[Page 30006]]
+
+confined to 1,705 subjects in whom acute MI was subsequently confirmed.
+    Husted et al. (Ref. 9) compared aspirin 100 mg/day, aspirin 1,000 
+mg/day, and placebo in 293 subjects with suspected acute MI. An intent-
+to-treat analysis showed no significant difference between groups. A 
+significant benefit of 100 mg/day (but not 1,000 mg/day) on the 
+combined incidence of cardiac death and nonfatal MI was found when 
+subjects who withdrew from the study were excluded from the analysis. 
+No conclusions were drawn as to the reasons for the difference in 
+effect between a 100 mg and 1,000 mg daily dose.
+    The agency received additional comments that raised other issues 
+related to professional labeling of aspirin for cardiovascular use. 
+Those issues will be addressed in a future issue of the Federal 
+Register.
+
+B. Summary of the Agency's Evaluation
+
+    The agency has determined that the ISIS-2 study (Ref. 3) supports 
+the use of aspirin at a dose of 162.5 mg/day, started as soon as 
+possible after an infarction and continued for at least 30 days to 
+reduce the risk of fatal and nonfatal cardiovascular and 
+cerebrovascular events in subjects with a suspected acute MI. The study 
+also shows that the effect of aspirin is not diminished with 
+concomitant early treatment with a thrombolytic (i.e., an immediate 1-
+hour, single-dose, infusion of 1.5 million units of streptokinase). 
+Aspirin treatment should be started as soon as the physician suspects 
+an MI, rather than delaying treatment until definitive testing can be 
+done. A significant benefit of aspirin in reducing the risk of vascular 
+death was seen in ISIS-2 for aspirin alone compared to placebo as well 
+as for aspirin plus streptokinase compared to streptokinase alone, 
+representing, in effect, two separate studies showing a benefit of 
+aspirin. This internal replication supports the indication for 
+treatment of acute MI. The large number of investigators involved in 
+the study and the consistency of results among countries lend further 
+credibility to the results of this single study.-
+    The benefit of aspirin is evident for both all-cause mortality and 
+vascular mortality for aspirin alone and for aspirin in addition to 
+early thrombolytic treatment. Although the most important effect of 
+aspirin in acute MI is the reduction in mortality, small, but 
+statistically significant, decreases in nonfatal reinfarction and 
+stroke were also found. Overall, the other studies included in the 
+petitions are consistent with a favorable effect of aspirin in the 
+acute and subacute MI setting, but do not provide substantial support 
+for ISIS-2. While the dosage in the ISIS-2 study was 162.5 mg enteric-
+coated aspirin daily, the agency believes one-half of a conventional 
+325-mg tablet or two 80- or 81-mg tablets are also reasonable doses 
+(i.e., a range of 160 to 162.5 mg).
+    In the 1988 TFM (53 FR 46204 at 46229 and 46231), the agency 
+proposed (in Sec. 343.20(b)(3)) that aspirin, buffered aspirin, and 
+aspirin in combination with antacids are effective to treat patients 
+with TIA, a previous MI, or unstable angina pectoris. That proposal was 
+based on recommendations of the Peripheral and Central Nervous System 
+Drugs Advisory Committee, the agency's review of data submitted to show 
+that buffered aspirin would be expected to have similar effects, and on 
+the data from an unstable angina trial that used a highly buffered 
+aspirin solution. Based on those data, the agency is proposing that 
+aspirin, buffered aspirin, or aspirin in combination with an antacid 
+may be used to treat patients with a suspected acute MI. After the 30-
+day recommended treatment with aspirin for acute MI, physicians should 
+consider further therapy based on the labeling for dosage and 
+administration of aspirin for prevention of recurrent MI 
+(reinfarction).
+    Based on the above discussion, the agency is now proposing several 
+changes in the professional labeling proposed in Sec. 343.80(c) for OTC 
+drug products containing aspirin proposed in Sec. 343.10(b) or 
+permitted combinations proposed in Sec. 343.20(b)(3) as follows: (1) 
+Add information for treatment of a suspected acute MI, and (2) revise 
+some of the previously proposed text based on additional information 
+from the ISIS-2 study (Ref. 8).
+
+III. Summary of Agency Changes
+
+    In summary, the agency is proposing to add the following to the 
+professional labeling in Sec. 343.80(c): An indication for aspirin to 
+reduce the risk of vascular mortality in patients with a suspected 
+acute MI; the findings of the ISIS-2 study under ``Clinical Trials;'' a 
+dosage of 160 to 162.5 mg for a suspected acute MI taken as soon as the 
+infarct is suspected and then daily for at least 30 days; and a 
+statement that this use of aspirin applies to both solid, oral dosage 
+forms and buffered aspirin in solution.
+    To add the findings of the ISIS-2 study and to improve readability, 
+the agency is also proposing the following: Change the heading from 
+``Indication'' to ``Indications;'' add the subheadings, ``Recurrent MI 
+(Reinfarction) or Unstable Angina Pectoris'' and ``Suspected Acute 
+MI,'' under the headings ``Indications,'' ``Clinical Trials,'' and 
+``Dosage and Administration;'' revise the text under ``Gastrointestinal 
+Reactions'' and change from 300 mg aspirin to 160 mg aspirin daily the 
+dosage level at which subjects should have biochemical measurements 
+assessed; add a subheading, ``Bleeding,'' under the heading ``Adverse 
+Reactions'' (after ``Gastrointestinal Reactions''); renumber existing 
+reference (8) as reference (9); and add a new reference (8).
+
+IV. References
+
+    The following references are on display in the Dockets Management 
+Branch (address above) and may be seen by interested persons between 9 
+a.m. and 4 p.m., Monday through Friday.
+    (1) Comment No. CP9, Docket No. 77N-0094, Dockets Management 
+Branch.
+    (2) Comment No. CP10, Docket No 77N-0094, Dockets Management 
+Branch.
+    (3) ISIS-2 (Second International Study of Infarct Survival) 
+Collaborative Group, ``Randomized Trial of Intravenous 
+Streptokinase, Oral Aspirin, Both, or Neither Among 17,187 Cases of 
+Suspected Acute Myocardial Infarction: ISIS--2,'' Lancet, 2:349-360, 
+1988.
+    (4) RISC Group, ``Risk of Myocardial Infarction and Death During 
+Treatment with Low Dose Aspirin and Intravenous Heparin in Men with 
+Unstable Coronary Artery Disease,'' Lancet, 336:827-830, 1990.
+    (5)- Verheugt, F. W. et al., ``Effects of Early Intervention 
+with Low-dose Aspirin (100 mg) on Infarct Size, Reinfarction and 
+Mortality in Anterior Wall Acute Myocardial Infarction,'' American 
+Journal of Cardiology, 66:267-270, 1990.
+    (6)- Hays, L. J. et al., ``Short-term Infarct Vessel Patency 
+with Aspirin and Dipyridamole Started 24 to 36 Hours After 
+Intravenous Streptokinase,'' American Heart Journal, 115:717-721, 
+1988.
+    (7) ISIS Pilot Study Investigators, ``Randomized Factorial Trial 
+of High-Dose Intravenous Streptokinase, of Oral Aspirin and of 
+Intravenous Heparin in Acute Myocardial Infarction,'' European Heart 
+Journal, 8:634-642, 1987.
+    (8) Elwood, P. C., and W. O. Williams, ``A Randomized Controlled 
+Trial of Aspirin in the Prevention of Early Mortality in Myocardial 
+Infarction,'' Journal of the Royal College of General Practitioners, 
+29:413-416, 1979.
+    (9) Husted, S. E. et al., ``Acetylsalicylic Acid 100 mg and 
+1,000 mg Daily in Acute Myocardial Infarction Suspects: A Placebo-
+Controlled Trial,'' Journal of Internal Medicine, 226:303-310, 1989.
+
+V. Enforcement Policy
+
+    The agency is allowing the proposed professional labeling to be 
+used prior to the completion of a final rule for OTC internal 
+analgesic, antipyretic, and antirheumatic drug products. This decision 
+is based on the substantial data
+
+[[Page 30007]]
+
+supporting the safety and effectiveness of aspirin for suspected acute 
+MI and on the importance of early dissemination of this information to 
+health professionals. Manufacturers who disseminate this information 
+must use the exact professional labeling set forth in this proposal. 
+Such labeling may be disseminated pending issuance of a final rule, 
+subject to the risk that the agency may, in the final rule, adopt a 
+different position that could require relabeling, recall, or other 
+regulatory action. Those manufacturers who do not wish to revise the 
+professional labeling in accordance with this proposal may continue to 
+disseminate the labeling proposed in the 1988 TFM (53 FR 46204 at 46258 
+through 46260) until a final rule becomes effective. Dissemination of 
+professional labeling that is not in accord with the labeling in the 
+1988 TFM or with this proposed amendment to the 1988 TFM may result in 
+regulatory action against the product, the marketer, or both.
+
+VI. Analysis of Impacts
+
+    FDA has examined the impacts of the proposed rule under Executive 
+Order 12866 and the Regulatory Flexibility Act (Pub. L. 96-354). 
+Executive Order 12866 directs agencies to assess all costs and benefits 
+of available regulatory alternatives and, when regulation is necessary, 
+to select regulatory approaches that maximize net benefits (including 
+potential economic, environmental, public health and safety, and other 
+advantages; distributive impacts; and equity). The agency believes that 
+this proposed rule is consistent with the regulatory philosophy and 
+principles identified in the Executive Order. In addition, the proposed 
+rule is not a significant regulatory action as defined by the Executive 
+Order and so is not subject to review under the Executive Order.
+    The Regulatory Flexibility Act requires agencies to analyze 
+regulatory options that would minimize any significant impact of a rule 
+on small entities. If this proposed rule becomes a final rule, direct 
+one-time costs associated with changing professional labeling will be 
+imposed. That cost is estimated to be less than $1 million. Also, there 
+appears to be a limited number of aspirin products involved because 
+many manufacturers of these products do not distribute professional 
+labeling for their products. Manufacturers who do distribute such 
+professional labeling will have an additional claim to make for their 
+product(s) and will have 1 year after publication of the final rule to 
+implement this relabeling. Accordingly, the agency certifies that the 
+proposed rule will not have a significant economic impact on a 
+substantial number of small entities. Therefore, under the Regulatory 
+Flexibility Act, no further analysis is required.
+    The agency invites public comment regarding any substantial or 
+significant economic impact that this rulemaking would have on the 
+professional labeling of OTC internal analgesic, antipyretic, and 
+antirheumatic drug products that contain aspirin, buffered aspirin, or 
+aspirin in combination with antacid. Types of impact may include, but 
+are not limited to, costs associated with relabeling. Comments 
+regarding the impact of this rulemaking on these OTC drug products 
+should be accompanied by appropriate documentation. The agency will 
+evaluate any comments and supporting data that are received and will 
+reassess the economic impact of this rulemaking in the preamble to the 
+final rule.
+
+VII. Paperwork Reduction Act of 1995
+
+    FDA tentatively concludes that the labeling requirements proposed 
+in this document are not subject to review by the Office of Management 
+and Budget because they do not constitute a ``collection of 
+information'' under the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 
+et seq.). Rather, the proposed labeling statements are a ``public 
+disclosure of information originally supplied by the Federal Government 
+to the recipient for the purpose of disclosure to the public'' (5 CFR 
+1320.3(c)(2)).
+
+VIII. Environmental Impact
+
+    The agency has determined under 21 CFR 25.24(c)(6) that this action 
+is of a type that does not individually or cumulatively have a 
+significant effect on the human environment. Therefore, neither an 
+environmental assessment nor an environmental impact statement is 
+required.
+
+IX. Request for Comments
+
+    Interested persons may, on or before September 11, 1996, submit to 
+the Dockets Management Branch (address above) written comments 
+regarding this proposal. Written comments on the agency's economic 
+impact determination may be submitted on or before September 11, 1996. 
+Three copies of all comments are to be submitted, except that 
+individuals may submit one copy. Comments are to be identified with the 
+docket number found in brackets in the heading of this document and may 
+be accompanied by a supporting memorandum or brief. Received comments 
+may be seen in the office above between 9 a.m. and 4 p.m., Monday 
+through Friday.
+
+List of Subjects in 21 CFR Part 343
+
+    Labeling, Over-the-counter drugs.
+    Therefore, under the Federal Food, Drug, and Cosmetic Act and under 
+authority delegated to the Commissioner of Food and Drugs, it is 
+proposed that 21 CFR part 343 (proposed in the Federal Register of 
+November 16, 1988, 53 FR 46204) be amended as follows:
+
+PART 343--INTERNAL ANALGESIC, ANTIPYRETIC, AND ANTIRHEUMATIC DRUG 
+PRODUCTS FOR OVER-THE-COUNTER HUMAN USE
+
+    1. The authority citation for 21 CFR part 343 continues to read as 
+follows:
+
+    -Authority: Secs. 201, 501, 502, 503, 505, 510, 701 of the 
+Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321, 351, 352, 353, 
+355, 360, 371).
+
+    2. Section 343.80 is amended by revising paragraph (c) to read as 
+follows:
+
+
+Sec. 343.80  Professional labeling.
+
+ * * * * *-
+    (c)  For products containing aspirin identified in Sec. 343.10(b) 
+or permitted combinations identified in Sec. 343.20(b)(3). The labeling 
+states, under the heading ``ASPIRIN FOR MYOCARDIAL INFARCTION,'' the 
+following:
+Indications:
+Recurrent Myocardial Infarction (MI) (Reinfarction) or Unstable 
+Angina Pectoris
+    Aspirin is indicated to reduce the risk of death and/or nonfatal 
+MI in patients with a previous MI or unstable angina pectoris.
+Suspected Acute MI
+    Aspirin is indicated to reduce the risk of vascular mortality in 
+patients with a suspected acute MI.
+Clinical Trials:
+Recurrent MI (Reinfarction) and Unstable Angina Pectoris
+    The indication is supported by the results of six large, 
+randomized multicenter, placebo-controlled studies involving 10,816, 
+predominantly male, post-MI subjects and one randomized placebo-
+controlled study of 1,266 men with unstable angina (1-7). Therapy 
+with aspirin was begun at intervals after the onset of acute MI 
+varying from less than 3 days to more than 5 years and continued for 
+periods of from less than 1 year to 4 years. In the unstable angina 
+study, treatment was started within 1 month after the onset of 
+unstable angina and continued for 12 weeks, and patients with 
+complicating conditions such as congestive heart failure were not 
+included in the study.
+    Aspirin therapy in MI subjects was associated with about a 20-
+percent reduction in the risk of subsequent death and/or nonfatal 
+reinfarction, a median absolute decrease of 3 percent from the 12- 
+to 22-percent event rates in the placebo groups. In aspirin-treated 
+unstable angina patients the reduction in risk was about 50 percent, 
+a
+
+[[Page 30008]]
+
+reduction in the event rate of 5-percent from the 10-percent rate in 
+the placebo group over the 12-weeks of the study.
+     Daily dosage of aspirin in the post-MI studies was 300 
+milligrams in one study and 900 to 1,500 milligrams in five studies. 
+A dose of 325 milligrams was used in the study of unstable angina.
+Suspected Acute MI
+    The use of aspirin in patients with a suspected acute MI is 
+supported by the results of a large, multicenter 2 x 2 factorial 
+study of 17,187 subjects with suspected acute MI (8). Subjects were 
+randomized within 24 hours of the onset of symptoms so that 8,587 
+subjects received oral aspirin (162.5 milligrams, enteric-coated) 
+daily for 1 month (the first dose crushed, sucked, or chewed) and 
+8,600 received oral placebo. Of the subjects, 8,592 were also 
+randomized to receive a single dose of streptokinase (1.5 million 
+units) infused intravenously for about 1 hour, and 8,595 received a 
+placebo infusion. Thus, 4,295 subjects received aspirin plus 
+placebo, 4,300 received streptokinase plus placebo, 4,292 received 
+aspirin plus streptokinase, and 4,300 received double placebo.
+    Vascular mortality (attributed to cardiac, cerebral, 
+hemorrhagic, other vascular, or unknown causes) occurred in 9.4 
+percent of the subjects in the aspirin group and in 11.8 percent of 
+the subjects in the oral placebo group in the 35-day followup. This 
+represents an absolute reduction of 2.4 percent in the mean 35-day 
+vascular mortality attributable to aspirin and a 23-percent 
+reduction in the odds of vascular death (2p < 0.00001).
+    Significant absolute reductions in mortality and corresponding 
+reductions in specific clinical events favoring aspirin were found 
+for reinfarction (1.5 percent absolute reduction, 45 percent odds 
+reduction, 2p < 0.00001), cardiac arrest (1.2 percent absolute 
+reduction, 14.2 percent odds reduction, 2p < 0.01), and total stroke 
+(0.4 percent absolute reduction, 41.5 percent odds reduction, 2p < 
+0.01). The effect of aspirin over and above its effect on mortality 
+was evidenced by small, but significant, reductions in vascular 
+morbidity in those subjects who were discharged.
+    The beneficial effects of aspirin on mortality were present with 
+or without streptokinase infusion. Aspirin reduced vascular 
+mortality from 10.4 to 8.0 percent for days 0 to 35 in subjects 
+given streptokinase and reduced vascular mortality from 13.2 to 10.7 
+percent in subjects given no streptokinase.
+    The effects of aspirin and thrombolytic therapy with 
+streptokinase in this study were approximately additive. Subjects 
+who received the combination of streptokinase infusion and daily 
+aspirin had significantly lower vascular mortality at 35 days than 
+those who received either active treatment alone (combination 8.0 
+percent, aspirin 10.7 percent, streptokinase 10.4 percent, and no 
+treatment 13.2 percent). While this study demonstrated that aspirin 
+has an additive benefit in patients given streptokinase, there is no 
+reason to restrict its use to that specific thrombolytic.
+Adverse Reactions:
+Gastrointestinal Reactions
+    Doses of 1,000 milligrams per day of aspirin caused 
+gastrointestinal symptoms and bleeding that in some cases were 
+clinically significant. In the Aspirin Myocardial Infarction Study 
+(AMIS) (4) with 4,500 post-infarction subjects, the percentage 
+incidences of gastrointestinal symptoms for the aspirin (1,000 
+milligrams of a standard, solid-tablet formulation) and placebo-
+treated subjects, respectively, were: Stomach pain (14.5 percent, 
+4.4 percent); heartburn (11.9 percent, 4.8 percent); nausea and/or 
+vomiting (7.6 percent, 2.1 percent); hospitalization for 
+gastrointestinal disorder (4.8 percent, 3.5 percent). Symptoms and 
+signs of gastrointestinal irritation were not significantly 
+increased in subjects treated for unstable angina with 325 
+milligrams buffered aspirin in solution.
+Bleeding
+    In the AMIS and other trials, aspirin-treated subjects had 
+increased rates of gross gastrointestinal bleeding. In the ISIS-2 
+study (8), there was no significant difference in the incidence of 
+major bleeding (bleeds requiring transfusion) between 8,587 subjects 
+taking 162.5 milligrams aspirin daily and 8,600 subjects taking 
+placebo (31 versus 33 subjects). There were five confirmed cerebral 
+hemorrhages in the aspirin group compared with two in the placebo 
+group, but the incidence of stroke of all causes was significantly 
+reduced from 81 to 47 for the placebo versus aspirin group (0.4 
+percent absolute change). There was a small and statistically 
+significant excess (0.6 percent) of minor bleeding in people taking 
+aspirin (2.5 percent for aspirin, 1.9 percent for placebo). No other 
+significant adverse effects were reported.-
+    (Other applicable warnings related to the use of aspirin as 
+described in Sec. 343.50(c) may also be included here.)
+Cardiovascular and Biochemical
+    In the AMIS trial (4), the dosage of 1,000 milligrams per day of 
+aspirin was associated with small increases in systolic blood 
+pressure (BP) (average 1.5 to 2.1 millimeters Hg) and diastolic BP 
+(0.5 to 0.6 millimeters Hg), depending upon whether maximal or last 
+available readings were used. Blood urea nitrogen and uric acid 
+levels were also increased, but by less than 1.0 milligram percent.
+    Subjects with marked hypertension or renal insufficiency had 
+been excluded from the trial so that the clinical importance of 
+these observations for such subjects or for any subjects treated 
+over more prolonged periods is not known. It is recommended that 
+patients placed on long-term aspirin treatment, even at doses of 160 
+milligrams per day, be seen at regular intervals to assess changes 
+in these measurements.
+Sodium in Buffered Aspirin for Solution Formulations:
+    One tablet daily of buffered aspirin in solution adds 553 
+milligrams of sodium to that in the diet and may not be tolerated by 
+patients with active sodium-retaining states such as congestive 
+heart or renal failure. This amount of sodium adds about 30 percent 
+to the 70- to 90-milliequivalent intake suggested as appropriate for 
+dietary treatment of essential hypertension in the ``1984 Report of 
+the Joint National Committee on Detection, Evaluation, and Treatment 
+of High Blood Pressure'' (9).
+Dosage and Administration:
+Recurrent MI (Reinfarction) and Unstable Angina Pectoris
+    Although most of the studies used dosages exceeding 300 
+milligrams, two trials used only 300 milligrams, and pharmacologic 
+data indicate that this dose inhibits platelet function fully. 
+Therefore, 300 milligrams or a conventional 325 milligram aspirin 
+dose is a reasonable, routine dose that would minimize 
+gastrointestinal adverse reactions. This use of aspirin applies to 
+both solid, oral dosage forms (buffered and plain aspirin) and 
+buffered aspirin in solution.
+Suspected Acute MI
+    The recommended dose of aspirin to treat suspected acute MI is 
+160 to 162.5 milligrams taken as soon as the infarct is suspected 
+and then daily for at least 30 days. (One-half of a conventional 
+325-milligram aspirin tablet or two 80- or 81-milligram aspirin 
+tablets may be taken.) This use of aspirin applies to both solid, 
+oral dosage forms (buffered, plain, and enteric-coated aspirin) and 
+buffered aspirin in solution. If using a solid dosage form, the 
+first dose should be crushed, sucked, or chewed. After the 30-day 
+treatment, physicians should consider further therapy based on the 
+labeling for dosage and administration of aspirin for prevention of 
+recurrent MI (reinfarction).
+    (1) Elwood, P. C. et al., ``A Randomized Controlled Trial of 
+Acetylsalicylic Acid in the Secondary Prevention of Mortality from 
+Myocardial Infarction,'' British Medical Journal, 1:436-440, 1974.
+    (2) The Coronary Drug Project Research Group, ``Aspirin in 
+Coronary Heart Disease,'' Journal of Chronic Diseases, 29:625-642, 
+1976.
+    (3) Breddin, K. et al., ``Secondary Prevention of Myocardial 
+Infarction: A Comparison of Acetylsalicylic Acid, Phenprocoumon or 
+Placebo,'' Homeostasis, 470:263-268, 1979.
+    (4) Aspirin Myocardial Infarction Study Research Group, ``A 
+Randomized, Controlled Trial of Aspirin in Persons Recovered from 
+Myocardial Infarction,'' Journal of the American Medical 
+Association, 243:661-669, 1980.
+    (5) Elwood, P. C., and P. M. Sweetnam, ``Aspirin and Secondary 
+Mortality After Myocardial Infarction,'' Lancet, II:1313-1315, 
+December 22-29, 1979.
+    (6) The Persantine-Aspirin Reinfarction Study Research Group, 
+``Persantine and Aspirin in Coronary Heart Disease,'' Circulation, 
+62:449-461, 1980.
+    (7) Lewis, H. D. et al., ``Protective Effects of Aspirin Against 
+Acute Myocardial Infarction and Death in Men with Unstable Angina, 
+Results of a Veterans Administration Cooperative Study,'' New 
+England Journal of Medicine, 309:396-403, 1983.
+    (8) ISIS-2 (Second International Study of Infarct Survival) 
+Collaborative Group, ``Randomized Trial of Intravenous 
+Streptokinase, Oral Aspirin, Both, or Neither Among 17,187 Cases of 
+Suspected Acute Myocardial Infarction: ISIS-2,'' Lancet, 2:349-360, 
+August 13, 1988.
+
+[[Page 30009]]
+
+    (9) ``1984 Report of the Joint National Committee on Detection, 
+Evaluation, and Treatment of High Blood Pressure,'' United States 
+Department of Health and Human Services and United States Public 
+Health Service, National Institutes of Health, Publication No. NIH 
+84-1088, 1984.
+
+    Dated: June 5, 1996.
+William K. Hubbard,
+Associate Commissioner for Policy Coordination.
+[FR Doc. 96-14894 Filed 6-12-96; 8:45 am]
+BILLING CODE 4160-01-F
+
+</pre></body>
+</html>

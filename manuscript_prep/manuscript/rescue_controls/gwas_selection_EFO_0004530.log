@@ -1,0 +1,15 @@
+(a) studies mapped to EFO_0004530: 1969
+(b) of those, with harmonised sumstats: 1407
+(c) of those, with .tbi: 1235
+(d) of those, European-ancestry-only (R2a): 1044
+eligible after all of (a)-(d): 1007
+
+Top 5 eligible (tbi_present=True), ranked by max_parsed_N:
+  GCST90239664   N=1320016   Graham SE      2021-12-09  triglyceride measurement
+  GCST90474428   N=431704    UK Biobank Whole-Genome Sequencing Consortium 2025-08-06  triglyceride measurement
+  GCST90079044   N=411757    Backman JD     2021-10-18  triglyceride measurement
+  GCST90691583   N=400639    Karczewski KJ  2025-09-18  triglyceride measurement
+  GCST90134251   N=395058    Downie CG      2022-06-14  triglyceride measurement, trait in respo
+
+SELECTED: GCST90239664  (N=1320016)  ./GCST90239001-GCST90240000/GCST90239664/harmonised/GCST90239664.h.tsv.gz
+wrote D:\causal2drug\manuscript_prep\manuscript\rescue_controls\gwas_selection_EFO_0004530.csv

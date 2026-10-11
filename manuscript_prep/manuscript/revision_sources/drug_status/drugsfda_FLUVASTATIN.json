@@ -1,0 +1,1860 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 8
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20120612"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20121231",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20200925",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20200605",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA078407",
+      "sponsor_name": "TEVA PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA078407"
+        ],
+        "brand_name": [
+          "FLUVASTATIN"
+        ],
+        "generic_name": [
+          "FLUVASTATIN"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "0093-7442",
+          "0093-7443"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FLUVASTATIN SODIUM"
+        ],
+        "rxcui": [
+          "310404",
+          "310405"
+        ],
+        "spl_id": [
+          "1fb50b66-e9d0-4fd1-928e-b37c4fff4ccc"
+        ],
+        "spl_set_id": [
+          "aad8b373-0aec-4efb-8e61-3d8114b31127"
+        ],
+        "package_ndc": [
+          "0093-7442-56",
+          "0093-7442-01",
+          "0093-7443-56",
+          "0093-7443-01"
+        ],
+        "unii": [
+          "PYF7O1FV7F"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FLUVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FLUVASTATIN SODIUM",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FLUVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FLUVASTATIN SODIUM",
+              "strength": "EQ 40MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20230202",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20230202",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20240924",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160127"
+        }
+      ],
+      "application_number": "ANDA079011",
+      "sponsor_name": "TEVA PHARMS USA",
+      "openfda": {
+        "application_number": [
+          "ANDA079011"
+        ],
+        "brand_name": [
+          "FLUVASTATIN SODIUM"
+        ],
+        "generic_name": [
+          "FLUVASTATIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "0093-7446"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FLUVASTATIN SODIUM"
+        ],
+        "rxcui": [
+          "360507"
+        ],
+        "spl_id": [
+          "82469f87-7755-4dda-a92d-a27856d0fe0e"
+        ],
+        "spl_set_id": [
+          "cc55110f-1ad6-4f97-840d-62b3a5ac415a"
+        ],
+        "package_ndc": [
+          "0093-7446-56",
+          "0093-7446-01"
+        ],
+        "unii": [
+          "PYF7O1FV7F"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FLUVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FLUVASTATIN SODIUM",
+              "strength": "EQ 80MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20010925",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "14613",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2001/21192s2lbl.pdf",
+              "date": "20030501",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20121031",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "36322",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020261s048,021192s021lbl.pdf",
+              "date": "20121106",
+              "type": "Label"
+            },
+            {
+              "id": "4608",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020261Orig1s048,021192s021ltr.pdf",
+              "date": "20121105",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20070612",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "36319",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/020261s039,021192s013lbl.pdf",
+              "date": "20070614",
+              "type": "Label"
+            },
+            {
+              "id": "27031",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/020261s039, 021192s013ltr.pdf",
+              "date": "20070614",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20060410",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "4605",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/020261s035, s036, 021192s010, s011ltr.pdf",
+              "date": "20060413",
+              "type": "Letter"
+            },
+            {
+              "id": "14617",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021192,s010,011,020261s035,s036lbl.pdf",
+              "date": "20060412",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20170804",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "49273",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020261s052,021192s026lbl.pdf",
+              "date": "20170808",
+              "type": "Label"
+            },
+            {
+              "id": "49282",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/020261Orig1s052,021192Orig1s026ltr.pdf",
+              "date": "20170808",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20030527",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "14614",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2003/20261se1-033,21192se1-005_lescol_lbl.pdf",
+              "date": "20030608",
+              "type": "Label"
+            },
+            {
+              "id": "27028",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20261se1-033,21192se1-005ltr.pdf",
+              "date": "20030608",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20110617",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "27032",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/020261s042,021192s016ltr.pdf",
+              "date": "20110628",
+              "type": "Letter"
+            },
+            {
+              "id": "36320",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020261s042,021192s016lbl.pdf",
+              "date": "20110628",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20020211",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "42014",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/021192_s003_LESCOL_CAPSULES.pdf",
+              "date": "20080801",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20010924",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20130625",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20060322",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "36318",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020261S037,021192S012lbl.pdf",
+              "date": "20060405",
+              "type": "Label"
+            },
+            {
+              "id": "4606",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/020261S037,021192S012ltr.pdf",
+              "date": "20060405",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20060410",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "14616",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021192,s010,011,020261s035,s036lbl.pdf",
+              "date": "20060412",
+              "type": "Label"
+            },
+            {
+              "id": "27030",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/020261s035, s036, 021192s010, s011ltr.pdf",
+              "date": "20060413",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20001006",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form",
+          "application_docs": [
+            {
+              "id": "42013",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-192_Lescol.html",
+              "date": "20040324",
+              "type": "Review"
+            },
+            {
+              "id": "14612",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-192_Lescol_Prntlbl.pdf",
+              "date": "20040608",
+              "type": "Label"
+            },
+            {
+              "id": "27027",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/21192ltr.pdf",
+              "date": "20001006",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "20231128",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "76674",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021192s029lbl.pdf",
+              "date": "20231129",
+              "type": "Label"
+            },
+            {
+              "id": "76680",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/021192Orig1s029ltr.pdf",
+              "date": "20231129",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20050105",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "14615",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/20261s034,21192s008lbl.pdf",
+              "date": "20050111",
+              "type": "Label"
+            },
+            {
+              "id": "27029",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/20261s034,21192s008ltr.pdf",
+              "date": "20050111",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20120228",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "44472",
+              "title": "Tracked Changes Label",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021192s019-trackedchangeslbl.pdf",
+              "date": "20120228",
+              "type": "Other"
+            },
+            {
+              "id": "4607",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020261s046,021192s019ltr.pdf",
+              "date": "20120228",
+              "type": "Letter"
+            },
+            {
+              "id": "21502",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2012/021192s019.pdf",
+              "date": "20120330",
+              "type": "Review"
+            },
+            {
+              "id": "36321",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021192s019lbl.pdf",
+              "date": "20120228",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "20200925",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "64700",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/021192Orig1s031ltr.pdf",
+              "date": "20200928",
+              "type": "Letter"
+            },
+            {
+              "id": "64727",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/021192s031lbl.pdf",
+              "date": "20200929",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20020906",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "36317",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2002/20261s32,21192s4lbl.pdf",
+              "date": "20020906",
+              "type": "Label"
+            },
+            {
+              "id": "4604",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20261slr032,21192slr004ltr.pdf",
+              "date": "20020906",
+              "type": "Letter"
+            },
+            {
+              "id": "21501",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/021192_s004_LESCOL_CAPSULES.pdf",
+              "date": "20080801",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20151105",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA021192",
+      "sponsor_name": "SANDOZ",
+      "openfda": {
+        "application_number": [
+          "NDA021192"
+        ],
+        "brand_name": [
+          "LESCOL XL",
+          "FLUVASTATIN SODIUM ER"
+        ],
+        "generic_name": [
+          "FLUVASTATIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Sandoz Inc"
+        ],
+        "product_ndc": [
+          "66758-211",
+          "0781-8017"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FLUVASTATIN SODIUM"
+        ],
+        "rxcui": [
+          "360507",
+          "687048"
+        ],
+        "spl_id": [
+          "726ea2db-f1b0-4b73-a515-02157db88a42",
+          "37375ca6-3a81-4d10-9b39-9aee948e51a4"
+        ],
+        "spl_set_id": [
+          "726ea2db-f1b0-4b73-a515-02157db88a42",
+          "5ab4296c-87c2-4c64-b218-d620eef51310"
+        ],
+        "package_ndc": [
+          "66758-211-01",
+          "66758-211-31",
+          "0781-8017-31",
+          "0781-8017-01"
+        ],
+        "unii": [
+          "PYF7O1FV7F"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "LESCOL XL",
+          "active_ingredients": [
+            {
+              "name": "FLUVASTATIN SODIUM",
+              "strength": "EQ 80MG BASE"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20230720",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150911",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20230720",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA202458",
+      "sponsor_name": "PHARMOBEDIENT",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FLUVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FLUVASTATIN SODIUM",
+              "strength": "EQ 80MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "TA",
+          "submission_status_date": "20090915",
+          "application_docs": [
+            {
+              "id": "31394",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/078872s000ltr.pdf",
+              "date": "20090923",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA078872",
+      "sponsor_name": "PAR PHARM",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FLUVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FLUVASTATIN SODIUM",
+              "strength": "80MG"
+            }
+          ],
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19960320",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "47",
+          "submission_status": "AP",
+          "submission_status_date": "20130625",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "39",
+          "submission_status": "AP",
+          "submission_status_date": "20070612",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12384",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/020261s039,021192s013lbl.pdf",
+              "date": "20070614",
+              "type": "Label"
+            },
+            {
+              "id": "2260",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/020261s039, 021192s013ltr.pdf",
+              "date": "20070614",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19941110",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41234",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/020261_S004_LESCOL_AP.pdf",
+              "date": "20070706",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19940321",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41233",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/020261_s002_Lescol Capsules.pdf",
+              "date": "20090916",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "20060322",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12383",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020261S037,021192S012lbl.pdf",
+              "date": "20060405",
+              "type": "Label"
+            },
+            {
+              "id": "24673",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/020261S037,021192S012ltr.pdf",
+              "date": "20060405",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "20010523",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20570",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/020261_s029_LESCOL_CAPSULES.pdf",
+              "date": "20080804",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "20060410",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "24672",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/020261s035, s036, 021192s010, s011ltr.pdf",
+              "date": "20060413",
+              "type": "Letter"
+            },
+            {
+              "id": "34442",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021192,s010,011,020261s035,s036lbl.pdf",
+              "date": "20060412",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20000726",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "19990104",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41238",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020261_S019_LESCOL_CAPSULES.pdf",
+              "date": "20080402",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "33",
+          "submission_status": "AP",
+          "submission_status_date": "20030527",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "20572",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/020261_S033_LESCOL_CAPS_AP.pdf",
+              "date": "20070409",
+              "type": "Review"
+            },
+            {
+              "id": "2258",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20261se1-033,21192se1-005ltr.pdf",
+              "date": "20030608",
+              "type": "Letter"
+            },
+            {
+              "id": "34441",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2003/20261se1-033,21192se1-005_lescol_lbl.pdf",
+              "date": "20030608",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20001218",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "2256",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/20261S25ltr.pdf",
+              "date": "20001218",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "19980805",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20566",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020261_S017_LESCOL_TABLETS.pdf",
+              "date": "20080219",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "20020211",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41240",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/020261_s031_LESCOL_CAPSULES.pdf",
+              "date": "20080804",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "19991014",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "19971120",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20564",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/97/020261_S016_LESCOL_TABLETS.pdf",
+              "date": "20080219",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "19990514",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20568",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020261_S021_LESCOL_CAPSULES.pdf",
+              "date": "20080219",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "19970616",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20562",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/97/020261_S013_LESCOL.pdf",
+              "date": "20070926",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "19960208",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20560",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/020261_S009_LESCOL_CAPSULES.pdf",
+              "date": "20080219",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "19981008",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41236",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020261_S011_LESCOL_CAPSULES.pdf",
+              "date": "20080402",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19951017",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41235",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/020261_S007_LESCOL_CAPSULES.pdf",
+              "date": "20080219",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "48",
+          "submission_status": "AP",
+          "submission_status_date": "20121031",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2262",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020261Orig1s048,021192s021ltr.pdf",
+              "date": "20121105",
+              "type": "Letter"
+            },
+            {
+              "id": "34444",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020261s048,021192s021lbl.pdf",
+              "date": "20121106",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19950503",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "46",
+          "submission_status": "AP",
+          "submission_status_date": "20120228",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41242",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2012/020261s046.pdf",
+              "date": "20120330",
+              "type": "Review"
+            },
+            {
+              "id": "44447",
+              "title": "Tracked Changes Label",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020261S046-trackedchangeslbl.pdf",
+              "date": "20120228",
+              "type": "Other"
+            },
+            {
+              "id": "12385",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020261s046lbl.pdf",
+              "date": "20120228",
+              "type": "Label"
+            },
+            {
+              "id": "24674",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020261s046,021192s019ltr.pdf",
+              "date": "20120228",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19941128",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20559",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/020261_S003_LESCOL_AP.pdf",
+              "date": "20070706",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "52",
+          "submission_status": "AP",
+          "submission_status_date": "20170804",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "49272",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020261s052,021192s026lbl.pdf",
+              "date": "20170808",
+              "type": "Label"
+            },
+            {
+              "id": "49281",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/020261Orig1s052,021192Orig1s026ltr.pdf",
+              "date": "20170808",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19950313",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "36",
+          "submission_status": "AP",
+          "submission_status_date": "20060410",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "51957",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/020261s036_fluvastatin_Lescol-MedRev_PREA.pdf",
+              "date": "19000101",
+              "type": "Pediatric Medical Review"
+            },
+            {
+              "id": "51958",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/020261, 021192_fluvastatin_Lescol_WR.pdf",
+              "date": "19000101",
+              "type": "Pediatric Written Request"
+            },
+            {
+              "id": "51959",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/020261s036_fluvastatin_Lescol-StatsRev_PREA.pdf",
+              "date": "19000101",
+              "type": "Pediatric Statistical Review"
+            },
+            {
+              "id": "12382",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021192,s010,011,020261s035,s036lbl.pdf",
+              "date": "20060412",
+              "type": "Label"
+            },
+            {
+              "id": "2259",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/020261s035, s036, 021192s010, s011ltr.pdf",
+              "date": "20060413",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "50",
+          "submission_status": "AP",
+          "submission_status_date": "20151105",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19931231",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20001006",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12379",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-192_Lescol_Prntlbl.pdf",
+              "date": "20040608",
+              "type": "Label"
+            },
+            {
+              "id": "20569",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-192_Lescol.html",
+              "date": "20040608",
+              "type": "Review"
+            },
+            {
+              "id": "24670",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-192_Lescol_Approv.pdf",
+              "date": "20040608",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "42",
+          "submission_status": "AP",
+          "submission_status_date": "20110617",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2261",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/020261s042,021192s016ltr.pdf",
+              "date": "20110628",
+              "type": "Letter"
+            },
+            {
+              "id": "34443",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020261s042,021192s016lbl.pdf",
+              "date": "20110628",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "34",
+          "submission_status": "AP",
+          "submission_status_date": "20050105",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41241",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/020261_s034_Lescol Capsules.pdf",
+              "date": "20090916",
+              "type": "Review"
+            },
+            {
+              "id": "12381",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/20261s034,21192s008lbl.pdf",
+              "date": "20050111",
+              "type": "Label"
+            },
+            {
+              "id": "24671",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/20261s034,21192s008ltr.pdf",
+              "date": "20050111",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "19990308",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41237",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020261s018s022.html",
+              "date": "19990508",
+              "type": "Review"
+            },
+            {
+              "id": "24669",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020261s018s022_appltr_medr_chemr.pdf",
+              "date": "19990308",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "32",
+          "submission_status": "AP",
+          "submission_status_date": "20020906",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12380",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2002/20261s32,21192s4lbl.pdf",
+              "date": "20020906",
+              "type": "Label"
+            },
+            {
+              "id": "20571",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/020261_s032_LESCOL_CAPSULES.pdf",
+              "date": "20080804",
+              "type": "Review"
+            },
+            {
+              "id": "2257",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20261slr032,21192slr004ltr.pdf",
+              "date": "20020906",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20001023",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "2255",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/20261S24ltr.pdf",
+              "date": "20001023",
+              "type": "Letter"
+            },
+            {
+              "id": "34439",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2000/20261S24lbl.pdf",
+              "date": "20001023",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "19980423",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20565",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020261_S016_LESCOL_TABLETS.pdf",
+              "date": "20080219",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20010925",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "34440",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2001/20261s30lbl.pdf",
+              "date": "20030422",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "19990308",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41239",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020261s018s022.html",
+              "date": "19990308",
+              "type": "Review"
+            },
+            {
+              "id": "2254",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020261s018s022_appltr_medr_chemr.pdf",
+              "date": "19990308",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "19970421",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20563",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/97/020261_S014_LESCOL.pdf",
+              "date": "20070926",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "19990421",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20567",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020261_S020_LESCOL_CAPSULES.pdf",
+              "date": "20080219",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "19971001",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "19951222",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "19960430",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20561",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/96/020261_S010_LESCOL.pdf",
+              "date": "20070914",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "49",
+          "submission_status": "AP",
+          "submission_status_date": "20150617",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA020261",
+      "sponsor_name": "NOVARTIS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "LESCOL",
+          "active_ingredients": [
+            {
+              "name": "FLUVASTATIN SODIUM",
+              "strength": "EQ 40MG BASE **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "LESCOL",
+          "active_ingredients": [
+            {
+              "name": "FLUVASTATIN SODIUM",
+              "strength": "EQ 20MG BASE **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20240711",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20210426",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA209397",
+      "sponsor_name": "BEIJING",
+      "openfda": {
+        "application_number": [
+          "ANDA209397"
+        ],
+        "brand_name": [
+          "FLUVASTATIN SODIUM"
+        ],
+        "generic_name": [
+          "FLUVASTATIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Lannett Company, Inc."
+        ],
+        "product_ndc": [
+          "0527-2580"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FLUVASTATIN SODIUM"
+        ],
+        "rxcui": [
+          "360507"
+        ],
+        "spl_id": [
+          "4d56c57e-1d38-e010-e063-6294a90a8c83"
+        ],
+        "spl_set_id": [
+          "3565bfd3-ef9f-456d-b4be-a294a7a0f01c"
+        ],
+        "package_ndc": [
+          "0527-2580-32",
+          "0527-2580-37"
+        ],
+        "unii": [
+          "PYF7O1FV7F"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FLUVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FLUVASTATIN SODIUM",
+              "strength": "EQ 80MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20120411"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20130326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20200925",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20200915",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA090595",
+      "sponsor_name": "MYLAN PHARMS INC",
+      "openfda": {
+        "application_number": [
+          "ANDA090595"
+        ],
+        "brand_name": [
+          "FLUVASTATIN SODIUM"
+        ],
+        "generic_name": [
+          "FLUVASTATIN"
+        ],
+        "manufacturer_name": [
+          "Mylan Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "0378-8020",
+          "0378-8021"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "FLUVASTATIN SODIUM"
+        ],
+        "rxcui": [
+          "310404",
+          "310405"
+        ],
+        "spl_id": [
+          "f31c30b0-95b9-47d4-8ef8-f6fa51a2e5b9"
+        ],
+        "spl_set_id": [
+          "d0a7247c-5d83-4bc1-840f-c58314d14195"
+        ],
+        "package_ndc": [
+          "0378-8020-93",
+          "0378-8020-77",
+          "0378-8021-93",
+          "0378-8021-77"
+        ],
+        "unii": [
+          "PYF7O1FV7F"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FLUVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FLUVASTATIN SODIUM",
+              "strength": "EQ 40MG BASE"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FLUVASTATIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "FLUVASTATIN SODIUM",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    }
+  ]
+}

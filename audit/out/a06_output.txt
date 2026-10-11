@@ -1,0 +1,6 @@
+[D01] R2+R2a for EFO_0004611: GCST90239658 (N=1,320,016; '1,320,016 European ancestry individuals'); 53 European-only harmonised candidates
+[D02] PCSK9 exposure: UKB-PPP ST10 1:55505647:G:T:imp:v1 hg38 pos 55039974 beta(A1=T) -1.12113 se 0.0233527 log10p 502.268 F 2304.8; outcome rows at position: 1
+[D03] PCSK9 -> LDL-C  Wald beta +0.3868 (SE 0.0048; 95% CI 0.3774 to 0.3963); p 0; F 2304.8; aligned; expected sign +; PASS
+[D04] HMGCR: 277 eQTLGen variants at p<5e-8 in 5:74532154-74757929 (GRCh37); top by p: [('rs6453133', '1.2137E-50', '14.9667'), ('rs3846662', '2.3742E-38', '12.9494'), ('rs12916', '1.5335E-36', '12.6252')]
+[D05] HMGCR lead rs6453133 (GRCh37 74692776 -> GRCh38 75396951), z 14.9667, N 31684, EAF 0.3130, beta 0.12776, se 0.00854; skipped before it: []
+[D06] HMGCR -> LDL-C  Wald beta +0.3891 (SE 0.0120; 95% CI 0.3655 to 0.4127); z 32.32; p 4.24e-229; F 224.0; aligned; expected sign +; PASS

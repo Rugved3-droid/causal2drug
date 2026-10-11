@@ -1,0 +1,41 @@
+gene,phase,klass,state,n_cv_indications_at_max_phase,cv_indications_at_max_phase,in_cv_primary,year_launch,hcat_acat,table1_example_agent,table1_indication,blood_tpm,heart_LV_tpm,liver_tpm,required_modality
+ADRA1A,Launched,CLASS_A,ABSENT,1,Hypotension,True,2014,Launched|Launched,Prazosin,Hypotension,0.005373,2.22938,13.3347,cardiac eQTL
+ADRA1B,Launched,CLASS_A,ABSENT,1,Hypotension,True,2019,Launched|Launched,Prazosin,Hypotension,0.0,0.791809,6.44665,cardiac eQTL
+ADRA1D,Launched,CLASS_A,ABSENT,1,Hypotension,True,2019,Launched|Launched,Prazosin,Hypotension,0.009734,0.131251,0.0390965,vascular eQTL
+ADRA2B,Launched,CLASS_A,ABSENT,1,Hypertension,True,,Launched|Launched,not in Open Targets,Hypertension,,,,UNKNOWN
+ADRA2C,Launched,CLASS_A,ABSENT,1,Hypertension,True,,Launched|Launched,Clonidine,Hypertension,0.047379,3.3566,0.329967,cardiac eQTL
+AGT,Launched,CLASS_A,ABSENT,2,Hypertension; Hypotension,True,,Launched|Launched,Gsk-2586881,Hypertension,0.163631,24.1063,312.567,cardiac eQTL
+AGTR1,Launched,CLASS_A,ABSENT,2,Heart Failure; Hypertension,True,,Launched|Launched,Losartan,Heart Failure,0.029829,1.4324,28.2252,cardiac eQTL
+ANGPTL3,Launched,CLASS_A,ABSENT,1,Hyperlipoproteinemia Type II,True,2021,Launched|Launched,Evinacumab,Hyperlipoproteinemia Type II,0.018016,0.0128945,127.697,liver eQTL
+APOB,Launched,CLASS_A,ABSENT,1,Hyperlipoproteinemia Type II,True,,Launched|Launched,Mipomersen,Hyperlipoproteinemia Type II,0.016816,1.77309,350.438,cardiac eQTL
+APOC3,Launched,CLASS_A,ABSENT,2,Hyperlipoproteinemia Type I; Hypertriglyceridemia,False,,Launched|Launched,Olezarsen,Hyperlipoproteinemia Type I,0.788452,0.063112,8122.17,liver eQTL
+EDNRA,Launched,CLASS_A,ABSENT,1,"Hypertension, Pulmonary",True,,Launched|Launched,Bosentan,"Hypertension, Pulmonary",0.018632,6.16288,1.05286,cardiac eQTL
+EDNRB,Launched,CLASS_A,ABSENT,3,"Brain Ischemia; Hypertension, Pulmonary; Stroke",True,2015,Launched|Launched,Bosentan,Brain Ischemia,0.527725,10.3996,7.82222,cardiac eQTL
+F2,Launched,CLASS_A,ABSENT,6,Brain Ischemia; Pulmonary Embolism; Stroke; Thrombosis; Venous Insufficiency; Venous Thrombosis,True,2011; 2021,Launched|Launched,Desirudin,Brain Ischemia,0.088256,0.059153,598.399,liver eQTL
+IL1B,Launched,CLASS_A,TESTED_NULL,1,Atherosclerosis,True,,Launched|Launched,Rilonacept,Atherosclerosis,29.4903,0.13006,0.539081,vascular eQTL
+ITGA2B,Launched,CLASS_A,TESTED_NULL,2,Coronary Restenosis; Coronary Thrombosis,True,2013,Launched|Launched,Abciximab,Coronary Thrombosis,36.2607,0.254497,0.365419,cardiac eQTL
+NPC1L1,Launched,CLASS_A,TESTED_NULL,1,Dyslipidemias,True,,Launched|Launched,Ezetimibe,Dyslipidemias,0.030092,0.075354,31.1192,liver eQTL
+PCSK9,Launched,CLASS_A,ABSENT,4,Atherosclerosis; Hypercholesterolemia; Hyperlipidemias; Hyperlipoproteinemia Type II,True,2018; 2019,Launched|Launched,Alirocumab,Hypercholesterolemia,0.292035,0.0117705,28.3131,liver eQTL
+PLG,Launched,CLASS_A,ABSENT,1,Thrombosis,True,,Launched|Launched,Aprotinin,Thrombosis,0.017677,0.0,288.612,liver eQTL
+REN,Launched,CLASS_A,ABSENT,1,Hypertension,True,,Launched|Launched,Aliskiren,Hypertension,0.0,0.0,0.398566,pQTL
+RXFP1,Launched,CLASS_A,ABSENT,1,Heart Failure,True,,Launched|Launched,Serelaxin,Heart Failure,0.0,0.0068155,0.567281,tissue eQTL (Brain_Frontal_Cortex_BA9)
+SLC5A1,Launched,CLASS_A,ABSENT,1,Heart Failure,True,,Launched|Launched,Sotagliflozin,Heart Failure,0.016259,46.7116,1.11018,cardiac eQTL
+ABCC8,Phase III,CLASS_A,ABSENT,2,Brain Ischemia; Stroke,True,,|Phase III,Glipizide,Brain Ischemia,0.009186,0.584126,0.047373,tissue eQTL (Pancreas_Islets)
+APOA1,Phase III,CLASS_A,TESTED_NULL,1,Acute Coronary Syndrome,True,,|Phase III,not in Open Targets,Acute Coronary Syndrome,0.713321,17.5737,8481.34,cardiac eQTL
+AVPR1A,Phase III,CLASS_A,ABSENT,1,Hypotension,True,,Phase III|,Lypressin,Hypotension,0.041317,0.948151,9.29171,liver eQTL
+AVPR2,Phase III,CLASS_A,ABSENT,1,Heart Failure,True,,|Phase III,Lypressin,Heart Failure,0.322779,3.1933,0.043694,cardiac eQTL
+BRD4,Phase III,CLASS_A,TESTED_NULL,1,Atherosclerosis,True,,|Phase III,Pelabresib,Atherosclerosis,21.1275,9.51939,11.7444,cardiac eQTL
+CNTFR,Phase III,CLASS_A,ABSENT,1,Retinal Telangiectasis,True,,|Phase III,not in Open Targets,Retinal Telangiectasis,0.095949,1.39253,6.3762,cardiac eQTL
+ENPEP,Phase III,CLASS_A,TESTED_NULL,1,"Hypertension, Pulmonary",True,,|Phase III,Firibastat,"Hypertension, Pulmonary",0.014664,2.36408,7.61854,cardiac eQTL
+GRIN1,Phase III,CLASS_A,TESTED_NULL,2,Brain Ischemia; Stroke,True,,|Phase III,Ketamine,Brain Ischemia,0.039658,0.0371665,0.0347885,tissue eQTL (Brain_Cortex)
+HCN1,Phase III,CLASS_A,ABSENT,1,Heart Failure,True,,Phase III|,not in Open Targets,Heart Failure,0.0,0.007982,0.0067155,cardiac eQTL
+HCN2,Phase III,CLASS_A,TESTED_NULL,1,Heart Failure,True,,Phase III|,not in Open Targets,Heart Failure,0.543467,5.79355,0.206263,cardiac eQTL
+HCN4,Phase III,CLASS_A,ABSENT,1,Heart Failure,True,,Phase III|,Ivabradine,Heart Failure,0.0,2.9205,0.0056105,cardiac eQTL
+IL17A,Phase III,CLASS_A,ABSENT,1,Vasculitis,True,,|Phase III,Ixekizumab,Vasculitis,0.0,0.0,0.0,pQTL
+IL6R,Phase III,CLASS_B,INSTRUMENTED,1,Vasculitis,True,,|Phase III,NOT IN table1,,60.1007,3.66095,38.7108,sQTL or pQTL (shedding variant rs2228145; total mRNA cannot represent it)
+KIT,Phase III,CLASS_A,TESTED_NULL,1,"Hypertension, Pulmonary",True,,|Phase III,Imatinib,"Hypertension, Pulmonary",0.217265,0.496837,0.302993,vascular eQTL
+LPA,Phase III,CLASS_A,ABSENT,2,Cardiovascular Diseases; Hyperlipidemias,True,,|Phase III,Olpasiran,Cardiovascular Diseases,0.0,0.0,14.6402,liver eQTL
+PDE3A,Phase III,CLASS_A,TESTED_NULL,3,Brain Ischemia; Peripheral Vascular Diseases; Stroke,True,,Phase III|,Enoximone,Brain Ischemia,0.041784,20.2614,0.491006,cardiac eQTL
+PDGFRA,Phase III,CLASS_A,TESTED_NULL,1,"Hypertension, Pulmonary",True,,|Phase III,Cediranib,"Hypertension, Pulmonary",0.101329,5.60506,4.58666,cardiac eQTL
+SLC6A2,Phase III,CLASS_A,ABSENT,3,Brain Ischemia; Hypotension; Stroke,True,,Phase III|,Doxepin,Brain Ischemia,0.0,0.0,0.0429315,tissue eQTL (Testis)
+SLC6A4,Phase III,CLASS_A,TESTED_NULL,3,Brain Ischemia; Hypotension; Stroke,True,,Phase III|,Mazindol,Brain Ischemia,0.144586,0.043919,0.0413455,tissue eQTL (Lung)

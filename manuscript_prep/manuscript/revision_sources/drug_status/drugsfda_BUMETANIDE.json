@@ -1,0 +1,3507 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 26
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240918",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA212931",
+      "sponsor_name": "APPCO",
+      "openfda": {
+        "application_number": [
+          "ANDA212931"
+        ],
+        "brand_name": [
+          "BUMETANIDE"
+        ],
+        "generic_name": [
+          "BUMETANIDE"
+        ],
+        "manufacturer_name": [
+          "Exelan Pharmaceuticals, Inc.",
+          "Solco Healthcare LLC"
+        ],
+        "product_ndc": [
+          "76282-797",
+          "76282-798",
+          "76282-799",
+          "43547-896",
+          "43547-897",
+          "43547-898"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BUMETANIDE"
+        ],
+        "rxcui": [
+          "197417",
+          "197418",
+          "197419"
+        ],
+        "spl_id": [
+          "04a4ac27-f6b7-4a88-899b-93a5a21ddb6e",
+          "4bcc6cdb-3dfa-4757-bac2-a2dc8bd3a9f6"
+        ],
+        "spl_set_id": [
+          "06745425-e7e7-4413-b9ff-22b121f0ea9a",
+          "4bcc6cdb-3dfa-4757-bac2-a2dc8bd3a9f6"
+        ],
+        "package_ndc": [
+          "76282-797-01",
+          "76282-798-01",
+          "76282-798-05",
+          "76282-799-01",
+          "76282-799-05",
+          "43547-896-10",
+          "43547-897-10",
+          "43547-897-50",
+          "43547-898-10",
+          "43547-898-50"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "0Y2S3XUQ5H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20260226",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA220427",
+      "sponsor_name": "ADAPTIS",
+      "openfda": {
+        "application_number": [
+          "ANDA220427"
+        ],
+        "brand_name": [
+          "BUMETANIDE"
+        ],
+        "generic_name": [
+          "BUMETANIDE"
+        ],
+        "manufacturer_name": [
+          "Anthea Pharma Private Limited"
+        ],
+        "product_ndc": [
+          "83854-007",
+          "83854-035"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAMUSCULAR",
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "BUMETANIDE"
+        ],
+        "rxcui": [
+          "282486",
+          "1727569"
+        ],
+        "spl_id": [
+          "55870799-16b8-35f0-e063-6394a90a6992"
+        ],
+        "spl_set_id": [
+          "9058fc52-f3f6-4d7f-b2a0-b1e2c714b133"
+        ],
+        "package_ndc": [
+          "83854-007-01",
+          "83854-007-10",
+          "83854-035-01",
+          "83854-035-10"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "0Y2S3XUQ5H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.25MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19971118"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20000809",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19990920",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19990518",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA074613",
+      "sponsor_name": "TEVA PARENTERAL",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.25MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19980601",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19941031"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19970709",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20010214",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19970709",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19960815",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20200701",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20050127",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA074332",
+      "sponsor_name": "HOSPIRA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.25MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20260205",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA215362",
+      "sponsor_name": "MSN",
+      "openfda": {
+        "application_number": [
+          "ANDA215362"
+        ],
+        "brand_name": [
+          "BUMETANIDE"
+        ],
+        "generic_name": [
+          "BUMETANIDE"
+        ],
+        "manufacturer_name": [
+          "Novadoz Pharmaceuticals LLC"
+        ],
+        "product_ndc": [
+          "72205-056",
+          "72205-057",
+          "72205-058"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BUMETANIDE"
+        ],
+        "rxcui": [
+          "197417",
+          "197418",
+          "197419"
+        ],
+        "spl_id": [
+          "cddd33fb-25b0-49ca-ab32-7c79a9b3a384"
+        ],
+        "spl_set_id": [
+          "cddd33fb-25b0-49ca-ab32-7c79a9b3a384"
+        ],
+        "package_ndc": [
+          "72205-056-91",
+          "72205-057-91",
+          "72205-057-05",
+          "72205-058-91",
+          "72205-058-05"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "0Y2S3XUQ5H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220804",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA215364",
+      "sponsor_name": "MSN",
+      "openfda": {
+        "application_number": [
+          "ANDA215364"
+        ],
+        "brand_name": [
+          "BUMETANIDE"
+        ],
+        "generic_name": [
+          "BUMETANIDE"
+        ],
+        "manufacturer_name": [
+          "Novadoz Pharmaceuticals LLC"
+        ],
+        "product_ndc": [
+          "72205-101",
+          "72205-102"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAMUSCULAR",
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "BUMETANIDE"
+        ],
+        "rxcui": [
+          "282486",
+          "1727569"
+        ],
+        "spl_id": [
+          "387edfd4-be85-41cd-8a6d-14e6a022b5a9"
+        ],
+        "spl_set_id": [
+          "387edfd4-be85-41cd-8a6d-14e6a022b5a9"
+        ],
+        "package_ndc": [
+          "72205-101-01",
+          "72205-101-07",
+          "72205-102-01",
+          "72205-102-07"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "0Y2S3XUQ5H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.25MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250403",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA219291",
+      "sponsor_name": "MANKIND PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA219291"
+        ],
+        "brand_name": [
+          "BUMETANIDE"
+        ],
+        "generic_name": [
+          "BUMETANIDE"
+        ],
+        "manufacturer_name": [
+          "First Nation Group, LLC",
+          "Lifestar Pharma LLC"
+        ],
+        "product_ndc": [
+          "81469-221",
+          "81469-222",
+          "81469-223",
+          "70756-079",
+          "70756-080",
+          "70756-081"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BUMETANIDE"
+        ],
+        "rxcui": [
+          "197417",
+          "197418",
+          "197419"
+        ],
+        "spl_id": [
+          "25bc351d-4705-4d81-9d44-ac191ec15a34",
+          "f131948c-e75a-4379-b9ec-875fea59a5fe"
+        ],
+        "spl_set_id": [
+          "79b77945-74a7-4cb5-8aa0-33a7babdf6d9",
+          "51a344b6-acf9-4ac4-b743-1e63e3df7958"
+        ],
+        "package_ndc": [
+          "81469-221-01",
+          "81469-222-01",
+          "81469-222-05",
+          "81469-223-01",
+          "81469-223-05",
+          "70756-079-11",
+          "70756-080-11",
+          "70756-080-51",
+          "70756-081-11",
+          "70756-081-51"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "0Y2S3XUQ5H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20110819",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20030806",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20000202",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19980716",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "20260928",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20141020",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20200406",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20021011",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19961121"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19990923",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19970609",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA074700",
+      "sponsor_name": "SANDOZ",
+      "openfda": {
+        "application_number": [
+          "ANDA074700"
+        ],
+        "brand_name": [
+          "BUMETANIDE"
+        ],
+        "generic_name": [
+          "BUMETANIDE"
+        ],
+        "manufacturer_name": [
+          "Sandoz Inc"
+        ],
+        "product_ndc": [
+          "0781-8099",
+          "0781-8113",
+          "0781-8160",
+          "0185-0128",
+          "0185-0129",
+          "0185-0130"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BUMETANIDE"
+        ],
+        "rxcui": [
+          "197417",
+          "197418",
+          "197419"
+        ],
+        "spl_id": [
+          "8914d8bf-61b7-4cd2-a8ef-7e1c5df37828",
+          "c6f31ac9-10d1-4d92-882e-836de10e1ce6"
+        ],
+        "spl_set_id": [
+          "8914d8bf-61b7-4cd2-a8ef-7e1c5df37828",
+          "05cb961d-ac33-4bcf-b04e-411e496c43c1"
+        ],
+        "package_ndc": [
+          "0781-8099-05",
+          "0781-8099-01",
+          "0781-8113-05",
+          "0781-8113-01",
+          "0781-8160-05",
+          "0781-8160-01",
+          "0185-0128-05",
+          "0185-0128-01",
+          "0185-0129-05",
+          "0185-0129-01",
+          "0185-0130-05",
+          "0185-0130-01"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "0Y2S3XUQ5H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180123",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190424",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA209916",
+      "sponsor_name": "UPSHER SMITH LABS",
+      "openfda": {},
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19950524",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19950127"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20100308",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "19981120",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19970708",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19970708",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19960905",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20010403",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19980828",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19970708",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19960905",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA074441",
+      "sponsor_name": "SAGENT",
+      "openfda": {
+        "application_number": [
+          "ANDA074441"
+        ],
+        "brand_name": [
+          "BUMETANIDE"
+        ],
+        "generic_name": [
+          "BUMETANIDE"
+        ],
+        "manufacturer_name": [
+          "Civica, Inc.",
+          "Sagent Pharmaceuticals"
+        ],
+        "product_ndc": [
+          "72572-210",
+          "72572-211",
+          "25021-321"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAMUSCULAR",
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "BUMETANIDE"
+        ],
+        "rxcui": [
+          "282486",
+          "1727569"
+        ],
+        "spl_id": [
+          "b178f54e-11e4-48a8-a6eb-845bbd89de1f",
+          "88a191ea-bf0d-4c27-a33c-91a126ff1aba"
+        ],
+        "spl_set_id": [
+          "4a9229c8-89ba-423e-8e36-f56bc329ed38",
+          "c38a404d-a919-4a2c-9fbb-d0655dee9516"
+        ],
+        "package_ndc": [
+          "72572-210-01",
+          "72572-210-10",
+          "72572-211-01",
+          "72572-211-10",
+          "25021-321-04",
+          "25021-321-10"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "0Y2S3XUQ5H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.25MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240917",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA217153",
+      "sponsor_name": "LUPIN",
+      "openfda": {
+        "application_number": [
+          "ANDA217153"
+        ],
+        "brand_name": [
+          "BUMETANIDE"
+        ],
+        "generic_name": [
+          "BUMETANIDE"
+        ],
+        "manufacturer_name": [
+          "Lupin Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "70748-323"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAMUSCULAR",
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "BUMETANIDE"
+        ],
+        "rxcui": [
+          "282486",
+          "1727569"
+        ],
+        "spl_id": [
+          "39d376d9-2fab-40d3-8592-668c5083a0c9"
+        ],
+        "spl_set_id": [
+          "2c71a17e-ed76-4545-b23e-9f4997b13c2f"
+        ],
+        "package_ndc": [
+          "70748-323-10",
+          "70748-323-11"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "0Y2S3XUQ5H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.25MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20180808",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "55159",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/018225Orig1s028ltr.pdf",
+              "date": "20180810",
+              "type": "Letter"
+            },
+            {
+              "id": "55275",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/018225s028lbl.pdf",
+              "date": "20180823",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20170504",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "48252",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/018225s026lbl.pdf",
+              "date": "20170505",
+              "type": "Label"
+            },
+            {
+              "id": "48316",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/018225Orig1s026ltr.pdf",
+              "date": "20170509",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20021029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40784",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/18-225s018s19_18-226s24s25_Bumex.html",
+              "date": "20030307",
+              "type": "Review"
+            },
+            {
+              "id": "14948",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/18225slr018,019,18226slr24,25ltr.pdf",
+              "date": "20021029",
+              "type": "Letter"
+            },
+            {
+              "id": "33459",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/18-225S018_Bumex_prntlbl.pdf",
+              "date": "20021029",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20100121",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "877",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/018225s024ltr.pdf",
+              "date": "20100126",
+              "type": "Letter"
+            },
+            {
+              "id": "11185",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/018225s024lbl.pdf",
+              "date": "20100124",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "19990106",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20030513",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "14949",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/18225slr022ltr.pdf",
+              "date": "20030608",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "19890828",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "19970820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20011109",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19890105",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "19940812",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19851218",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "19910301",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19850614",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "20240117",
+          "review_priority": "N/A",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "77238",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/018225Orig1s029ltr.pdf",
+              "date": "20240119",
+              "type": "Letter"
+            },
+            {
+              "id": "77596",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/018225Orig1s029lbl.pdf",
+              "date": "20240222",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20021029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "876",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/18225slr018,019,18226slr24,25ltr.pdf",
+              "date": "20021029",
+              "type": "Letter"
+            },
+            {
+              "id": "11184",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/18-225S018_Bumex_prntlbl.pdf",
+              "date": "20021029",
+              "type": "Label"
+            },
+            {
+              "id": "20114",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/18-225s018s19_18-226s24s25_Bumex.html",
+              "date": "20030307",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20150928",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "19990224",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "19910611",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "19971120",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19871210",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "19980210",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19850906",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19830228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "19931021",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19840209",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19831129",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA018225",
+      "sponsor_name": "VALIDUS PHARMS",
+      "openfda": {
+        "application_number": [
+          "NDA018225"
+        ],
+        "brand_name": [
+          "BUMEX",
+          "BUMETANIDE"
+        ],
+        "generic_name": [
+          "BUMETANIDE"
+        ],
+        "manufacturer_name": [
+          "Validus Pharmaceuticals LLC",
+          "Edenbridge Pharmaceuticals LLC."
+        ],
+        "product_ndc": [
+          "30698-630",
+          "30698-631",
+          "30698-632",
+          "42799-119",
+          "42799-120",
+          "42799-121"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BUMETANIDE"
+        ],
+        "rxcui": [
+          "197417",
+          "197418",
+          "197419",
+          "205488",
+          "205489",
+          "205490"
+        ],
+        "spl_id": [
+          "3e4799b2-7621-c0b4-e063-6394a90a47b7",
+          "462dc93e-f284-3a48-e063-6394a90a7ce1"
+        ],
+        "spl_set_id": [
+          "32dfbea3-eb2b-4070-8605-57ce3e6d5a2f",
+          "32c4372e-54ea-4fc8-b9f8-827fa4c8edd3"
+        ],
+        "package_ndc": [
+          "30698-630-01",
+          "30698-631-01",
+          "30698-631-05",
+          "30698-632-01",
+          "30698-632-05",
+          "42799-119-01",
+          "42799-120-01",
+          "42799-120-02",
+          "42799-121-01",
+          "42799-121-02"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "0Y2S3XUQ5H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "BUMEX",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "BUMEX",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "BUMEX",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230724",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213458",
+      "sponsor_name": "TARO",
+      "openfda": {
+        "application_number": [
+          "ANDA213458"
+        ],
+        "brand_name": [
+          "BUMETANIDE"
+        ],
+        "generic_name": [
+          "BUMETANIDE"
+        ],
+        "manufacturer_name": [
+          "Sun Pharmaceutical Industries, Inc."
+        ],
+        "product_ndc": [
+          "51672-4223",
+          "51672-4224",
+          "51672-4225"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BUMETANIDE"
+        ],
+        "rxcui": [
+          "197417",
+          "197418",
+          "197419"
+        ],
+        "spl_id": [
+          "4db68936-9d9c-1821-e063-6394a90a7f1b"
+        ],
+        "spl_set_id": [
+          "5c753aae-77b7-4add-8453-385a8f62d7db"
+        ],
+        "package_ndc": [
+          "51672-4223-1",
+          "51672-4224-1",
+          "51672-4225-1"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "0Y2S3XUQ5H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "19980210",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20021029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "878",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/18225slr018,019,18226slr24,25ltr.pdf",
+              "date": "20021029",
+              "type": "Letter"
+            },
+            {
+              "id": "20115",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/18-225s018s19_18-226s24s25_Bumex.html",
+              "date": "20030307",
+              "type": "Review"
+            },
+            {
+              "id": "33461",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2002/018226s025lbl.pdf",
+              "date": "20021029",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "19930611",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "19990224",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "19910301",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "19970304",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "19871210",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "19890105",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19850808",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19850703",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19830228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19840801",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "19931021",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20021029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40785",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/18-225s018s19_18-226s24s25_Bumex.html",
+              "date": "20030307",
+              "type": "Review"
+            },
+            {
+              "id": "14950",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/18225slr018,019,18226slr24,25ltr.pdf",
+              "date": "20021029",
+              "type": "Letter"
+            },
+            {
+              "id": "33460",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/18-225S018_Bumex_prntlbl.pdf",
+              "date": "20021029",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "19920701",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "19990106",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "19881014",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "19970418",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "19871210",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19850906",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19850703",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19841214",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19831122",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA018226",
+      "sponsor_name": "VALIDUS PHARMS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "BUMEX",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.25MG/ML **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250227",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA218746",
+      "sponsor_name": "ASPIRO",
+      "openfda": {
+        "application_number": [
+          "ANDA218746"
+        ],
+        "brand_name": [
+          "BUMETANIDE"
+        ],
+        "generic_name": [
+          "BUMETANIDE"
+        ],
+        "manufacturer_name": [
+          "Camber Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "31722-368",
+          "31722-369"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAMUSCULAR",
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "BUMETANIDE"
+        ],
+        "rxcui": [
+          "282486",
+          "1727569"
+        ],
+        "spl_id": [
+          "32ba5fc2-0f9e-ee77-e063-6294a90af010"
+        ],
+        "spl_set_id": [
+          "084b34ad-36ba-43bd-a43a-1f4b4da26d8f"
+        ],
+        "package_ndc": [
+          "31722-368-31",
+          "31722-368-32",
+          "31722-369-10",
+          "31722-369-32"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "0Y2S3XUQ5H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.25MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20191212",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA212019",
+      "sponsor_name": "RISING",
+      "openfda": {
+        "application_number": [
+          "ANDA212019"
+        ],
+        "brand_name": [
+          "BUMETANIDE"
+        ],
+        "generic_name": [
+          "BUMETANIDE"
+        ],
+        "manufacturer_name": [
+          "Rising Pharma Holdings, Inc"
+        ],
+        "product_ndc": [
+          "16571-677",
+          "16571-679",
+          "16571-678"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BUMETANIDE"
+        ],
+        "rxcui": [
+          "197417",
+          "197418",
+          "197419"
+        ],
+        "spl_id": [
+          "ad19edfb-a229-4767-890a-3bf6558ec191"
+        ],
+        "spl_set_id": [
+          "627c9732-eed1-4435-8d79-2e19ab974fd9"
+        ],
+        "package_ndc": [
+          "16571-679-01",
+          "16571-678-01",
+          "16571-678-10",
+          "16571-677-01",
+          "16571-677-10"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "0Y2S3XUQ5H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19971030"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19980601",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20010214",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA074160",
+      "sponsor_name": "HOSPIRA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.25MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250912",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form",
+          "application_docs": [
+            {
+              "id": "83354",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/219500Orig1s000ltr.pdf",
+              "date": "20250915",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA219500",
+      "sponsor_name": "CORSTASIS THERAP",
+      "openfda": {
+        "application_number": [
+          "NDA219500"
+        ],
+        "brand_name": [
+          "ENBUMYST"
+        ],
+        "generic_name": [
+          "BUMETANIDE"
+        ],
+        "manufacturer_name": [
+          "Corstasis USA LLC"
+        ],
+        "product_ndc": [
+          "84388-005"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "NASAL"
+        ],
+        "substance_name": [
+          "BUMETANIDE"
+        ],
+        "rxcui": [
+          "2724437",
+          "2724443"
+        ],
+        "spl_id": [
+          "36587302-f02b-4a6c-a5f5-be52ea98c8d9"
+        ],
+        "spl_set_id": [
+          "d6f752c5-d2bd-4f77-9611-ca2110066d1f"
+        ],
+        "package_ndc": [
+          "84388-005-06",
+          "84388-005-12"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "0Y2S3XUQ5H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ENBUMYST",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.5MG/SPRAY"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SPRAY",
+          "route": "NASAL",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20080430"
+        }
+      ],
+      "application_number": "ANDA079196",
+      "sponsor_name": "WEST-WARD PHARMS INT",
+      "openfda": {
+        "application_number": [
+          "ANDA079196"
+        ],
+        "brand_name": [
+          "BUMETANIDE"
+        ],
+        "generic_name": [
+          "BUMETANIDE"
+        ],
+        "manufacturer_name": [
+          "Civica, Inc.",
+          "Hikma Pharmaceuticals USA Inc."
+        ],
+        "product_ndc": [
+          "72572-040",
+          "72572-041",
+          "0641-6007",
+          "0641-6008",
+          "0641-6284",
+          "0641-6161",
+          "0641-6162",
+          "0641-6285"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAMUSCULAR",
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "BUMETANIDE"
+        ],
+        "rxcui": [
+          "282486",
+          "1727569"
+        ],
+        "spl_id": [
+          "fee7772b-da97-4671-a532-553d74a49d36",
+          "fd0b9cd7-b786-44b0-8dc7-02ffd38576a4",
+          "cbf46236-4090-445f-ad19-fd9d767deecc"
+        ],
+        "spl_set_id": [
+          "308c690f-c2bd-4c32-8728-42ec95425f77",
+          "681b5e9d-e2c7-4f29-aaad-e06d4a528c11",
+          "b5a68154-8003-4b80-81e2-e926524fb72c"
+        ],
+        "package_ndc": [
+          "72572-041-01",
+          "72572-041-10",
+          "72572-040-01",
+          "72572-040-10",
+          "0641-6007-01",
+          "0641-6007-10",
+          "0641-6008-01",
+          "0641-6008-10",
+          "0641-6161-01",
+          "0641-6161-10",
+          "0641-6162-01",
+          "0641-6162-10",
+          "0641-6284-01",
+          "0641-6284-10",
+          "0641-6285-01",
+          "0641-6285-10"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "0Y2S3XUQ5H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.25MG/ML"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190306",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180430",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA202900",
+      "sponsor_name": "ZYDUS PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA202900"
+        ],
+        "brand_name": [
+          "BUMETANIDE"
+        ],
+        "generic_name": [
+          "BUMETANIDE"
+        ],
+        "manufacturer_name": [
+          "Zydus Pharmaceuticals (USA) Inc.",
+          "Zydus Lifesciences Limited"
+        ],
+        "product_ndc": [
+          "68382-525",
+          "68382-526",
+          "68382-527",
+          "70771-1024",
+          "70771-1025",
+          "70771-1026"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BUMETANIDE"
+        ],
+        "rxcui": [
+          "197417",
+          "197418",
+          "197419"
+        ],
+        "spl_id": [
+          "58b3bb3b-6096-42fd-aebc-c856c3050071",
+          "58cd32ca-26d5-4d9f-9c08-38c80720d7b4"
+        ],
+        "spl_set_id": [
+          "525138cd-832a-41d0-84b0-83921b12bd2a",
+          "82eb62ca-c32b-4ff8-9f71-43219b240480"
+        ],
+        "package_ndc": [
+          "68382-525-06",
+          "68382-525-16",
+          "68382-525-01",
+          "68382-525-05",
+          "68382-525-10",
+          "68382-526-06",
+          "68382-526-16",
+          "68382-526-01",
+          "68382-526-05",
+          "68382-526-10",
+          "68382-527-06",
+          "68382-527-16",
+          "68382-527-01",
+          "68382-527-05",
+          "68382-527-10",
+          "70771-1024-3",
+          "70771-1024-9",
+          "70771-1024-1",
+          "70771-1024-5",
+          "70771-1024-0",
+          "70771-1025-3",
+          "70771-1025-9",
+          "70771-1025-1",
+          "70771-1025-5",
+          "70771-1025-0",
+          "70771-1026-3",
+          "70771-1026-9",
+          "70771-1026-1",
+          "70771-1026-5",
+          "70771-1026-0"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "0Y2S3XUQ5H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220526",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA216434",
+      "sponsor_name": "GLAND",
+      "openfda": {
+        "application_number": [
+          "ANDA216434"
+        ],
+        "brand_name": [
+          "BUMETANIDE"
+        ],
+        "generic_name": [
+          "BUMETANIDE"
+        ],
+        "manufacturer_name": [
+          "GLENMARK PHARMACEUTICALS INC., USA",
+          "Fresenius Kabi USA, LLC",
+          "Gland Pharma Limited"
+        ],
+        "product_ndc": [
+          "68462-469",
+          "68462-470",
+          "65219-570",
+          "65219-572",
+          "68083-496",
+          "68083-497"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAMUSCULAR",
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "BUMETANIDE"
+        ],
+        "rxcui": [
+          "282486",
+          "1727569"
+        ],
+        "spl_id": [
+          "f211e18e-2cd7-4316-8edc-089ed734ccb8",
+          "aaff61c4-203b-4905-9138-0f98959ad013",
+          "d9e3877d-de1a-4047-9866-413958c4cca0"
+        ],
+        "spl_set_id": [
+          "680563fe-5d3a-49bc-86a5-740bda2acebe",
+          "a007f3aa-3977-4be3-a9a2-db3d458bca58",
+          "4d1ed6b2-c410-4f52-9b8a-aa256c37089e"
+        ],
+        "package_ndc": [
+          "68462-469-40",
+          "68462-469-54",
+          "68462-470-40",
+          "68462-470-54",
+          "65219-570-01",
+          "65219-570-04",
+          "65219-572-01",
+          "65219-572-10",
+          "68083-496-01",
+          "68083-496-10",
+          "68083-497-01",
+          "68083-497-10"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "0Y2S3XUQ5H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.25MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20241227",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213942",
+      "sponsor_name": "RUBICON RESEARCH",
+      "openfda": {
+        "application_number": [
+          "ANDA213942"
+        ],
+        "brand_name": [
+          "BUMETANIDE"
+        ],
+        "generic_name": [
+          "BUMETANIDE"
+        ],
+        "manufacturer_name": [
+          "Advagen Pharma Limited",
+          "NorthStar Rx LLC"
+        ],
+        "product_ndc": [
+          "72888-019",
+          "72888-020",
+          "72888-021",
+          "72603-889",
+          "72603-900",
+          "72603-901"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BUMETANIDE"
+        ],
+        "rxcui": [
+          "197417",
+          "197418",
+          "197419"
+        ],
+        "spl_id": [
+          "47c8ef6a-8934-2514-e063-6294a90abae6",
+          "598c24c1-3c2d-ad5b-e063-6394a90a84c4"
+        ],
+        "spl_set_id": [
+          "94078edd-b9c0-449e-baaf-a9afceccb407",
+          "551918e1-96c4-453a-870c-61b282882206"
+        ],
+        "package_ndc": [
+          "72888-019-01",
+          "72888-020-01",
+          "72888-021-01",
+          "72603-889-01",
+          "72603-900-01",
+          "72603-900-02",
+          "72603-901-01",
+          "72603-901-02"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "0Y2S3XUQ5H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20200406",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20050121",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20020729",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20020221",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19990114",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19950424"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20080903",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20020312",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20000128",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20200406",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20100303",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA074225",
+      "sponsor_name": "HERITAGE PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA074225"
+        ],
+        "brand_name": [
+          "BUMETANIDE"
+        ],
+        "generic_name": [
+          "BUMETANIDE"
+        ],
+        "manufacturer_name": [
+          "NorthStar Rx, LLC",
+          "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "72603-297",
+          "72603-298",
+          "72603-299",
+          "23155-900",
+          "23155-901",
+          "23155-902"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BUMETANIDE"
+        ],
+        "rxcui": [
+          "197417",
+          "197418",
+          "197419"
+        ],
+        "spl_id": [
+          "3aa9066b-354b-4f6b-87b9-2752a3a51f6b",
+          "ee0c44ac-10ca-4d9b-98f0-1342fc97dd39"
+        ],
+        "spl_set_id": [
+          "6b92460e-48ba-44bb-9b61-5e65e5fd82cd",
+          "d4688d53-9baf-4cf0-b37f-47779bce7815"
+        ],
+        "package_ndc": [
+          "72603-297-01",
+          "72603-298-01",
+          "72603-298-02",
+          "72603-299-01",
+          "72603-299-02",
+          "23155-900-01",
+          "23155-900-05",
+          "23155-900-10",
+          "23155-901-01",
+          "23155-901-05",
+          "23155-901-10",
+          "23155-902-01",
+          "23155-902-05",
+          "23155-902-10"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "0Y2S3XUQ5H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20171018",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA209724",
+      "sponsor_name": "AMNEAL PHARMS CO",
+      "openfda": {
+        "application_number": [
+          "ANDA209724"
+        ],
+        "brand_name": [
+          "BUMETANIDE"
+        ],
+        "generic_name": [
+          "BUMETANIDE"
+        ],
+        "manufacturer_name": [
+          "Amneal Pharmaceuticals NY LLC"
+        ],
+        "product_ndc": [
+          "69238-1489",
+          "69238-1490",
+          "69238-1491"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BUMETANIDE"
+        ],
+        "rxcui": [
+          "197417",
+          "197418",
+          "197419"
+        ],
+        "spl_id": [
+          "d1961e90-3fcc-4b72-b207-6c9de6d66557"
+        ],
+        "spl_set_id": [
+          "9188ab17-8539-48a5-905f-ad35ab5a0b93"
+        ],
+        "package_ndc": [
+          "69238-1489-1",
+          "69238-1489-5",
+          "69238-1490-1",
+          "69238-1490-5",
+          "69238-1491-1",
+          "69238-1491-5"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "0Y2S3XUQ5H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250613",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240919",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA219116",
+      "sponsor_name": "QILU PHARM HAINAN",
+      "openfda": {
+        "application_number": [
+          "ANDA219116"
+        ],
+        "brand_name": [
+          "BUMETANIDE"
+        ],
+        "generic_name": [
+          "BUMETANIDE"
+        ],
+        "manufacturer_name": [
+          "Qilu Pharmaceutical Co., Ltd.",
+          "Mullan Pharmaceutical Inc."
+        ],
+        "product_ndc": [
+          "67184-0593",
+          "67184-0594",
+          "83301-0080",
+          "83301-0081"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAMUSCULAR",
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "BUMETANIDE"
+        ],
+        "rxcui": [
+          "282486",
+          "1727569"
+        ],
+        "spl_id": [
+          "b392cf53-2b1f-46b5-86dc-c0df49f16730",
+          "4c241a3e-649b-4414-e063-6294a90a3a32"
+        ],
+        "spl_set_id": [
+          "ef5fe12a-f8ee-4ba7-932b-51bbaccf6575",
+          "b7cd724b-817b-4b45-8133-1ebf505867e7"
+        ],
+        "package_ndc": [
+          "67184-0594-1",
+          "67184-0594-2",
+          "67184-0593-1",
+          "67184-0593-2",
+          "83301-0080-1",
+          "83301-0080-2",
+          "83301-0081-1",
+          "83301-0081-2"
+        ],
+        "nui": [
+          "N0000175366",
+          "N0000175590"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis at Loop of Henle [PE]"
+        ],
+        "pharm_class_epc": [
+          "Loop Diuretic [EPC]"
+        ],
+        "unii": [
+          "0Y2S3XUQ5H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.25MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250805",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA212470",
+      "sponsor_name": "JUBILANT GENERICS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BUMETANIDE",
+          "active_ingredients": [
+            {
+              "name": "BUMETANIDE",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    }
+  ]
+}

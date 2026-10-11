@@ -1,0 +1,653 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 3
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19981028",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41626",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020738s001_teveten_toc.html",
+              "date": "20030807",
+              "type": "Review"
+            },
+            {
+              "id": "13312",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20738S001_TEVETEN_PRNTLBL.PDF",
+              "date": "20040618",
+              "type": "Label"
+            },
+            {
+              "id": "25660",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20738S001_TEVETEN_APPROV.PDF",
+              "date": "20040618",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19971222",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "44068",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/InformationbyDrugClass/ucm218897.htm",
+              "date": "20111222",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "20886",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/97/020738_tevetan_toc.html",
+              "date": "20110506",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20120912",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "13315",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020738s028lbl.pdf",
+              "date": "20120914",
+              "type": "Label"
+            },
+            {
+              "id": "25663",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020738Orig1s028ltr.pdf",
+              "date": "20120914",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20110503",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "13313",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020738s026lbl.pdf",
+              "date": "20110505",
+              "type": "Label"
+            },
+            {
+              "id": "25661",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/020738s026ltr.pdf",
+              "date": "20110506",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20031016",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3234",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20738slr012,21268slr002ltr.pdf",
+              "date": "20031017",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20000508",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20011029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19991004",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19990527",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41627",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20738-s004_teveten.pdf",
+              "date": "20010705",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19980630",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "20140722",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "35249",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/020738s029lbl.pdf",
+              "date": "20140724",
+              "type": "Label"
+            },
+            {
+              "id": "25664",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/020738Orig1s029ltr.pdf",
+              "date": "20140724",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20120119",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "13314",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020738s027lbl.pdf",
+              "date": "20120123",
+              "type": "Label"
+            },
+            {
+              "id": "25662",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020738s027,021268s017ltr.pdf",
+              "date": "20120123",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20001215",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19991105",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19991202",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19980521",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA020738",
+      "sponsor_name": "ABBVIE",
+      "products": [
+        {
+          "product_number": "005",
+          "reference_drug": "Yes",
+          "brand_name": "TEVETEN",
+          "active_ingredients": [
+            {
+              "name": "EPROSARTAN MESYLATE",
+              "strength": "EQ 400MG BASE **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "Yes",
+          "brand_name": "TEVETEN",
+          "active_ingredients": [
+            {
+              "name": "EPROSARTAN MESYLATE",
+              "strength": "EQ 600MG BASE **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TEVETEN",
+          "active_ingredients": [
+            {
+              "name": "EPROSARTAN MESYLATE",
+              "strength": "EQ 300MG BASE **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20151120",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20130920",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20151120",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20111116",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "32151",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/202012s000ltr.pdf",
+              "date": "20111121",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA202012",
+      "sponsor_name": "PHARMOBEDIENT",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EPROSARTAN MESYLATE",
+          "active_ingredients": [
+            {
+              "name": "EPROSARTAN MESYLATE",
+              "strength": "EQ 400MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EPROSARTAN MESYLATE",
+          "active_ingredients": [
+            {
+              "name": "EPROSARTAN MESYLATE",
+              "strength": "EQ 600MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20020927",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20140722",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "14815",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/021268s019lbl.pdf",
+              "date": "20140724",
+              "type": "Label"
+            },
+            {
+              "id": "27300",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/021268Orig1s019ltr.pdf",
+              "date": "20140724",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20120119",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "27298",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020738s027,021268s017ltr.pdf",
+              "date": "20120123",
+              "type": "Letter"
+            },
+            {
+              "id": "36526",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021268s017lbl.pdf",
+              "date": "20120123",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20110519",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "4849",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021268s015,s016ltr.pdf",
+              "date": "20110525",
+              "type": "Letter"
+            },
+            {
+              "id": "14813",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021268s015s016lbl.pdf",
+              "date": "20110523",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20030707",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "27297",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/21268scm006ltr.pdf",
+              "date": "20030710",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20011101",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 4",
+          "submission_class_code_description": "Type 4 - New Combination",
+          "application_docs": [
+            {
+              "id": "42066",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-268_Teveten.html",
+              "date": "20020305",
+              "type": "Review"
+            },
+            {
+              "id": "23640",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/InformationbyDrugClass/ucm218897.htm",
+              "date": "20111222",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "27295",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-268_TEVETEN_Approv.pdf",
+              "date": "20011101",
+              "type": "Letter"
+            },
+            {
+              "id": "36525",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-268_TEVETEN_prntlbl.pdf",
+              "date": "20011101",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20031016",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "27296",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20738slr012,21268slr002ltr.pdf",
+              "date": "20031017",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20120912",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "27299",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/021268Orig1s018ltr.pdf",
+              "date": "20120914",
+              "type": "Letter"
+            },
+            {
+              "id": "36527",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021268s018lbl.pdf",
+              "date": "20120914",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20110519",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "4850",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021268s015,s016ltr.pdf",
+              "date": "20110525",
+              "type": "Letter"
+            },
+            {
+              "id": "14814",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021268s015s016lbl.pdf",
+              "date": "20110523",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20050711",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "4848",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/021268s009ltr.pdf",
+              "date": "20050715",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA021268",
+      "sponsor_name": "ABBVIE",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TEVETEN HCT",
+          "active_ingredients": [
+            {
+              "name": "EPROSARTAN MESYLATE",
+              "strength": "600MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TEVETEN HCT",
+          "active_ingredients": [
+            {
+              "name": "EPROSARTAN MESYLATE",
+              "strength": "600MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

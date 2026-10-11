@@ -1,0 +1,30 @@
+sig_gene_universe columns: ['Gene', 'GeneSymbol']
+hits_by_ensg columns: ['MinikelSymbol', 'Gene', 'SNP', 'SNPChr', 'SNPPos', 'AssessedAllele', 'OtherAllele', 'Zscore', 'Pvalue', 'NrSamples', 'NrCohorts', 'GeneChr', 'GenePos']
+state rule re-applied to all 2517 targets; disagreements with classA_annotation.tsv: 0
+INSTRUMENTED targets: 1576 ; in clump file: 1576 ; with n_independent == 0: 0
+
+TESTED_NULL in ALL 2,517 targets: 229
+    14  (6.1%)  T1 genome-wide-significant cis-eQTL exists, but only outside gene body +-100 kb
+    92  (40.2%)  T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8
+   123  (53.7%)  T3 tested, no cis-eQTL at FDR<0.05
+
+TESTED_NULL in original 630-target CV set: 55
+     1  (1.8%)  T1 genome-wide-significant cis-eQTL exists, but only outside gene body +-100 kb
+    21  (38.2%)  T2 cis-eQTL at FDR<0.05 exists, none reaches p<5e-8
+    33  (60.0%)  T3 tested, no cis-eQTL at FDR<0.05
+
+wrote D:\causal2drug\manuscript_prep\tested_null_detail.csv
+CV tested-null with GTEx blood TPM: 55 ; >=1 TPM: 26 ; >=10 TPM: 17
+launched / Phase III tested-null:
+   APOA1   Phase III blood TPM 0.713321 T3 | outside hits 0 best p  nearest  bp
+   BRD4    Phase III blood TPM 21.1275  T3 | outside hits 0 best p  nearest  bp
+   ENPEP   Phase III blood TPM 0.014664 T2 | outside hits 0 best p  nearest  bp
+   GRIN1   Phase III blood TPM 0.039658 T3 | outside hits 0 best p  nearest  bp
+   HCN2    Phase III blood TPM 0.543467 T2 | outside hits 0 best p  nearest  bp
+   IL1B    Launched  blood TPM 29.4903  T1 | outside hits 50 best p 4.5107e-16 nearest 119995 bp
+   ITGA2B  Launched  blood TPM 36.2607  T2 | outside hits 0 best p  nearest  bp
+   KIT     Phase III blood TPM 0.217265 T2 | outside hits 0 best p  nearest  bp
+   NPC1L1  Launched  blood TPM 0.030092 T3 | outside hits 0 best p  nearest  bp
+   PDE3A   Phase III blood TPM 0.041784 T3 | outside hits 0 best p  nearest  bp
+   PDGFRA  Phase III blood TPM 0.101329 T3 | outside hits 0 best p  nearest  bp
+   SLC6A4  Phase III blood TPM 0.144586 T3 | outside hits 0 best p  nearest  bp

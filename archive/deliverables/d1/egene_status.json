@@ -1,0 +1,47 @@
+{
+  "ENSG00000113161": {
+    "symbol": "HMGCR",
+    "dataset": "QTD000266 GTEx_v10 liver ge (eQTL Catalogue R8)",
+    "source": "QTD000266.permuted.tsv.gz",
+    "sha256": "9ac3869a030c7881f6d3a46b108dae857abff58f024cdc0754d9943a101573ad",
+    "retrieved_utc": "2026-08-26T22:47:43Z",
+    "n_genes_tested": 20540,
+    "bh_threshold_p_beta": 0.00632822,
+    "n_egenes_fdr005": 2603,
+    "n_cis_variants_tested": 6674,
+    "top_nominal_pvalue": 0.00109037,
+    "top_variant": "chr5_75858789_G_A",
+    "p_beta": 0.67459,
+    "is_egene_fdr005": false
+  },
+  "ENSG00000169174": {
+    "symbol": "PCSK9",
+    "dataset": "QTD000266 GTEx_v10 liver ge (eQTL Catalogue R8)",
+    "source": "QTD000266.permuted.tsv.gz",
+    "sha256": "9ac3869a030c7881f6d3a46b108dae857abff58f024cdc0754d9943a101573ad",
+    "retrieved_utc": "2026-08-26T22:47:43Z",
+    "n_genes_tested": 20540,
+    "bh_threshold_p_beta": 0.00632822,
+    "n_egenes_fdr005": 2603,
+    "n_cis_variants_tested": 7103,
+    "top_nominal_pvalue": 1.02726e-05,
+    "top_variant": "chr1_55055322_C_CG",
+    "p_beta": 0.0247609,
+    "is_egene_fdr005": false
+  },
+  "ENSG00000160712": {
+    "symbol": "IL6R",
+    "dataset": "QTD000266 GTEx_v10 liver ge (eQTL Catalogue R8)",
+    "source": "QTD000266.permuted.tsv.gz",
+    "sha256": "9ac3869a030c7881f6d3a46b108dae857abff58f024cdc0754d9943a101573ad",
+    "retrieved_utc": "2026-08-26T22:47:43Z",
+    "n_genes_tested": 20540,
+    "bh_threshold_p_beta": 0.00632822,
+    "n_egenes_fdr005": 2603,
+    "n_cis_variants_tested": 4182,
+    "top_nominal_pvalue": 0.000596506,
+    "top_variant": "chr1_154793365_C_A",
+    "p_beta": 0.447637,
+    "is_egene_fdr005": false
+  }
+}

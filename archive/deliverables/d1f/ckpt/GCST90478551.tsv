@@ -1,0 +1,10 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+ALOX5	D014526	Urethritis	GCST90478551	DOWN	6									0							no_overlap_after_harmonization
+F2R	D014526	Urethritis	GCST90478551	DOWN	6									0							no_overlap_after_harmonization
+FAAH	D014526	Urethritis	GCST90478551	DOWN	8									0							no_overlap_after_harmonization
+FKBP1A	D014526	Urethritis	GCST90478551	DOWN	11									0							no_overlap_after_harmonization
+GUCY2C	D014526	Urethritis	GCST90478551	UP	6									0							no_overlap_after_harmonization
+IFNG	D014526	Urethritis	GCST90478551	DOWN	1									0							no_overlap_after_harmonization
+IL6R	D014526	Urethritis	GCST90478551	DOWN	2									0							no_overlap_after_harmonization
+TRPV1	D014526	Urethritis	GCST90478551	UP	1									0							no_overlap_after_harmonization
+VDR	D014526	Urethritis	GCST90478551	UP	4									0							no_overlap_after_harmonization

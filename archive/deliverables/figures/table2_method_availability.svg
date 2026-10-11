@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="936.91475pt" height="722.008134pt" viewBox="0 0 936.91475 722.008134" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-31T20:46:47.038675</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 722.008134 
+L 936.91475 722.008134 
+L 936.91475 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 19.08 68.6592 
+L 787.32 68.6592 
+" style="fill: none; stroke: #222222; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 19.08 96.5376 
+L 787.32 96.5376 
+" style="fill: none; stroke: #222222; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 19.08 128.8512 
+L 787.32 128.8512 
+" style="fill: none; stroke: #cccccc; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 19.08 234.6624 
+L 787.32 234.6624 
+" style="fill: none; stroke: #cccccc; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 19.08 321.7824 
+L 787.32 321.7824 
+" style="fill: none; stroke: #cccccc; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 19.08 420.624 
+L 787.32 420.624 
+" style="fill: none; stroke: #222222; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 19.08 468.144 
+L 787.32 468.144 
+" style="fill: none; stroke: #222222; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 19.08 623.0592 
+L 787.32 623.0592 
+" style="fill: none; stroke: #222222; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 13.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="29.376" transform="rotate(-0 19.08 29.376)">Table 2.  Method availability for cardiovascular target loci</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #444444" x="19.08" y="48.384" transform="rotate(-0 19.08 48.384)">What the standard analytic methods can and cannot deliver on these targets. Counts are loci or target-disease pairs, not patients.</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="87.0336" transform="rotate(-0 19.08 87.0336)">Measure</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="442.8" y="87.0336" transform="rotate(-0 442.8 87.0336)">Value</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="557.64" y="87.0336" transform="rotate(-0 557.64 87.0336)">Of</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="628.92" y="87.0336" transform="rotate(-0 628.92 87.0336)">Basis / rule</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #d55e00" x="19.08" y="120.6144" transform="rotate(-0 19.08 120.6144)">Colocalization availability at cardiovascular target loci</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="146.592" transform="rotate(-0 19.08 146.592)">Cardiovascular target loci screened</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="442.8" y="146.592" transform="rotate(-0 442.8 146.592)">65</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="557.64" y="146.592" transform="rotate(-0 557.64 146.592)">—</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="628.92" y="146.592" transform="rotate(-0 628.92 146.592)">R15 rule, cardiovascular subset</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="165.2832" transform="rotate(-0 19.08 165.2832)">Loci with a genome-wide significant disease signal in the gene window</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="442.8" y="165.2832" transform="rotate(-0 442.8 165.2832)">3</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="557.64" y="165.2832" transform="rotate(-0 557.64 165.2832)">of 65</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="628.92" y="165.2832" transform="rotate(-0 628.92 165.2832)">disease GWAS p &lt; 5×10⁻⁸</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="183.9744" transform="rotate(-0 19.08 183.9744)">Loci yielding a usable credible-set colocalization</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="442.8" y="183.9744" transform="rotate(-0 442.8 183.9744)">2</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="557.64" y="183.9744" transform="rotate(-0 557.64 183.9744)">of 65</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="628.92" y="183.9744" transform="rotate(-0 628.92 183.9744)">coloc.susie, after the FIX 1 assertion</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="202.6656" transform="rotate(-0 19.08 202.6656)">Colocalization UNAVAILABLE</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #d55e00" x="442.8" y="202.6656" transform="rotate(-0 442.8 202.6656)">63 (96.9%)</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="557.64" y="202.6656" transform="rotate(-0 557.64 202.6656)">of 65</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="628.92" y="202.6656" transform="rotate(-0 628.92 202.6656)">method availability, not evidence</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #d55e00" x="19.08" y="226.4256" transform="rotate(-0 19.08 226.4256)">Infrastructure attrition — disease GWAS cannot be region-queried</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="252.4032" transform="rotate(-0 19.08 252.4032)">Cardiovascular pairs lost (CV-EXTENDED, atlas definition)</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #d55e00" x="442.8" y="252.4032" transform="rotate(-0 442.8 252.4032)">265 (59.2%)</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="557.64" y="252.4032" transform="rotate(-0 557.64 252.4032)">of 448</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="628.92" y="252.4032" transform="rotate(-0 628.92 252.4032)">PRIMARY figure</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="271.0944" transform="rotate(-0 19.08 271.0944)">Cardiovascular pairs lost (CV-PRIMARY, strict definition)</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="442.8" y="271.0944" transform="rotate(-0 442.8 271.0944)">218 (54.4%)</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="557.64" y="271.0944" transform="rotate(-0 557.64 271.0944)">of 401</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="628.92" y="271.0944" transform="rotate(-0 628.92 271.0944)">robustness, Analysis 2</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="289.7856" transform="rotate(-0 19.08 289.7856)">Part C-conditioned sub-rate</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="442.8" y="289.7856" transform="rotate(-0 442.8 289.7856)">57 (55.3%)</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="557.64" y="289.7856" transform="rotate(-0 557.64 289.7856)">of 103</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="628.92" y="289.7856" transform="rotate(-0 628.92 289.7856)">SUB-RATE ONLY — conditioned on two unrelated Part C rules</text>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #d55e00" x="19.08" y="313.5456" transform="rotate(-0 19.08 313.5456)">The four accessions responsible for the 57 Part C-conditioned losses</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="339.5232" transform="rotate(-0 19.08 339.5232)">GCST90029021</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="442.8" y="339.5232" transform="rotate(-0 442.8 339.5232)">10 pairs</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="557.64" y="339.5232" transform="rotate(-0 557.64 339.5232)">of 57</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="628.92" y="339.5232" transform="rotate(-0 628.92 339.5232)">plain gzip, no .tbi (HTTP 404) — not range-queryable</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="358.2144" transform="rotate(-0 19.08 358.2144)">GCST90043777</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="442.8" y="358.2144" transform="rotate(-0 442.8 358.2144)">9 pairs</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="557.64" y="358.2144" transform="rotate(-0 557.64 358.2144)">of 57</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="628.92" y="358.2144" transform="rotate(-0 628.92 358.2144)">plain gzip, no .tbi (HTTP 404) — not range-queryable</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="376.9056" transform="rotate(-0 19.08 376.9056)">GCST90044006</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="442.8" y="376.9056" transform="rotate(-0 442.8 376.9056)">23 pairs</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="557.64" y="376.9056" transform="rotate(-0 557.64 376.9056)">of 57</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="628.92" y="376.9056" transform="rotate(-0 628.92 376.9056)">plain gzip, no .tbi (HTTP 404) — not range-queryable</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="395.5968" transform="rotate(-0 19.08 395.5968)">GCST90080708</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="442.8" y="395.5968" transform="rotate(-0 442.8 395.5968)">15 pairs</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="557.64" y="395.5968" transform="rotate(-0 557.64 395.5968)">of 57</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 7.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="628.92" y="395.5968" transform="rotate(-0 628.92 395.5968)">plain gzip, no .tbi (HTTP 404) — not range-queryable</text>
+   </g>
+   <g id="text_54">
+    <text style="font-weight: 700; font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #d55e00" x="19.08" y="440.2656" transform="rotate(-0 19.08 440.2656)">Fine-mapping diagnostics under the corrected locus-selection rule</text>
+   </g>
+   <g id="text_55">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="458.64" transform="rotate(-0 19.08 458.64)">Diagnostic</text>
+   </g>
+   <g id="text_56">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="442.8" y="458.64" transform="rotate(-0 442.8 458.64)">R14.1 — flawed rule (withdrawn)</text>
+   </g>
+   <g id="text_57">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="640.8" y="458.64" transform="rotate(-0 640.8 458.64)">R15 — corrected</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="487.152" transform="rotate(-0 19.08 487.152)">Loci analysed</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #7f7f7f" x="442.8" y="487.152" transform="rotate(-0 442.8 487.152)">28 of 60 (32 superseded)</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="640.8" y="487.152" transform="rotate(-0 640.8 487.152)">6 of 106 screened</text>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="505.8432" transform="rotate(-0 19.08 505.8432)">Loci genome-wide significant on the disease side</text>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #7f7f7f" x="442.8" y="505.8432" transform="rotate(-0 442.8 505.8432)">1 / 28</text>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="640.8" y="505.8432" transform="rotate(-0 640.8 505.8432)">6 / 6 (100%)</text>
+   </g>
+   <g id="text_64">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="524.5344" transform="rotate(-0 19.08 524.5344)">DENTIST residual-z RMSE, gene-expression side — median</text>
+   </g>
+   <g id="text_65">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #7f7f7f" x="442.8" y="524.5344" transform="rotate(-0 442.8 524.5344)">4.46</text>
+   </g>
+   <g id="text_66">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #d55e00" x="640.8" y="524.5344" transform="rotate(-0 640.8 524.5344)">3.15</text>
+   </g>
+   <g id="text_67">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="543.2256" transform="rotate(-0 19.08 543.2256)">DENTIST residual-z RMSE, gene-expression side — loci above 2</text>
+   </g>
+   <g id="text_68">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #7f7f7f" x="442.8" y="543.2256" transform="rotate(-0 442.8 543.2256)">93%</text>
+   </g>
+   <g id="text_69">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #d55e00" x="640.8" y="543.2256" transform="rotate(-0 640.8 543.2256)">100%  (6/6)</text>
+   </g>
+   <g id="text_70">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="561.9168" transform="rotate(-0 19.08 561.9168)">DENTIST residual-z RMSE, disease side — median</text>
+   </g>
+   <g id="text_71">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #7f7f7f" x="442.8" y="561.9168" transform="rotate(-0 442.8 561.9168)">0.71  (n=27)</text>
+   </g>
+   <g id="text_72">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="640.8" y="561.9168" transform="rotate(-0 640.8 561.9168)">1.70</text>
+   </g>
+   <g id="text_73">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="580.608" transform="rotate(-0 19.08 580.608)">DENTIST residual-z RMSE, disease side — loci above 2</text>
+   </g>
+   <g id="text_74">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #7f7f7f" x="442.8" y="580.608" transform="rotate(-0 442.8 580.608)">0%  (0/27)</text>
+   </g>
+   <g id="text_75">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="640.8" y="580.608" transform="rotate(-0 640.8 580.608)">33%  (2/6)</text>
+   </g>
+   <g id="text_76">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="19.08" y="599.2992" transform="rotate(-0 19.08 599.2992)">Credible-set pair returned</text>
+   </g>
+   <g id="text_77">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #7f7f7f" x="442.8" y="599.2992" transform="rotate(-0 442.8 599.2992)">2 / 28 (7%)   WITHDRAWN</text>
+   </g>
+   <g id="text_78">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #d55e00" x="640.8" y="599.2992" transform="rotate(-0 640.8 599.2992)">4 / 6 (67%)</text>
+   </g>
+   <g id="text_79">
+    <text style="font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="19.08" y="643.3344" transform="rotate(-0 19.08 643.3344)">R15 selection rule, declared before running: n_overlap ≥ 100; the disease GWAS has ≥ 1 variant with p &lt; 5×10⁻⁸ inside the merged gene window; one locus per target by largest overlap; no cap.</text>
+   </g>
+   <g id="text_80">
+    <text style="font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="19.08" y="657.2736" transform="rotate(-0 19.08 657.2736)">R14.1 omitted the disease-significance criterion, so it admitted loci with no disease signal — its residual-z values on the disease side are an artefact of that and are withdrawn, shown only for comparison.</text>
+   </g>
+   <g id="text_81">
+    <text style="font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="19.08" y="671.2128" transform="rotate(-0 19.08 671.2128)">Of the R14.1 60-locus set, 28 completed and 32 are excluded as superseded. The residual-z diagnostic is DENTIST (Chen et al. 2021, Nat Commun 12:7117); the implementation is ours, the method is theirs.</text>
+   </g>
+   <g id="text_82">
+    <text style="font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="19.08" y="685.152" transform="rotate(-0 19.08 685.152)">Colocalization figures are method availability, not evidence: Gate D is closed as a documented negative result. One R14.1 locus (CA2) has a non-finite disease-side residual-z and is excluded from that row only, so its n is 27 against 28 elsewhere.</text>
+   </g>
+   <g id="text_83">
+    <text style="font-size: 7.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #555555" x="19.08" y="713.0304" transform="rotate(-0 19.08 713.0304)">Reproduce: python src/make_table2.py     Sources: cv_report.json, cv_robustness.json, d1f/partc_skipped_accessions.tsv, d1h/part3_results.tsv, d1j/r15_results.tsv</text>
+   </g>
+  </g>
+ </g>
+</svg>

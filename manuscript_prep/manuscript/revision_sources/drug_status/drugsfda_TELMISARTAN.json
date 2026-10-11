@@ -1,0 +1,6429 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 37
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20160324",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140225",
+          "submission_class_code": "N/A",
+          "submission_class_code_description": "Not Applicable",
+          "application_docs": [
+            {
+              "id": "9864",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/201192Orig1s000ltr.pdf",
+              "date": "20140227",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20191106",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20160324",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA201192",
+      "sponsor_name": "TORRENT",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20230912",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160329",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140225",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "10145",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/203010Orig1s000ltr.pdf",
+              "date": "20140227",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20220114",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20160329",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20160329",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20191106",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA203010",
+      "sponsor_name": "ALEMBIC",
+      "openfda": {
+        "application_number": [
+          "ANDA203010"
+        ],
+        "brand_name": [
+          "TELMISARTAN AND HYDROCHLOROTHIAZIDE"
+        ],
+        "generic_name": [
+          "TELMISARTAN AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "Alembic Pharmaceuticals Limited",
+          "Alembic Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "46708-209",
+          "46708-210",
+          "46708-211",
+          "62332-209",
+          "62332-210",
+          "62332-211"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "283316",
+          "283317",
+          "477130"
+        ],
+        "spl_id": [
+          "7c37a82a-77c2-4d49-84ee-ee4f70b4ec93",
+          "ef7e32c5-7fa8-4179-927e-79d19a6f449e"
+        ],
+        "spl_set_id": [
+          "5b476740-e3f0-4f68-b07c-cd9eb2fa27ca",
+          "e80f232c-c1c4-4524-a0a5-d23ee0d1f3b7"
+        ],
+        "package_ndc": [
+          "46708-209-30",
+          "46708-209-91",
+          "46708-209-10",
+          "46708-210-30",
+          "46708-210-91",
+          "46708-210-10",
+          "46708-211-30",
+          "46708-211-91",
+          "46708-211-10",
+          "62332-209-30",
+          "62332-209-91",
+          "62332-209-10",
+          "62332-210-30",
+          "62332-210-91",
+          "62332-210-10",
+          "62332-211-30",
+          "62332-211-91",
+          "62332-211-10"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776",
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]",
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "unii": [
+          "0J48LPH2TH",
+          "U5SYW473RQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20250312",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160822",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20191104",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA204164",
+      "sponsor_name": "JUBILANT GENERICS",
+      "openfda": {
+        "application_number": [
+          "ANDA204164"
+        ],
+        "brand_name": [
+          "TELMISARTAN"
+        ],
+        "generic_name": [
+          "TELMISARTAN"
+        ],
+        "manufacturer_name": [
+          "Jubilant Cadista Pharmacuticals Inc."
+        ],
+        "product_ndc": [
+          "59746-439",
+          "59746-440",
+          "59746-441"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN"
+        ],
+        "rxcui": [
+          "205304",
+          "205305",
+          "282755"
+        ],
+        "spl_id": [
+          "482ba8bc-d601-48d8-9d50-8fa4d2c255fe"
+        ],
+        "spl_set_id": [
+          "e1a907a7-fad9-a860-8639-4c6136c85734"
+        ],
+        "package_ndc": [
+          "59746-439-12",
+          "59746-439-32",
+          "59746-440-12",
+          "59746-440-32",
+          "59746-441-12",
+          "59746-441-32"
+        ],
+        "nui": [
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "pharm_class_epc": [
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "unii": [
+          "U5SYW473RQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20190402",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20230609",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150903",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "32813",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/206511Orig1s000ltr.pdf",
+              "date": "20150908",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20230609",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20230609",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA206511",
+      "sponsor_name": "AUROBINDO PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA206511"
+        ],
+        "brand_name": [
+          "TELMISARTAN"
+        ],
+        "generic_name": [
+          "TELMISARTAN"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "65862-867",
+          "65862-868",
+          "65862-869"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN"
+        ],
+        "rxcui": [
+          "205304",
+          "205305",
+          "282755"
+        ],
+        "spl_id": [
+          "eea7e7a7-9c01-4097-8e5c-ab1ad574acc8"
+        ],
+        "spl_set_id": [
+          "fef6532d-438a-435e-a61f-216dd8551339"
+        ],
+        "package_ndc": [
+          "65862-867-30",
+          "65862-867-10",
+          "65862-867-03",
+          "65862-868-30",
+          "65862-868-10",
+          "65862-868-03",
+          "65862-869-30",
+          "65862-869-10",
+          "65862-869-03"
+        ],
+        "nui": [
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "pharm_class_epc": [
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "unii": [
+          "U5SYW473RQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20191106",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20161121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20211210",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20151102",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20250321",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20230607",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA204169",
+      "sponsor_name": "MACLEODS PHARMS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "45",
+          "submission_status": "AP",
+          "submission_status_date": "20200820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "64340",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/021162s045lbl.pdf",
+              "date": "20200821",
+              "type": "Label"
+            },
+            {
+              "id": "64355",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/021162Orig1s045ltr.pdf",
+              "date": "20200821",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20040419",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "26941",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/21162scm005ltr.pdf",
+              "date": "20040429",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "20141212",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "36250",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/021162s037lbl.pdf",
+              "date": "20141216",
+              "type": "Label"
+            },
+            {
+              "id": "26947",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/021162Orig1s037ltr.pdf",
+              "date": "20141215",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "20110512",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "36248",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021162s029s031lbl.pdf",
+              "date": "20110527",
+              "type": "Label"
+            },
+            {
+              "id": "26944",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021162s029,s031ltr.pdf",
+              "date": "20110506",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "20121024",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "4511",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/021162Orig1s035ltr.pdf",
+              "date": "20121026",
+              "type": "Letter"
+            },
+            {
+              "id": "14538",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021162s035lbl.pdf",
+              "date": "20121107",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20090811",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "4508",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/021162s019,s020ltr.pdf",
+              "date": "20091125",
+              "type": "Letter"
+            },
+            {
+              "id": "36247",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/021162s019s020lbl.pdf",
+              "date": "20090917",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "20110512",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "14536",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021162s029s031lbl.pdf",
+              "date": "20110527",
+              "type": "Label"
+            },
+            {
+              "id": "26945",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021162s029,s031ltr.pdf",
+              "date": "20110506",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20050902",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "36246",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/021162s008lbl.pdf",
+              "date": "20050908",
+              "type": "Label"
+            },
+            {
+              "id": "26942",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/021162s008ltr.pdf",
+              "date": "20050908",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "34",
+          "submission_status": "AP",
+          "submission_status_date": "20120119",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "4510",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/021162s034ltr.pdf",
+              "date": "20120123",
+              "type": "Letter"
+            },
+            {
+              "id": "14537",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021162s034lbl.pdf",
+              "date": "20120123",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "40",
+          "submission_status": "AP",
+          "submission_status_date": "20180201",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "52261",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/021162s040lbl.pdf",
+              "date": "20180202",
+              "type": "Label"
+            },
+            {
+              "id": "52299",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/021162Orig1s040ltr.pdf",
+              "date": "20180202",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "32",
+          "submission_status": "AP",
+          "submission_status_date": "20160112",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "26946",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/021162Orig1s032ltr.pdf",
+              "date": "20160114",
+              "type": "Letter"
+            },
+            {
+              "id": "36249",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/021162s032lbl.pdf",
+              "date": "20160125",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20001117",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 4",
+          "submission_class_code_description": "Type 4 - New Combination",
+          "application_docs": [
+            {
+              "id": "41996",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-162_Micards.html",
+              "date": "20040311",
+              "type": "Review"
+            },
+            {
+              "id": "23630",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/InformationbyDrugClass/ucm218897.htm",
+              "date": "20111222",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "26940",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/21162ltr.pdf",
+              "date": "20001117",
+              "type": "Letter"
+            },
+            {
+              "id": "36245",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2000/21162lbl.pdf",
+              "date": "20001117",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20070227",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "4507",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/021162s016ltr.pdf",
+              "date": "20070306",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20120120",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "4509",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/021162s030ltr.pdf",
+              "date": "20120123",
+              "type": "Letter"
+            },
+            {
+              "id": "14535",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021162s030lbl.pdf",
+              "date": "20120123",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20090811",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "14534",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/021162s019s020lbl.pdf",
+              "date": "20090917",
+              "type": "Label"
+            },
+            {
+              "id": "26943",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/021162s019,s020ltr.pdf",
+              "date": "20091125",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "47",
+          "submission_status": "AP",
+          "submission_status_date": "20221219",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "72976",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/021162Orig1s047ltr.pdf",
+              "date": "20221221",
+              "type": "Letter"
+            },
+            {
+              "id": "72985",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2022/021162s047lbl.pdf",
+              "date": "20221221",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA021162",
+      "sponsor_name": "BOEHRINGER INGELHEIM",
+      "openfda": {
+        "application_number": [
+          "NDA021162"
+        ],
+        "brand_name": [
+          "MICARDIS HCT"
+        ],
+        "generic_name": [
+          "TELMISARTAN AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "Boehringer Ingelheim Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "0597-0042",
+          "0597-0043",
+          "0597-0044"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "283316",
+          "283317",
+          "477130",
+          "749833",
+          "749837",
+          "749841"
+        ],
+        "spl_id": [
+          "ea1ff12a-df9e-477b-9e91-f89381987c6d"
+        ],
+        "spl_set_id": [
+          "b078dae2-664d-4144-847a-3b9d9b557402"
+        ],
+        "package_ndc": [
+          "0597-0043-37",
+          "0597-0044-37",
+          "0597-0042-37"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776",
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]",
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "unii": [
+          "0J48LPH2TH",
+          "U5SYW473RQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "MICARDIS HCT",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "MICARDIS HCT",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "MICARDIS HCT",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20190423",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20151125",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140108"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20230501",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20151125",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA078710",
+      "sponsor_name": "CHARTWELL RX",
+      "openfda": {
+        "application_number": [
+          "ANDA078710"
+        ],
+        "brand_name": [
+          "TELMISARTAN"
+        ],
+        "generic_name": [
+          "TELMISARTAN"
+        ],
+        "manufacturer_name": [
+          "Chartwell RX, LLC."
+        ],
+        "product_ndc": [
+          "62135-535",
+          "62135-536",
+          "62135-537"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN"
+        ],
+        "rxcui": [
+          "205304",
+          "205305",
+          "282755"
+        ],
+        "spl_id": [
+          "459ee4aa-32df-2119-e063-6294a90a0e7a"
+        ],
+        "spl_set_id": [
+          "beaaf383-730f-4411-b5e7-15c32b53a338"
+        ],
+        "package_ndc": [
+          "62135-535-30",
+          "62135-536-30",
+          "62135-537-30"
+        ],
+        "nui": [
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "pharm_class_epc": [
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "unii": [
+          "U5SYW473RQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140225",
+          "application_docs": [
+            {
+              "id": "9348",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/091648Orig1s000ltr.pdf",
+              "date": "20140227",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20151026",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA091648",
+      "sponsor_name": "NATCO",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20191106",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170815",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20211210",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA204221",
+      "sponsor_name": "ZYDUS PHARMS",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20151113",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20230426",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20190507",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140807"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20190507",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20230426",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA091351",
+      "sponsor_name": "LUPIN",
+      "openfda": {
+        "application_number": [
+          "ANDA091351"
+        ],
+        "brand_name": [
+          "TELMISARTAN AND HYDROCHLOROTHIAZIDE"
+        ],
+        "generic_name": [
+          "TELMISARTAN AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "Lupin Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "68180-193",
+          "68180-195",
+          "68180-194"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "HYDROCHLOROTHIAZIDE",
+          "TELMISARTAN"
+        ],
+        "rxcui": [
+          "283316",
+          "283317",
+          "477130"
+        ],
+        "spl_id": [
+          "92888a3c-daab-4cd1-b883-6ecbe682faa9"
+        ],
+        "spl_set_id": [
+          "b88054b3-fafa-4b4e-acf5-5294e5555720"
+        ],
+        "package_ndc": [
+          "68180-195-06",
+          "68180-195-09",
+          "68180-195-11",
+          "68180-193-06",
+          "68180-193-09",
+          "68180-193-11",
+          "68180-194-06",
+          "68180-194-09",
+          "68180-194-11"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776",
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]",
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "unii": [
+          "0J48LPH2TH",
+          "U5SYW473RQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20211015",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20151117",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20230425",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140707"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20210316",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA090032",
+      "sponsor_name": "GLENMARK PHARMS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA090032"
+        ],
+        "brand_name": [
+          "TELMISARTAN"
+        ],
+        "generic_name": [
+          "TELMISARTAN"
+        ],
+        "manufacturer_name": [
+          "Glenmark Pharmaceuticals Inc., USA"
+        ],
+        "product_ndc": [
+          "68462-199",
+          "68462-200",
+          "68462-201"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN"
+        ],
+        "rxcui": [
+          "205304",
+          "205305",
+          "282755"
+        ],
+        "spl_id": [
+          "7e08eda5-be87-4e09-ae4e-880a18aa7a0b"
+        ],
+        "spl_set_id": [
+          "c6eb489d-2946-4c14-839f-d4af761ead31"
+        ],
+        "package_ndc": [
+          "68462-199-30",
+          "68462-199-01",
+          "68462-199-13",
+          "68462-199-96",
+          "68462-199-90",
+          "68462-200-30",
+          "68462-200-01",
+          "68462-200-13",
+          "68462-200-82",
+          "68462-200-90",
+          "68462-201-30",
+          "68462-201-01",
+          "68462-201-13",
+          "68462-201-78",
+          "68462-201-90"
+        ],
+        "nui": [
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "pharm_class_epc": [
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "unii": [
+          "U5SYW473RQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20190517",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20141103",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20151117",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20151117",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA203867",
+      "sponsor_name": "SANDOZ",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20190517",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20151019",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20230714",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140707",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140926",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20230714",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA202397",
+      "sponsor_name": "MYLAN",
+      "openfda": {
+        "application_number": [
+          "ANDA202397"
+        ],
+        "brand_name": [
+          "TELMISARTAN"
+        ],
+        "generic_name": [
+          "TELMISARTAN"
+        ],
+        "manufacturer_name": [
+          "Mylan Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "0378-2920",
+          "0378-2921",
+          "0378-2922"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN"
+        ],
+        "rxcui": [
+          "205304",
+          "205305",
+          "282755"
+        ],
+        "spl_id": [
+          "0bdc0a35-e9b0-41a9-96f8-5b85497298f9"
+        ],
+        "spl_set_id": [
+          "c3658bc8-1524-43db-930e-66f9ac01b808"
+        ],
+        "package_ndc": [
+          "0378-2920-93",
+          "0378-2920-77",
+          "0378-2921-93",
+          "0378-2921-77",
+          "0378-2922-93",
+          "0378-2922-77"
+        ],
+        "nui": [
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "pharm_class_epc": [
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "unii": [
+          "U5SYW473RQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250303",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA218406",
+      "sponsor_name": "MANKIND PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA218406"
+        ],
+        "brand_name": [
+          "TELMISARTAN AND HYDROCHLOROTHIAZIDE"
+        ],
+        "generic_name": [
+          "TELMISARTAN AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "Lifestar Pharma LLC"
+        ],
+        "product_ndc": [
+          "70756-315",
+          "70756-316",
+          "70756-317"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "283316",
+          "283317",
+          "477130"
+        ],
+        "spl_id": [
+          "70efda7e-0c71-4faf-be4e-ef281d7cc297"
+        ],
+        "spl_set_id": [
+          "0c1bd0f4-034e-486c-ae46-2855c8c9ebda"
+        ],
+        "package_ndc": [
+          "70756-315-30",
+          "70756-315-31",
+          "70756-315-99",
+          "70756-316-30",
+          "70756-316-99",
+          "70756-316-31",
+          "70756-317-30",
+          "70756-317-99",
+          "70756-317-31"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776",
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]",
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "unii": [
+          "0J48LPH2TH",
+          "U5SYW473RQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20191104",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20191104",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20230608",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20171003",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "49970",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/207016Orig1s000ltr.pdf",
+              "date": "20171006",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA207016",
+      "sponsor_name": "MICRO LABS",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "TA",
+          "submission_status_date": "20110915"
+        }
+      ],
+      "application_number": "ANDA091084",
+      "sponsor_name": "WATSON LABS FLORIDA",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN; HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN; HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            }
+          ],
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN; HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20260528",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "86069",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/219423Orig1s002ltr.pdf",
+              "date": "20260616",
+              "type": "Letter"
+            },
+            {
+              "id": "86204",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/219423Orig1s002lbl.pdf",
+              "date": "20260610",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250605",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 4",
+          "submission_class_code_description": "Type 4 - New Combination",
+          "application_docs": [
+            {
+              "id": "82479",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/219423Orig1s000ltr.pdf",
+              "date": "20250606",
+              "type": "Letter"
+            },
+            {
+              "id": "82480",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219423s000lbl.pdf",
+              "date": "20250606",
+              "type": "Label"
+            },
+            {
+              "id": "87141",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/219423Orig1s000TOC.html",
+              "date": "20260902",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA219423",
+      "sponsor_name": "AZURITY",
+      "openfda": {
+        "application_number": [
+          "NDA219423"
+        ],
+        "brand_name": [
+          "WIDAPLIK"
+        ],
+        "generic_name": [
+          "TELMISARTAN, AMLODIPINE AND INDAPAMIDE"
+        ],
+        "manufacturer_name": [
+          "Azurity Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "24338-001",
+          "24338-002",
+          "24338-003"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN",
+          "AMLODIPINE BESYLATE",
+          "INDAPAMIDE"
+        ],
+        "rxcui": [
+          "2727452",
+          "2727458",
+          "2727460",
+          "2727462",
+          "2727463",
+          "2727465"
+        ],
+        "spl_id": [
+          "e0af7498-0dc6-4a30-a103-e30ae36c794e"
+        ],
+        "spl_set_id": [
+          "a30ff81d-420b-40ea-83d8-670260a93fff"
+        ],
+        "package_ndc": [
+          "24338-001-30",
+          "24338-002-30",
+          "24338-003-30"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175420",
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide-like Diuretic [EPC]",
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "unii": [
+          "F089I0511L",
+          "U5SYW473RQ",
+          "864V2Q084H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "WIDAPLIK",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 5MG BASE"
+            },
+            {
+              "name": "INDAPAMIDE",
+              "strength": "2.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "WIDAPLIK",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 1.25MG BASE"
+            },
+            {
+              "name": "INDAPAMIDE",
+              "strength": "0.625MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "WIDAPLIK",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 2.5MG BASE"
+            },
+            {
+              "name": "INDAPAMIDE",
+              "strength": "1.25MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150302",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20190807",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20150302",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140707",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA203171",
+      "sponsor_name": "TORRENT",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20180201",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "52260",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/022401s019lbl.pdf",
+              "date": "20180202",
+              "type": "Label"
+            },
+            {
+              "id": "52300",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/022401Orig1s019ltr.pdf",
+              "date": "20180202",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20151119",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20121019",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "17317",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/022401s007s009lbl.pdf",
+              "date": "20121022",
+              "type": "Label"
+            },
+            {
+              "id": "29681",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/022401Orig1s007,s009ltr.pdf",
+              "date": "20121023",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20121019",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "7326",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/022401Orig1s007,s009ltr.pdf",
+              "date": "20121023",
+              "type": "Letter"
+            },
+            {
+              "id": "17316",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/022401s007s009lbl.pdf",
+              "date": "20121022",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20110606",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "7325",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022401s005ltr.pdf",
+              "date": "20110607",
+              "type": "Letter"
+            },
+            {
+              "id": "38658",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022401s005lbl.pdf",
+              "date": "20110606",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20091016",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 4",
+          "submission_class_code_description": "Type 4 - New Combination",
+          "application_docs": [
+            {
+              "id": "42507",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2009/022401_twynsta_toc.html",
+              "date": "20100331",
+              "type": "Review"
+            },
+            {
+              "id": "17314",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/022401lbl.pdf",
+              "date": "20091016",
+              "type": "Label"
+            },
+            {
+              "id": "24295",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2009/22401s000sumr.pdf",
+              "date": "20100331",
+              "type": "Summary Review"
+            },
+            {
+              "id": "29678",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/022401s000ltr.pdf",
+              "date": "20091102",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20120329",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "7328",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/022401s011ltr.pdf",
+              "date": "20120402",
+              "type": "Letter"
+            },
+            {
+              "id": "17319",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/022401s011lbl.pdf",
+              "date": "20120330",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20160113",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "38660",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/022401s018lbl.pdf",
+              "date": "20160125",
+              "type": "Label"
+            },
+            {
+              "id": "7330",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/022401Orig1s018ltr.pdf",
+              "date": "20160115",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20141212",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "7329",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/022401Orig1s016ltr.pdf",
+              "date": "20141215",
+              "type": "Letter"
+            },
+            {
+              "id": "17320",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/022401s016lbl.pdf",
+              "date": "20141216",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20141211",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20121114",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "38659",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/022401s012lbl.pdf",
+              "date": "20121115",
+              "type": "Label"
+            },
+            {
+              "id": "29682",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/022401Orig1s012ltr.pdf",
+              "date": "20121116",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20120118",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "17315",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/022401s004lbl.pdf",
+              "date": "20120123",
+              "type": "Label"
+            },
+            {
+              "id": "29680",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/022401s004ltr.pdf",
+              "date": "20120123",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20111114",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "7327",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022401s010ltr.pdf",
+              "date": "20111116",
+              "type": "Letter"
+            },
+            {
+              "id": "17318",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022401s010lbl.pdf",
+              "date": "20111114",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20100727",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "38657",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/022401s002lbl.pdf",
+              "date": "20100731",
+              "type": "Label"
+            },
+            {
+              "id": "29679",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/022401s002ltr.pdf",
+              "date": "20100729",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA022401",
+      "sponsor_name": "BOEHRINGER INGELHEIM",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "TWYNSTA",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 5MG BASE"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "TWYNSTA",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 5MG BASE"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "TWYNSTA",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 10MG BASE"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "TWYNSTA",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 10MG BASE"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160422",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "10527",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/205901Orig1s000ltr.pdf",
+              "date": "20160426",
+              "type": "Letter"
+            },
+            {
+              "id": "19698",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/205901Orig1s000lbl.pdf",
+              "date": "20160503",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20200716",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20200716",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200716",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA205901",
+      "sponsor_name": "HETERO LABS LTD V",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20190416",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140707"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20151008",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140925",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA202130",
+      "sponsor_name": "ALEMBIC",
+      "openfda": {
+        "application_number": [
+          "ANDA202130"
+        ],
+        "brand_name": [
+          "TELMISARTAN"
+        ],
+        "generic_name": [
+          "TELMISARTAN"
+        ],
+        "manufacturer_name": [
+          "Alembic Pharmaceuticals Limited",
+          "Alembic Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "46708-608",
+          "46708-609",
+          "46708-610",
+          "62332-087",
+          "62332-088",
+          "62332-089"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN"
+        ],
+        "rxcui": [
+          "205304",
+          "205305",
+          "282755"
+        ],
+        "spl_id": [
+          "9d5f0653-75d0-4c6d-81e9-d34f2e62a714",
+          "a12a8f1f-5c6e-423d-97de-549bde6225a1"
+        ],
+        "spl_set_id": [
+          "4be6575f-ea8d-4cd8-a49d-3d1c93f2621a",
+          "c62d424c-7630-413c-be2c-3932831c3f1d"
+        ],
+        "package_ndc": [
+          "46708-608-30",
+          "46708-608-91",
+          "46708-609-30",
+          "46708-609-91",
+          "46708-610-30",
+          "46708-610-91",
+          "62332-087-30",
+          "62332-087-91",
+          "62332-088-30",
+          "62332-088-91",
+          "62332-089-30",
+          "62332-089-91"
+        ],
+        "nui": [
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "pharm_class_epc": [
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "unii": [
+          "U5SYW473RQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190219",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA207843",
+      "sponsor_name": "HISUN PHARM HANGZHOU",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20231221",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190517",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170725",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "49119",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/208605Orig1s000ltr.pdf",
+              "date": "20170728",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA208605",
+      "sponsor_name": "CADILA PHARMS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA208605"
+        ],
+        "brand_name": [
+          "TELMISARTAN"
+        ],
+        "generic_name": [
+          "TELMISARTAN"
+        ],
+        "manufacturer_name": [
+          "Modavar Pharmaceuticals LLC",
+          "Cadila Pharmaceuticals Limited"
+        ],
+        "product_ndc": [
+          "72241-015",
+          "72241-016",
+          "72241-017",
+          "71209-049",
+          "71209-050",
+          "71209-051"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN"
+        ],
+        "rxcui": [
+          "205304",
+          "205305",
+          "282755"
+        ],
+        "spl_id": [
+          "2d61b730-b379-49e1-877a-d14c92ab5b23",
+          "a19404d0-fd12-42ab-b469-b8c7d1d5e7eb"
+        ],
+        "spl_set_id": [
+          "a075633a-2a2a-4e88-8ede-b49a3920a16c",
+          "353fcb30-2fa7-4ff1-8a18-26f3ec279d00"
+        ],
+        "package_ndc": [
+          "72241-015-16",
+          "72241-015-18",
+          "72241-015-22",
+          "72241-015-04",
+          "72241-015-05",
+          "72241-015-10",
+          "72241-015-11",
+          "72241-016-16",
+          "72241-016-18",
+          "72241-016-22",
+          "72241-016-04",
+          "72241-016-05",
+          "72241-016-10",
+          "72241-016-11",
+          "72241-017-16",
+          "72241-017-18",
+          "72241-017-22",
+          "72241-017-04",
+          "72241-017-05",
+          "72241-017-10",
+          "72241-017-11",
+          "71209-049-16",
+          "71209-049-18",
+          "71209-049-01",
+          "71209-049-04",
+          "71209-049-05",
+          "71209-049-10",
+          "71209-049-11",
+          "71209-050-16",
+          "71209-050-18",
+          "71209-050-01",
+          "71209-050-04",
+          "71209-050-05",
+          "71209-050-10",
+          "71209-050-11",
+          "71209-051-16",
+          "71209-051-18",
+          "71209-051-01",
+          "71209-051-04",
+          "71209-051-05",
+          "71209-051-10",
+          "71209-051-11"
+        ],
+        "nui": [
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "pharm_class_epc": [
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "unii": [
+          "U5SYW473RQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20190507",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20160902",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20160902",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140108",
+          "submission_class_code": "N/A",
+          "submission_class_code_description": "Not Applicable",
+          "application_docs": [
+            {
+              "id": "32119",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/201586Orig1s000ltr.pdf",
+              "date": "20140829",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA201586",
+      "sponsor_name": "LUPIN",
+      "openfda": {
+        "application_number": [
+          "ANDA201586"
+        ],
+        "brand_name": [
+          "TELMISARTAN AND AMLODIPINE"
+        ],
+        "generic_name": [
+          "TELMISARTAN AND AMLODIPINE"
+        ],
+        "manufacturer_name": [
+          "Lupin Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "68180-196",
+          "68180-197",
+          "68180-198",
+          "68180-199"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN",
+          "AMLODIPINE BESYLATE"
+        ],
+        "rxcui": [
+          "876514",
+          "876519",
+          "876524",
+          "876529"
+        ],
+        "spl_id": [
+          "17a6182b-5050-470e-aa1d-1605fa9e088e"
+        ],
+        "spl_set_id": [
+          "a97fefa6-99e6-4eb7-9393-ab2252a2c7d8"
+        ],
+        "package_ndc": [
+          "68180-196-06",
+          "68180-196-09",
+          "68180-196-12",
+          "68180-197-06",
+          "68180-197-09",
+          "68180-197-12",
+          "68180-197-07",
+          "68180-198-06",
+          "68180-198-09",
+          "68180-198-12",
+          "68180-199-06",
+          "68180-199-09",
+          "68180-199-12"
+        ],
+        "nui": [
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "pharm_class_epc": [
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "unii": [
+          "U5SYW473RQ",
+          "864V2Q084H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND AMLODIPINE",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 5MG BASE"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND AMLODIPINE",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 5MG BASE"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND AMLODIPINE",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 10MG BASE"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND AMLODIPINE",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 10MG BASE"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20190909",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20190909",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140826",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20151117",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150102",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA202516",
+      "sponsor_name": "MYLAN",
+      "openfda": {
+        "application_number": [
+          "ANDA202516"
+        ],
+        "brand_name": [
+          "TELMISARTAN AND AMLODIPINE"
+        ],
+        "generic_name": [
+          "TELMISARTAN AND AMLODIPINE"
+        ],
+        "manufacturer_name": [
+          "Mylan Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "0378-1075",
+          "0378-1076",
+          "0378-1077",
+          "0378-1078"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN",
+          "AMLODIPINE BESYLATE"
+        ],
+        "rxcui": [
+          "876514",
+          "876519",
+          "876524",
+          "876529"
+        ],
+        "spl_id": [
+          "c4f4323d-671d-478b-b088-008530932cee"
+        ],
+        "spl_set_id": [
+          "ca60a4d5-ace7-4889-94ee-e2265fd63811"
+        ],
+        "package_ndc": [
+          "0378-1075-93",
+          "0378-1076-93",
+          "0378-1077-93",
+          "0378-1078-93"
+        ],
+        "nui": [
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "pharm_class_epc": [
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "unii": [
+          "U5SYW473RQ",
+          "864V2Q084H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND AMLODIPINE",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 5MG BASE"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND AMLODIPINE",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 5MG BASE"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND AMLODIPINE",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 10MG BASE"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND AMLODIPINE",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 10MG BASE"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250115",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA203986",
+      "sponsor_name": "MACLEODS PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA203986"
+        ],
+        "brand_name": [
+          "TELMISARTAN"
+        ],
+        "generic_name": [
+          "TELMISARTAN"
+        ],
+        "manufacturer_name": [
+          "Macleods Pharmaceuticals Limited",
+          "NorthStar RxLLC"
+        ],
+        "product_ndc": [
+          "33342-118",
+          "33342-119",
+          "33342-120",
+          "72603-831",
+          "72603-832",
+          "72603-833"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN"
+        ],
+        "rxcui": [
+          "205304",
+          "205305",
+          "282755"
+        ],
+        "spl_id": [
+          "94abae59-69ec-482d-b4cf-285d502d82e7",
+          "9c22a318-d1f2-4788-9331-66fed71ebf38"
+        ],
+        "spl_set_id": [
+          "671d5a85-4146-43b4-9d7d-ca53268eb2a6",
+          "9c22a318-d1f2-4788-9331-66fed71ebf38"
+        ],
+        "package_ndc": [
+          "33342-118-10",
+          "33342-118-07",
+          "33342-119-10",
+          "33342-119-07",
+          "33342-120-10",
+          "33342-120-07",
+          "72603-831-01",
+          "72603-832-01",
+          "72603-833-01"
+        ],
+        "nui": [
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "pharm_class_epc": [
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "unii": [
+          "U5SYW473RQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140108",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "10065",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/202517Orig1s000ltr.pdf",
+              "date": "20140829",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20211020",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20140620",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "32271",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/202517Orig1s002ltr.pdf",
+              "date": "20140904",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20211020",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20151130",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA202517",
+      "sponsor_name": "TORRENT",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND AMLODIPINE",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 5MG BASE"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND AMLODIPINE",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 5MG BASE"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND AMLODIPINE",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 10MG BASE"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND AMLODIPINE",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 10MG BASE"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20200410",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20230626",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20230310",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170503",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20230310",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA207882",
+      "sponsor_name": "PRINSTON INC",
+      "openfda": {
+        "application_number": [
+          "ANDA207882"
+        ],
+        "brand_name": [
+          "TELMISARTAN"
+        ],
+        "generic_name": [
+          "TELMISARTAN"
+        ],
+        "manufacturer_name": [
+          "Solco Healthcare US, LLC"
+        ],
+        "product_ndc": [
+          "43547-283",
+          "43547-284",
+          "43547-285"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN"
+        ],
+        "rxcui": [
+          "205304",
+          "205305",
+          "282755"
+        ],
+        "spl_id": [
+          "98f95e17-f88b-4f47-b4bb-5db8f93793f7"
+        ],
+        "spl_set_id": [
+          "77442f0b-b522-4b19-ac1f-f0ce8576f0be"
+        ],
+        "package_ndc": [
+          "43547-283-03",
+          "43547-283-09",
+          "43547-283-50",
+          "43547-284-03",
+          "43547-284-09",
+          "43547-284-50",
+          "43547-285-03",
+          "43547-285-09",
+          "43547-285-50"
+        ],
+        "nui": [
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "pharm_class_epc": [
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "unii": [
+          "U5SYW473RQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190304",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20220124",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20230712",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA202544",
+      "sponsor_name": "GLENMARK PHARMS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA202544"
+        ],
+        "brand_name": [
+          "TELMISARTAN AND HYDROCHLOROTHIAZIDE"
+        ],
+        "generic_name": [
+          "TELMISARTAN AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "AvKARE",
+          "Glenmark Pharmaceuticals Inc., USA"
+        ],
+        "product_ndc": [
+          "42291-462",
+          "42291-463",
+          "42291-464",
+          "68462-840",
+          "68462-841",
+          "68462-842"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "283316",
+          "283317",
+          "477130"
+        ],
+        "spl_id": [
+          "5afb1a80-6024-d7fa-e063-6394a90a7ca2",
+          "697f1231-2483-4e0b-9e23-aeb576fa6171"
+        ],
+        "spl_set_id": [
+          "1b303136-dccd-178b-e063-6394a90a35f8",
+          "1e55800d-f77c-4950-a6d7-2055f4c7ea17"
+        ],
+        "package_ndc": [
+          "42291-462-11",
+          "42291-462-30",
+          "42291-463-11",
+          "42291-463-30",
+          "42291-464-11",
+          "42291-464-30",
+          "68462-840-13",
+          "68462-841-13",
+          "68462-842-13"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776",
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]",
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "unii": [
+          "0J48LPH2TH",
+          "U5SYW473RQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20151030",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20230303",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20190709",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20190709",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20170628",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160324",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA205150",
+      "sponsor_name": "ADAPTIS",
+      "openfda": {
+        "application_number": [
+          "ANDA205150"
+        ],
+        "brand_name": [
+          "TELMISARTAN"
+        ],
+        "generic_name": [
+          "TELMISARTAN"
+        ],
+        "manufacturer_name": [
+          "Ascend Laboratories, LLC"
+        ],
+        "product_ndc": [
+          "67877-482",
+          "67877-483",
+          "67877-484"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN"
+        ],
+        "rxcui": [
+          "205304",
+          "205305",
+          "282755"
+        ],
+        "spl_id": [
+          "3176efce-402d-3398-e063-6294a90a2f27"
+        ],
+        "spl_set_id": [
+          "29bddc43-2809-4e1f-ae35-2865e15e9bb6"
+        ],
+        "package_ndc": [
+          "67877-482-30",
+          "67877-482-90",
+          "67877-482-05",
+          "67877-483-30",
+          "67877-483-90",
+          "67877-483-05",
+          "67877-484-30",
+          "67877-484-90",
+          "67877-484-05"
+        ],
+        "nui": [
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "pharm_class_epc": [
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "unii": [
+          "U5SYW473RQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150908",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20230720",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20191105",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA204415",
+      "sponsor_name": "AMNEAL PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA204415"
+        ],
+        "brand_name": [
+          "TELMISARTAN"
+        ],
+        "generic_name": [
+          "TELMISARTAN"
+        ],
+        "manufacturer_name": [
+          "Amneal Pharmaceuticals of New York LLC",
+          "AvKARE",
+          "Amneal Pharmaceuticals LLC"
+        ],
+        "product_ndc": [
+          "53746-291",
+          "53746-292",
+          "53746-293",
+          "42291-790",
+          "42291-791",
+          "42291-792",
+          "65162-291",
+          "65162-292",
+          "65162-293"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN"
+        ],
+        "rxcui": [
+          "205304",
+          "205305",
+          "282755"
+        ],
+        "spl_id": [
+          "77cf7b02-2f68-41ff-be0d-8ad569613822",
+          "4875af35-46c7-d9e6-e063-6394a90ab93d",
+          "1a0e1325-40d8-4dde-8655-54f6bd962a4f"
+        ],
+        "spl_set_id": [
+          "bf2dca37-ce9c-40e4-8ad6-b8186aa7fed1",
+          "71902893-55da-4286-8b25-b528641489ef",
+          "20a60231-64f0-4751-aa81-6c0e64334179"
+        ],
+        "package_ndc": [
+          "53746-291-30",
+          "53746-292-30",
+          "53746-293-30",
+          "42291-790-30",
+          "42291-791-30",
+          "42291-792-30",
+          "65162-291-03",
+          "65162-291-09",
+          "65162-291-50",
+          "65162-291-63",
+          "65162-292-03",
+          "65162-292-09",
+          "65162-292-50",
+          "65162-292-11",
+          "65162-292-63",
+          "65162-293-03",
+          "65162-293-09",
+          "65162-293-50",
+          "65162-293-11",
+          "65162-293-63"
+        ],
+        "nui": [
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "pharm_class_epc": [
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "unii": [
+          "U5SYW473RQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20070227",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3574",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/020850s019ltr.pdf",
+              "date": "20070306",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "33",
+          "submission_status": "AP",
+          "submission_status_date": "20120920",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "26057",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020850Orig1s033ltr.pdf",
+              "date": "20120924",
+              "type": "Letter"
+            },
+            {
+              "id": "35512",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020850s033lbl.pdf",
+              "date": "20120924",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20091016",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "13616",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/020850s025lbl.pdf",
+              "date": "20091021",
+              "type": "Label"
+            },
+            {
+              "id": "26056",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/020850s025ltr.pdf",
+              "date": "20091120",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "20120118",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "35510",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020850s031lbl.pdf",
+              "date": "20120123",
+              "type": "Label"
+            },
+            {
+              "id": "3576",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020850s031ltr.pdf",
+              "date": "20120123",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20001012",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20090811",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "13615",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/020850s022s023lbl.pdf",
+              "date": "20090917",
+              "type": "Label"
+            },
+            {
+              "id": "3575",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/020850s022,s023ltr.pdf",
+              "date": "20091119",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19991202",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20050902",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "13613",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/020850s013lbl.pdf",
+              "date": "20050908",
+              "type": "Label"
+            },
+            {
+              "id": "26054",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/020850s013ltr.pdf",
+              "date": "20050908",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20040330",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "26053",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/20850slr011ltr.pdf",
+              "date": "20040407",
+              "type": "Letter"
+            },
+            {
+              "id": "35509",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2004/020850s011lbl.pdf",
+              "date": "20040506",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "38",
+          "submission_status": "AP",
+          "submission_status_date": "20141212",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "26059",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/020850Orig1s038ltr.pdf",
+              "date": "20141215",
+              "type": "Letter"
+            },
+            {
+              "id": "35513",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/020850s038lbl.pdf",
+              "date": "20141215",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "36",
+          "submission_status": "AP",
+          "submission_status_date": "20121024",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3578",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020850Orig1s036ltr.pdf",
+              "date": "20121026",
+              "type": "Letter"
+            },
+            {
+              "id": "13618",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020850s036lbl.pdf",
+              "date": "20121026",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "40",
+          "submission_status": "AP",
+          "submission_status_date": "20180201",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "52262",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020850s040lbl.pdf",
+              "date": "20180202",
+              "type": "Label"
+            },
+            {
+              "id": "52298",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/020850Orig1s040ltr.pdf",
+              "date": "20180202",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "32",
+          "submission_status": "AP",
+          "submission_status_date": "20110706",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3577",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/020850s032ltr.pdf",
+              "date": "20110707",
+              "type": "Letter"
+            },
+            {
+              "id": "35511",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020850s032lbl.pdf",
+              "date": "20110712",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20031023",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "26052",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20850slr005ltr.pdf",
+              "date": "20031031",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20000404",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20090811",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "13614",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/020850s022s023lbl.pdf",
+              "date": "20090917",
+              "type": "Label"
+            },
+            {
+              "id": "26055",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/020850s022,s023ltr.pdf",
+              "date": "20091119",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19991029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "39",
+          "submission_status": "AP",
+          "submission_status_date": "20150805",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "45",
+          "submission_status": "AP",
+          "submission_status_date": "20221219",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "72975",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/020850Orig1s045ltr.pdf",
+              "date": "20221221",
+              "type": "Letter"
+            },
+            {
+              "id": "72984",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2022/020850s045lbl.pdf",
+              "date": "20221221",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19981110",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "3573",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1998/20850ltr.pdf",
+              "date": "19981110",
+              "type": "Letter"
+            },
+            {
+              "id": "41760",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20850_Micardis.html",
+              "date": "20010806",
+              "type": "Review"
+            },
+            {
+              "id": "44076",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/InformationbyDrugClass/ucm218897.htm",
+              "date": "20111222",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "35508",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/1998/20850lbl.pdf",
+              "date": "19981110",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "20150216",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "20120119",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "13617",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020850s035lbl.pdf",
+              "date": "20120123",
+              "type": "Label"
+            },
+            {
+              "id": "26058",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020850s035ltr.pdf",
+              "date": "20120123",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020850",
+      "sponsor_name": "BOEHRINGER INGELHEIM",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "MICARDIS",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "MICARDIS",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "20MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "MICARDIS",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20260217",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20260217",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20260217",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20260217",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20171106",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA209028",
+      "sponsor_name": "PRINSTON INC",
+      "openfda": {
+        "application_number": [
+          "ANDA209028"
+        ],
+        "brand_name": [
+          "TELMISARTAN AND HYDROCHLOROTHIAZIDE"
+        ],
+        "generic_name": [
+          "TELMISARTAN AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "Solco Healthcare LLC"
+        ],
+        "product_ndc": [
+          "43547-441",
+          "43547-442",
+          "43547-443"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "283316",
+          "283317",
+          "477130"
+        ],
+        "spl_id": [
+          "a7294951-f71f-442b-9f8e-2551963db085"
+        ],
+        "spl_set_id": [
+          "47c8eee0-f0b7-4bd8-97e9-0029aa1b37db"
+        ],
+        "package_ndc": [
+          "43547-441-09",
+          "43547-441-03",
+          "43547-442-09",
+          "43547-442-03",
+          "43547-443-09",
+          "43547-443-03"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776",
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]",
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "unii": [
+          "0J48LPH2TH",
+          "U5SYW473RQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20241015",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA218157",
+      "sponsor_name": "MANKIND PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA218157"
+        ],
+        "brand_name": [
+          "TELMISARTAN"
+        ],
+        "generic_name": [
+          "TELMISARTAN"
+        ],
+        "manufacturer_name": [
+          "Lifestar Pharma LLC"
+        ],
+        "product_ndc": [
+          "70756-312",
+          "70756-313",
+          "70756-314"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN"
+        ],
+        "rxcui": [
+          "205304",
+          "205305",
+          "282755"
+        ],
+        "spl_id": [
+          "28abd7a9-b660-4c91-b5f4-b65aa673fdbc"
+        ],
+        "spl_set_id": [
+          "3ff464e6-7a36-4544-a06f-7848414f77fc"
+        ],
+        "package_ndc": [
+          "70756-312-30",
+          "70756-312-01",
+          "70756-312-99",
+          "70756-313-30",
+          "70756-313-01",
+          "70756-313-80",
+          "70756-314-30",
+          "70756-314-01",
+          "70756-314-80"
+        ],
+        "nui": [
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "pharm_class_epc": [
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "unii": [
+          "U5SYW473RQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140826",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20230321",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20190416",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20151204",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA203325",
+      "sponsor_name": "ZYDUS PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA203325"
+        ],
+        "brand_name": [
+          "TELMISARTAN"
+        ],
+        "generic_name": [
+          "TELMISARTAN"
+        ],
+        "manufacturer_name": [
+          "Zydus Lifesciences Limited",
+          "Zydus Pharmaceuticals USA Inc."
+        ],
+        "product_ndc": [
+          "65841-804",
+          "65841-805",
+          "65841-806",
+          "68382-471",
+          "68382-472",
+          "68382-473"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN"
+        ],
+        "rxcui": [
+          "205304",
+          "205305",
+          "282755"
+        ],
+        "spl_id": [
+          "9e0aa50a-1fac-4086-b7b6-811cec3f524b",
+          "99f660d2-4407-490e-a79f-6523bece714d"
+        ],
+        "spl_set_id": [
+          "2e3cc412-fa44-4304-aabc-d6e412f81fbf",
+          "e61c209a-4fc3-4f5c-b526-6412f0b8897c"
+        ],
+        "package_ndc": [
+          "65841-804-06",
+          "65841-804-16",
+          "65841-804-01",
+          "65841-804-05",
+          "65841-804-10",
+          "65841-804-30",
+          "65841-804-78",
+          "65841-805-06",
+          "65841-805-16",
+          "65841-805-01",
+          "65841-805-05",
+          "65841-805-10",
+          "65841-805-30",
+          "65841-805-78",
+          "65841-806-06",
+          "65841-806-16",
+          "65841-806-01",
+          "65841-806-05",
+          "65841-806-10",
+          "65841-806-30",
+          "65841-806-78",
+          "68382-471-30",
+          "68382-471-78",
+          "68382-471-06",
+          "68382-471-16",
+          "68382-471-01",
+          "68382-471-05",
+          "68382-471-10",
+          "68382-472-30",
+          "68382-472-78",
+          "68382-472-16",
+          "68382-472-01",
+          "68382-472-05",
+          "68382-472-10",
+          "68382-472-06",
+          "68382-473-30",
+          "68382-473-78",
+          "68382-473-06",
+          "68382-473-16",
+          "68382-473-01",
+          "68382-473-05",
+          "68382-473-10"
+        ],
+        "nui": [
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "pharm_class_epc": [
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "unii": [
+          "U5SYW473RQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN",
+          "active_ingredients": [
+            {
+              "name": "TELMISARTAN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20161117",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "46029",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/205234Orig1s000ltr.pdf",
+              "date": "20161206",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20260922",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA205234",
+      "sponsor_name": "ALEMBIC",
+      "openfda": {
+        "application_number": [
+          "ANDA205234"
+        ],
+        "brand_name": [
+          "TELMISARTAN AND AMLODIPINE"
+        ],
+        "generic_name": [
+          "TELMISARTAN AND AMLODIPINE"
+        ],
+        "manufacturer_name": [
+          "Alembic Pharmaceuticals Limited"
+        ],
+        "product_ndc": [
+          "46708-184",
+          "46708-185",
+          "46708-186",
+          "46708-187"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN",
+          "AMLODIPINE BESYLATE"
+        ],
+        "rxcui": [
+          "876514",
+          "876519",
+          "876524",
+          "876529"
+        ],
+        "spl_id": [
+          "f0d9160e-9405-435e-9f36-75c537267221"
+        ],
+        "spl_set_id": [
+          "15b438b4-4874-43f4-a50a-4e6f3e5530ac"
+        ],
+        "package_ndc": [
+          "46708-184-08",
+          "46708-185-08",
+          "46708-186-06",
+          "46708-187-06"
+        ],
+        "nui": [
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "pharm_class_epc": [
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "unii": [
+          "U5SYW473RQ",
+          "864V2Q084H"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND AMLODIPINE",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 5MG BASE"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND AMLODIPINE",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 5MG BASE"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND AMLODIPINE",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 10MG BASE"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND AMLODIPINE",
+          "active_ingredients": [
+            {
+              "name": "AMLODIPINE BESYLATE",
+              "strength": "EQ 10MG BASE"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20161215",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20200413",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA208727",
+      "sponsor_name": "AUROBINDO PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA208727"
+        ],
+        "brand_name": [
+          "TELMISARTAN AND HYDROCHLOROTHIAZIDE"
+        ],
+        "generic_name": [
+          "TELMISARTAN AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "65862-976",
+          "65862-977",
+          "65862-978"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TELMISARTAN",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "283316",
+          "283317",
+          "477130"
+        ],
+        "spl_id": [
+          "067bf533-1a2f-4427-9ea9-be908cab37b4"
+        ],
+        "spl_set_id": [
+          "681dfb5c-fc5c-427e-81f6-4b4e934978a2"
+        ],
+        "package_ndc": [
+          "65862-976-10",
+          "65862-976-03",
+          "65862-977-10",
+          "65862-977-03",
+          "65862-978-10",
+          "65862-978-03"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776",
+          "N0000000070",
+          "N0000175561"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]",
+          "Angiotensin 2 Receptor Blocker [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "pharm_class_moa": [
+          "Angiotensin 2 Receptor Antagonists [MoA]"
+        ],
+        "unii": [
+          "0J48LPH2TH",
+          "U5SYW473RQ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "TELMISARTAN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    }
+  ]
+}

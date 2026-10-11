@@ -1,0 +1,5800 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 25
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240130",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA216944",
+      "sponsor_name": "APOTEX",
+      "products": [
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "70MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20240925",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA211840",
+      "sponsor_name": "SPECGX LLC",
+      "products": [
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "70MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240105",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA214484",
+      "sponsor_name": "SUN PHARM INDS INC",
+      "openfda": {
+        "application_number": [
+          "ANDA214484"
+        ],
+        "brand_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "generic_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "manufacturer_name": [
+          "Sun Pharmaceutical Industries, Inc."
+        ],
+        "product_ndc": [
+          "57664-046",
+          "57664-047",
+          "57664-048",
+          "57664-049",
+          "57664-050",
+          "57664-051",
+          "57664-052",
+          "57664-083",
+          "57664-084",
+          "57664-085",
+          "57664-086",
+          "57664-087",
+          "57664-088"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "rxcui": [
+          "854830",
+          "854834",
+          "854838",
+          "854842",
+          "854846",
+          "854850",
+          "1593856",
+          "1871456",
+          "1871460",
+          "1871462",
+          "1871464",
+          "1871466",
+          "1871468"
+        ],
+        "spl_id": [
+          "560b4c9e-9cce-4717-e063-6294a90a58c9"
+        ],
+        "spl_set_id": [
+          "da3148af-f9b6-4725-adae-3595b4c7dc4b"
+        ],
+        "package_ndc": [
+          "57664-047-88",
+          "57664-046-88",
+          "57664-048-88",
+          "57664-049-88",
+          "57664-050-88",
+          "57664-051-88",
+          "57664-052-88",
+          "57664-083-88",
+          "57664-084-88",
+          "57664-085-88",
+          "57664-086-88",
+          "57664-087-88",
+          "57664-088-88"
+        ],
+        "unii": [
+          "SJT761GEGS"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "70MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA215330",
+      "sponsor_name": "RHODES PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA215330"
+        ],
+        "brand_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "generic_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "manufacturer_name": [
+          "Rhodes Pharmaceuticals LLC"
+        ],
+        "product_ndc": [
+          "42858-161",
+          "42858-162",
+          "42858-163",
+          "42858-164",
+          "42858-165",
+          "42858-166",
+          "42858-167"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "rxcui": [
+          "854830",
+          "854834",
+          "854838",
+          "854842",
+          "854846",
+          "854850",
+          "1593856"
+        ],
+        "spl_id": [
+          "0002e227-1109-4ecc-a8c5-4b4f11fac3cc"
+        ],
+        "spl_set_id": [
+          "d918b40d-a461-41bc-b6c0-83dc76c28e32"
+        ],
+        "package_ndc": [
+          "42858-161-01",
+          "42858-162-01",
+          "42858-163-01",
+          "42858-164-01",
+          "42858-165-01",
+          "42858-166-01",
+          "42858-167-01"
+        ],
+        "unii": [
+          "SJT761GEGS"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "70MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20260318",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20260910",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20250123",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA217442",
+      "sponsor_name": "ASCENT PHARMS INC",
+      "openfda": {
+        "application_number": [
+          "ANDA217442"
+        ],
+        "brand_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "generic_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "manufacturer_name": [
+          "Camber Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "31722-350",
+          "31722-351",
+          "31722-352",
+          "31722-353",
+          "31722-354",
+          "31722-355",
+          "31722-356"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "rxcui": [
+          "854830",
+          "854834",
+          "854838",
+          "854842",
+          "854846",
+          "854850",
+          "1593856"
+        ],
+        "spl_id": [
+          "2e13240a-a704-4e8e-8fd7-58caab9b9035"
+        ],
+        "spl_set_id": [
+          "20baa61e-be0b-41a3-a896-29e8ce8c4799"
+        ],
+        "package_ndc": [
+          "31722-350-01",
+          "31722-351-01",
+          "31722-352-01",
+          "31722-353-01",
+          "31722-354-01",
+          "31722-355-01",
+          "31722-356-01"
+        ],
+        "unii": [
+          "SJT761GEGS"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "70MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240202",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA218306",
+      "sponsor_name": "MSN",
+      "openfda": {
+        "application_number": [
+          "ANDA218306"
+        ],
+        "brand_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "generic_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "manufacturer_name": [
+          "Novadoz Pharmaceuticals LLC"
+        ],
+        "product_ndc": [
+          "72205-132",
+          "72205-133",
+          "72205-134",
+          "72205-135",
+          "72205-136",
+          "72205-137"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "rxcui": [
+          "1871456",
+          "1871460",
+          "1871462",
+          "1871464",
+          "1871466",
+          "1871468"
+        ],
+        "spl_id": [
+          "a79cb70c-0bfa-4d68-9a21-a5ef4bc3c811"
+        ],
+        "spl_set_id": [
+          "a79cb70c-0bfa-4d68-9a21-a5ef4bc3c811"
+        ],
+        "package_ndc": [
+          "72205-132-91",
+          "72205-133-91",
+          "72205-134-91",
+          "72205-135-91",
+          "72205-136-91",
+          "72205-137-91"
+        ],
+        "unii": [
+          "SJT761GEGS"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20251222",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "84545",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219847Orig1s001lbl.pdf",
+              "date": "20251223",
+              "type": "Label"
+            },
+            {
+              "id": "84589",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/219847Orig1s001ltr.pdf",
+              "date": "20251229",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250616",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form",
+          "application_docs": [
+            {
+              "id": "82585",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219847s000lbl.pdf",
+              "date": "20250616",
+              "type": "Label"
+            },
+            {
+              "id": "82586",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219847s000lbl.pdf#page=37",
+              "date": "20250617",
+              "type": "Medication Guide"
+            },
+            {
+              "id": "82590",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/219847Orig1s000ltr.pdf",
+              "date": "20250617",
+              "type": "Letter"
+            },
+            {
+              "id": "83303",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/219847Orig1s000TOC.html",
+              "date": "20250908",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA219847",
+      "sponsor_name": "AZURITY",
+      "openfda": {
+        "application_number": [
+          "NDA219847"
+        ],
+        "brand_name": [
+          "ARYNTA"
+        ],
+        "generic_name": [
+          "LISDEXAMFETAMINE DIMESYLATE ORAL"
+        ],
+        "manufacturer_name": [
+          "Azurity Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "24338-019",
+          "24338-103",
+          "24338-160",
+          "24338-109",
+          "24338-162"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "rxcui": [
+          "2726048",
+          "2726055"
+        ],
+        "spl_id": [
+          "ac355447-df74-4bb1-b0b6-1869a4846309"
+        ],
+        "spl_set_id": [
+          "71cdfc97-96af-4378-a44a-6d5d77e7d6b7"
+        ],
+        "package_ndc": [
+          "24338-019-01",
+          "24338-103-01",
+          "24338-160-01",
+          "24338-109-01",
+          "24338-162-01"
+        ],
+        "unii": [
+          "SJT761GEGS"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ARYNTA",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG/ML"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20241216",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20260924",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20260924",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA219258",
+      "sponsor_name": "GRANULES",
+      "products": [
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240105",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA214134",
+      "sponsor_name": "SUN PHARM INDS INC",
+      "openfda": {
+        "application_number": [
+          "ANDA214134"
+        ],
+        "brand_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "generic_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "manufacturer_name": [
+          "Sun Pharmaceutical Industries, Inc."
+        ],
+        "product_ndc": [
+          "57664-083",
+          "57664-047",
+          "57664-046",
+          "57664-048",
+          "57664-049",
+          "57664-050",
+          "57664-051",
+          "57664-052",
+          "57664-084",
+          "57664-085",
+          "57664-086",
+          "57664-087",
+          "57664-088"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "rxcui": [
+          "854830",
+          "854834",
+          "854838",
+          "854842",
+          "854846",
+          "854850",
+          "1593856",
+          "1871456",
+          "1871460",
+          "1871462",
+          "1871464",
+          "1871466",
+          "1871468"
+        ],
+        "spl_id": [
+          "560b4c9e-9cce-4717-e063-6294a90a58c9"
+        ],
+        "spl_set_id": [
+          "da3148af-f9b6-4725-adae-3595b4c7dc4b"
+        ],
+        "package_ndc": [
+          "57664-047-88",
+          "57664-046-88",
+          "57664-048-88",
+          "57664-049-88",
+          "57664-050-88",
+          "57664-051-88",
+          "57664-052-88",
+          "57664-083-88",
+          "57664-084-88",
+          "57664-085-88",
+          "57664-086-88",
+          "57664-087-88",
+          "57664-088-88"
+        ],
+        "unii": [
+          "SJT761GEGS"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20260924",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20260924",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240214",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA215802",
+      "sponsor_name": "LANNETT CO INC",
+      "products": [
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "70MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20260925",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20240105",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "72738",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/214547Orig1s000TAltr.pdf",
+              "date": "20221128",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20260925",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA214547",
+      "sponsor_name": "NORWICH",
+      "openfda": {
+        "application_number": [
+          "ANDA214547"
+        ],
+        "brand_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "generic_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "manufacturer_name": [
+          "Alvogen Inc."
+        ],
+        "product_ndc": [
+          "47781-562",
+          "47781-563",
+          "47781-564",
+          "47781-565",
+          "47781-566",
+          "47781-567",
+          "47781-568"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "rxcui": [
+          "854830",
+          "854834",
+          "854838",
+          "854842",
+          "854846",
+          "854850",
+          "1593856"
+        ],
+        "spl_id": [
+          "db02ec6b-f17f-ab22-b671-e1ddb90e017c"
+        ],
+        "spl_set_id": [
+          "7f2dd6ee-3363-c87c-9693-ed838942556c"
+        ],
+        "package_ndc": [
+          "47781-562-01",
+          "47781-563-01",
+          "47781-564-01",
+          "47781-565-01",
+          "47781-566-01",
+          "47781-567-01",
+          "47781-568-01"
+        ],
+        "unii": [
+          "SJT761GEGS"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "70MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20260910",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20241025",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20260910",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA217068",
+      "sponsor_name": "ASCENT PHARMS INC",
+      "openfda": {
+        "application_number": [
+          "ANDA217068"
+        ],
+        "brand_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "generic_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "manufacturer_name": [
+          "Camber Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "31722-321",
+          "31722-322",
+          "31722-323",
+          "31722-324",
+          "31722-325",
+          "31722-326"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "rxcui": [
+          "1871456",
+          "1871460",
+          "1871462",
+          "1871464",
+          "1871466",
+          "1871468"
+        ],
+        "spl_id": [
+          "09405bc5-3ce8-4a67-bc21-9e26b6cd9c13"
+        ],
+        "spl_set_id": [
+          "f05bac63-08a5-49ce-8180-b33b76c0c0c4"
+        ],
+        "package_ndc": [
+          "31722-321-01",
+          "31722-322-01",
+          "31722-323-01",
+          "31722-324-01",
+          "31722-325-01",
+          "31722-326-01"
+        ],
+        "unii": [
+          "SJT761GEGS"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20211102",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "69215",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/021977Orig1s047;208510Orig1s004ltr.pdf",
+              "date": "20211103",
+              "type": "Letter"
+            },
+            {
+              "id": "69219",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/021977s047,208510s004lbl.pdf",
+              "date": "20211103",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20170731",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "49175",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/021977s034,208510s002lbl.pdf",
+              "date": "20170801",
+              "type": "Label"
+            },
+            {
+              "id": "49199",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/021977Orig1s034,208510Orig1s002ltr.pdf",
+              "date": "20170802",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20260423",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "85750",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/208510s009lbl.pdf",
+              "date": "20260424",
+              "type": "Label"
+            },
+            {
+              "id": "85758",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/021303Orig1s040, 021977Orig1s052, 022063Orig1s007, 208510Orig1s009ltr.pdf",
+              "date": "20260427",
+              "type": "Letter"
+            },
+            {
+              "id": "85803",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/208510s009lbl.pdf#page=38",
+              "date": "20260424",
+              "type": "Medication Guide"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170128",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form",
+          "application_docs": [
+            {
+              "id": "47037",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/208510lbl.pdf",
+              "date": "20170127",
+              "type": "Label"
+            },
+            {
+              "id": "47073",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/208510Orig1s000ltr.pdf",
+              "date": "20170131",
+              "type": "Letter"
+            },
+            {
+              "id": "50056",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/208510Orig1s000TOC.html",
+              "date": "20171013",
+              "type": "Review"
+            },
+            {
+              "id": "51312",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/63_208510 Vyvanse clinical prea.pdf",
+              "date": "19000101",
+              "type": "Pediatric Medical Review"
+            },
+            {
+              "id": "51313",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/64_208510 Vyvanse clinpharm prea.pdf",
+              "date": "19000101",
+              "type": "Pediatric Clinical Pharmacology Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20231013",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "75742",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021977s050,208510s007lbl.pdf",
+              "date": "20231016",
+              "type": "Label"
+            },
+            {
+              "id": "75774",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/021977Orig1s050; 208510Orig1s007; 021303Orig1s038; 022063Orig1s005ltr.pdf",
+              "date": "20231016",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20220225",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "70302",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/021303Orig1s036; 021977Orig1s048; 022063Orig1s003; 208510Orig1s005ltr.pdf",
+              "date": "20220228",
+              "type": "Letter"
+            },
+            {
+              "id": "70334",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/021977s048,208510s005lbl.pdf",
+              "date": "20220301",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20210729",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "68229",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/021977s046,208510s003lbl.pdf",
+              "date": "20210730",
+              "type": "Label"
+            },
+            {
+              "id": "68234",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/021977Orig1s046; 208510Orig1s003ltr.pdf",
+              "date": "20210802",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170519",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "48489",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/021977s045,208510s001lbl.pdf",
+              "date": "20170523",
+              "type": "Label"
+            },
+            {
+              "id": "48499",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/021977Origs045,208510Orig1s001ltr.pdf",
+              "date": "20170523",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20250923",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "83445",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/021977Orig1s054;208510Orig1s011ltr.pdf",
+              "date": "20250925",
+              "type": "Letter"
+            },
+            {
+              "id": "83520",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/021977s054,208510s011lbl.pdf",
+              "date": "20250925",
+              "type": "Label"
+            },
+            {
+              "id": "83521",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/021977s054,208510s011lbl.pdf#page=38",
+              "date": "20250925",
+              "type": "Medication Guide"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA208510",
+      "sponsor_name": "TAKEDA PHARMS USA",
+      "openfda": {
+        "application_number": [
+          "NDA208510"
+        ],
+        "brand_name": [
+          "VYVANSE"
+        ],
+        "generic_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "manufacturer_name": [
+          "Takeda Pharmaceuticals America, Inc."
+        ],
+        "product_ndc": [
+          "59417-115",
+          "59417-101",
+          "59417-102",
+          "59417-103",
+          "59417-104",
+          "59417-105",
+          "59417-106",
+          "59417-107",
+          "59417-116",
+          "59417-117",
+          "59417-118",
+          "59417-119",
+          "59417-120"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "rxcui": [
+          "854830",
+          "854832",
+          "854834",
+          "854836",
+          "854838",
+          "854840",
+          "854842",
+          "854844",
+          "854846",
+          "854848",
+          "854850",
+          "854852",
+          "1593856",
+          "1593858",
+          "1871456",
+          "1871459",
+          "1871460",
+          "1871461",
+          "1871462",
+          "1871463",
+          "1871464",
+          "1871465",
+          "1871466",
+          "1871467",
+          "1871468",
+          "1871469"
+        ],
+        "spl_id": [
+          "81d087b6-4cb4-466a-9693-679edeb062e2"
+        ],
+        "spl_set_id": [
+          "704e4378-ca83-445c-8b45-3cfa51c1ecad"
+        ],
+        "package_ndc": [
+          "59417-101-10",
+          "59417-102-10",
+          "59417-103-10",
+          "59417-104-10",
+          "59417-105-10",
+          "59417-106-10",
+          "59417-107-10",
+          "59417-115-01",
+          "59417-116-01",
+          "59417-117-01",
+          "59417-118-01",
+          "59417-119-01",
+          "59417-120-01"
+        ],
+        "unii": [
+          "SJT761GEGS"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "005",
+          "reference_drug": "Yes",
+          "brand_name": "VYVANSE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "VYVANSE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "VYVANSE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "Yes",
+          "brand_name": "VYVANSE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "VYVANSE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "VYVANSE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20260910",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20260910",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240604",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA216266",
+      "sponsor_name": "PRINSTON INC",
+      "openfda": {
+        "application_number": [
+          "ANDA216266"
+        ],
+        "brand_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "generic_name": [
+          "LISDEXAMFETAMINE DIMESYLATE CAPSULES"
+        ],
+        "manufacturer_name": [
+          "Solco Healthcare US,LLC"
+        ],
+        "product_ndc": [
+          "43547-602",
+          "43547-603",
+          "43547-604",
+          "43547-605",
+          "43547-606",
+          "43547-607",
+          "43547-608"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "rxcui": [
+          "854830",
+          "854834",
+          "854838",
+          "854842",
+          "854846",
+          "854850",
+          "1593856"
+        ],
+        "spl_id": [
+          "d6435613-e052-4b4f-8bf7-4acb7458d8df"
+        ],
+        "spl_set_id": [
+          "68b10d9f-ca3e-493d-a309-45f1d7e08061"
+        ],
+        "package_ndc": [
+          "43547-602-10",
+          "43547-603-10",
+          "43547-604-10",
+          "43547-605-10",
+          "43547-606-10",
+          "43547-607-10",
+          "43547-608-10"
+        ],
+        "unii": [
+          "SJT761GEGS"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "70MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA215415",
+      "sponsor_name": "TEVA PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA215415"
+        ],
+        "brand_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "generic_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "0480-9737",
+          "0480-9738",
+          "0480-9739",
+          "0480-9741",
+          "0480-9742",
+          "0480-9744"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "rxcui": [
+          "1871456",
+          "1871460",
+          "1871462",
+          "1871464",
+          "1871466",
+          "1871468"
+        ],
+        "spl_id": [
+          "41706145-b951-4cf4-aa14-b1bdbb6c724b"
+        ],
+        "spl_set_id": [
+          "bdb03bfa-0398-41e5-8e73-ded696cbca32"
+        ],
+        "package_ndc": [
+          "0480-9737-01",
+          "0480-9738-01",
+          "0480-9739-01",
+          "0480-9741-01",
+          "0480-9742-01",
+          "0480-9744-01"
+        ],
+        "unii": [
+          "SJT761GEGS"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20241217",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA218850",
+      "sponsor_name": "SPECGX LLC",
+      "products": [
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20110316",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "37978",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021977s012lbl.pdf",
+              "date": "20110321",
+              "type": "Label"
+            },
+            {
+              "id": "28957",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021977s012ltr.pdf",
+              "date": "20110321",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20080423",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "37975",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/021977s001lbl.pdf",
+              "date": "20080605",
+              "type": "Label"
+            },
+            {
+              "id": "28954",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/021977s001ltr.pdf",
+              "date": "20080425",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20100405",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "37977",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021977s010s015lbl.pdf",
+              "date": "20100405",
+              "type": "Label"
+            },
+            {
+              "id": "28956",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/021977s010,s015ltr.pdf",
+              "date": "20100408",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "47",
+          "submission_status": "AP",
+          "submission_status_date": "20211102",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "69214",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/021977Orig1s047;208510Orig1s004ltr.pdf",
+              "date": "20211103",
+              "type": "Letter"
+            },
+            {
+              "id": "69217",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/021977s047,208510s004lbl.pdf",
+              "date": "20211103",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "39",
+          "submission_status": "AP",
+          "submission_status_date": "20150417",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "16684",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/021977s039lbl.pdf",
+              "date": "20150421",
+              "type": "Label"
+            },
+            {
+              "id": "28968",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/021977Orig1s039ltr.pdf",
+              "date": "20150420",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "45",
+          "submission_status": "AP",
+          "submission_status_date": "20170519",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "48487",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/021977s045,208510s001lbl.pdf",
+              "date": "20170523",
+              "type": "Label"
+            },
+            {
+              "id": "48500",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/021977Origs045,208510Orig1s001ltr.pdf",
+              "date": "20170523",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "20150130",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "37986",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/021977s036s037lbledt.pdf",
+              "date": "20150203",
+              "type": "Label"
+            },
+            {
+              "id": "21892",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2015/021977Orig1s037.pdf",
+              "date": "20150514",
+              "type": "Review"
+            },
+            {
+              "id": "28967",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/021977Orig1s036,s037ltr.pdf",
+              "date": "20150202",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "20140514",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "43",
+          "submission_status": "AP",
+          "submission_status_date": "20170106",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "46768",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/021977s043lbl.pdf",
+              "date": "20170109",
+              "type": "Label"
+            },
+            {
+              "id": "46848",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/021303Orig1s032,021977Orig1s043ltr.pdf",
+              "date": "20170117",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "20141030",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20130426",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "51314",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/21977s027 lisdexamfetamine clinical prea.pdf",
+              "date": "19000101",
+              "type": "Pediatric Medical Review"
+            },
+            {
+              "id": "51315",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/21977s027 lisdexamfetamine statistical prea.pdf",
+              "date": "19000101",
+              "type": "Pediatric Statistical Review"
+            },
+            {
+              "id": "16679",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021977s027lbledt.pdf",
+              "date": "20130429",
+              "type": "Label"
+            },
+            {
+              "id": "28963",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/021977Orig1s027ltr.pdf",
+              "date": "20130430",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "41",
+          "submission_status": "AP",
+          "submission_status_date": "20161014",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "45558",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/021977Orig1s041,s042ltr.pdf",
+              "date": "20161019",
+              "type": "Letter"
+            },
+            {
+              "id": "45619",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/021977s041s042lbl.pdf",
+              "date": "20161017",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20101110",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "6573",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/021977s016,s018,s019,s021ltr.pdf",
+              "date": "20101115",
+              "type": "Letter"
+            },
+            {
+              "id": "16675",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021977s016s018s019s021lbl.pdf",
+              "date": "20101112",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "33",
+          "submission_status": "AP",
+          "submission_status_date": "20141114",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "16682",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/021977s033lbl.pdf",
+              "date": "20141120",
+              "type": "Label"
+            },
+            {
+              "id": "28966",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/021977Orig1s033ltr.pdf",
+              "date": "20141117",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20121119",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "6576",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/021977Orig1s024,s025,s026ltr.pdf",
+              "date": "20121121",
+              "type": "Letter"
+            },
+            {
+              "id": "16678",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021977s024s025s026lbl.pdf",
+              "date": "20121126",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "20140718",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "37985",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/021977s031s032lbl.pdf",
+              "date": "20140730",
+              "type": "Label"
+            },
+            {
+              "id": "6578",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/021977Orig1s031,s032ltr.pdf",
+              "date": "20140723",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20081112",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "6570",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/021303s019,021977s008ltr.pdf",
+              "date": "20081113",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20110901",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "6575",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021977s023ltr.pdf",
+              "date": "20110906",
+              "type": "Letter"
+            },
+            {
+              "id": "37982",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021977s023lbl.pdf",
+              "date": "20110902",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20070223",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "42366",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/021977s000TOC.html",
+              "date": "20070405",
+              "type": "Review"
+            },
+            {
+              "id": "44164",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/InformationbyDrugClass/ucm283449.htm",
+              "date": "20111220",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "53325",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/21977 lisdexamfetamine clinical prea.pdf",
+              "date": "19000101",
+              "type": "Pediatric Medical Review"
+            },
+            {
+              "id": "53326",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/21977_lisdexamfetamine_clinical_PREA .pdf",
+              "date": "19000101",
+              "type": "Pediatric Medical Review"
+            },
+            {
+              "id": "53327",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/21977 lisdexamfetamine statistical prea.pdf",
+              "date": "19000101",
+              "type": "Pediatric Statistical Review"
+            },
+            {
+              "id": "53328",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/21977_lisdexamfetamine_statistical_PREA.pdf",
+              "date": "19000101",
+              "type": "Pediatric Statistical Review"
+            },
+            {
+              "id": "6567",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/021977s000ltr.pdf",
+              "date": "20070306",
+              "type": "Letter"
+            },
+            {
+              "id": "16670",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/021977lbl.pdf",
+              "date": "20070226",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20100405",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "16673",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021977s010s015lbl.pdf",
+              "date": "20100405",
+              "type": "Label"
+            },
+            {
+              "id": "28958",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/021977s010,s015ltr.pdf",
+              "date": "20100408",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20090522",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "6569",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/021977s006,s007ltr.pdf",
+              "date": "20090529",
+              "type": "Letter"
+            },
+            {
+              "id": "16672",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/021977s006s007lbl.pdf",
+              "date": "20090525",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20101110",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "16676",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021977s016s018s019s021lbl.pdf",
+              "date": "20101112",
+              "type": "Label"
+            },
+            {
+              "id": "28960",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/021977s016,s018,s019,s021ltr.pdf",
+              "date": "20101115",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20091202",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "37979",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/021977s013lbl.pdf",
+              "date": "20091211",
+              "type": "Label"
+            },
+            {
+              "id": "6571",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/021977s013ltr.pdf",
+              "date": "20100128",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20071210",
+          "review_priority": "N/A",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "6568",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/021977s002.pdf",
+              "date": "20080109",
+              "type": "Letter"
+            },
+            {
+              "id": "16671",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/021977s002lbl.pdf",
+              "date": "20071214",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "48",
+          "submission_status": "AP",
+          "submission_status_date": "20220225",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "70300",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/021303Orig1s036; 021977Orig1s048; 022063Orig1s003; 208510Orig1s005ltr.pdf",
+              "date": "20220228",
+              "type": "Letter"
+            },
+            {
+              "id": "70332",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/021977s048,208510s005lbl.pdf",
+              "date": "20220301",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "54",
+          "submission_status": "AP",
+          "submission_status_date": "20250923",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "83444",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/021977Orig1s054;208510Orig1s011ltr.pdf",
+              "date": "20250925",
+              "type": "Letter"
+            },
+            {
+              "id": "83518",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2025/021977s054,208510s011lbl.pdf",
+              "date": "20250925",
+              "type": "Label"
+            },
+            {
+              "id": "83519",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/021977s054,208510s011lbl.pdf#page=38",
+              "date": "20250925",
+              "type": "Medication Guide"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "46",
+          "submission_status": "AP",
+          "submission_status_date": "20210729",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "68227",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/021977s046,208510s003lbl.pdf",
+              "date": "20210730",
+              "type": "Label"
+            },
+            {
+              "id": "68233",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/021977Orig1s046; 208510Orig1s003ltr.pdf",
+              "date": "20210802",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "52",
+          "submission_status": "AP",
+          "submission_status_date": "20260423",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "85746",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/021977s052lbl.pdf",
+              "date": "20260424",
+              "type": "Label"
+            },
+            {
+              "id": "85756",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/021303Orig1s040, 021977Orig1s052, 022063Orig1s007, 208510Orig1s009ltr.pdf",
+              "date": "20260427",
+              "type": "Letter"
+            },
+            {
+              "id": "85801",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/021977s052lbl.pdf#page=38",
+              "date": "20260424",
+              "type": "Medication Guide"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "44",
+          "submission_status": "AP",
+          "submission_status_date": "20170128",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "47045",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/021977Orig1s044ltr.pdf",
+              "date": "20170131",
+              "type": "Letter"
+            },
+            {
+              "id": "47092",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/021977s044lbl.pdf",
+              "date": "20170131",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "36",
+          "submission_status": "AP",
+          "submission_status_date": "20150130",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "6579",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/021977Orig1s036,s037ltr.pdf",
+              "date": "20150202",
+              "type": "Letter"
+            },
+            {
+              "id": "16683",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/021977s036s037lbledt.pdf",
+              "date": "20150203",
+              "type": "Label"
+            },
+            {
+              "id": "21891",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2015/021977Orig1s036.pdf",
+              "date": "20150514",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "50",
+          "submission_status": "AP",
+          "submission_status_date": "20231013",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "75740",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021977s050,208510s007lbl.pdf",
+              "date": "20231016",
+              "type": "Label"
+            },
+            {
+              "id": "75741",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021977s050,208510s007lbl.pdf#page=38",
+              "date": "20231016",
+              "type": "Medication Guide"
+            },
+            {
+              "id": "75773",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/021977Orig1s050; 208510Orig1s007; 021303Orig1s038; 022063Orig1s005ltr.pdf",
+              "date": "20231016",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20130614",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "37984",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021977s028lbl.pdf",
+              "date": "20130618",
+              "type": "Label"
+            },
+            {
+              "id": "6577",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/021977Orig1s028ltr.pdf",
+              "date": "20130618",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "42",
+          "submission_status": "AP",
+          "submission_status_date": "20161014",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "45559",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/021977Orig1s041,s042ltr.pdf",
+              "date": "20161019",
+              "type": "Letter"
+            },
+            {
+              "id": "45618",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/021977s041s042lbl.pdf",
+              "date": "20161017",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "34",
+          "submission_status": "AP",
+          "submission_status_date": "20170731",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "49174",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/021977s034,208510s002lbl.pdf",
+              "date": "20170801",
+              "type": "Label"
+            },
+            {
+              "id": "49198",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/021977Orig1s034,208510Orig1s002ltr.pdf",
+              "date": "20170802",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20121119",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "28962",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/021977Orig1s024,s025,s026ltr.pdf",
+              "date": "20121121",
+              "type": "Letter"
+            },
+            {
+              "id": "37983",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021977s024s025s026lbl.pdf",
+              "date": "20121126",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "40",
+          "submission_status": "AP",
+          "submission_status_date": "20151204",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20101110",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "37980",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021977s016s018s019s021lbl.pdf",
+              "date": "20101112",
+              "type": "Label"
+            },
+            {
+              "id": "28959",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/021977s016,s018,s019,s021ltr.pdf",
+              "date": "20101115",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "32",
+          "submission_status": "AP",
+          "submission_status_date": "20140718",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "16681",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/021977s031s032lbl.pdf",
+              "date": "20140730",
+              "type": "Label"
+            },
+            {
+              "id": "28965",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/021977Orig1s031,s032ltr.pdf",
+              "date": "20140723",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20121119",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "16677",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021977s024s025s026lbl.pdf",
+              "date": "20121126",
+              "type": "Label"
+            },
+            {
+              "id": "28961",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/021977Orig1s024,s025,s026ltr.pdf",
+              "date": "20121121",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20101110",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "6572",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/021977s016,s018,s019,s021ltr.pdf",
+              "date": "20101115",
+              "type": "Letter"
+            },
+            {
+              "id": "16674",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021977s016s018s019s021lbl.pdf",
+              "date": "20101112",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20131206",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "16680",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021977s030lbl.pdf",
+              "date": "20131212",
+              "type": "Label"
+            },
+            {
+              "id": "28964",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/021977Orig1s030ltr.pdf",
+              "date": "20131210",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20090522",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "37976",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/021977s006s007lbl.pdf",
+              "date": "20090525",
+              "type": "Label"
+            },
+            {
+              "id": "28955",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/021977s006,s007ltr.pdf",
+              "date": "20090529",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20120131",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "37981",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021977s022lbl.pdf",
+              "date": "20120201",
+              "type": "Label"
+            },
+            {
+              "id": "6574",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/021977s022ltr.pdf",
+              "date": "20120203",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20160415",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA021977",
+      "sponsor_name": "TAKEDA PHARMS USA",
+      "openfda": {
+        "application_number": [
+          "NDA021977"
+        ],
+        "brand_name": [
+          "VYVANSE"
+        ],
+        "generic_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "manufacturer_name": [
+          "Takeda Pharmaceuticals America, Inc."
+        ],
+        "product_ndc": [
+          "59417-101",
+          "59417-102",
+          "59417-103",
+          "59417-104",
+          "59417-105",
+          "59417-106",
+          "59417-107",
+          "59417-115",
+          "59417-116",
+          "59417-117",
+          "59417-118",
+          "59417-119",
+          "59417-120"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "rxcui": [
+          "854830",
+          "854832",
+          "854834",
+          "854836",
+          "854838",
+          "854840",
+          "854842",
+          "854844",
+          "854846",
+          "854848",
+          "854850",
+          "854852",
+          "1593856",
+          "1593858",
+          "1871456",
+          "1871459",
+          "1871460",
+          "1871461",
+          "1871462",
+          "1871463",
+          "1871464",
+          "1871465",
+          "1871466",
+          "1871467",
+          "1871468",
+          "1871469"
+        ],
+        "spl_id": [
+          "81d087b6-4cb4-466a-9693-679edeb062e2"
+        ],
+        "spl_set_id": [
+          "704e4378-ca83-445c-8b45-3cfa51c1ecad"
+        ],
+        "package_ndc": [
+          "59417-101-10",
+          "59417-102-10",
+          "59417-103-10",
+          "59417-104-10",
+          "59417-105-10",
+          "59417-106-10",
+          "59417-107-10",
+          "59417-115-01",
+          "59417-116-01",
+          "59417-117-01",
+          "59417-118-01",
+          "59417-119-01",
+          "59417-120-01"
+        ],
+        "unii": [
+          "SJT761GEGS"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "006",
+          "reference_drug": "Yes",
+          "brand_name": "VYVANSE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "VYVANSE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "VYVANSE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "Yes",
+          "brand_name": "VYVANSE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "Yes",
+          "brand_name": "VYVANSE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "VYVANSE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "70MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "VYVANSE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20240916",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "75392",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/202802Orig1s000ltr.pdf",
+              "date": "20230912",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA202802",
+      "sponsor_name": "ACTAVIS ELIZABETH",
+      "openfda": {
+        "application_number": [
+          "ANDA202802"
+        ],
+        "brand_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "generic_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "0480-3564",
+          "0480-3565",
+          "0480-3566",
+          "0480-3567",
+          "0480-3568",
+          "0480-3569",
+          "0480-3570"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "rxcui": [
+          "854830",
+          "854834",
+          "854838",
+          "854842",
+          "854846",
+          "854850",
+          "1593856"
+        ],
+        "spl_id": [
+          "7a1feaa2-6b58-4aff-a45b-533ee3174e53"
+        ],
+        "spl_set_id": [
+          "c32b5dce-2de4-4db0-a4ba-d2ce3b0a32fc"
+        ],
+        "package_ndc": [
+          "0480-3565-01",
+          "0480-3566-01",
+          "0480-3567-01",
+          "0480-3568-01",
+          "0480-3569-01",
+          "0480-3570-01",
+          "0480-3564-01"
+        ],
+        "unii": [
+          "SJT761GEGS"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "70MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240117",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20260716",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "81542",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/202827Orig1s000.pdf",
+              "date": "20250324",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20260716",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20260716",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA202827",
+      "sponsor_name": "HIKMA PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA202827"
+        ],
+        "brand_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "generic_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "manufacturer_name": [
+          "Hikma Pharmaceuticals USA Inc."
+        ],
+        "product_ndc": [
+          "0054-0370",
+          "0054-0660",
+          "0054-0371",
+          "0054-0372",
+          "0054-0373",
+          "0054-0374",
+          "0054-0375"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "rxcui": [
+          "854830",
+          "854834",
+          "854838",
+          "854842",
+          "854846",
+          "854850",
+          "1593856"
+        ],
+        "spl_id": [
+          "ccd9e87c-bd03-4fe0-8129-41c1ced49c8d"
+        ],
+        "spl_set_id": [
+          "6740a621-9bec-4178-a4fc-a3fc89f34e0a"
+        ],
+        "package_ndc": [
+          "0054-0660-25",
+          "0054-0370-25",
+          "0054-0371-25",
+          "0054-0372-25",
+          "0054-0373-25",
+          "0054-0374-25",
+          "0054-0375-25"
+        ],
+        "unii": [
+          "SJT761GEGS"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "70MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20240916",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA202830",
+      "sponsor_name": "AMNEAL",
+      "openfda": {
+        "application_number": [
+          "ANDA202830"
+        ],
+        "brand_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "generic_name": [
+          "LISDEXAMFETAMINE"
+        ],
+        "manufacturer_name": [
+          "Amneal Pharmaceuticals LLC",
+          "AvKARE"
+        ],
+        "product_ndc": [
+          "65162-023",
+          "65162-024",
+          "65162-025",
+          "65162-026",
+          "65162-027",
+          "65162-028",
+          "42291-036",
+          "42291-037",
+          "42291-038",
+          "42291-039",
+          "42291-040",
+          "42291-041"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "rxcui": [
+          "854830",
+          "854834",
+          "854838",
+          "854842",
+          "854846",
+          "854850"
+        ],
+        "spl_id": [
+          "4cc5e658-25c6-4a58-a93a-6e35242d6de4",
+          "36c401bd-e228-6fbd-e063-6394a90a5f1f"
+        ],
+        "spl_set_id": [
+          "c11cb3b6-3dff-477b-a249-b4c3118edc5f",
+          "36c40404-fe94-6fb7-e063-6394a90a2657"
+        ],
+        "package_ndc": [
+          "65162-023-09",
+          "65162-024-09",
+          "65162-025-09",
+          "65162-026-09",
+          "65162-027-09",
+          "65162-028-09",
+          "42291-036-90",
+          "42291-037-90",
+          "42291-038-90",
+          "42291-039-90",
+          "42291-040-90",
+          "42291-041-90"
+        ],
+        "unii": [
+          "SJT761GEGS"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "70MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA202835",
+      "sponsor_name": "MYLAN",
+      "openfda": {
+        "application_number": [
+          "ANDA202835"
+        ],
+        "brand_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "generic_name": [
+          "LISDEXAMFETAMINE"
+        ],
+        "manufacturer_name": [
+          "Mylan Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "0378-6854",
+          "0378-6855",
+          "0378-6856",
+          "0378-6857",
+          "0378-6858",
+          "0378-6859",
+          "0378-6860"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "rxcui": [
+          "854830",
+          "854834",
+          "854838",
+          "854842",
+          "854846",
+          "854850",
+          "1593856"
+        ],
+        "spl_id": [
+          "6e77cd71-95ae-4fa8-830b-ab62b714e4b9"
+        ],
+        "spl_set_id": [
+          "efbde0f6-b848-4664-b741-c6c630e66108"
+        ],
+        "package_ndc": [
+          "0378-6854-77",
+          "0378-6855-77",
+          "0378-6856-77",
+          "0378-6857-77",
+          "0378-6858-77",
+          "0378-6859-77",
+          "0378-6860-77"
+        ],
+        "unii": [
+          "SJT761GEGS"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "70MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240726",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20241226",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA202836",
+      "sponsor_name": "SANDOZ",
+      "openfda": {
+        "application_number": [
+          "ANDA202836"
+        ],
+        "brand_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "generic_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "manufacturer_name": [
+          "Sandoz Inc"
+        ],
+        "product_ndc": [
+          "0781-2299",
+          "0781-2476",
+          "0781-2477",
+          "0781-2478",
+          "0781-2479",
+          "0781-2480",
+          "0781-2481"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "rxcui": [
+          "854830",
+          "854834",
+          "854838",
+          "854842",
+          "854846",
+          "854850",
+          "1593856"
+        ],
+        "spl_id": [
+          "a22afd43-11c4-47f1-ab4a-681f82b3c4b7"
+        ],
+        "spl_set_id": [
+          "808cce3b-eee8-4f58-8d8a-53a4ce79ae7c"
+        ],
+        "package_ndc": [
+          "0781-2476-01",
+          "0781-2477-01",
+          "0781-2478-01",
+          "0781-2479-01",
+          "0781-2480-01",
+          "0781-2481-01",
+          "0781-2299-01"
+        ],
+        "unii": [
+          "SJT761GEGS"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "70MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20240925",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA217194",
+      "sponsor_name": "ALKEM LABS LTD",
+      "products": [
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "70MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250129",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20260910",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20260910",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA218987",
+      "sponsor_name": "GRANULES",
+      "openfda": {
+        "application_number": [
+          "ANDA218987"
+        ],
+        "brand_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "generic_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "manufacturer_name": [
+          "Granules Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "70010-206",
+          "70010-207",
+          "70010-208",
+          "70010-209",
+          "70010-210",
+          "70010-211",
+          "70010-212"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "rxcui": [
+          "854830",
+          "854834",
+          "854838",
+          "854842",
+          "854846",
+          "854850",
+          "1593856"
+        ],
+        "spl_id": [
+          "51ac69ee-5739-024f-e063-6394a90a3179"
+        ],
+        "spl_set_id": [
+          "c91c6acf-b68c-4832-a06f-d0fbd6b80457"
+        ],
+        "package_ndc": [
+          "70010-206-01",
+          "70010-207-01",
+          "70010-208-01",
+          "70010-209-01",
+          "70010-210-01",
+          "70010-211-01",
+          "70010-212-01"
+        ],
+        "unii": [
+          "SJT761GEGS"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "70MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20241115",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA218604",
+      "sponsor_name": "ELITE LABS INC",
+      "openfda": {
+        "application_number": [
+          "ANDA218604"
+        ],
+        "brand_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "generic_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "manufacturer_name": [
+          "Elite Laboratories, Inc."
+        ],
+        "product_ndc": [
+          "64850-550",
+          "64850-551",
+          "64850-552",
+          "64850-553",
+          "64850-554",
+          "64850-555",
+          "64850-556"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "LISDEXAMFETAMINE DIMESYLATE"
+        ],
+        "rxcui": [
+          "854830",
+          "854834",
+          "854838",
+          "854842",
+          "854846",
+          "854850",
+          "1593856"
+        ],
+        "spl_id": [
+          "2d33f701-8067-4a48-98cc-4e7dacaf3cc4"
+        ],
+        "spl_set_id": [
+          "0e024b69-567c-4b40-9c3e-a2daec34256c"
+        ],
+        "package_ndc": [
+          "64850-550-01",
+          "64850-551-01",
+          "64850-552-01",
+          "64850-553-01",
+          "64850-554-01",
+          "64850-555-01",
+          "64850-556-01"
+        ],
+        "unii": [
+          "SJT761GEGS"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "70MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "50MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LISDEXAMFETAMINE DIMESYLATE",
+          "active_ingredients": [
+            {
+              "name": "LISDEXAMFETAMINE DIMESYLATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    }
+  ]
+}

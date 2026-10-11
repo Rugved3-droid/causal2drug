@@ -1,0 +1,6182 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 36
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000822",
+          "application_docs": [
+            {
+              "id": "8727",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75583ta.pdf",
+              "date": "20040603",
+              "type": "Letter"
+            },
+            {
+              "id": "30946",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75523LTR.PDF",
+              "date": "20000822",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA075583",
+      "sponsor_name": "APOTHECON",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20000303",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19961004",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 2/4",
+          "submission_class_code_description": "Type 2 New Active Ingredient and Type 4 New Combination"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20020204",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19990217",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41403",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20507-s001_Teczem.pdf",
+              "date": "20010622",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020507",
+      "sponsor_name": "BIOVAIL",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TECZEM",
+          "active_ingredients": [
+            {
+              "name": "DILTIAZEM MALATE",
+              "strength": "EQ 180MG HYDROCHLORIDE"
+            },
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20160412",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000822",
+          "application_docs": [
+            {
+              "id": "30933",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75556ltr.pdf",
+              "date": "20000822",
+              "type": "Letter"
+            },
+            {
+              "id": "30934",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75556ta.pdf",
+              "date": "20040603",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20160412",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20011001",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20010608",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA075556",
+      "sponsor_name": "SUN PHARM INDS LTD",
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20020204",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "42",
+          "submission_status": "AP",
+          "submission_status_date": "20120217",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "17333",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/019221s042ltr.pdf",
+              "date": "20120223",
+              "type": "Letter"
+            },
+            {
+              "id": "33709",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/019221s042lbl.pdf",
+              "date": "20120222",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19910206",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20011127",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40881",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/18-998s058_Vasotec.html",
+              "date": "20011127",
+              "type": "Review"
+            },
+            {
+              "id": "11455",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/18-998S058_Vasotec_prntlbl.pdf",
+              "date": "20011127",
+              "type": "Label"
+            },
+            {
+              "id": "1255",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/18-998S058_Vasotec_Approv.pdf",
+              "date": "20011127",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "19931021",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19891130",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "19981013",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20214",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/19221s024.pdf",
+              "date": "19981013",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "19940114",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19890418",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "19950712",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19870130",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "19930224",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "19940725",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "19920930",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "19920507",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "47",
+          "submission_status": "AP",
+          "submission_status_date": "20170721",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "49049",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/019221s047lbl.pdf",
+              "date": "20170725",
+              "type": "Label"
+            },
+            {
+              "id": "49071",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/019221Orig1s047ltr.pdf",
+              "date": "20170725",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "45",
+          "submission_status": "AP",
+          "submission_status_date": "20150825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "11458",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/019221s045lbl.pdf",
+              "date": "20150826",
+              "type": "Label"
+            },
+            {
+              "id": "17335",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/019221Orig1s045ltr.pdf",
+              "date": "20150827",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19861031",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 4",
+          "submission_class_code_description": "Type 4 - New Combination"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "20071031",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1257",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/018998s070, 019221s037ltr.pdf",
+              "date": "20071108",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "20021015",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "43",
+          "submission_status": "AP",
+          "submission_status_date": "20120913",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "17334",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/019221Orig1s043ltr.pdf",
+              "date": "20120917",
+              "type": "Letter"
+            },
+            {
+              "id": "33710",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/019221s043lbl.pdf",
+              "date": "20120914",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20021101",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1256",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/19221slr027,19309slr025ltr.pdf",
+              "date": "20021030",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "41",
+          "submission_status": "AP",
+          "submission_status_date": "20110311",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1259",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/019221s041ltr.pdf",
+              "date": "20110316",
+              "type": "Letter"
+            },
+            {
+              "id": "11456",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/019221s041lbl.pdf",
+              "date": "20110314",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "19940218",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19900309",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "19990217",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40880",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20507-s001_Teczem.pdf",
+              "date": "20010622",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "19940511",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19891222",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "19970611",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40879",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/97/019221_s023ap.pdf",
+              "date": "19970611",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "19950712",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19890110",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "19950928",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "19960731",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "19920513",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "38",
+          "submission_status": "AP",
+          "submission_status_date": "20080925",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1258",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/018998s071, 019221s038ltr.pdf",
+              "date": "20080929",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "44",
+          "submission_status": "AP",
+          "submission_status_date": "20141224",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "11457",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/019221s044lbl.pdf",
+              "date": "20150109",
+              "type": "Label"
+            },
+            {
+              "id": "1260",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/019221Orig1s044ltr.pdf",
+              "date": "20141230",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "50",
+          "submission_status": "AP",
+          "submission_status_date": "20200820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "64342",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/019221s050lbl.pdf",
+              "date": "20200821",
+              "type": "Label"
+            },
+            {
+              "id": "64386",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/019221Orig1s050ltr.pdf",
+              "date": "20200824",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "19920930",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA019221",
+      "sponsor_name": "BAUSCH",
+      "openfda": {
+        "application_number": [
+          "NDA019221"
+        ],
+        "brand_name": [
+          "VASERETIC"
+        ],
+        "generic_name": [
+          "ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "Bausch Health US, LLC"
+        ],
+        "product_ndc": [
+          "0187-0146"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ENALAPRIL MALEATE",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "858828",
+          "858830"
+        ],
+        "spl_id": [
+          "b97cbaf1-3abe-4f23-b2a0-4ff43f8bf5cb"
+        ],
+        "spl_set_id": [
+          "bf3007e2-8fcc-48de-8fd5-55e95033d62f"
+        ],
+        "package_ndc": [
+          "0187-0146-01"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "unii": [
+          "9O25354EPJ",
+          "0J48LPH2TH"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "VASERETIC",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "VASERETIC",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220629",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA212894",
+      "sponsor_name": "AMNEAL",
+      "openfda": {
+        "application_number": [
+          "ANDA212894"
+        ],
+        "brand_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "generic_name": [
+          "ENALAPRIL"
+        ],
+        "manufacturer_name": [
+          "Amneal Pharmaceuticals NY LLC"
+        ],
+        "product_ndc": [
+          "69238-1729"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "rxcui": [
+          "1435624"
+        ],
+        "spl_id": [
+          "4f8091c3-1233-48b9-a15e-e5da07c4272c"
+        ],
+        "spl_set_id": [
+          "e81a8aca-0e7c-4a02-b596-09e4ac22c70e"
+        ],
+        "package_ndc": [
+          "69238-1729-7"
+        ],
+        "unii": [
+          "9O25354EPJ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "1MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220707",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213273",
+      "sponsor_name": "PRINSTON INC",
+      "openfda": {
+        "application_number": [
+          "ANDA213273"
+        ],
+        "brand_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "generic_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "manufacturer_name": [
+          "Solco Healthcare US, LLC"
+        ],
+        "product_ndc": [
+          "43547-545",
+          "43547-546",
+          "43547-547",
+          "43547-548"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "rxcui": [
+          "858804",
+          "858810",
+          "858813",
+          "858817"
+        ],
+        "spl_id": [
+          "f83529df-fce5-42ce-bcd4-c7f61f2a0936"
+        ],
+        "spl_set_id": [
+          "0c829189-fba2-48f8-a23f-d5471a0345f6"
+        ],
+        "package_ndc": [
+          "43547-545-03",
+          "43547-545-09",
+          "43547-545-10",
+          "43547-545-50",
+          "43547-545-11",
+          "43547-546-03",
+          "43547-546-09",
+          "43547-546-10",
+          "43547-546-50",
+          "43547-546-11",
+          "43547-547-03",
+          "43547-547-09",
+          "43547-547-10",
+          "43547-547-50",
+          "43547-547-11",
+          "43547-548-03",
+          "43547-548-09",
+          "43547-548-10",
+          "43547-548-50",
+          "43547-548-11"
+        ],
+        "unii": [
+          "9O25354EPJ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220224",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA214467",
+      "sponsor_name": "ANNORA PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA214467"
+        ],
+        "brand_name": [
+          "ENALAPRIL MALEATE ORAL SOLUTION"
+        ],
+        "generic_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "manufacturer_name": [
+          "NorthStar RxLLC",
+          "Camber Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "72603-247",
+          "31722-020"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "rxcui": [
+          "1435624"
+        ],
+        "spl_id": [
+          "16595fbf-a903-56fc-e063-6294a90a4710",
+          "d7a8fe4e-7b8e-05b0-e053-2995a90a6291"
+        ],
+        "spl_set_id": [
+          "19606da3-c6b0-40a5-9690-77fc37072b51",
+          "b63bdaa6-b57b-417b-9a79-29f1fd5bbf08"
+        ],
+        "package_ndc": [
+          "72603-247-01",
+          "31722-020-15"
+        ],
+        "unii": [
+          "9O25354EPJ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "1MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20071004",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3051",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/020668s013ltr.pdf",
+              "date": "20071010",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20040607",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "13178",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2004/20668slr011_lexxel_lbl.pdf",
+              "date": "20040610",
+              "type": "Label"
+            },
+            {
+              "id": "25483",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/20668slr011ltr.pdf",
+              "date": "20040610",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20030611",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3049",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20668slr009ltr.pdf",
+              "date": "20030622",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20010206",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20050802",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "13177",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/020668s005lbl.pdf",
+              "date": "20050804",
+              "type": "Label"
+            },
+            {
+              "id": "3048",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/020668s005ltr.pdf",
+              "date": "20050804",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19981028",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20811",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20-668s003_Lexxel.html",
+              "date": "20020725",
+              "type": "Review"
+            },
+            {
+              "id": "3047",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20-668S003_Lexxel_Approv.pdf",
+              "date": "19981028",
+              "type": "Letter"
+            },
+            {
+              "id": "35119",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20-668S003_Lexxel_prntlbl.pdf",
+              "date": "19981028",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19970702",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20810",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/97/020668_S001_Lexxel Tablets.pdf",
+              "date": "20070706",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19961227",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 4",
+          "submission_class_code_description": "Type 4 - New Combination"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20041223",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3050",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/20668s012ltr.pdf",
+              "date": "20041229",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20010918",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20000718",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19980722",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20812",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020668_S004_LEXXEL.pdf",
+              "date": "20080219",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19980303",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41535",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/1998/020668_S002_Lexxel Tablets.pdf",
+              "date": "20070706",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020668",
+      "sponsor_name": "ASTRAZENECA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LEXXEL",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "FELODIPINE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LEXXEL",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "FELODIPINE",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20020822",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000822",
+          "application_docs": [
+            {
+              "id": "30962",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75621ltr.pdf",
+              "date": "20000822",
+              "type": "Letter"
+            },
+            {
+              "id": "30963",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75621ta.pdf",
+              "date": "20040603",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA075621",
+      "sponsor_name": "REGCON HOLDINGS",
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20101130",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20070525",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20140323",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20011015",
+          "application_docs": [
+            {
+              "id": "43032",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/2001/075909_enalapril_toc.html",
+              "date": "20030804",
+              "type": "Review"
+            },
+            {
+              "id": "8828",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/75909ltr.pdf",
+              "date": "20030417",
+              "type": "Letter"
+            },
+            {
+              "id": "39497",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/2001/75-909_Enalapril%20Maleate%20and%20Hydrochlorothiazide_Prntlb",
+              "date": "20040603",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA075909",
+      "sponsor_name": "SENORES PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA075909"
+        ],
+        "brand_name": [
+          "ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE"
+        ],
+        "generic_name": [
+          "ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "Dr. Reddy's Laboratories Limited"
+        ],
+        "product_ndc": [
+          "55111-133",
+          "55111-134"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ENALAPRIL MALEATE",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "858824",
+          "858828"
+        ],
+        "spl_id": [
+          "8b3e7cd9-3a3d-7b47-d751-09ab6cee3d1b"
+        ],
+        "spl_set_id": [
+          "ed4a55a6-cd6a-c74a-cb93-4b45641691a0"
+        ],
+        "package_ndc": [
+          "55111-133-01",
+          "55111-133-10",
+          "55111-134-01",
+          "55111-134-10"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "unii": [
+          "9O25354EPJ",
+          "0J48LPH2TH"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220330",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213714",
+      "sponsor_name": "ALKEM LABS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA213714"
+        ],
+        "brand_name": [
+          "ENALAPRIL MALEATE ORAL SOLUTION"
+        ],
+        "generic_name": [
+          "ENALAPRIL MALEATE ORAL SOLUTION"
+        ],
+        "manufacturer_name": [
+          "Ascend Laboratories, LLC"
+        ],
+        "product_ndc": [
+          "67877-712"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "rxcui": [
+          "1435624"
+        ],
+        "spl_id": [
+          "186acff5-dbb8-4507-963a-0accd004a6fe"
+        ],
+        "spl_set_id": [
+          "964d561a-2e04-4ad9-9762-932419ee19ae"
+        ],
+        "package_ndc": [
+          "67877-712-81"
+        ],
+        "unii": [
+          "9O25354EPJ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "1MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20200421",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20110519",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20160426",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20240820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20020905",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20141211",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20010918",
+          "application_docs": [
+            {
+              "id": "8742",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75624ta.pdf",
+              "date": "20040603",
+              "type": "Letter"
+            },
+            {
+              "id": "8743",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/75624.ap.pdf",
+              "date": "20010918",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20110331",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20160426",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20030606",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075624",
+      "sponsor_name": "RISING",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000822",
+          "application_docs": [
+            {
+              "id": "8500",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1999/75048ta.pdf",
+              "date": "20040624",
+              "type": "Letter"
+            },
+            {
+              "id": "8501",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75048ltr.pdf",
+              "date": "20000822",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20020730",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20020419",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20020510",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA075048",
+      "sponsor_name": "CHARTWELL RX",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000822",
+          "application_docs": [
+            {
+              "id": "8636",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75370ta.pdf",
+              "date": "20040628",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA075369",
+      "sponsor_name": "KRKA DD NOVO MESTO",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20160225",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20141103",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20010123",
+          "application_docs": [
+            {
+              "id": "30975",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/75657ltr.pdf",
+              "date": "20010123",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20160225",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20150406",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20100128",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20080724",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20190807",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20190807",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075657",
+      "sponsor_name": "TARO",
+      "openfda": {
+        "application_number": [
+          "ANDA075657"
+        ],
+        "brand_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "generic_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "manufacturer_name": [
+          "Sun Pharmaceutical Industries, Inc."
+        ],
+        "product_ndc": [
+          "51672-4037",
+          "51672-4038",
+          "51672-4039",
+          "51672-4245",
+          "51672-4040"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "rxcui": [
+          "858804",
+          "858810",
+          "858813",
+          "858817"
+        ],
+        "spl_id": [
+          "5699cc5d-2ba7-aa5d-e063-6294a90af475"
+        ],
+        "spl_set_id": [
+          "f103b9f9-e081-419d-a2d8-b86acda834dd"
+        ],
+        "package_ndc": [
+          "51672-4037-1",
+          "51672-4037-3",
+          "51672-4038-1",
+          "51672-4038-3",
+          "51672-4039-1",
+          "51672-4039-3",
+          "51672-4245-1",
+          "51672-4245-3",
+          "51672-4040-1",
+          "51672-4040-3"
+        ],
+        "unii": [
+          "9O25354EPJ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20170728",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "49152",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/204308s007lbl.pdf",
+              "date": "20170731",
+              "type": "Label"
+            },
+            {
+              "id": "49184",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/204308Orig1s007ltr.pdf",
+              "date": "20170802",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20160129",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "40374",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/204308s005lbl.pdf",
+              "date": "20160202",
+              "type": "Label"
+            },
+            {
+              "id": "10321",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/204308Orig1s005ltr.pdf",
+              "date": "20160129",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20140904",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "19544",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/204308s002s003lbl.pdf",
+              "date": "20140909",
+              "type": "Label"
+            },
+            {
+              "id": "32542",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/204308Orig1s002,s003ltr.pdf",
+              "date": "20140908",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140203",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20130813",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "40373",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/204308s000lbl.pdf",
+              "date": "20130815",
+              "type": "Label"
+            },
+            {
+              "id": "10319",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/204308Orig1s000ltr.pdf",
+              "date": "20130815",
+              "type": "Letter"
+            },
+            {
+              "id": "22951",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2013/204308Orig1s000TOC.html",
+              "date": "20140627",
+              "type": "Review"
+            },
+            {
+              "id": "24466",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2013/204308Orig1s000SumR.pdf",
+              "date": "20140627",
+              "type": "Summary Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20170322",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "47655",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/204308s006lbl.pdf",
+              "date": "20170323",
+              "type": "Label"
+            },
+            {
+              "id": "47679",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/204308Orig1s006ltr.pdf",
+              "date": "20170324",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20151228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20140904",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "10320",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/204308Orig1s002,s003ltr.pdf",
+              "date": "20140908",
+              "type": "Letter"
+            },
+            {
+              "id": "19543",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/204308s002s003lbl.pdf",
+              "date": "20140909",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA204308",
+      "sponsor_name": "AZURITY",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "EPANED KIT",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "1MG/ML **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "FOR SOLUTION",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000822",
+          "application_docs": [
+            {
+              "id": "30863",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75370ltr.pdf",
+              "date": "20000822",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA075370",
+      "sponsor_name": "KRKA DD NOVO MESTO",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20090429",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20151006",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20151006",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20151006",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20070206",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20200706",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20041027"
+        }
+      ],
+      "application_number": "ANDA076486",
+      "sponsor_name": "MPP PHARMA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20141103",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20200528",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20030627",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20020828",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20141103",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20110502",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20081231",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20080724",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20010918",
+          "application_docs": [
+            {
+              "id": "8777",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/75727TA.pdf",
+              "date": "20040603",
+              "type": "Letter"
+            },
+            {
+              "id": "31000",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/75727ltr.pdf",
+              "date": "20040624",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA075727",
+      "sponsor_name": "COSETTE PHARMS NC",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240919",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA218531",
+      "sponsor_name": "UNIQUE PHARM",
+      "openfda": {
+        "application_number": [
+          "ANDA218531"
+        ],
+        "brand_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "generic_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "manufacturer_name": [
+          "Rising Pharma Holdings, Inc."
+        ],
+        "product_ndc": [
+          "64980-685",
+          "64980-686",
+          "64980-687",
+          "64980-688"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "rxcui": [
+          "858804",
+          "858810",
+          "858813",
+          "858817"
+        ],
+        "spl_id": [
+          "6f4c73c0-8b68-485d-87f6-cd77746aada8"
+        ],
+        "spl_set_id": [
+          "71e9fff3-7283-437e-b107-72fc16f09989"
+        ],
+        "package_ndc": [
+          "64980-685-01",
+          "64980-685-10",
+          "64980-686-01",
+          "64980-686-10",
+          "64980-687-01",
+          "64980-687-10",
+          "64980-688-01",
+          "64980-688-10"
+        ],
+        "unii": [
+          "9O25354EPJ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20030325"
+        }
+      ],
+      "application_number": "ANDA075736",
+      "sponsor_name": "IVAX SUB TEVA PHARMS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20210810",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "65859",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/212408Orig1s000ltr.pdf",
+              "date": "20210902",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA212408",
+      "sponsor_name": "BIONPHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA212408"
+        ],
+        "brand_name": [
+          "ENALAPRIL MALEATE ORAL SOLUTION"
+        ],
+        "generic_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "manufacturer_name": [
+          "Bionpharma Inc."
+        ],
+        "product_ndc": [
+          "69452-237"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "rxcui": [
+          "1435624"
+        ],
+        "spl_id": [
+          "23614d4e-d023-1bfc-e063-6394a90a42be"
+        ],
+        "spl_set_id": [
+          "9391b8d8-2217-4838-8976-1a5ad90ef4ca"
+        ],
+        "package_ndc": [
+          "69452-237-46"
+        ],
+        "unii": [
+          "9O25354EPJ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "1MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20021001",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20010910",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20200414",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20150817",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20020424",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000822",
+          "application_docs": [
+            {
+              "id": "30892",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75459ltr.pdf",
+              "date": "20000822",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20200414",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20160218",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20150817",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075459",
+      "sponsor_name": "SANDOZ INC",
+      "openfda": {
+        "application_number": [
+          "ANDA075459"
+        ],
+        "brand_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "generic_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "manufacturer_name": [
+          "Northstar RxLLC"
+        ],
+        "product_ndc": [
+          "16714-444",
+          "16714-442",
+          "16714-443",
+          "16714-445"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "rxcui": [
+          "858804",
+          "858810",
+          "858813",
+          "858817"
+        ],
+        "spl_id": [
+          "4bc84994-0116-425c-8dab-ba08b0880b24"
+        ],
+        "spl_set_id": [
+          "e109e7b1-4650-4416-9d89-7c1185d5cf48"
+        ],
+        "package_ndc": [
+          "16714-442-01",
+          "16714-442-02",
+          "16714-443-01",
+          "16714-443-02",
+          "16714-444-01",
+          "16714-444-02",
+          "16714-445-01",
+          "16714-445-02"
+        ],
+        "unii": [
+          "9O25354EPJ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20181210",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20100806",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20150501",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20150501",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20181210",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20160412",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20080904",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20150501",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20010323",
+          "application_docs": [
+            {
+              "id": "8550",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/75178ltr.pdf",
+              "date": "20010323",
+              "type": "Letter"
+            },
+            {
+              "id": "30783",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1999/75178ta.pdf",
+              "date": "20040603",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA075178",
+      "sponsor_name": "AIPING PHARM INC",
+      "openfda": {
+        "application_number": [
+          "ANDA075178"
+        ],
+        "brand_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "generic_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "manufacturer_name": [
+          "ScieGen Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "50228-228",
+          "50228-229",
+          "50228-230",
+          "50228-231"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "rxcui": [
+          "858804",
+          "858810",
+          "858813",
+          "858817"
+        ],
+        "spl_id": [
+          "5518b97e-69ed-0645-e063-6394a90aab40"
+        ],
+        "spl_set_id": [
+          "63187a94-9ac7-4320-ac70-0631e08c2b8d"
+        ],
+        "package_ndc": [
+          "50228-228-01",
+          "50228-228-10",
+          "50228-229-01",
+          "50228-229-10",
+          "50228-230-01",
+          "50228-230-10",
+          "50228-231-01",
+          "50228-231-10"
+        ],
+        "unii": [
+          "9O25354EPJ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20020422",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000822",
+          "application_docs": [
+            {
+              "id": "30900",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75472ltr.pdf",
+              "date": "20000822",
+              "type": "Letter"
+            },
+            {
+              "id": "30901",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75472ta.pdf",
+              "date": "20040603",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA075472",
+      "sponsor_name": "MYLAN",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20010912",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20010525",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20011022",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20010221",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20010525",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000822",
+          "application_docs": [
+            {
+              "id": "8686",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75482ltr.pdf",
+              "date": "20000822",
+              "type": "Letter"
+            },
+            {
+              "id": "8687",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75482ta.pdf",
+              "date": "20040603",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20010221",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20020729",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20010221",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA075482",
+      "sponsor_name": "IVAX SUB TEVA PHARMS",
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20010830",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "36",
+          "submission_status": "AP",
+          "submission_status_date": "20210805",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20080423",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "42",
+          "submission_status": "AP",
+          "submission_status_date": "20210805",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20020813",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "40",
+          "submission_status": "AP",
+          "submission_status_date": "20210805",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20081231",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000822",
+          "application_docs": [
+            {
+              "id": "30906",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75479ltr.pdf",
+              "date": "20000822",
+              "type": "Letter"
+            },
+            {
+              "id": "30907",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75479ta.pdf",
+              "date": "20040603",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "20210805",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20020319",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA075479",
+      "sponsor_name": "HERITAGE PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA075479"
+        ],
+        "brand_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "generic_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "manufacturer_name": [
+          "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+          "Chartwell RX, LLC"
+        ],
+        "product_ndc": [
+          "23155-704",
+          "23155-705",
+          "23155-706",
+          "23155-707",
+          "23155-772",
+          "23155-773",
+          "62135-589",
+          "62135-590",
+          "62135-591",
+          "62135-592"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "rxcui": [
+          "858804",
+          "858810",
+          "858813",
+          "858817"
+        ],
+        "spl_id": [
+          "f59f9ce5-246c-47c9-a171-aee4cc1c09a3",
+          "24113ee0-bdcd-9c3e-e063-6394a90a031f"
+        ],
+        "spl_set_id": [
+          "5c49fb37-1f09-4965-b213-5580d3a30a11",
+          "b1df1832-dce4-443f-87fc-e4177d069035"
+        ],
+        "package_ndc": [
+          "23155-704-01",
+          "23155-704-10",
+          "23155-705-01",
+          "23155-705-10",
+          "23155-706-01",
+          "23155-706-10",
+          "23155-707-01",
+          "23155-707-05",
+          "23155-707-10",
+          "23155-772-01",
+          "23155-772-10",
+          "23155-773-01",
+          "23155-773-05",
+          "23155-773-10",
+          "62135-589-90",
+          "62135-590-90",
+          "62135-591-90",
+          "62135-592-90"
+        ],
+        "unii": [
+          "9O25354EPJ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20021219",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20160418",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20110530",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000822",
+          "application_docs": [
+            {
+              "id": "8684",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75480ltr.pdf",
+              "date": "20000822",
+              "type": "Letter"
+            },
+            {
+              "id": "8685",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75480ta.pdf",
+              "date": "20040603",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20160418",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20150123",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075480",
+      "sponsor_name": "AUROBINDO PHARMA USA",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20150901",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000822",
+          "application_docs": [
+            {
+              "id": "30909",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75483ltr.pdf",
+              "date": "20000822",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20040923",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20150901",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20080814",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075483",
+      "sponsor_name": "SENORES PHARMS",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20200414",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20141104",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20110705",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20160524",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20081126",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20141104",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20010918",
+          "application_docs": [
+            {
+              "id": "8789",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/75788ltr.pdf",
+              "date": "20040624",
+              "type": "Letter"
+            },
+            {
+              "id": "8790",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/75788TA.pdf",
+              "date": "20040603",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20220527",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20160524",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20091030",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20150213",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA075788",
+      "sponsor_name": "TARO PHARM INDS",
+      "openfda": {
+        "application_number": [
+          "ANDA075788"
+        ],
+        "brand_name": [
+          "ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE"
+        ],
+        "generic_name": [
+          "ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "Sun Pharmaceutical Industries, Inc."
+        ],
+        "product_ndc": [
+          "51672-4045",
+          "51672-4046"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ENALAPRIL MALEATE",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "858824",
+          "858828"
+        ],
+        "spl_id": [
+          "5699d24d-8bf5-0759-e063-6394a90ad9a3"
+        ],
+        "spl_set_id": [
+          "7cb92cf2-46f2-4379-937c-168d230e43a4"
+        ],
+        "package_ndc": [
+          "51672-4045-1",
+          "51672-4045-3",
+          "51672-4046-1",
+          "51672-4046-3"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "unii": [
+          "9O25354EPJ",
+          "0J48LPH2TH"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20170728",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "49151",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/208686s002lbl.pdf",
+              "date": "20170731",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160920",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "45496",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/208686Orig1s000ltr.pdf",
+              "date": "20160922",
+              "type": "Letter"
+            },
+            {
+              "id": "46007",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/208686Orig1s000TOC.html",
+              "date": "20161202",
+              "type": "Review"
+            },
+            {
+              "id": "46971",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/208686s000lbl.pdf",
+              "date": "20170124",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA208686",
+      "sponsor_name": "AZURITY",
+      "openfda": {
+        "application_number": [
+          "NDA208686"
+        ],
+        "brand_name": [
+          "ENALAPRIL MALEATE",
+          "EPANED"
+        ],
+        "generic_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "manufacturer_name": [
+          "Wilshire Pharmaceuticals, Inc.",
+          "Azurity Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "52536-401",
+          "52652-4001"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "rxcui": [
+          "1435624",
+          "1435630"
+        ],
+        "spl_id": [
+          "461e14b2-890d-011c-e063-6294a90a0d4c",
+          "461e7195-6963-5694-e063-6294a90ab583"
+        ],
+        "spl_set_id": [
+          "c7934b45-eb6b-44c1-bd2c-ef0fa10850c1",
+          "e6dbda02-779e-420c-893d-d0fea09432be"
+        ],
+        "package_ndc": [
+          "52536-401-01",
+          "52652-4001-1"
+        ],
+        "unii": [
+          "9O25354EPJ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "EPANED",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "1MG/ML"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240108",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA216458",
+      "sponsor_name": "AUROBINDO PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA216458"
+        ],
+        "brand_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "generic_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "59651-529"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "rxcui": [
+          "1435624"
+        ],
+        "spl_id": [
+          "2b0fd0eb-c717-4d3d-8c1a-5445bf64a7a2"
+        ],
+        "spl_set_id": [
+          "337707cc-4ed9-4121-bfff-c5015e5eca9d"
+        ],
+        "package_ndc": [
+          "59651-529-55"
+        ],
+        "unii": [
+          "9O25354EPJ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "1MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000822",
+          "application_docs": [
+            {
+              "id": "8693",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75459ltr.pdf",
+              "date": "20040603",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20200414",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20020424",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20200414",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20160218",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20150817",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20021001",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20010910",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA075496",
+      "sponsor_name": "SANDOZ INC",
+      "openfda": {
+        "application_number": [
+          "ANDA075496"
+        ],
+        "brand_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "generic_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "manufacturer_name": [
+          "Northstar RxLLC"
+        ],
+        "product_ndc": [
+          "16714-442",
+          "16714-443",
+          "16714-444",
+          "16714-445"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "rxcui": [
+          "858804",
+          "858810",
+          "858813",
+          "858817"
+        ],
+        "spl_id": [
+          "4bc84994-0116-425c-8dab-ba08b0880b24"
+        ],
+        "spl_set_id": [
+          "e109e7b1-4650-4416-9d89-7c1185d5cf48"
+        ],
+        "package_ndc": [
+          "16714-442-01",
+          "16714-442-02",
+          "16714-443-01",
+          "16714-443-02",
+          "16714-444-01",
+          "16714-444-02",
+          "16714-445-01",
+          "16714-445-02"
+        ],
+        "unii": [
+          "9O25354EPJ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20140915",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20080508",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000822",
+          "application_docs": [
+            {
+              "id": "8696",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75501ta.pdf",
+              "date": "20040603",
+              "type": "Letter"
+            },
+            {
+              "id": "30915",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75501ltr.pdf",
+              "date": "20000822",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20020211",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20140915",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20021219",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075501",
+      "sponsor_name": "WATSON LABS",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "33",
+          "submission_status": "AP",
+          "submission_status_date": "19920930",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "19910206",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40847",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_S025_VASOTEC.pdf",
+              "date": "20070914",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "19910220",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20179",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_S017_VASOTEC.pdf",
+              "date": "20070914",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "19920507",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "19900719",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "40846",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_S023_VASOTEC.pdf",
+              "date": "20070720",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "76",
+          "submission_status": "AP",
+          "submission_status_date": "20120217",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1191",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/018998s076ltr.pdf",
+              "date": "20120223",
+              "type": "Letter"
+            },
+            {
+              "id": "33683",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/018998s076lbl.pdf",
+              "date": "20120222",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19851224",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "44027",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm102981.htm",
+              "date": "20060609",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "20175",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_Vasotec.html",
+              "date": "20050427",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "19890329",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40844",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_S015_ VASOTEC_AP.pdf",
+              "date": "20070706",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19870128",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40842",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_S006_Vasotec_APPROVAL PACKAGE.pdf",
+              "date": "20061026",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "82",
+          "submission_status": "AP",
+          "submission_status_date": "20170721",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "49048",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/018998s082lbl.pdf",
+              "date": "20170725",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "19900309",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20182",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_S021_VASOTEC.pdf",
+              "date": "20070720",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "19880803",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20177",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_S013_VASOTEC.pdf",
+              "date": "20071119",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19861003",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "80",
+          "submission_status": "AP",
+          "submission_status_date": "20150825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1193",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/018998Orig1s080ltr.pdf",
+              "date": "20150827",
+              "type": "Letter"
+            },
+            {
+              "id": "33685",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/018998s080lbl.pdf",
+              "date": "20150826",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "58",
+          "submission_status": "AP",
+          "submission_status_date": "20011127",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1188",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/18-998S058_Vasotec_Approv.pdf",
+              "date": "20011127",
+              "type": "Letter"
+            },
+            {
+              "id": "20192",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/18-998s058_Vasotec.html",
+              "date": "20011127",
+              "type": "Review"
+            },
+            {
+              "id": "33681",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/18-998S058_Vasotec_prntlbl.pdf",
+              "date": "20011127",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "19880425",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20176",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_S011_VASOTEC.pdf",
+              "date": "20071119",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19861027",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "64",
+          "submission_status": "AP",
+          "submission_status_date": "20021010",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "40856",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/018998_S064_Vasotec_APPROVAL PACKAGE.pdf",
+              "date": "20061026",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "56",
+          "submission_status": "AP",
+          "submission_status_date": "19971210",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "70",
+          "submission_status": "AP",
+          "submission_status_date": "20071031",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1189",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/018998s070, 019221s037ltr.pdf",
+              "date": "20071108",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "48",
+          "submission_status": "AP",
+          "submission_status_date": "19950919",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "62",
+          "submission_status": "AP",
+          "submission_status_date": "20020403",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20194",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/018998_S062_Vasotec_APPROVAL_PACKAGE.pdf",
+              "date": "20061025",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "54",
+          "submission_status": "AP",
+          "submission_status_date": "19970723",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "46",
+          "submission_status": "AP",
+          "submission_status_date": "19950928",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20188",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_S046_VASOTEC_AP.pdf",
+              "date": "20070706",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "38",
+          "submission_status": "AP",
+          "submission_status_date": "19940511",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20184",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_s038_vasotec.pdf",
+              "date": "20110104",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "52",
+          "submission_status": "AP",
+          "submission_status_date": "19970203",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20190",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/1997/018998_S052_VASOTEC_AP.pdf",
+              "date": "20070409",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "44",
+          "submission_status": "AP",
+          "submission_status_date": "19940516",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20186",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_s044_vasotec.pdf",
+              "date": "20110215",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "36",
+          "submission_status": "AP",
+          "submission_status_date": "19930224",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "50",
+          "submission_status": "AP",
+          "submission_status_date": "19960322",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20189",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/96/018998_S050_VASOTEC_AP.pdf",
+              "date": "20070706",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "42",
+          "submission_status": "AP",
+          "submission_status_date": "19940715",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "40851",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_S042_VASOTEC_AP.pdf",
+              "date": "20070612",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "34",
+          "submission_status": "AP",
+          "submission_status_date": "19960731",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40848",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/96/018998_S034_VASOTEC_AP.pdf",
+              "date": "20070706",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "19910802",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "40",
+          "submission_status": "AP",
+          "submission_status_date": "19931021",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20185",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_s040_vasotec.pdf",
+              "date": "20110104",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "79",
+          "submission_status": "AP",
+          "submission_status_date": "20141224",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1192",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/018998Orig1s079ltr.pdf",
+              "date": "20141230",
+              "type": "Letter"
+            },
+            {
+              "id": "33684",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/018998s079lbl.pdf",
+              "date": "20150109",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "19890418",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20180",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_S018_VASOTEC_AP.pdf",
+              "date": "20070706",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "32",
+          "submission_status": "AP",
+          "submission_status_date": "19931104",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "19870710",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "40843",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_S009_Vasotec_APPROVAL PACKAGE.pdf",
+              "date": "20061026",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "19901128",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20183",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_S024_VASOTEC.pdf",
+              "date": "20070914",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "77",
+          "submission_status": "AP",
+          "submission_status_date": "20120913",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "11409",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/018998s077lbl.pdf",
+              "date": "20120914",
+              "type": "Label"
+            },
+            {
+              "id": "16167",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/018998Origs077ltr.pdf",
+              "date": "20120917",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "19890110",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20178",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_S016_VASOTEC.pdf",
+              "date": "20071119",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "19920513",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19880624",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "83",
+          "submission_status": "AP",
+          "submission_status_date": "20180801",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "55354",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/018998s083lbl.pdf",
+              "date": "20180829",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "19900612",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "40845",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_S022_VASOTEC.pdf",
+              "date": "20070720",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19870514",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40841",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_S005_Vasotec_APPROVAL PACKAGE.pdf",
+              "date": "20061026",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "19891130",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20181",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_S020_VASOTEC_AP.pdf",
+              "date": "20070706",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "59",
+          "submission_status": "AP",
+          "submission_status_date": "20010213",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "40855",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/18-998S059_Vasotec.html",
+              "date": "20010213",
+              "type": "Review"
+            },
+            {
+              "id": "16165",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/18-998S059_Vasotec_Approv.pdf",
+              "date": "20010213",
+              "type": "Letter"
+            },
+            {
+              "id": "33682",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/18-998S059_Vasotec_prntlbl.pdf",
+              "date": "20010213",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "19880726",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19861107",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "57",
+          "submission_status": "AP",
+          "submission_status_date": "19990217",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20191",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20507-s001_Teczem.pdf",
+              "date": "20010622",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "71",
+          "submission_status": "AP",
+          "submission_status_date": "20080925",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "11408",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/018998s071lbl.pdf",
+              "date": "20100518",
+              "type": "Label"
+            },
+            {
+              "id": "1190",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/018998s071, 019221s038ltr.pdf",
+              "date": "20080929",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "49",
+          "submission_status": "AP",
+          "submission_status_date": "19950919",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "63",
+          "submission_status": "AP",
+          "submission_status_date": "20020830",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "16166",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/18998scm063ltr.pdf",
+              "date": "20020830",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "55",
+          "submission_status": "AP",
+          "submission_status_date": "19970721",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "47",
+          "submission_status": "AP",
+          "submission_status_date": "19950919",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "61",
+          "submission_status": "AP",
+          "submission_status_date": "20020204",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20193",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/018998_S061_Vasotec_APPROVAL PACKAGE.pdf",
+              "date": "20061025",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "39",
+          "submission_status": "AP",
+          "submission_status_date": "19940114",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40849",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_s039_vasotec.pdf",
+              "date": "20110104",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "53",
+          "submission_status": "AP",
+          "submission_status_date": "19970611",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40854",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/97/019309_s021ap.pdf",
+              "date": "19970611",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "45",
+          "submission_status": "AP",
+          "submission_status_date": "19940725",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20187",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_S045_VASOTEC_AP.pdf",
+              "date": "20070612",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "19930701",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "51",
+          "submission_status": "AP",
+          "submission_status_date": "19970109",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "40853",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/97/018998_S051_VASOTEC_AP.pdf",
+              "date": "20070409",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "19920930",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "43",
+          "submission_status": "AP",
+          "submission_status_date": "19940218",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40852",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_s043_vasotec.pdf",
+              "date": "20110215",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "19930726",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "19920408",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "41",
+          "submission_status": "AP",
+          "submission_status_date": "19941212",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "40850",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018998_S041_VASOTEC_AP.pdf",
+              "date": "20070612",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA018998",
+      "sponsor_name": "BAUSCH",
+      "openfda": {
+        "application_number": [
+          "NDA018998"
+        ],
+        "brand_name": [
+          "ENALAPRIL MALEATE",
+          "VASOTEC"
+        ],
+        "generic_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "manufacturer_name": [
+          "OCEANSIDE PHARMACEUTICALS",
+          "Bausch Health US LLC"
+        ],
+        "product_ndc": [
+          "68682-710",
+          "68682-711",
+          "68682-712",
+          "68682-713",
+          "0187-0140",
+          "0187-0141",
+          "0187-0142",
+          "0187-0143"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "ENALAPRIL MALEATE"
+        ],
+        "rxcui": [
+          "858804",
+          "858810",
+          "858813",
+          "858817",
+          "858806",
+          "858812",
+          "858815",
+          "858819"
+        ],
+        "spl_id": [
+          "6771388d-89b3-43ec-b69e-9cebeaa2a00a",
+          "1be6ec2b-1c20-4ff4-a8ff-cd23e3de9fa4"
+        ],
+        "spl_set_id": [
+          "ebd2a62d-a704-4f8a-a104-749a5296502f",
+          "39631f1f-5d19-43c1-b504-bf56d991ed97"
+        ],
+        "package_ndc": [
+          "68682-710-30",
+          "68682-710-90",
+          "68682-710-01",
+          "68682-710-10",
+          "68682-711-30",
+          "68682-711-90",
+          "68682-711-01",
+          "68682-711-10",
+          "68682-712-30",
+          "68682-712-90",
+          "68682-712-01",
+          "68682-712-10",
+          "68682-713-30",
+          "68682-713-90",
+          "68682-713-01",
+          "68682-713-10",
+          "0187-0140-30",
+          "0187-0140-90",
+          "0187-0141-30",
+          "0187-0141-90",
+          "0187-0141-10",
+          "0187-0142-30",
+          "0187-0142-90",
+          "0187-0142-10",
+          "0187-0143-30",
+          "0187-0143-90",
+          "0187-0143-10"
+        ],
+        "unii": [
+          "9O25354EPJ"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "005",
+          "reference_drug": "Yes",
+          "brand_name": "VASOTEC",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "VASOTEC",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "VASOTEC",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "VASOTEC",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20151211",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20020905",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20010919"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20250725",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20151211",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20151211",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20110112",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20030529",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20020108",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20151211",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076116",
+      "sponsor_name": "CHARTWELL RX",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "5MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "ENALAPRIL MALEATE",
+              "strength": "10MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

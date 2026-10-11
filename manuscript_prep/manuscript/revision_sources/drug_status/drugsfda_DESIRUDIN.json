@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20150518",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20140701",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20100121",
+          "review_priority": "N/A",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20030404",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 2",
+          "submission_class_code_description": "Type 2 - New Active Ingredient",
+          "application_docs": [
+            {
+              "id": "42067",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-271_Iprivask.html",
+              "date": "20200323",
+              "type": "Review"
+            },
+            {
+              "id": "14819",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2003/021271lbl.pdf",
+              "date": "20200323",
+              "type": "Label"
+            },
+            {
+              "id": "27303",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/21271ltr.pdf",
+              "date": "20200323",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20141107",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "4854",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/021271Orig1s006ltr.pdf",
+              "date": "20200323",
+              "type": "Letter"
+            },
+            {
+              "id": "14820",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/021271s006lbl.pdf",
+              "date": "20200323",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "BLA021271",
+      "sponsor_name": "BAUSCH",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "IPRIVASK",
+          "active_ingredients": [
+            {
+              "name": "DESIRUDIN RECOMBINANT",
+              "strength": "15MG/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

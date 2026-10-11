@@ -1,0 +1,15 @@
+R15 screened loci: 106
+all screened loci                                          n=106  outcome GWS=6  credible-set result=4
+      outcomes: {'Asthma': 25, 'Heart Failure': 12, 'Alzheimer Disease': 9, 'Idiopathic Pulmonary Fibrosis': 9, 'Sepsis': 6, 'Diabetes Mellitus': 6, 'Anemia': 5, 'Psoriasis': 4, 'Multiple Sclerosis': 4, 'Atrial Fibrillation': 3, 'Myasthenia Gravis': 3, 'Gout': 3, 'Malaria': 2, 'Sarcoidosis': 2, 'Gallstones': 1, 'Schizophrenia': 1, 'Aspergillosis': 1, 'Osteoporosis': 1, 'Pneumonia': 1, 'Candidiasis': 1, 'Periodontitis': 1, 'Osteoarthritis': 1, 'Conjunctivitis': 1, 'Myocardial Infarction': 1, 'Hyperthyroidism': 1, 'Panic Disorder': 1, 'Vitamin D Deficiency': 1}
+      GWS loci: ADORA1/Atrial Fibrillation, IL4R/Asthma, KCNH2/Atrial Fibrillation, PPARG/Asthma, TNF/Asthma, TSHR/Hyperthyroidism
+AS PUBLISHED: gene is in the 630 atlas (any outcome)       n= 65  outcome GWS=3  credible-set result=2
+      outcomes: {'Asthma': 17, 'Heart Failure': 12, 'Idiopathic Pulmonary Fibrosis': 8, 'Alzheimer Disease': 6, 'Sepsis': 4, 'Diabetes Mellitus': 3, 'Sarcoidosis': 2, 'Gallstones': 1, 'Anemia': 1, 'Atrial Fibrillation': 1, 'Psoriasis': 1, 'Malaria': 1, 'Pneumonia': 1, 'Multiple Sclerosis': 1, 'Candidiasis': 1, 'Osteoarthritis': 1, 'Gout': 1, 'Myocardial Infarction': 1, 'Myasthenia Gravis': 1, 'Vitamin D Deficiency': 1}
+      GWS loci: ADORA1/Atrial Fibrillation, PPARG/Asthma, TNF/Asthma
+outcome is an original-set (S0) CV indication              n= 12  outcome GWS=0  credible-set result=0
+      outcomes: {'Heart Failure': 12}
+outcome is a CV indication under proposed rule A (S0A)     n= 16  outcome GWS=2  credible-set result=2
+      outcomes: {'Heart Failure': 12, 'Atrial Fibrillation': 3, 'Myocardial Infarction': 1}
+      GWS loci: ADORA1/Atrial Fibrillation, KCNH2/Atrial Fibrillation
+outcome carries Minikel's cardiovascular tag at all        n= 16  outcome GWS=2  credible-set result=2
+      outcomes: {'Heart Failure': 12, 'Atrial Fibrillation': 3, 'Myocardial Infarction': 1}
+      GWS loci: ADORA1/Atrial Fibrillation, KCNH2/Atrial Fibrillation

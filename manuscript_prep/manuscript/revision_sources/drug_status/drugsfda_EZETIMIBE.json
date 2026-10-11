@@ -1,0 +1,5673 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 32
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20240603",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20231017",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA209838",
+      "sponsor_name": "AUROBINDO PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA209838"
+        ],
+        "brand_name": [
+          "EZETIMIBE"
+        ],
+        "generic_name": [
+          "EZETIMIBE"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited",
+          "NorthStar Rx LLC"
+        ],
+        "product_ndc": [
+          "59651-052",
+          "16714-813"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "EZETIMIBE"
+        ],
+        "rxcui": [
+          "349556"
+        ],
+        "spl_id": [
+          "60081062-9f4b-4cf5-9c24-02b5a0b7f792",
+          "ce024e9f-19a7-4819-8069-60121c4cf6c4"
+        ],
+        "spl_set_id": [
+          "726b1e63-437a-4b3b-b773-3ac47a5c0f38",
+          "5f5644a9-e019-4e5d-ab6f-3d30b1024c5a"
+        ],
+        "package_ndc": [
+          "59651-052-30",
+          "59651-052-90",
+          "59651-052-05",
+          "16714-813-01",
+          "16714-813-02",
+          "16714-813-03"
+        ],
+        "nui": [
+          "N0000008553",
+          "N0000175911"
+        ],
+        "pharm_class_pe": [
+          "Decreased Cholesterol Absorption [PE]"
+        ],
+        "pharm_class_epc": [
+          "Dietary Cholesterol Absorption Inhibitor [EPC]"
+        ],
+        "unii": [
+          "EOR26LQQ24"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20040723",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "36948",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2004/21445s001,003,004lbl.pdf",
+              "date": "20040728",
+              "type": "Label"
+            },
+            {
+              "id": "21663",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021445_S001_S003_S004_ZETIA_TABLETS.pdf",
+              "date": "20080219",
+              "type": "Review"
+            },
+            {
+              "id": "27808",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/21445s001,003,004ltr.pdf",
+              "date": "20040728",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20050322",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5400",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/21445s011ltr.pdf",
+              "date": "20050329",
+              "type": "Letter"
+            },
+            {
+              "id": "15489",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/21445s011lbl.pdf",
+              "date": "20050329",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "36",
+          "submission_status": "AP",
+          "submission_status_date": "20130604",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "42",
+          "submission_status": "AP",
+          "submission_status_date": "20230720",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "74842",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/021445Orig1s042ltr.pdf",
+              "date": "20230721",
+              "type": "Letter"
+            },
+            {
+              "id": "74850",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021445s042lbl.pdf",
+              "date": "20230721",
+              "type": "Label"
+            },
+            {
+              "id": "76738",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/021445Orig1s042.pdf",
+              "date": "20231205",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "34",
+          "submission_status": "AP",
+          "submission_status_date": "20130111",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20090721",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5409",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/021445s026,s027ltr.pdf",
+              "date": "20091125",
+              "type": "Letter"
+            },
+            {
+              "id": "15495",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/021445s026s027lbl.pdf",
+              "date": "20090723",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "40",
+          "submission_status": "AP",
+          "submission_status_date": "20191003",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "68318",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/21445Orig1s040lbl1.pdf",
+              "date": "20210809",
+              "type": "Label"
+            },
+            {
+              "id": "68319",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/021445Orig1s040ltr.pdf",
+              "date": "20210809",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20071210",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15492",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/021445s018lbl.pdf",
+              "date": "20071214",
+              "type": "Label"
+            },
+            {
+              "id": "27812",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/021445s018ltr.pdf",
+              "date": "20080109",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20040922",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "27810",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/21445s006ltr.pdf",
+              "date": "20040927",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20061102",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5405",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/021445s016ltr.pdf",
+              "date": "20061106",
+              "type": "Letter"
+            },
+            {
+              "id": "15491",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021445s016lbl.pdf",
+              "date": "20061106",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20110729",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "5410",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021445s030ltr.pdf",
+              "date": "20110812",
+              "type": "Letter"
+            },
+            {
+              "id": "15497",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021445s030lbl.pdf",
+              "date": "20110812",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20040723",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "36949",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2004/21445s001,003,004lbl.pdf",
+              "date": "20040728",
+              "type": "Label"
+            },
+            {
+              "id": "5399",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/21445s001,003,004ltr.pdf",
+              "date": "20040728",
+              "type": "Letter"
+            },
+            {
+              "id": "21664",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021445_S001_S003_S004_ZETIA_TABLETS.pdf",
+              "date": "20080219",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20060119",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "36952",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021445s014lbl.pdf",
+              "date": "20060127",
+              "type": "Label"
+            },
+            {
+              "id": "5403",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/021445s014ltr.pdf",
+              "date": "20060130",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20071210",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20080605",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "36954",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/021445s020s021lbl.pdf",
+              "date": "20080612",
+              "type": "Label"
+            },
+            {
+              "id": "51734",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/021445_Ezetimibe_Amendment 1_WR.pdf",
+              "date": "20041123",
+              "type": "Pediatric Amendment 1"
+            },
+            {
+              "id": "27813",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/021445s020,021ltr.pdf",
+              "date": "20080609",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20060316",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "5401",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/021445s012,s015ltr.pdf",
+              "date": "20060323",
+              "type": "Letter"
+            },
+            {
+              "id": "15490",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021445s012,s015lbl.pdf",
+              "date": "20060322",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "20140930",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "27816",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/021445Orig1s037ltr.pdf",
+              "date": "20141014",
+              "type": "Letter"
+            },
+            {
+              "id": "36956",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/021445Orig1s037lbl.pdf",
+              "date": "20141030",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "43",
+          "submission_status": "AP",
+          "submission_status_date": "20240221",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "77592",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/021445Orig1s043ltr.pdf",
+              "date": "20240222",
+              "type": "Letter"
+            },
+            {
+              "id": "77598",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/021445s043lbl.pdf",
+              "date": "20240222",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "20130215",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20090721",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15496",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/021445s026s027lbl.pdf",
+              "date": "20090723",
+              "type": "Label"
+            },
+            {
+              "id": "27814",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/021445s026,s027ltr.pdf",
+              "date": "20091125",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20021025",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "44124",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/DrugSafetyInformationforHeathcareProfessionals/ucm079524.htm",
+              "date": "20080125",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "53276",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/021445_Ezetimibe_Clinical_BPCA_rev2_cd_SPONSOR_REVISED_7-16-08.pdf",
+              "date": "19000101",
+              "type": "Pediatric Medical Review"
+            },
+            {
+              "id": "53277",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/021445_Ezetimibe_Clinpharm_BPCA.pdf",
+              "date": "19000101",
+              "type": "Pediatric Clinical Pharmacology Review"
+            },
+            {
+              "id": "53278",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/021445_Ezetimibe_Statistical_BPCA.pdf",
+              "date": "19000101",
+              "type": "Pediatric Statistical Review"
+            },
+            {
+              "id": "63917",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/021445_Ezetimibe_Amendment-1_WR.pdf",
+              "date": "19000101",
+              "type": "Pediatric Written Request"
+            },
+            {
+              "id": "15487",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2002/21445lbl.pdf",
+              "date": "20021025",
+              "type": "Label"
+            },
+            {
+              "id": "21662",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21445_Zetia.html",
+              "date": "20030203",
+              "type": "Review"
+            },
+            {
+              "id": "27807",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/21445ltr.pdf",
+              "date": "20021025",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20080207",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5406",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/021445s019ltr.pdf",
+              "date": "20080213",
+              "type": "Letter"
+            },
+            {
+              "id": "15493",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/021445s019lbl.pdf",
+              "date": "20080214",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "33",
+          "submission_status": "AP",
+          "submission_status_date": "20120124",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "15498",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021445s033lbl.pdf",
+              "date": "20120125",
+              "type": "Label"
+            },
+            {
+              "id": "27815",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/021445s033ltr.pdf",
+              "date": "20120130",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20090127",
+          "review_priority": "N/A",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "5408",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/021445s025ltr.pdf",
+              "date": "20090204",
+              "type": "Letter"
+            },
+            {
+              "id": "36955",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/021445s025lbl.pdf",
+              "date": "20090204",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20050302",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "27811",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/21445s007ltr.pdf",
+              "date": "20050310",
+              "type": "Letter"
+            },
+            {
+              "id": "36950",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/21445s007lbl.pdf",
+              "date": "20050310",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20060316",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5404",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/021445s012,s015ltr.pdf",
+              "date": "20060323",
+              "type": "Letter"
+            },
+            {
+              "id": "36953",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021445s012,s015lbl.pdf",
+              "date": "20060322",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20080605",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5407",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/021445s020,021ltr.pdf",
+              "date": "20080609",
+              "type": "Letter"
+            },
+            {
+              "id": "15494",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/021445s020s021lbl.pdf",
+              "date": "20080612",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20040723",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "42173",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021445_S001_S003_S004_ZETIA_TABLETS.pdf",
+              "date": "20080219",
+              "type": "Review"
+            },
+            {
+              "id": "15488",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2004/21445s001,003,004lbl.pdf",
+              "date": "20040728",
+              "type": "Label"
+            },
+            {
+              "id": "27809",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/21445s001,003,004ltr.pdf",
+              "date": "20040728",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20060523",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "36951",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021445s013lbl.pdf",
+              "date": "20060524",
+              "type": "Label"
+            },
+            {
+              "id": "5402",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/021445s013LTR.pdf",
+              "date": "20060525",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA021445",
+      "sponsor_name": "ORGANON",
+      "openfda": {
+        "application_number": [
+          "NDA021445"
+        ],
+        "brand_name": [
+          "ZETIA"
+        ],
+        "generic_name": [
+          "EZETIMIBE"
+        ],
+        "manufacturer_name": [
+          "Organon LLC"
+        ],
+        "product_ndc": [
+          "78206-178"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "EZETIMIBE"
+        ],
+        "rxcui": [
+          "349556",
+          "352304"
+        ],
+        "spl_id": [
+          "8e5eed2a-7b64-4350-9b87-500f1b04225d"
+        ],
+        "spl_set_id": [
+          "174e45e0-45bb-48b7-9e60-8f6cfc1d22bb"
+        ],
+        "package_ndc": [
+          "78206-178-01"
+        ],
+        "nui": [
+          "N0000008553",
+          "N0000175911"
+        ],
+        "pharm_class_pe": [
+          "Decreased Cholesterol Absorption [PE]"
+        ],
+        "pharm_class_epc": [
+          "Dietary Cholesterol Absorption Inhibitor [EPC]"
+        ],
+        "unii": [
+          "EOR26LQQ24"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ZETIA",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20240530",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20200129",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20210223",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20200129",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20240530",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20190402",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170426",
+          "submission_class_code": "N/A",
+          "submission_class_code_description": "Not Applicable"
+        }
+      ],
+      "application_number": "ANDA201890",
+      "sponsor_name": "ANI PHARMS",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250127",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA209461",
+      "sponsor_name": "TORRENT",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20240710",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220913",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20240202",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA215693",
+      "sponsor_name": "ORIENT PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA215693"
+        ],
+        "brand_name": [
+          "EZETIMIBE"
+        ],
+        "generic_name": [
+          "EZETIMIBE"
+        ],
+        "manufacturer_name": [
+          "Marlex Pharmaceuticals, Inc.",
+          "Orient Pharma Co., Ltd."
+        ],
+        "product_ndc": [
+          "10135-787",
+          "76333-170"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "EZETIMIBE"
+        ],
+        "rxcui": [
+          "349556"
+        ],
+        "spl_id": [
+          "43046023-125e-85f6-e063-6294a90ab8c7",
+          "161b88d8-6679-e793-e063-6394a90a481b"
+        ],
+        "spl_set_id": [
+          "109a22f4-a7cb-96c6-e063-6394a90ad7f6",
+          "b6e77d9b-a553-63e0-e053-2a95a90a18fe"
+        ],
+        "package_ndc": [
+          "10135-787-30",
+          "10135-787-90",
+          "10135-787-05",
+          "76333-170-15",
+          "76333-170-14",
+          "76333-170-12",
+          "76333-170-13"
+        ],
+        "nui": [
+          "N0000008553",
+          "N0000175911"
+        ],
+        "pharm_class_pe": [
+          "Decreased Cholesterol Absorption [PE]"
+        ],
+        "pharm_class_epc": [
+          "Dietary Cholesterol Absorption Inhibitor [EPC]"
+        ],
+        "unii": [
+          "EOR26LQQ24"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20210113",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20210216",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20210113",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20210115",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20210113",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170426",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "48206",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/206084Orig1s000ltr.pdf",
+              "date": "20170502",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA206084",
+      "sponsor_name": "PHARMOBEDIENT",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "LYPQOZET",
+          "active_ingredients": [
+            {
+              "name": "ATORVASTATIN CALCIUM",
+              "strength": "EQ 40MG BASE"
+            },
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LYPQOZET",
+          "active_ingredients": [
+            {
+              "name": "ATORVASTATIN CALCIUM",
+              "strength": "EQ 10MG BASE"
+            },
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "LYPQOZET",
+          "active_ingredients": [
+            {
+              "name": "ATORVASTATIN CALCIUM",
+              "strength": "EQ 80MG BASE"
+            },
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "LYPQOZET",
+          "active_ingredients": [
+            {
+              "name": "ATORVASTATIN CALCIUM",
+              "strength": "EQ 20MG BASE"
+            },
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240429",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA211159",
+      "sponsor_name": "MACLEODS PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA211159"
+        ],
+        "brand_name": [
+          "EZETIMIBE"
+        ],
+        "generic_name": [
+          "EZETIMIBE"
+        ],
+        "manufacturer_name": [
+          "Macleods Pharmaceuticals Limited"
+        ],
+        "product_ndc": [
+          "33342-373"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "EZETIMIBE"
+        ],
+        "rxcui": [
+          "349556"
+        ],
+        "spl_id": [
+          "ebe3fa4e-82c4-4a9a-9aec-f64019391f4e"
+        ],
+        "spl_set_id": [
+          "ebe3fa4e-82c4-4a9a-9aec-f64019391f4e"
+        ],
+        "package_ndc": [
+          "33342-373-07",
+          "33342-373-10",
+          "33342-373-15"
+        ],
+        "nui": [
+          "N0000008553",
+          "N0000175911"
+        ],
+        "pharm_class_pe": [
+          "Decreased Cholesterol Absorption [PE]"
+        ],
+        "pharm_class_epc": [
+          "Dietary Cholesterol Absorption Inhibitor [EPC]"
+        ],
+        "unii": [
+          "EOR26LQQ24"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170612"
+        }
+      ],
+      "application_number": "ANDA078724",
+      "sponsor_name": "TEVA PHARMS USA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20240430",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20231017",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170612",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA207311",
+      "sponsor_name": "OHM LABS INC",
+      "openfda": {
+        "application_number": [
+          "ANDA207311"
+        ],
+        "brand_name": [
+          "EZETIMIBE"
+        ],
+        "generic_name": [
+          "EZETIMIBE"
+        ],
+        "manufacturer_name": [
+          "Ohm Laboratories Inc."
+        ],
+        "product_ndc": [
+          "51660-200"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "EZETIMIBE"
+        ],
+        "rxcui": [
+          "349556"
+        ],
+        "spl_id": [
+          "12e7e79e-85d0-0c5d-e063-6394a90a8b78"
+        ],
+        "spl_set_id": [
+          "5b3842f6-c80a-47b8-8a82-b69e465b05f7"
+        ],
+        "package_ndc": [
+          "51660-200-30",
+          "51660-200-90",
+          "51660-200-05"
+        ],
+        "nui": [
+          "N0000008553",
+          "N0000175911"
+        ],
+        "pharm_class_pe": [
+          "Decreased Cholesterol Absorption [PE]"
+        ],
+        "pharm_class_epc": [
+          "Dietary Cholesterol Absorption Inhibitor [EPC]"
+        ],
+        "unii": [
+          "EOR26LQQ24"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170612",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20240710",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20221216",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA208803",
+      "sponsor_name": "AMNEAL PHARMS CO",
+      "openfda": {
+        "application_number": [
+          "ANDA208803"
+        ],
+        "brand_name": [
+          "EZETIMIBE"
+        ],
+        "generic_name": [
+          "EZETIMIBE"
+        ],
+        "manufacturer_name": [
+          "Amneal Pharmaceuticals NY LLC"
+        ],
+        "product_ndc": [
+          "69238-1154"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "EZETIMIBE"
+        ],
+        "rxcui": [
+          "349556"
+        ],
+        "spl_id": [
+          "edb9906a-4007-40ff-a3dc-3083e50545ae"
+        ],
+        "spl_set_id": [
+          "3fadf4e9-017d-4ccd-91dc-a89b981eb138"
+        ],
+        "package_ndc": [
+          "69238-1154-3",
+          "69238-1154-9",
+          "69238-1154-5",
+          "69238-1154-1"
+        ],
+        "nui": [
+          "N0000008553",
+          "N0000175911"
+        ],
+        "pharm_class_pe": [
+          "Decreased Cholesterol Absorption [PE]"
+        ],
+        "pharm_class_epc": [
+          "Dietary Cholesterol Absorption Inhibitor [EPC]"
+        ],
+        "unii": [
+          "EOR26LQQ24"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220726",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20240710",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA210859",
+      "sponsor_name": "HETERO LABS LTD III",
+      "openfda": {
+        "application_number": [
+          "ANDA210859"
+        ],
+        "brand_name": [
+          "EZETIMIBE"
+        ],
+        "generic_name": [
+          "EZETIMIBE"
+        ],
+        "manufacturer_name": [
+          "Camber Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "31722-628"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "EZETIMIBE"
+        ],
+        "rxcui": [
+          "349556"
+        ],
+        "spl_id": [
+          "1d93c66e-c5ea-de6f-e063-6294a90acfb8"
+        ],
+        "spl_set_id": [
+          "c07fe2e0-dad4-48b5-8a07-7d57a4035ccd"
+        ],
+        "package_ndc": [
+          "31722-628-30",
+          "31722-628-90",
+          "31722-628-01",
+          "31722-628-31",
+          "31722-628-34",
+          "31722-628-10",
+          "31722-628-05"
+        ],
+        "nui": [
+          "N0000008553",
+          "N0000175911"
+        ],
+        "pharm_class_pe": [
+          "Decreased Cholesterol Absorption [PE]"
+        ],
+        "pharm_class_epc": [
+          "Dietary Cholesterol Absorption Inhibitor [EPC]"
+        ],
+        "unii": [
+          "EOR26LQQ24"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20241022",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20241022",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20181026",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA211550",
+      "sponsor_name": "ACCORD HLTHCARE",
+      "openfda": {
+        "application_number": [
+          "ANDA211550"
+        ],
+        "brand_name": [
+          "EZETIMIBE"
+        ],
+        "generic_name": [
+          "EZETIMIBE"
+        ],
+        "manufacturer_name": [
+          "Accord Healthcare Inc."
+        ],
+        "product_ndc": [
+          "16729-433"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "EZETIMIBE"
+        ],
+        "rxcui": [
+          "349556"
+        ],
+        "spl_id": [
+          "411f7e5b-cb87-22d4-e063-6394a90a518c"
+        ],
+        "spl_set_id": [
+          "ceecdbe9-5404-4a93-a488-9211cd103058"
+        ],
+        "package_ndc": [
+          "16729-433-10",
+          "16729-433-15",
+          "16729-433-01",
+          "16729-433-16",
+          "16729-433-17"
+        ],
+        "nui": [
+          "N0000008553",
+          "N0000175911"
+        ],
+        "pharm_class_pe": [
+          "Decreased Cholesterol Absorption [PE]"
+        ],
+        "pharm_class_epc": [
+          "Dietary Cholesterol Absorption Inhibitor [EPC]"
+        ],
+        "unii": [
+          "EOR26LQQ24"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20241219",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190322",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20241219",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20171121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20210915",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20200129",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20190926",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA208831",
+      "sponsor_name": "AMNEAL PHARMS CO",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20210223",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20171222",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20200129",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20190416",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20240715",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20190926",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20221216",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA209222",
+      "sponsor_name": "ALKEM LABS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA209222"
+        ],
+        "brand_name": [
+          "EZETIMIBE AND SIMVASTATIN"
+        ],
+        "generic_name": [
+          "EZETIMIBE AND SIMVASTATIN"
+        ],
+        "manufacturer_name": [
+          "Ascend Laboratories, LLC"
+        ],
+        "product_ndc": [
+          "67877-507",
+          "67877-508",
+          "67877-509",
+          "67877-510"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "EZETIMIBE",
+          "SIMVASTATIN"
+        ],
+        "rxcui": [
+          "476345",
+          "476349",
+          "476350",
+          "476351"
+        ],
+        "spl_id": [
+          "ca1a42e2-f129-462a-8e87-a034da71862b"
+        ],
+        "spl_set_id": [
+          "c90e8c96-e130-42d7-bf0d-5833652e40d5"
+        ],
+        "package_ndc": [
+          "67877-507-30",
+          "67877-507-90",
+          "67877-507-01",
+          "67877-507-33",
+          "67877-507-38",
+          "67877-508-30",
+          "67877-508-90",
+          "67877-508-01",
+          "67877-508-33",
+          "67877-508-38",
+          "67877-509-30",
+          "67877-509-90",
+          "67877-509-05",
+          "67877-509-33",
+          "67877-509-37",
+          "67877-510-30",
+          "67877-510-90",
+          "67877-510-05",
+          "67877-510-33",
+          "67877-510-37"
+        ],
+        "nui": [
+          "N0000175589",
+          "N0000000121",
+          "N0000008553",
+          "N0000175911"
+        ],
+        "pharm_class_epc": [
+          "HMG-CoA Reductase Inhibitor [EPC]",
+          "Dietary Cholesterol Absorption Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors [MoA]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Cholesterol Absorption [PE]"
+        ],
+        "unii": [
+          "AGG2FN16EV",
+          "EOR26LQQ24"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20240617",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180521",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20171221",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20240815",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20221216",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA209234",
+      "sponsor_name": "ALKEM LABS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA209234"
+        ],
+        "brand_name": [
+          "EZETIMIBE"
+        ],
+        "generic_name": [
+          "EZETIMIBE"
+        ],
+        "manufacturer_name": [
+          "Ascend Laboratories, LLC"
+        ],
+        "product_ndc": [
+          "67877-490"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "EZETIMIBE"
+        ],
+        "rxcui": [
+          "349556"
+        ],
+        "spl_id": [
+          "878751ea-5bea-42ef-8f56-2b15a683c7ae"
+        ],
+        "spl_set_id": [
+          "206d702c-b09a-4555-972b-6555d6d6d6e6"
+        ],
+        "package_ndc": [
+          "67877-490-30",
+          "67877-490-90",
+          "67877-490-05",
+          "67877-490-55",
+          "67877-490-01"
+        ],
+        "nui": [
+          "N0000008553",
+          "N0000175911"
+        ],
+        "pharm_class_pe": [
+          "Decreased Cholesterol Absorption [PE]"
+        ],
+        "pharm_class_epc": [
+          "Dietary Cholesterol Absorption Inhibitor [EPC]"
+        ],
+        "unii": [
+          "EOR26LQQ24"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200226",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1/4",
+          "submission_class_code_description": "Type 1 - New Molecular Entity and Type 4 - New Combination",
+          "application_docs": [
+            {
+              "id": "61974",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/211617s000lbl.pdf",
+              "date": "20200226",
+              "type": "Label"
+            },
+            {
+              "id": "61984",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/211617Orig1s000ltr.pdf",
+              "date": "20200227",
+              "type": "Letter"
+            },
+            {
+              "id": "62590",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/211617Orig1s000TOC.html",
+              "date": "20200417",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20250721",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "82904",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/211617Orig1s027, s028ltr.pdf",
+              "date": "20250722",
+              "type": "Letter"
+            },
+            {
+              "id": "82908",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2025/211617s027s028lbl.pdf",
+              "date": "20250723",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20230920",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "75526",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/211616Orig1s014;211617Orig1s018ltr.pdf",
+              "date": "20230921",
+              "type": "Letter"
+            },
+            {
+              "id": "75530",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2023/211617s018lbl.pdf",
+              "date": "20230921",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20240322",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "77940",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/211617Origs016; s017ltr.pdf",
+              "date": "20240325",
+              "type": "Letter"
+            },
+            {
+              "id": "77945",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/211617s016s017lbl.pdf",
+              "date": "20240325",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "20251121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "84278",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/211617Orig1s029ltr.pdf",
+              "date": "20251124",
+              "type": "Letter"
+            },
+            {
+              "id": "84299",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2025/211617s029lbl.pdf",
+              "date": "20251125",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20250721",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "82903",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/211617Orig1s027, s028ltr.pdf",
+              "date": "20250722",
+              "type": "Letter"
+            },
+            {
+              "id": "82907",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2025/211617s027s028lbl.pdf",
+              "date": "20250723",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20231213",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "76803",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/211616Orig1s015; 211617Orig1s019ltr.pdf",
+              "date": "20231214",
+              "type": "Letter"
+            },
+            {
+              "id": "76834",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2023/211617s019lbl.pdf",
+              "date": "20231214",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20240322",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "77941",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/211617Origs016; s017ltr.pdf",
+              "date": "20240325",
+              "type": "Letter"
+            },
+            {
+              "id": "77946",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/211617s016s017lbl.pdf",
+              "date": "20240325",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "20260109",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "84737",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2026/211617s031lbl.pdf",
+              "date": "20260112",
+              "type": "Label"
+            },
+            {
+              "id": "84771",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/211617Orig1s031ltr.pdf",
+              "date": "20260116",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA211617",
+      "sponsor_name": "ESPERION THERAPS INC",
+      "openfda": {
+        "application_number": [
+          "NDA211617"
+        ],
+        "brand_name": [
+          "NEXLIZET"
+        ],
+        "generic_name": [
+          "BEMPEDOIC ACID AND EZETIMIBE"
+        ],
+        "manufacturer_name": [
+          "Esperion Therapeutics, Inc."
+        ],
+        "product_ndc": [
+          "72426-818"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "BEMPEDOIC ACID",
+          "EZETIMIBE"
+        ],
+        "rxcui": [
+          "2283230",
+          "2283236"
+        ],
+        "spl_id": [
+          "29da37de-60f3-4dcc-8ccd-1b96631778bd"
+        ],
+        "spl_set_id": [
+          "3fa2108c-0300-47b8-9d34-f762af7c93c6"
+        ],
+        "package_ndc": [
+          "72426-818-03",
+          "72426-818-99",
+          "72426-818-09"
+        ],
+        "nui": [
+          "N0000193913",
+          "N0000193914",
+          "N0000008553",
+          "N0000175911"
+        ],
+        "pharm_class_epc": [
+          "Adenosine Triphosphate-Citrate Lyase Inhibitor [EPC]",
+          "Dietary Cholesterol Absorption Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Adenosine Triphosphate-Citrate Lyase Inhibitors [MoA]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Cholesterol Absorption [PE]"
+        ],
+        "unii": [
+          "1EJ6Z6Q368",
+          "EOR26LQQ24"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "NEXLIZET",
+          "active_ingredients": [
+            {
+              "name": "BEMPEDOIC ACID",
+              "strength": "180MG"
+            },
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20240923",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170612",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20240130",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA203931",
+      "sponsor_name": "SANDOZ",
+      "openfda": {},
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "TA",
+          "submission_status_date": "20251023",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "83948",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/219421Orig1s000TAltr.pdf",
+              "date": "20251028",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA219421",
+      "sponsor_name": "ALKEM LABORATORIES LIMITED",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BEMPEDOIC ACID AND EZETIMIBE",
+          "active_ingredients": [
+            {
+              "name": "BEMPEDOIC ACID, EZETIMIBE",
+              "strength": "180MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": null,
+          "marketing_status": "None (Tentative Approval)"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20240329",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20231017",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170612",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA204331",
+      "sponsor_name": "ZYDUS PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA204331"
+        ],
+        "brand_name": [
+          "EZETIMIBE"
+        ],
+        "generic_name": [
+          "EZETIMIBE"
+        ],
+        "manufacturer_name": [
+          "Quallent Pharmaceuticals Health LLC",
+          "Zydus Pharmaceuticals USA Inc.",
+          "Zydus Lifesciences Limited"
+        ],
+        "product_ndc": [
+          "82009-024",
+          "68382-773",
+          "70771-1109"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "EZETIMIBE"
+        ],
+        "rxcui": [
+          "349556"
+        ],
+        "spl_id": [
+          "98acb755-ad5c-414a-b9e9-6cd30c10a2e7",
+          "ebb60f24-14be-4be0-b5e2-31e695eae876",
+          "5862da1c-e73d-44ff-a961-aaef469ed646"
+        ],
+        "spl_set_id": [
+          "68247ce8-e812-42f2-a3ba-0f6e49acca63",
+          "f852b12f-e25f-415b-b1e2-58955d609507",
+          "de814dcd-4759-4e9c-a650-335fb885a79d"
+        ],
+        "package_ndc": [
+          "82009-024-05",
+          "68382-773-06",
+          "68382-773-16",
+          "68382-773-01",
+          "68382-773-05",
+          "68382-773-10",
+          "68382-773-30",
+          "68382-773-77",
+          "70771-1109-3",
+          "70771-1109-9",
+          "70771-1109-1",
+          "70771-1109-5",
+          "70771-1109-0",
+          "70771-1109-2",
+          "70771-1109-4"
+        ],
+        "nui": [
+          "N0000008553",
+          "N0000175911"
+        ],
+        "pharm_class_pe": [
+          "Decreased Cholesterol Absorption [PE]"
+        ],
+        "pharm_class_epc": [
+          "Dietary Cholesterol Absorption Inhibitor [EPC]"
+        ],
+        "unii": [
+          "EOR26LQQ24"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20210323",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 4",
+          "submission_class_code_description": "Type 4 - New Combination",
+          "application_docs": [
+            {
+              "id": "66861",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/213072Orig1s000ltr.pdf",
+              "date": "20210324",
+              "type": "Letter"
+            },
+            {
+              "id": "66877",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/213072s000lbl.pdf",
+              "date": "20210325",
+              "type": "Label"
+            },
+            {
+              "id": "69080",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/213072Orig1s000TOC.html",
+              "date": "20211025",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20240826",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "79488",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/213072Orig1s004ltr.pdf",
+              "date": "20240827",
+              "type": "Letter"
+            },
+            {
+              "id": "79497",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/213072s004lbl.pdf",
+              "date": "20240829",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA213072",
+      "sponsor_name": "ALTHERA PHARMS",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "ROSZET",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "ROSUVASTATIN CALCIUM",
+              "strength": "EQ 20MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ROSZET",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "ROSUVASTATIN CALCIUM",
+              "strength": "EQ 5MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "ROSZET",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "ROSUVASTATIN CALCIUM",
+              "strength": "EQ 40MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "ROSZET",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "ROSUVASTATIN CALCIUM",
+              "strength": "EQ 10MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20241210",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA211663",
+      "sponsor_name": "SCIEGEN PHARMS",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20240216",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150626",
+          "application_docs": [
+            {
+              "id": "31372",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/078560Orig1s000ltr.pdf",
+              "date": "20150629",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20240603",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA078560",
+      "sponsor_name": "GLENMARK PHARMS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA078560"
+        ],
+        "brand_name": [
+          "EZETIMIBE"
+        ],
+        "generic_name": [
+          "EZETIMIBE"
+        ],
+        "manufacturer_name": [
+          "Glenmark Pharmaceuticals Inc., USA"
+        ],
+        "product_ndc": [
+          "68462-226"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "EZETIMIBE"
+        ],
+        "rxcui": [
+          "349556"
+        ],
+        "spl_id": [
+          "5009c162-91bb-425a-a688-6237c259d33e"
+        ],
+        "spl_set_id": [
+          "ac539a72-77e4-419c-b1d9-42002e9cecf7"
+        ],
+        "package_ndc": [
+          "68462-226-30",
+          "68462-226-90",
+          "68462-226-05",
+          "68462-226-10",
+          "68462-226-11"
+        ],
+        "nui": [
+          "N0000008553",
+          "N0000175911"
+        ],
+        "pharm_class_pe": [
+          "Decreased Cholesterol Absorption [PE]"
+        ],
+        "pharm_class_epc": [
+          "Dietary Cholesterol Absorption Inhibitor [EPC]"
+        ],
+        "unii": [
+          "EOR26LQQ24"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20201023",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20240506",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20231017",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA210673",
+      "sponsor_name": "SCIEGEN PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA210673"
+        ],
+        "brand_name": [
+          "EZETIMIBE"
+        ],
+        "generic_name": [
+          "EZETIMIBE"
+        ],
+        "manufacturer_name": [
+          "ScieGen Pharmaceuticals Inc"
+        ],
+        "product_ndc": [
+          "50228-379"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "EZETIMIBE"
+        ],
+        "rxcui": [
+          "349556"
+        ],
+        "spl_id": [
+          "1ab4be5f-4926-88ad-e063-6294a90a0c81"
+        ],
+        "spl_set_id": [
+          "11de499b-ad8a-46a6-9021-c8eba72ae414"
+        ],
+        "package_ndc": [
+          "50228-379-30",
+          "50228-379-90",
+          "50228-379-05",
+          "50228-379-10"
+        ],
+        "nui": [
+          "N0000008553",
+          "N0000175911"
+        ],
+        "pharm_class_pe": [
+          "Decreased Cholesterol Absorption [PE]"
+        ],
+        "pharm_class_epc": [
+          "Dietary Cholesterol Absorption Inhibitor [EPC]"
+        ],
+        "unii": [
+          "EOR26LQQ24"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170612",
+          "submission_class_code": "N/A",
+          "submission_class_code_description": "Not Applicable"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20240802",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20240802",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA200831",
+      "sponsor_name": "WATSON LABS INC",
+      "openfda": {},
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20040723",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 4",
+          "submission_class_code_description": "Type 4 - New Combination",
+          "application_docs": [
+            {
+              "id": "44142",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm103324.htm",
+              "date": "20080125",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "53273",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/021687s023_Ezetimbe(Vytorin)_Clinical_PREA.pdf",
+              "date": "19000101",
+              "type": "Pediatric Medical Review"
+            },
+            {
+              "id": "53274",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/021687s023_Ezetimbe(Vytorin)_Clinpharm_PREA.pdf",
+              "date": "19000101",
+              "type": "Pediatric Clinical Pharmacology Review"
+            },
+            {
+              "id": "53275",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/021687s023_021445s020_Ezetimbe(Vytorin)_Statistical_PREA.pdf",
+              "date": "19000101",
+              "type": "Pediatric Statistical Review"
+            },
+            {
+              "id": "15964",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2004/21687lbl.pdf",
+              "date": "20040728",
+              "type": "Label"
+            },
+            {
+              "id": "21778",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-687_Vytorin.html",
+              "date": "20041122",
+              "type": "Review"
+            },
+            {
+              "id": "28354",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/21687ltr.pdf",
+              "date": "20040728",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "20101222",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15976",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021687s037lbl.pdf",
+              "date": "20101226",
+              "type": "Label"
+            },
+            {
+              "id": "28366",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/021687s037ltr.pdf",
+              "date": "20101228",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "51",
+          "submission_status": "AP",
+          "submission_status_date": "20140930",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5979",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/021687Orig1s051ltr.pdf",
+              "date": "20141014",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "20090108",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15971",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/021687s029lbl.pdf",
+              "date": "20090114",
+              "type": "Label"
+            },
+            {
+              "id": "28363",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/021687s029ltr.pdf",
+              "date": "20090112",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "41",
+          "submission_status": "AP",
+          "submission_status_date": "20111006",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "42270",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/021687Orig1s041.pdf",
+              "date": "20120606",
+              "type": "Review"
+            },
+            {
+              "id": "15978",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021687s041lbl.pdf",
+              "date": "20111012",
+              "type": "Label"
+            },
+            {
+              "id": "28368",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021687s041ltr.pdf",
+              "date": "20111012",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20070516",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5971",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/021687s019ltr.pdf",
+              "date": "20070529",
+              "type": "Letter"
+            },
+            {
+              "id": "15969",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/021687s019lbl.pdf",
+              "date": "20070529",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "33",
+          "submission_status": "AP",
+          "submission_status_date": "20110608",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5973",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021687s033,s040ltr.pdf",
+              "date": "20110608",
+              "type": "Letter"
+            },
+            {
+              "id": "15974",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021687s033s040lbl.pdf",
+              "date": "20110608",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20060316",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "15966",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021687s006,s013lbl.pdf",
+              "date": "20060322",
+              "type": "Label"
+            },
+            {
+              "id": "28357",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/021687s006,s013ltr.pdf",
+              "date": "20060323",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20080613",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20051019",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15965",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/021687s004lbl.pdf",
+              "date": "20051024",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20080613",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20060703",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5970",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/021687s015LTR.pdf",
+              "date": "20060713",
+              "type": "Letter"
+            },
+            {
+              "id": "37445",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021687s015lbl.pdf",
+              "date": "20060705",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20050307",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "28356",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/21687s002ltr.pdf",
+              "date": "20050310",
+              "type": "Letter"
+            },
+            {
+              "id": "37440",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/21687s002lbl.pdf",
+              "date": "20050310",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20071212",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15970",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/021687s021lbl.pdf",
+              "date": "20071214",
+              "type": "Label"
+            },
+            {
+              "id": "28361",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/021687s021ltr.pdf",
+              "date": "20080109",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20060316",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5969",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/021687s006,s013ltr.pdf",
+              "date": "20060323",
+              "type": "Letter"
+            },
+            {
+              "id": "37444",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021687s006,s013lbl.pdf",
+              "date": "20060322",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "66",
+          "submission_status": "AP",
+          "submission_status_date": "20240328",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "78010",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/021687s066lbl.pdf",
+              "date": "20240401",
+              "type": "Label"
+            },
+            {
+              "id": "78021",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/021687Orig1s066ltr.pdf",
+              "date": "20240401",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20061003",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "15967",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021687s011lbl.pdf",
+              "date": "20061005",
+              "type": "Label"
+            },
+            {
+              "id": "28359",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/021687s011LTR.pdf",
+              "date": "20061005",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "64",
+          "submission_status": "AP",
+          "submission_status_date": "20240208",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "77453",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/021687s061s064s065lbl.pdf",
+              "date": "20240209",
+              "type": "Label"
+            },
+            {
+              "id": "77454",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/021687Orig1s061, s064, s065ltr.pdf",
+              "date": "20240209",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "48",
+          "submission_status": "AP",
+          "submission_status_date": "20131025",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "37450",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021687s048lbl.pdf",
+              "date": "20131031",
+              "type": "Label"
+            },
+            {
+              "id": "5978",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/021687Orig1s048ltr.pdf",
+              "date": "20131028",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "62",
+          "submission_status": "AP",
+          "submission_status_date": "20191004",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "60439",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/021687Orig1s062ltr.pdf",
+              "date": "20191009",
+              "type": "Letter"
+            },
+            {
+              "id": "60571",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021687s062lbl.pdf",
+              "date": "20191015",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "46",
+          "submission_status": "AP",
+          "submission_status_date": "20121031",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5977",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/021687Orig1s046,s047ltr.pdf",
+              "date": "20121106",
+              "type": "Letter"
+            },
+            {
+              "id": "15981",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021687s046s047lbl.pdf",
+              "date": "20121102",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "60",
+          "submission_status": "AP",
+          "submission_status_date": "20180228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "52776",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/021687s060lbl.pdf",
+              "date": "20180301",
+              "type": "Label"
+            },
+            {
+              "id": "52777",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/021687Orig1s060ltr.pdf",
+              "date": "20180301",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "52",
+          "submission_status": "AP",
+          "submission_status_date": "20190402",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "58193",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021687s052lbl.pdf",
+              "date": "20190402",
+              "type": "Label"
+            },
+            {
+              "id": "58208",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/021687Orig1s052ltr.pdf",
+              "date": "20190404",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "44",
+          "submission_status": "AP",
+          "submission_status_date": "20120228",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5976",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/021687s044ltr.pdf",
+              "date": "20120229",
+              "type": "Letter"
+            },
+            {
+              "id": "15980",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021687s044lbl.pdf",
+              "date": "20120306",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "36",
+          "submission_status": "AP",
+          "submission_status_date": "20100422",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "37447",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021687s036lbl.pdf",
+              "date": "20100503",
+              "type": "Label"
+            },
+            {
+              "id": "5974",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/021687s036ltr.pdf",
+              "date": "20100428",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "50",
+          "submission_status": "AP",
+          "submission_status_date": "20140227",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "37451",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/021687s050lbl.pdf",
+              "date": "20140304",
+              "type": "Label"
+            },
+            {
+              "id": "28371",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/021687Orig1s050ltr.pdf",
+              "date": "20140228",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20051209",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "37442",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/021687s009lbl.pdf",
+              "date": "20051215",
+              "type": "Label"
+            },
+            {
+              "id": "28358",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/021687s009ltr.pdf",
+              "date": "20051215",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "42",
+          "submission_status": "AP",
+          "submission_status_date": "20111201",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15979",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021687s042lbl.pdf",
+              "date": "20111202",
+              "type": "Label"
+            },
+            {
+              "id": "28369",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021687s042ltr.pdf",
+              "date": "20111205",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "34",
+          "submission_status": "AP",
+          "submission_status_date": "20100310",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15975",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021687s034lbl.pdf",
+              "date": "20100317",
+              "type": "Label"
+            },
+            {
+              "id": "28365",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/021687s034ltr.pdf",
+              "date": "20100318",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "40",
+          "submission_status": "AP",
+          "submission_status_date": "20110608",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15977",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021687s033s040lbl.pdf",
+              "date": "20110608",
+              "type": "Label"
+            },
+            {
+              "id": "28367",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021687s033,s040ltr.pdf",
+              "date": "20110608",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "32",
+          "submission_status": "AP",
+          "submission_status_date": "20091106",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15973",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/021687s032lbl.pdf",
+              "date": "20091123",
+              "type": "Label"
+            },
+            {
+              "id": "28364",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/021687s032ltr.pdf",
+              "date": "20100121",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20061127",
+          "review_priority": "N/A",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "15968",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021687s016lbl.pdf",
+              "date": "20061204",
+              "type": "Label"
+            },
+            {
+              "id": "28360",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/021687s016ltr.pdf",
+              "date": "20061204",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20050603",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5967",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/021687s003ltr.pdf",
+              "date": "20050607",
+              "type": "Letter"
+            },
+            {
+              "id": "37441",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/021687s003lbl.pdf",
+              "date": "20050607",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20090130",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5972",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/021687s030ltr.pdf",
+              "date": "20090203",
+              "type": "Letter"
+            },
+            {
+              "id": "15972",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/021687s030lbl.pdf",
+              "date": "20090204",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20080208",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "37446",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/021687s022lbl.pdf",
+              "date": "20080214",
+              "type": "Label"
+            },
+            {
+              "id": "28362",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/021687s022ltr.pdf",
+              "date": "20080214",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20050216",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "28355",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/021687s001ltr.pdf",
+              "date": "20050217",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "65",
+          "submission_status": "AP",
+          "submission_status_date": "20240208",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "77455",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/021687s061s064s065lbl.pdf",
+              "date": "20240209",
+              "type": "Label"
+            },
+            {
+              "id": "77456",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/021687Orig1s061, s064, s065ltr.pdf",
+              "date": "20240209",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "57",
+          "submission_status": "AP",
+          "submission_status_date": "20170119",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "48430",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/021687Orig1s057.pdf",
+              "date": "20170517",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20061024",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "37443",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021687s010lbl.pdf",
+              "date": "20061025",
+              "type": "Label"
+            },
+            {
+              "id": "5968",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/021687s010ltr.pdf",
+              "date": "20061026",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "63",
+          "submission_status": "AP",
+          "submission_status_date": "20200925",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "64703",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/021687Orig1s061, s064, s065ltr.pdf",
+              "date": "20200928",
+              "type": "Letter"
+            },
+            {
+              "id": "64730",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/021687s063lbl.pdf",
+              "date": "20200929",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "47",
+          "submission_status": "AP",
+          "submission_status_date": "20121031",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "37449",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021687s046s047lbl.pdf",
+              "date": "20121102",
+              "type": "Label"
+            },
+            {
+              "id": "28370",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/021687Orig1s046,s047ltr.pdf",
+              "date": "20121106",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "61",
+          "submission_status": "AP",
+          "submission_status_date": "20240208",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "77450",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/021687Orig1s061, s064, s065ltr.pdf",
+              "date": "20240209",
+              "type": "Letter"
+            },
+            {
+              "id": "77451",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/021687s061s064s065lbl.pdf",
+              "date": "20240209",
+              "type": "Label"
+            },
+            {
+              "id": "77452",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/021687Orig1s061, s064, s065ltr.pdf",
+              "date": "20240209",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "39",
+          "submission_status": "AP",
+          "submission_status_date": "20120124",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "37448",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021687s039lbl.pdf",
+              "date": "20120125",
+              "type": "Label"
+            },
+            {
+              "id": "5975",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/021687s039ltr.pdf",
+              "date": "20120130",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "53",
+          "submission_status": "AP",
+          "submission_status_date": "20150202",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15982",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/021687s053lbl.pdf",
+              "date": "20150203",
+              "type": "Label"
+            },
+            {
+              "id": "28372",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/021687Orig1s053ltr.pdf",
+              "date": "20150203",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA021687",
+      "sponsor_name": "ORGANON",
+      "openfda": {
+        "application_number": [
+          "NDA021687"
+        ],
+        "brand_name": [
+          "VYTORIN"
+        ],
+        "generic_name": [
+          "EZETIMIBE AND SIMVASTATIN"
+        ],
+        "manufacturer_name": [
+          "Organon LLC"
+        ],
+        "product_ndc": [
+          "78206-174",
+          "78206-175",
+          "78206-176",
+          "78206-177"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "EZETIMIBE",
+          "SIMVASTATIN"
+        ],
+        "rxcui": [
+          "476345",
+          "476349",
+          "476350",
+          "476351",
+          "1245420",
+          "1245430",
+          "1245441",
+          "1245449"
+        ],
+        "spl_id": [
+          "9e668c78-ea5d-4099-ba16-b77aebbcb68a"
+        ],
+        "spl_set_id": [
+          "89b860d2-de83-468e-b7e8-76aeec2edca2"
+        ],
+        "package_ndc": [
+          "78206-174-01",
+          "78206-174-02",
+          "78206-175-01",
+          "78206-175-02",
+          "78206-176-01",
+          "78206-176-02",
+          "78206-177-01",
+          "78206-177-02"
+        ],
+        "nui": [
+          "N0000175589",
+          "N0000000121",
+          "N0000008553",
+          "N0000175911"
+        ],
+        "pharm_class_epc": [
+          "HMG-CoA Reductase Inhibitor [EPC]",
+          "Dietary Cholesterol Absorption Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors [MoA]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Cholesterol Absorption [PE]"
+        ],
+        "unii": [
+          "AGG2FN16EV",
+          "EOR26LQQ24"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "VYTORIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "VYTORIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "VYTORIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "VYTORIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170426",
+          "submission_class_code": "N/A",
+          "submission_class_code_description": "Not Applicable"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20210317",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20200129",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA200909",
+      "sponsor_name": "DR REDDYS LABS SA",
+      "openfda": {
+        "application_number": [
+          "ANDA200909"
+        ],
+        "brand_name": [
+          "EZETIMIBE AND SIMVASTATIN"
+        ],
+        "generic_name": [
+          "EZETIMIBE AND SIMVASTATIN"
+        ],
+        "manufacturer_name": [
+          "Dr.Reddys Laboratories Inc"
+        ],
+        "product_ndc": [
+          "43598-742",
+          "43598-744",
+          "43598-743",
+          "43598-745"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "EZETIMIBE",
+          "SIMVASTATIN"
+        ],
+        "rxcui": [
+          "476345",
+          "476349",
+          "476350",
+          "476351"
+        ],
+        "spl_id": [
+          "697ae8a7-2359-455f-9c21-e266f1c31288"
+        ],
+        "spl_set_id": [
+          "023ca87a-1b04-8c17-dc4f-e2758b0771e2"
+        ],
+        "package_ndc": [
+          "43598-742-30",
+          "43598-742-90",
+          "43598-742-10",
+          "43598-744-30",
+          "43598-744-90",
+          "43598-744-10",
+          "43598-743-30",
+          "43598-743-90",
+          "43598-743-05",
+          "43598-745-30",
+          "43598-745-90",
+          "43598-745-05"
+        ],
+        "nui": [
+          "N0000175589",
+          "N0000000121",
+          "N0000008553",
+          "N0000175911"
+        ],
+        "pharm_class_epc": [
+          "HMG-CoA Reductase Inhibitor [EPC]",
+          "Dietary Cholesterol Absorption Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors [MoA]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Cholesterol Absorption [PE]"
+        ],
+        "unii": [
+          "AGG2FN16EV",
+          "EOR26LQQ24"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20240710",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20201217"
+        }
+      ],
+      "application_number": "ANDA200082",
+      "sponsor_name": "AUROBINDO PHARMA USA",
+      "openfda": {
+        "application_number": [
+          "ANDA200082"
+        ],
+        "brand_name": [
+          "EZETIMIBE AND SIMVASTATIN"
+        ],
+        "generic_name": [
+          "EZETIMIBE AND SIMVASTATIN"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "59651-835",
+          "59651-836",
+          "59651-837",
+          "59651-838"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "EZETIMIBE",
+          "SIMVASTATIN"
+        ],
+        "rxcui": [
+          "476345",
+          "476349",
+          "476350",
+          "476351"
+        ],
+        "spl_id": [
+          "0d4244dd-a226-4677-a6b2-6a1b5cd88790"
+        ],
+        "spl_set_id": [
+          "79dadfde-35c7-4937-9c82-1728fb6be2fb"
+        ],
+        "package_ndc": [
+          "59651-835-30",
+          "59651-835-90",
+          "59651-836-30",
+          "59651-836-90",
+          "59651-837-30",
+          "59651-837-90",
+          "59651-838-30",
+          "59651-838-90"
+        ],
+        "nui": [
+          "N0000175589",
+          "N0000000121",
+          "N0000008553",
+          "N0000175911"
+        ],
+        "pharm_class_epc": [
+          "HMG-CoA Reductase Inhibitor [EPC]",
+          "Dietary Cholesterol Absorption Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors [MoA]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Cholesterol Absorption [PE]"
+        ],
+        "unii": [
+          "AGG2FN16EV",
+          "EOR26LQQ24"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20240415",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20231017",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170612",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA208332",
+      "sponsor_name": "APOTEX",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20170928",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "49880",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/200153s005lbl.pdf",
+              "date": "20170929",
+              "type": "Label"
+            },
+            {
+              "id": "49894",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/200153Orig1s005ltr.pdf",
+              "date": "20170929",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20140516",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "40004",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/200153s003lbl.pdf",
+              "date": "20140519",
+              "type": "Label"
+            },
+            {
+              "id": "32008",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/200153Orig1s003ltr.pdf",
+              "date": "20140520",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20130503",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 2/4",
+          "submission_class_code_description": "Type 2 New Active Ingredient and Type 4 New Combination",
+          "application_docs": [
+            {
+              "id": "43341",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2013/200153_liptruzet_toc.html",
+              "date": "20131003",
+              "type": "Review"
+            },
+            {
+              "id": "44819",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2013/200153Orig1s000SumR.pdf",
+              "date": "20131003",
+              "type": "Summary Review"
+            },
+            {
+              "id": "9796",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/200153Orig1s000ltr.pdf",
+              "date": "20130507",
+              "type": "Letter"
+            },
+            {
+              "id": "18946",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/200153s000lbl.pdf",
+              "date": "20130509",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20241028",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "80046",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/200153s009s013s014lbl.pdf",
+              "date": "20241029",
+              "type": "Label"
+            },
+            {
+              "id": "80051",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/200153Orig1s009, 200153Orig1s013, 200153Orig1s014ltr.pdf",
+              "date": "20241030",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20200925",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "64705",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/200153Orig1s012ltr.pdf",
+              "date": "20200928",
+              "type": "Letter"
+            },
+            {
+              "id": "64718",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/200153s012lbl.pdf",
+              "date": "20200929",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20170804",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "49271",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/200153s006lbl.pdf",
+              "date": "20170808",
+              "type": "Label"
+            },
+            {
+              "id": "49280",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/200153Orig1s006ltr.pdf",
+              "date": "20170808",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20140213",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20241028",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "80045",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/200153s009s013s014lbl.pdf",
+              "date": "20241029",
+              "type": "Label"
+            },
+            {
+              "id": "80050",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/200153Orig1s009, 200153Orig1s013, 200153Orig1s014ltr.pdf",
+              "date": "20241030",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20241028",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "80044",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/200153s009s013s014lbl.pdf",
+              "date": "20241029",
+              "type": "Label"
+            },
+            {
+              "id": "80049",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/200153Orig1s009, 200153Orig1s013, 200153Orig1s014ltr.pdf",
+              "date": "20241030",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA200153",
+      "sponsor_name": "ORGANON",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "LIPTRUZET",
+          "active_ingredients": [
+            {
+              "name": "ATORVASTATIN CALCIUM",
+              "strength": "EQ 40MG BASE"
+            },
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "LIPTRUZET",
+          "active_ingredients": [
+            {
+              "name": "ATORVASTATIN CALCIUM",
+              "strength": "EQ 10MG BASE"
+            },
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "LIPTRUZET",
+          "active_ingredients": [
+            {
+              "name": "ATORVASTATIN CALCIUM",
+              "strength": "EQ 80MG BASE"
+            },
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "LIPTRUZET",
+          "active_ingredients": [
+            {
+              "name": "ATORVASTATIN CALCIUM",
+              "strength": "EQ 20MG BASE"
+            },
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190426",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA201790",
+      "sponsor_name": "RISING",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20240610",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20220202",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190627",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20240610",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200124",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA208699",
+      "sponsor_name": "GLENMARK PHARMS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA208699"
+        ],
+        "brand_name": [
+          "EZETIMIBE AND SIMVASTATIN"
+        ],
+        "generic_name": [
+          "EZETIMIBE AND SIMVASTATIN"
+        ],
+        "manufacturer_name": [
+          "Glenmark Pharmaceuticals Inc., USA",
+          "NORTHSTAR RX LLC"
+        ],
+        "product_ndc": [
+          "68462-321",
+          "68462-322",
+          "68462-323",
+          "68462-324",
+          "16714-780",
+          "16714-778",
+          "16714-779",
+          "16714-781"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "EZETIMIBE",
+          "SIMVASTATIN"
+        ],
+        "rxcui": [
+          "476345",
+          "476349",
+          "476350",
+          "476351"
+        ],
+        "spl_id": [
+          "9c80244b-f111-425c-bf4c-c8cc91300cce",
+          "af904a13-cf99-4e52-8225-9074a05445a0"
+        ],
+        "spl_set_id": [
+          "32d0e130-1211-44ca-be60-5379ffec96fd",
+          "52a46269-2262-4052-a3ff-5455523f591f"
+        ],
+        "package_ndc": [
+          "68462-321-90",
+          "68462-321-10",
+          "68462-321-30",
+          "68462-322-30",
+          "68462-322-90",
+          "68462-322-10",
+          "68462-323-30",
+          "68462-323-90",
+          "68462-323-05",
+          "68462-324-30",
+          "68462-324-90",
+          "68462-324-05",
+          "16714-778-01",
+          "16714-778-02",
+          "16714-779-01",
+          "16714-779-02",
+          "16714-780-01",
+          "16714-780-02",
+          "16714-781-01",
+          "16714-781-02"
+        ],
+        "nui": [
+          "N0000175589",
+          "N0000000121",
+          "N0000008553",
+          "N0000175911"
+        ],
+        "pharm_class_epc": [
+          "HMG-CoA Reductase Inhibitor [EPC]",
+          "Dietary Cholesterol Absorption Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors [MoA]"
+        ],
+        "pharm_class_pe": [
+          "Decreased Cholesterol Absorption [PE]"
+        ],
+        "unii": [
+          "AGG2FN16EV",
+          "EOR26LQQ24"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20200124",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20250129",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20190916",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20211001",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170426",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20190916",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA202968",
+      "sponsor_name": "WATSON LABS INC",
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EZETIMIBE AND SIMVASTATIN",
+          "active_ingredients": [
+            {
+              "name": "EZETIMIBE",
+              "strength": "10MG"
+            },
+            {
+              "name": "SIMVASTATIN",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    }
+  ]
+}

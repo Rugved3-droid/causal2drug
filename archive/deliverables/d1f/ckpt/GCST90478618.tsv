@@ -1,0 +1,5 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+FAAH	D011472	Prostatitis	GCST90478618	DOWN	8									0							no_overlap_after_harmonization
+PTGS1	D011472	Prostatitis	GCST90478618	DOWN	2									0							no_overlap_after_harmonization
+PTGS2	D011472	Prostatitis	GCST90478618	DOWN	2									0							no_overlap_after_harmonization
+VDR	D011472	Prostatitis	GCST90478618	UP	4									0							no_overlap_after_harmonization

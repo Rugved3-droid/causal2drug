@@ -1,0 +1,6559 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 52
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230606",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA212515",
+      "sponsor_name": "ZYDUS PHARMS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB2"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240315",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "78274",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/218232Orig1s000ltr.pdf",
+              "date": "20240426",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA218232",
+      "sponsor_name": "ZYDUS LIFESCIENCES",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FINASTERIDE AND TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "FINASTERIDE",
+              "strength": "5MG"
+            },
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20191007",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA207244",
+      "sponsor_name": "MACLEODS PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA207244"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Macleods Pharmaceuticals Limited"
+        ],
+        "product_ndc": [
+          "33342-265",
+          "33342-266",
+          "33342-267",
+          "33342-268"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814",
+          "757707"
+        ],
+        "spl_id": [
+          "1bc04765-18de-40fc-a680-fbe55aad1cf2"
+        ],
+        "spl_set_id": [
+          "4348b7db-e5b2-4e87-8cdd-674797a18890"
+        ],
+        "package_ndc": [
+          "33342-265-07",
+          "33342-265-44",
+          "33342-266-07",
+          "33342-266-44",
+          "33342-267-07",
+          "33342-267-44",
+          "33342-268-07",
+          "33342-268-44"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20210211",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190205",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210145",
+      "sponsor_name": "DR REDDYS",
+      "openfda": {
+        "application_number": [
+          "ANDA210145"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Dr.Reddys Laboratories Inc"
+        ],
+        "product_ndc": [
+          "43598-578"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "2123194"
+        ],
+        "spl_id": [
+          "e0893959-da34-2bf9-3a3e-3b89974f13dd"
+        ],
+        "spl_set_id": [
+          "61955171-ca57-e300-1983-9472a56ca976"
+        ],
+        "package_ndc": [
+          "43598-578-30",
+          "43598-578-60"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA211839",
+      "sponsor_name": "TORRENT",
+      "openfda": {
+        "application_number": [
+          "ANDA211839"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Torrent Pharmaceuticals Limited"
+        ],
+        "product_ndc": [
+          "13668-565",
+          "13668-566",
+          "13668-567",
+          "13668-568"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814",
+          "757707"
+        ],
+        "spl_id": [
+          "8d94d098-d4f5-488c-8cc9-d21f32b727ec"
+        ],
+        "spl_set_id": [
+          "3ea7612b-b004-43ef-accc-34c8ec5146b8"
+        ],
+        "package_ndc": [
+          "13668-565-30",
+          "13668-565-05",
+          "13668-566-30",
+          "13668-566-05",
+          "13668-567-30",
+          "13668-567-05",
+          "13668-568-30",
+          "13668-568-05"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20230607",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20191016",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20210211",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA207290",
+      "sponsor_name": "MACLEODS PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA207290"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Macleods Pharmaceuticals Limited"
+        ],
+        "product_ndc": [
+          "33342-278"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "2123194"
+        ],
+        "spl_id": [
+          "8b7e0bf0-c13c-4d67-ba78-68fc6ef8b9b2"
+        ],
+        "spl_set_id": [
+          "93dd604f-8f38-4600-afe8-0fcc92fd2497"
+        ],
+        "package_ndc": [
+          "33342-278-07",
+          "33342-278-09"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA209167",
+      "sponsor_name": "ACCORD HLTHCARE",
+      "openfda": {
+        "application_number": [
+          "ANDA209167"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Accord Healthcare Inc."
+        ],
+        "product_ndc": [
+          "16729-369",
+          "16729-370",
+          "16729-371",
+          "16729-372"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814",
+          "757707"
+        ],
+        "spl_id": [
+          "4f99c59f-9b38-f54a-e063-6294a90a60ee"
+        ],
+        "spl_set_id": [
+          "eedf3ad9-7d40-496d-b1a9-6200010c18e1"
+        ],
+        "package_ndc": [
+          "16729-370-10",
+          "16729-370-15",
+          "16729-370-16",
+          "16729-370-17",
+          "16729-370-97",
+          "16729-369-10",
+          "16729-369-15",
+          "16729-369-16",
+          "16729-369-17",
+          "16729-369-97",
+          "16729-371-10",
+          "16729-371-15",
+          "16729-371-16",
+          "16729-371-17",
+          "16729-372-10",
+          "16729-372-15",
+          "16729-372-16",
+          "16729-372-17"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190429",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20220518",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA206956",
+      "sponsor_name": "RISING",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220617",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "application_docs": [
+            {
+              "id": "71384",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/214522Orig1s000ltr.pdf",
+              "date": "20220621",
+              "type": "Letter"
+            },
+            {
+              "id": "71416",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2022/214522s000lbl.pdf",
+              "date": "20220621",
+              "type": "Label"
+            },
+            {
+              "id": "73561",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/214522Orig1s000TOC.html",
+              "date": "20230221",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA214522",
+      "sponsor_name": "CMP DEV LLC",
+      "openfda": {
+        "application_number": [
+          "NDA214522"
+        ],
+        "brand_name": [
+          "TADLIQ"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "CMP Pharma, Inc."
+        ],
+        "product_ndc": [
+          "46287-045"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "2613563",
+          "2613569"
+        ],
+        "spl_id": [
+          "cf6ec62b-5d5e-49ed-8d46-8a759d0e2b93"
+        ],
+        "spl_set_id": [
+          "7a909b25-3772-403e-a5fe-e4a040293fb7"
+        ],
+        "package_ndc": [
+          "46287-045-15"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "TADLIQ",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG/5ML"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SUSPENSION",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20220518",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190429",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA206957",
+      "sponsor_name": "PHARMOBEDIENT",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20201027",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA208824",
+      "sponsor_name": "HANGZHOU BINJIANG",
+      "openfda": {
+        "application_number": [
+          "ANDA208824"
+        ],
+        "brand_name": [
+          "N/A"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Bostal LLC"
+        ],
+        "product_ndc": [
+          "35561-254",
+          "35561-255",
+          "35561-256",
+          "35561-257"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814",
+          "757707"
+        ],
+        "spl_id": [
+          "49fc9e85-3dc2-064f-e063-6294a90af582"
+        ],
+        "spl_set_id": [
+          "78509a43-a907-4359-9022-f38c4f765880"
+        ],
+        "package_ndc": [
+          "35561-254-10",
+          "35561-254-13",
+          "35561-255-10",
+          "35561-255-13",
+          "35561-256-10",
+          "35561-256-13",
+          "35561-257-10",
+          "35561-257-13"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "56492",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/209539Orig1s000TAltr.pdf",
+              "date": "20181116",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA209539",
+      "sponsor_name": "CIPLA",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20220401",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210567",
+      "sponsor_name": "LUPIN",
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20210129",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190205",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210572",
+      "sponsor_name": "CHARTWELL RX",
+      "openfda": {
+        "application_number": [
+          "ANDA210572"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Lupin Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "68180-914"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "2123194"
+        ],
+        "spl_id": [
+          "0c0d591e-f35b-4e3d-bdcb-7d3a1c8e6a2f"
+        ],
+        "spl_set_id": [
+          "efa03afa-c412-4b31-bf26-7c3a6f7311af"
+        ],
+        "package_ndc": [
+          "68180-914-06",
+          "68180-914-07"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20230424",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190205",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA209907",
+      "sponsor_name": "HETERO LABS LTD III",
+      "openfda": {
+        "application_number": [
+          "ANDA209907"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Camber Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "31722-647"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "2123194"
+        ],
+        "spl_id": [
+          "0b3039c8-da1b-416b-e063-6294a90ae7c2"
+        ],
+        "spl_set_id": [
+          "dc0a6a03-5ef1-4507-b888-5b559653c3e9"
+        ],
+        "package_ndc": [
+          "31722-647-30",
+          "31722-647-31",
+          "31722-647-60"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA209908",
+      "sponsor_name": "HETERO LABS LTD III",
+      "openfda": {
+        "application_number": [
+          "ANDA209908"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Camber Pharmaceuticals, Inc.",
+          "XLCare Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "31722-643",
+          "31722-644",
+          "31722-645",
+          "31722-646",
+          "72865-104",
+          "72865-106",
+          "72865-107",
+          "72865-108"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814",
+          "757707"
+        ],
+        "spl_id": [
+          "a3892605-4eb1-4d6e-a675-f7f7d4302f38",
+          "28d63724-c672-207c-e063-6294a90af28d"
+        ],
+        "spl_set_id": [
+          "a3892605-4eb1-4d6e-a675-f7f7d4302f38",
+          "add6afb8-d38c-47a2-8c35-d5940667bb0c"
+        ],
+        "package_ndc": [
+          "31722-643-30",
+          "31722-643-31",
+          "31722-644-30",
+          "31722-644-31",
+          "31722-645-30",
+          "31722-645-31",
+          "31722-646-30",
+          "31722-646-31",
+          "72865-104-30",
+          "72865-106-30",
+          "72865-107-30",
+          "72865-108-30"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20260817",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210592",
+      "sponsor_name": "JUBILANT GENERICS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240304",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20241204",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA216279",
+      "sponsor_name": "SHANDONG",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20211209",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 4",
+          "submission_class_code_description": "Type 4 - New Combination",
+          "application_docs": [
+            {
+              "id": "69534",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/215423s000lbl.pdf",
+              "date": "20211213",
+              "type": "Label"
+            },
+            {
+              "id": "69573",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/215423Orig1s000ltr.pdf",
+              "date": "20211215",
+              "type": "Letter"
+            },
+            {
+              "id": "71874",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/215423Orig1s000TOC.html",
+              "date": "20220824",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA215423",
+      "sponsor_name": "BLUE WATER BIOTECH",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ENTADFI",
+          "active_ingredients": [
+            {
+              "name": "FINASTERIDE",
+              "strength": "5MG"
+            },
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20200915",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "64580",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/022332Orig1s011ltr.pdf",
+              "date": "20200921",
+              "type": "Letter"
+            },
+            {
+              "id": "64629",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/022332Orig1s011lbl.pdf",
+              "date": "20201006",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20140429",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "17252",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/022332s006lbl.pdf",
+              "date": "20140502",
+              "type": "Label"
+            },
+            {
+              "id": "29608",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/022332Orig1s006ltr.pdf",
+              "date": "20140430",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20090522",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 6",
+          "submission_class_code_description": "Type 6 - New Indication (no longer used)",
+          "application_docs": [
+            {
+              "id": "7247",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/022332s000ltr.pdf",
+              "date": "20090529",
+              "type": "Letter"
+            },
+            {
+              "id": "17251",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/022332lbl.pdf",
+              "date": "20090525",
+              "type": "Label"
+            },
+            {
+              "id": "21996",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2009/022332_adcirca_toc.html",
+              "date": "20090803",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20170505",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "48305",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/022332Orig1s009ltr.pdf",
+              "date": "20170509",
+              "type": "Letter"
+            },
+            {
+              "id": "48333",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/022332s009lbl.pdf",
+              "date": "20170509",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20150402",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "7249",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/022332Orig1s007ltr.pdf",
+              "date": "20150403",
+              "type": "Letter"
+            },
+            {
+              "id": "17253",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/022332s007lbl.pdf",
+              "date": "20150407",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20131120",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "38589",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/022332s005lbl.pdf",
+              "date": "20131122",
+              "type": "Label"
+            },
+            {
+              "id": "29607",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/022332Orig1s005ltr.pdf",
+              "date": "20131125",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20110208",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "38588",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022332s003lbl.pdf",
+              "date": "20110209",
+              "type": "Label"
+            },
+            {
+              "id": "7248",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022332s003ltr.pdf",
+              "date": "20110214",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA022332",
+      "sponsor_name": "ELI LILLY CO",
+      "openfda": {
+        "application_number": [
+          "NDA022332"
+        ],
+        "brand_name": [
+          "ADCIRCA"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "United Therapeutics Corporation"
+        ],
+        "product_ndc": [
+          "66302-467"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "849866",
+          "2123194"
+        ],
+        "spl_id": [
+          "76c30323-0981-499c-b552-1a43f01c89c8"
+        ],
+        "spl_set_id": [
+          "ff61b237-be8e-461b-8114-78c52a8ad0ae"
+        ],
+        "package_ndc": [
+          "66302-467-60"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ADCIRCA",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20210929",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180803",
+          "submission_class_code": "N/A",
+          "submission_class_code_description": "Not Applicable",
+          "application_docs": [
+            {
+              "id": "55623",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/200630Orig1s000ltr.pdf",
+              "date": "20180927",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA200630",
+      "sponsor_name": "PHARMOBEDIENT",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA209250",
+      "sponsor_name": "UNICHEM",
+      "openfda": {
+        "application_number": [
+          "ANDA209250"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Unichem Pharmaceuticals (USA), Inc."
+        ],
+        "product_ndc": [
+          "29300-286",
+          "29300-287",
+          "29300-288",
+          "29300-289"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814",
+          "757707"
+        ],
+        "spl_id": [
+          "6fee8842-9e23-43d9-a4ff-4e147bf9f6a1"
+        ],
+        "spl_set_id": [
+          "a7b3937e-ff03-436a-a5d4-92a4771034b6"
+        ],
+        "package_ndc": [
+          "29300-286-13",
+          "29300-286-01",
+          "29300-286-05",
+          "29300-286-51",
+          "29300-286-82",
+          "29300-287-13",
+          "29300-287-01",
+          "29300-287-05",
+          "29300-287-51",
+          "29300-287-82",
+          "29300-288-13",
+          "29300-288-01",
+          "29300-288-05",
+          "29300-289-13",
+          "29300-289-01",
+          "29300-289-05"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20221216",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220811",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210608",
+      "sponsor_name": "PRINSTON INC",
+      "openfda": {
+        "application_number": [
+          "ANDA210608"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "AvKARE",
+          "Solco Healthcare US, LLC"
+        ],
+        "product_ndc": [
+          "73190-032",
+          "43547-990"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "2123194"
+        ],
+        "spl_id": [
+          "3c1c1b65-f5b9-62b0-e063-6294a90a1021",
+          "cbd34687-3609-49a9-a308-792d447dfe57"
+        ],
+        "spl_set_id": [
+          "3c1c2136-099f-6232-e063-6294a90a6975",
+          "9489b635-385e-4a05-be02-df39fcafebe3"
+        ],
+        "package_ndc": [
+          "73190-032-60",
+          "43547-990-06",
+          "43547-990-50"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220811",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230127",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA210609",
+      "sponsor_name": "PRINSTON INC",
+      "openfda": {
+        "application_number": [
+          "ANDA210609"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Solco Healthcare US, LLC"
+        ],
+        "product_ndc": [
+          "43547-030",
+          "43547-031",
+          "43547-032",
+          "43547-033",
+          "43547-047",
+          "43547-049",
+          "43547-050",
+          "43547-051"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814",
+          "757707"
+        ],
+        "spl_id": [
+          "bdb087ff-a428-434e-b23b-0437f8672219",
+          "b7c42c71-e6fa-4e5d-afe3-617dc236a69f"
+        ],
+        "spl_set_id": [
+          "491cb72b-71f2-4df9-99f8-c02d93500103",
+          "05640a4d-afb7-42ae-a5bb-77dbc8412356"
+        ],
+        "package_ndc": [
+          "43547-030-03",
+          "43547-030-50",
+          "43547-031-03",
+          "43547-031-50",
+          "43547-032-03",
+          "43547-032-50",
+          "43547-033-03",
+          "43547-033-50",
+          "43547-047-03",
+          "43547-047-50",
+          "43547-047-11",
+          "43547-049-03",
+          "43547-049-50",
+          "43547-049-11",
+          "43547-050-03",
+          "43547-050-50",
+          "43547-050-11",
+          "43547-051-03",
+          "43547-051-50",
+          "43547-051-11"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190205",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20210317",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA210255",
+      "sponsor_name": "CIPLA",
+      "openfda": {
+        "application_number": [
+          "ANDA210255"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Cipla USA Inc."
+        ],
+        "product_ndc": [
+          "69097-526"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "2123194"
+        ],
+        "spl_id": [
+          "f5c8b23e-51e5-4264-8328-437c9d11939a"
+        ],
+        "spl_set_id": [
+          "cf6fc925-ad20-4ed0-9356-15d24afa8d0b"
+        ],
+        "package_ndc": [
+          "69097-526-03",
+          "69097-526-16"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20220328",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190205",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA209942",
+      "sponsor_name": "TEVA PHARMS USA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ALYQ",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20201023",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA211298",
+      "sponsor_name": "UMEDICA",
+      "openfda": {
+        "application_number": [
+          "ANDA211298"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Umedica Laboratories USA Inc.",
+          "NorthStar Rx, LLC",
+          "NIVAGEN PHARMACEUTICALS, INC."
+        ],
+        "product_ndc": [
+          "60290-027",
+          "60290-028",
+          "60290-029",
+          "60290-030",
+          "72603-781",
+          "72603-782",
+          "72603-783",
+          "72603-784",
+          "75834-247",
+          "75834-248",
+          "75834-249",
+          "75834-250"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814",
+          "757707"
+        ],
+        "spl_id": [
+          "50582108-5bae-7795-e063-6294a90aa191",
+          "57cf3737-88bc-699a-e063-6294a90a3223",
+          "45810509-9e49-3ee2-e063-6394a90aa944"
+        ],
+        "spl_set_id": [
+          "6caf3b55-9bf4-4355-9e25-8bf368943fdd",
+          "a10d464a-6ea7-4e5a-befa-71eceacc5039",
+          "ca1d46e3-ad9b-48c7-bb7f-63ee678ccf7a"
+        ],
+        "package_ndc": [
+          "60290-027-01",
+          "60290-027-02",
+          "60290-027-03",
+          "60290-027-04",
+          "60290-028-01",
+          "60290-028-02",
+          "60290-028-03",
+          "60290-028-04",
+          "60290-029-01",
+          "60290-029-02",
+          "60290-029-03",
+          "60290-029-04",
+          "60290-030-01",
+          "60290-030-02",
+          "60290-030-03",
+          "60290-030-04",
+          "60290-030-05",
+          "72603-781-01",
+          "72603-782-01",
+          "72603-783-01",
+          "72603-784-01",
+          "75834-247-30",
+          "75834-247-01",
+          "75834-247-15",
+          "75834-248-30",
+          "75834-248-01",
+          "75834-248-15",
+          "75834-249-30",
+          "75834-249-01",
+          "75834-249-10",
+          "75834-250-30",
+          "75834-250-01",
+          "75834-250-10"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190329",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20240822",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA205885",
+      "sponsor_name": "WATSON LABS INC",
+      "openfda": {
+        "application_number": [
+          "ANDA205885"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "0480-2309",
+          "0480-2310",
+          "0480-2311"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814"
+        ],
+        "spl_id": [
+          "479a6627-95ab-49f9-9706-815c976e7919"
+        ],
+        "spl_set_id": [
+          "3ad14d63-42e7-493f-b56c-e02a4fd139f7"
+        ],
+        "package_ndc": [
+          "0480-2309-56",
+          "0480-2310-56",
+          "0480-2311-56"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20220524",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA206693",
+      "sponsor_name": "ZYDUS PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA206693"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Zydus Pharmaceuticals USA Inc.",
+          "Zydus Lifesciences Limited"
+        ],
+        "product_ndc": [
+          "68382-896",
+          "68382-898",
+          "68382-899",
+          "68382-897",
+          "70771-1475",
+          "70771-1477",
+          "70771-1478",
+          "70771-1476"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814",
+          "757707"
+        ],
+        "spl_id": [
+          "5a958db7-5c0e-4cf0-9227-230886cf9bf8",
+          "89266030-a1a1-4825-b9f0-9400886b6282"
+        ],
+        "spl_set_id": [
+          "cfe43ab8-8721-4db8-8810-f0072cf8f4d3",
+          "6c1c3a1f-80a4-417c-8830-5edbb9a0710f"
+        ],
+        "package_ndc": [
+          "68382-896-06",
+          "68382-896-16",
+          "68382-896-01",
+          "68382-896-05",
+          "68382-896-10",
+          "68382-896-99",
+          "68382-898-06",
+          "68382-898-16",
+          "68382-898-01",
+          "68382-898-05",
+          "68382-898-10",
+          "68382-898-99",
+          "68382-899-06",
+          "68382-899-16",
+          "68382-899-01",
+          "68382-899-05",
+          "68382-899-10",
+          "68382-899-99",
+          "68382-897-50",
+          "68382-897-06",
+          "68382-897-16",
+          "68382-897-01",
+          "68382-897-05",
+          "68382-897-10",
+          "68382-897-99",
+          "70771-1475-3",
+          "70771-1475-9",
+          "70771-1475-1",
+          "70771-1475-5",
+          "70771-1475-0",
+          "70771-1475-4",
+          "70771-1477-3",
+          "70771-1477-9",
+          "70771-1477-1",
+          "70771-1477-5",
+          "70771-1477-0",
+          "70771-1477-4",
+          "70771-1478-3",
+          "70771-1478-9",
+          "70771-1478-1",
+          "70771-1478-5",
+          "70771-1478-0",
+          "70771-1478-4",
+          "70771-1476-7",
+          "70771-1476-3",
+          "70771-1476-9",
+          "70771-1476-1",
+          "70771-1476-5",
+          "70771-1476-0",
+          "70771-1476-4"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190205",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "54454",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/206286Orig1s000ltr.pdf",
+              "date": "20180605",
+              "type": "Letter"
+            },
+            {
+              "id": "32789",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/206286Orig1s000TAltr.pdf",
+              "date": "20151020",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20210413",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA206286",
+      "sponsor_name": "AUROBINDO PHARMA LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA206286"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "65862-880"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "2123194"
+        ],
+        "spl_id": [
+          "0e0e7730-aefd-4208-ad81-74fc8f114a13"
+        ],
+        "spl_set_id": [
+          "a0ecc7cf-20dd-485a-b4dd-1bbc587280a7"
+        ],
+        "package_ndc": [
+          "65862-880-60"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20260825",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA208934",
+      "sponsor_name": "SUN PHARM",
+      "openfda": {
+        "application_number": [
+          "ANDA208934"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "NorthStar RxLLC",
+          "Sun Pharmaceutical Industries, Inc."
+        ],
+        "product_ndc": [
+          "16714-074",
+          "16714-075",
+          "16714-076",
+          "16714-077",
+          "47335-009",
+          "47335-010",
+          "47335-011",
+          "47335-012"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814",
+          "757707"
+        ],
+        "spl_id": [
+          "2b1383b3-acce-43df-9aad-2d92c439b80f",
+          "5f176ab2-0dba-4418-8aee-27a110ed6396"
+        ],
+        "spl_set_id": [
+          "594acc15-a5bc-43b5-9659-a864b2c46eea",
+          "168a135b-1454-4def-9b03-c9a470bfcb5f"
+        ],
+        "package_ndc": [
+          "16714-074-01",
+          "16714-074-02",
+          "16714-075-01",
+          "16714-076-01",
+          "16714-077-01",
+          "47335-009-64",
+          "47335-010-64",
+          "47335-010-83",
+          "47335-011-83",
+          "47335-012-83"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "54455",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/206285Orig1s000ltr.pdf",
+              "date": "20180605",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20220527",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA206285",
+      "sponsor_name": "AUROBINDO PHARMA LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA206285"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "65862-850",
+          "65862-851",
+          "65862-852",
+          "65862-853"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814",
+          "757707"
+        ],
+        "spl_id": [
+          "44ab9fdc-f741-47c8-9570-8d24b0f0d106"
+        ],
+        "spl_set_id": [
+          "0345b81b-f946-4dd6-b49d-2a2bdd4c49c9"
+        ],
+        "package_ndc": [
+          "65862-850-30",
+          "65862-850-32",
+          "65862-851-30",
+          "65862-851-32",
+          "65862-852-30",
+          "65862-852-05",
+          "65862-852-99",
+          "65862-853-30",
+          "65862-853-05",
+          "65862-853-99"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20210107",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA211335",
+      "sponsor_name": "SUNSHINE",
+      "openfda": {
+        "application_number": [
+          "ANDA211335"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "HEC Pharm USA Inc."
+        ],
+        "product_ndc": [
+          "72303-0822",
+          "72303-0823",
+          "72303-0824",
+          "72303-0825"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814",
+          "757707"
+        ],
+        "spl_id": [
+          "4c53221b-7a21-9531-e063-6294a90a9ac4"
+        ],
+        "spl_set_id": [
+          "a0f728b6-2cc6-cb65-e053-2a95a90ab142"
+        ],
+        "package_ndc": [
+          "72303-0822-1",
+          "72303-0823-1",
+          "72303-0824-1",
+          "72303-0825-1",
+          "72303-0825-2"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240813",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA217606",
+      "sponsor_name": "RISING",
+      "openfda": {
+        "application_number": [
+          "ANDA217606"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "FOURRTS (INDIA) LABORATORIES PRIVATE LIMITED"
+        ],
+        "product_ndc": [
+          "82968-001",
+          "82968-002",
+          "82968-003",
+          "82968-005"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814",
+          "757707"
+        ],
+        "spl_id": [
+          "464c2d55-32ca-db41-e063-6294a90a9103"
+        ],
+        "spl_set_id": [
+          "0ea97208-5afc-4943-b35c-ea850203a794"
+        ],
+        "package_ndc": [
+          "82968-002-01",
+          "82968-002-02",
+          "82968-003-01",
+          "82968-001-03",
+          "82968-005-01"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20230215",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180522",
+          "application_docs": [
+            {
+              "id": "50724",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/090141Orig1s000TAltr.pdf",
+              "date": "20171218",
+              "type": "Letter"
+            },
+            {
+              "id": "54440",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/090141Orig1s000ltr.pdf",
+              "date": "20180605",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA090141",
+      "sponsor_name": "TEVA PHARMS USA",
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20241212",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "application_docs": [
+            {
+              "id": "80567",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/204410Orig1s030;218490Orig1s001ltr.pdf",
+              "date": "20241213",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240322",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 4",
+          "submission_class_code_description": "Type 4 - New Combination",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "77953",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/218490Orig1s000ltr.pdf",
+              "date": "20240325",
+              "type": "Letter"
+            },
+            {
+              "id": "77957",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/218490s000lbl.pdf",
+              "date": "20240325",
+              "type": "Label"
+            },
+            {
+              "id": "77958",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/218490s000lbl.pdf#page=32",
+              "date": "20240325",
+              "type": "Medication Guide"
+            },
+            {
+              "id": "79983",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/218490Orig1s000TOC.html",
+              "date": "20241025",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20250402",
+          "review_priority": "N/A",
+          "submission_class_code": "REMS",
+          "submission_class_code_description": "REMS",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "81822",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2025/218490s002lbl.pdf",
+              "date": "20250403",
+              "type": "Label"
+            },
+            {
+              "id": "81891",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/204410Orig1s031; 218490Orig1s002ltr.pdf",
+              "date": "20250408",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA218490",
+      "sponsor_name": "ACTELION",
+      "openfda": {
+        "application_number": [
+          "NDA218490"
+        ],
+        "brand_name": [
+          "OPSYNVI"
+        ],
+        "generic_name": [
+          "MACITENTAN AND TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Actelion Pharmaceuticals US, Inc."
+        ],
+        "product_ndc": [
+          "66215-812",
+          "66215-814"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "MACITENTAN",
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "2677765",
+          "2677771",
+          "2677773",
+          "2677775"
+        ],
+        "spl_id": [
+          "32840e17-39b6-50b2-e063-6394a90a7a37"
+        ],
+        "spl_set_id": [
+          "6945b183-18d3-40de-afd1-c88e33cc1a63"
+        ],
+        "package_ndc": [
+          "66215-814-30",
+          "66215-814-01",
+          "66215-814-10",
+          "66215-812-07",
+          "66215-812-30",
+          "66215-812-01",
+          "66215-812-08"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026",
+          "N0000175581",
+          "N0000175364"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]",
+          "Endothelin Receptor Antagonist [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]",
+          "Endothelin Receptor Antagonists [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT",
+          "Z9K9Y9WMVL"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "OPSYNVI",
+          "active_ingredients": [
+            {
+              "name": "MACITENTAN",
+              "strength": "10MG"
+            },
+            {
+              "name": "TADALAFIL",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "OPSYNVI",
+          "active_ingredients": [
+            {
+              "name": "MACITENTAN",
+              "strength": "10MG"
+            },
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20220610",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA209654",
+      "sponsor_name": "AJANTA PHARMA LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA209654"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Quallent Pharmaceuticals Health LLC",
+          "Ajanta Pharma USA Inc."
+        ],
+        "product_ndc": [
+          "82009-077",
+          "82009-079",
+          "27241-111",
+          "27241-112",
+          "27241-113",
+          "27241-114"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814",
+          "757707"
+        ],
+        "spl_id": [
+          "01775afe-20a4-476e-8c27-f4d83a6d925c",
+          "4e9e209a-9f87-41cb-a7ac-a1fbf5412995"
+        ],
+        "spl_set_id": [
+          "dc14daa3-cae9-4751-9034-b0e9c18054b4",
+          "7e4cdac1-42cc-4038-a86b-4890962ed806"
+        ],
+        "package_ndc": [
+          "82009-077-05",
+          "82009-079-05",
+          "27241-111-03",
+          "27241-111-05",
+          "27241-112-03",
+          "27241-112-05",
+          "27241-113-03",
+          "27241-113-05",
+          "27241-114-03",
+          "27241-114-05"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250319",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA218499",
+      "sponsor_name": "NOVITIUM PHARMA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "FINASTERIDE AND TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "FINASTERIDE",
+              "strength": "5MG"
+            },
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20260515",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210329",
+      "sponsor_name": "JUBILANT GENERICS",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230303",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA215949",
+      "sponsor_name": "NOVITIUM PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA215949"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "ANI Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "70954-433",
+          "70954-434",
+          "70954-435"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814"
+        ],
+        "spl_id": [
+          "1dace1e7-c617-492f-bb0d-141bf4e673db"
+        ],
+        "spl_set_id": [
+          "1dace1e7-c617-492f-bb0d-141bf4e673db"
+        ],
+        "package_ndc": [
+          "70954-433-10",
+          "70954-434-10",
+          "70954-435-10"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240628",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form",
+          "application_docs": [
+            {
+              "id": "78945",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/218527s000lbl.pdf",
+              "date": "20240701",
+              "type": "Label"
+            },
+            {
+              "id": "78964",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/218527Orig1s000ltr.pdf",
+              "date": "20240702",
+              "type": "Letter"
+            },
+            {
+              "id": "82079",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/218527Orig1s000TOC.html",
+              "date": "20250501",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA218527",
+      "sponsor_name": "B BETTER",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "CHEWTADZY",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "CHEWTADZY",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "CHEWTADZY",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, CHEWABLE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20201123",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213496",
+      "sponsor_name": "SUNSHINE",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20211104",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA215556",
+      "sponsor_name": "VKT PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA215556"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Burel Pharmaceuticals, LLC",
+          "VKT Pharma Private Limited"
+        ],
+        "product_ndc": [
+          "35573-460",
+          "35573-461",
+          "35573-462",
+          "35573-463",
+          "71821-006",
+          "71821-007",
+          "71821-008",
+          "71821-009"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814",
+          "757707"
+        ],
+        "spl_id": [
+          "da1eee2b-ebe6-4af3-ad52-2b349a360a9a",
+          "d0fb5849-3fc9-11d3-e053-2995a90a5bbc"
+        ],
+        "spl_set_id": [
+          "a2e7f393-5cfc-45e5-b87d-9e8abc8e4355",
+          "b4d9851c-5c06-4532-bd82-16d92b60c28f"
+        ],
+        "package_ndc": [
+          "35573-460-38",
+          "35573-460-56",
+          "35573-461-30",
+          "35573-462-30",
+          "35573-463-30",
+          "71821-006-01",
+          "71821-007-02",
+          "71821-007-01",
+          "71821-008-01",
+          "71821-009-01"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20210126",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA212062",
+      "sponsor_name": "TORRENT",
+      "openfda": {
+        "application_number": [
+          "ANDA212062"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Torrent Pharmaceuticals Limited"
+        ],
+        "product_ndc": [
+          "13668-581"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "2123194"
+        ],
+        "spl_id": [
+          "1f85153f-5d3a-40d8-8570-1d969f4efa3c"
+        ],
+        "spl_set_id": [
+          "88132351-7fee-47ef-8007-ef2777543299"
+        ],
+        "package_ndc": [
+          "13668-581-30",
+          "13668-581-60"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20201229",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210716",
+      "sponsor_name": "CHARTWELL RX",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20050331",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15322",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/021368s004,005lbl.pdf",
+              "date": "20050406",
+              "type": "Label"
+            },
+            {
+              "id": "27618",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/021368s004,005ltr.pdf",
+              "date": "20050406",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20031121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "36785",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2003/021368lbl.pdf",
+              "date": "20031121",
+              "type": "Label"
+            },
+            {
+              "id": "42124",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-368_Cialis.html",
+              "date": "20040308",
+              "type": "Review"
+            },
+            {
+              "id": "43569",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2003/021368ppilbl.pdf",
+              "date": "20031121",
+              "type": "Patient Package Insert"
+            },
+            {
+              "id": "44119",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm118686.htm",
+              "date": "20050728",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "52349",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/N021368tadalafilAmend1.pdf",
+              "date": "20171116",
+              "type": "Pediatric Written Request"
+            },
+            {
+              "id": "52350",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/N021368_tadalafil_Amend_2.pdf",
+              "date": "20171116",
+              "type": "Pediatric Amendment 2"
+            },
+            {
+              "id": "52351",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/N021368_tadalafil_Amend_3.pdf",
+              "date": "20171116",
+              "type": "Pediatric Amendment 3"
+            },
+            {
+              "id": "5200",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/21368ltr.pdf",
+              "date": "20031121",
+              "type": "Letter"
+            },
+            {
+              "id": "53531",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/N021368tadalafilAmend1.pdf",
+              "date": "19000101",
+              "type": "Pediatric Amendment 1"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20160712",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20150916",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5210",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/021368Orig1s026ltr.pdf",
+              "date": "20150917",
+              "type": "Letter"
+            },
+            {
+              "id": "15333",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/021368s026lbl.pdf",
+              "date": "20150923",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20180215",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "52660",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/021368s030lbl.pdf",
+              "date": "20180216",
+              "type": "Label"
+            },
+            {
+              "id": "52707",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/021368Orig1s030ltr.pdf",
+              "date": "20180223",
+              "type": "Letter"
+            },
+            {
+              "id": "54083",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/245_21368S30 tadalafil clinical bpca.pdf",
+              "date": "19000101",
+              "type": "Pediatric Medical Review"
+            },
+            {
+              "id": "54084",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/244_21368S30 tadalafil clinpharm bpca.pdf",
+              "date": "19000101",
+              "type": "Pediatric Clinical Pharmacology Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20131010",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "5209",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/021368Orig1s022ltr.pdf",
+              "date": "20131011",
+              "type": "Letter"
+            },
+            {
+              "id": "36787",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021368s022lbl.pdf",
+              "date": "20131017",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20111006",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "36786",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021368s20s21lbl.pdf",
+              "date": "20111007",
+              "type": "Label"
+            },
+            {
+              "id": "5208",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021368s020,s021ltr.pdf",
+              "date": "20111012",
+              "type": "Letter"
+            },
+            {
+              "id": "21624",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/021368Orig1s020.pdf",
+              "date": "20140117",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20071018",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5205",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/021368s012ltr.pdf",
+              "date": "20071022",
+              "type": "Letter"
+            },
+            {
+              "id": "15329",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/021368s012lbl.pdf",
+              "date": "20071018",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20060307",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15325",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021368s008lbl.pdf",
+              "date": "20060310",
+              "type": "Label"
+            },
+            {
+              "id": "27620",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/021368s008ltr.pdf",
+              "date": "20060323",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20061023",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15327",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021368s009,s010lbl.pdf",
+              "date": "20061025",
+              "type": "Label"
+            },
+            {
+              "id": "27621",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/021368s009, s010ltr.pdf",
+              "date": "20061026",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20050708",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5202",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/021368s006ltr.pdf",
+              "date": "20050715",
+              "type": "Letter"
+            },
+            {
+              "id": "15323",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/021368s006lbl.pdf",
+              "date": "20050708",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20050331",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5201",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/021368s004,005ltr.pdf",
+              "date": "20050406",
+              "type": "Letter"
+            },
+            {
+              "id": "15321",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/021368s004,005lbl.pdf",
+              "date": "20050406",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "20170505",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "48269",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/021368s029lbl.pdf",
+              "date": "20170508",
+              "type": "Label"
+            },
+            {
+              "id": "48306",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/021368Orig1s029ltr.pdf",
+              "date": "20170509",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20160422",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5211",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/021368Orig1s027ltr.pdf",
+              "date": "20160426",
+              "type": "Letter"
+            },
+            {
+              "id": "36788",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/021368s027lbl.pdf",
+              "date": "20160429",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20150901",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20100201",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5207",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/021368s017ltr.pdf",
+              "date": "20100216",
+              "type": "Letter"
+            },
+            {
+              "id": "15330",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021368s017lbl.pdf",
+              "date": "20100216",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20140429",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15332",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/021368s023lbl.pdf",
+              "date": "20140502",
+              "type": "Label"
+            },
+            {
+              "id": "27623",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/021368Orig1s023ltr.pdf",
+              "date": "20140430",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20111006",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "15331",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021368s20s21lbl.pdf",
+              "date": "20111007",
+              "type": "Label"
+            },
+            {
+              "id": "27622",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021368s020,s021ltr.pdf",
+              "date": "20111012",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20080807",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5206",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/021368s013ltr.pdf",
+              "date": "20080813",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20061023",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5203",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/021368s009, s010ltr.pdf",
+              "date": "20061026",
+              "type": "Letter"
+            },
+            {
+              "id": "15326",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021368s009,s010lbl.pdf",
+              "date": "20061025",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20080107",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "5204",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/021368s011ltr.pdf",
+              "date": "20080109",
+              "type": "Letter"
+            },
+            {
+              "id": "15328",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/021368s011lbl.pdf",
+              "date": "20080108",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20070122",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15324",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/021368s007lbl.pdf",
+              "date": "20070124",
+              "type": "Label"
+            },
+            {
+              "id": "27619",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/021368s007ltr.pdf",
+              "date": "20070125",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA021368",
+      "sponsor_name": "LILLY",
+      "openfda": {
+        "application_number": [
+          "NDA021368"
+        ],
+        "brand_name": [
+          "CIALIS"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Eli Lilly and Company"
+        ],
+        "product_ndc": [
+          "0002-4462",
+          "0002-4463",
+          "0002-4464"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "402096",
+          "402097",
+          "403957",
+          "404711",
+          "484814"
+        ],
+        "spl_id": [
+          "2b22fb0c-f97a-4008-a83b-1695396ef11d"
+        ],
+        "spl_set_id": [
+          "bcd8f8ab-81a2-4891-83db-24a0b0e25895"
+        ],
+        "package_ndc": [
+          "0002-4462-30",
+          "0002-4463-30",
+          "0002-4464-30"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "CIALIS",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "CIALIS",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "CIALIS",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "CIALIS",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190205",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20220518",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA210392",
+      "sponsor_name": "AJANTA PHARMA LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA210392"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Quallent Pharmaceuticals Health LLC",
+          "Ajanta Pharma USA Inc."
+        ],
+        "product_ndc": [
+          "82009-080",
+          "27241-123"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "2123194"
+        ],
+        "spl_id": [
+          "f6dd0676-5e89-4c63-8a1c-7b594d23f304",
+          "e21837f2-58d2-4fb1-87b3-f751b94312a9"
+        ],
+        "spl_set_id": [
+          "84cb16c8-30ab-49f2-a6df-ec3c97bf6284",
+          "fceb8aaf-b4eb-4004-8ca4-f004eac6b314"
+        ],
+        "package_ndc": [
+          "82009-080-60",
+          "27241-123-02"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20200221",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210069",
+      "sponsor_name": "DR REDDYS",
+      "openfda": {
+        "application_number": [
+          "ANDA210069"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Dr.Reddys Laboratories Inc"
+        ],
+        "product_ndc": [
+          "43598-573",
+          "43598-576",
+          "43598-575",
+          "43598-574"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814",
+          "757707"
+        ],
+        "spl_id": [
+          "7d8af9db-e459-1195-41b8-67f96e390ef2"
+        ],
+        "spl_set_id": [
+          "22b8a2e3-d1b8-f193-45fa-77cc62a1b941"
+        ],
+        "package_ndc": [
+          "43598-576-30",
+          "43598-576-79",
+          "43598-576-31",
+          "43598-575-30",
+          "43598-575-79",
+          "43598-575-31",
+          "43598-574-30",
+          "43598-574-79",
+          "43598-574-31",
+          "43598-573-30",
+          "43598-573-60",
+          "43598-573-79",
+          "43598-573-31"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20250219",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA204809",
+      "sponsor_name": "ALEMBIC",
+      "openfda": {
+        "application_number": [
+          "ANDA204809"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Alembic Pharmaceuticals Inc.",
+          "Alembic Pharmaceuticals Limited"
+        ],
+        "product_ndc": [
+          "62332-177",
+          "62332-178",
+          "62332-179",
+          "62332-180",
+          "46708-177",
+          "46708-178",
+          "46708-179",
+          "46708-180"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814",
+          "757707"
+        ],
+        "spl_id": [
+          "76b22a5c-175e-433e-bd1e-5fefb0a78d5f",
+          "53d81162-1774-48a1-b19b-f2b0e2d1020a"
+        ],
+        "spl_set_id": [
+          "abcb2cda-9b3f-45f6-ad5f-c2370b0dd114",
+          "741102c1-8809-44d4-9098-3dc8c0604764"
+        ],
+        "package_ndc": [
+          "62332-177-15",
+          "62332-177-30",
+          "62332-177-71",
+          "62332-177-91",
+          "62332-178-30",
+          "62332-178-15",
+          "62332-178-71",
+          "62332-178-91",
+          "62332-179-30",
+          "62332-179-71",
+          "62332-179-91",
+          "62332-180-30",
+          "62332-180-71",
+          "62332-180-91",
+          "46708-177-15",
+          "46708-177-31",
+          "46708-177-71",
+          "46708-177-91",
+          "46708-178-30",
+          "46708-178-15",
+          "46708-178-71",
+          "46708-178-91",
+          "46708-179-30",
+          "46708-179-71",
+          "46708-179-91",
+          "46708-180-30",
+          "46708-180-71",
+          "46708-180-91"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA209744",
+      "sponsor_name": "AMNEAL PHARMS CO",
+      "openfda": {
+        "application_number": [
+          "ANDA209744"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Amneal Pharmaceuticals NY LLC",
+          "AvKARE"
+        ],
+        "product_ndc": [
+          "69238-1346",
+          "69238-1347",
+          "69238-1348",
+          "69238-1349",
+          "42291-864",
+          "42291-865",
+          "42291-866",
+          "42291-867",
+          "60219-1346",
+          "60219-1347",
+          "60219-1348",
+          "60219-1349"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814",
+          "757707"
+        ],
+        "spl_id": [
+          "5c6a682e-8bbe-4e9c-914c-148a5a0cb2a4",
+          "488420ae-b4b6-d0ab-e063-6394a90a89bf",
+          "826351a8-9666-447a-beca-40027a773f2b"
+        ],
+        "spl_set_id": [
+          "90f38460-62ad-492e-a3da-403d5a5a5d86",
+          "b96ae7f1-7d4a-a211-e053-2995a90ab6e2",
+          "2cad2167-dbd1-4df8-b407-b270487d027b"
+        ],
+        "package_ndc": [
+          "69238-1346-3",
+          "69238-1347-3",
+          "69238-1348-3",
+          "69238-1349-3",
+          "42291-864-30",
+          "42291-865-30",
+          "42291-866-30",
+          "42291-867-30",
+          "60219-1346-3",
+          "60219-1347-3",
+          "60219-1348-3",
+          "60219-1349-3"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210420",
+      "sponsor_name": "QILU PHARM HAINAN",
+      "openfda": {
+        "application_number": [
+          "ANDA210420"
+        ],
+        "brand_name": [
+          "TADALAFIL"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Qilu Pharmaceutical Co., Ltd.",
+          "Upsher-Smith Laboratories, LLC"
+        ],
+        "product_ndc": [
+          "67184-0523",
+          "67184-0524",
+          "67184-0525",
+          "67184-0526",
+          "24979-727",
+          "24979-728",
+          "24979-729",
+          "24979-730"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "402019",
+          "403957",
+          "484814",
+          "757707"
+        ],
+        "spl_id": [
+          "3c59b310-6a02-451b-bc53-a29022509963",
+          "555edf7e-85bf-492f-8e14-c53f72aa5b38"
+        ],
+        "spl_set_id": [
+          "f295f164-78fb-4224-b319-9f20b7a453b5",
+          "ae801b15-0462-44af-99a4-affe3eed899a"
+        ],
+        "package_ndc": [
+          "67184-0523-1",
+          "67184-0523-2",
+          "67184-0524-1",
+          "67184-0524-2",
+          "67184-0525-1",
+          "67184-0525-2",
+          "67184-0526-1",
+          "67184-0526-2",
+          "24979-727-06",
+          "24979-727-02",
+          "24979-728-06",
+          "24979-728-02",
+          "24979-729-06",
+          "24979-729-69",
+          "24979-730-06",
+          "24979-730-44"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "10MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "2.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TADALAFIL",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20221012",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA216932",
+      "sponsor_name": "TEVA PHARMS INC",
+      "openfda": {
+        "application_number": [
+          "ANDA216932"
+        ],
+        "brand_name": [
+          "ALYQ"
+        ],
+        "generic_name": [
+          "TADALAFIL"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "0480-9277"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "TADALAFIL"
+        ],
+        "rxcui": [
+          "2110455",
+          "2123194"
+        ],
+        "spl_id": [
+          "cf31567c-b0e4-4d63-a357-25703ccf54ee"
+        ],
+        "spl_set_id": [
+          "2faa7a55-3054-456b-8465-6ea6dc1c0aa9"
+        ],
+        "package_ndc": [
+          "0480-9277-06"
+        ],
+        "nui": [
+          "N0000175599",
+          "N0000020026"
+        ],
+        "pharm_class_epc": [
+          "Phosphodiesterase 5 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Phosphodiesterase 5 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "742SXX0ICT"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ALYQ",
+          "active_ingredients": [
+            {
+              "name": "TADALAFIL",
+              "strength": "20MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB2"
+        }
+      ]
+    }
+  ]
+}

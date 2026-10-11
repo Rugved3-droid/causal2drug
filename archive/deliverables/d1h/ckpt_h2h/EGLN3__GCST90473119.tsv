@@ -1,0 +1,2 @@
+gene	gwas_acc	mesh_term	n_eqtlgen	n_gtex	eqtlgen_lead_z	gtex_lead_z	PP4_eqtlgen	PP3_eqtlgen	PP4_gtexblood	PP3_gtexblood	gap_eqtlgen	gap_gtex	note
+EGLN3	GCST90473119	Anemia	200	1008	22	4.228	0.0581816	0.0168766	0.0180685	0.0290175	5.674	7.382	

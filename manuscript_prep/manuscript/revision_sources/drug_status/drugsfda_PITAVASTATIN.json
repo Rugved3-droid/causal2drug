@@ -1,0 +1,1934 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 11
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230222",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20240611",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA206047",
+      "sponsor_name": "ZYDUS PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA206047"
+        ],
+        "brand_name": [
+          "PITAVASTATIN CALCIUM"
+        ],
+        "generic_name": [
+          "PITAVASTATIN CALCIUM"
+        ],
+        "manufacturer_name": [
+          "Zydus Lifesciences Limited",
+          "Zydus Pharmaceuticals USA Inc."
+        ],
+        "product_ndc": [
+          "70771-1784",
+          "70771-1785",
+          "70771-1786",
+          "68382-481",
+          "68382-482",
+          "68382-483"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PITAVASTATIN CALCIUM"
+        ],
+        "rxcui": [
+          "861643",
+          "861648",
+          "861652"
+        ],
+        "spl_id": [
+          "e441676b-f28d-4506-9b0e-b8e28b1f7d1f",
+          "f34ff300-0613-4b94-9fcf-475d6494ea7e"
+        ],
+        "spl_set_id": [
+          "7b1a9aa6-a7a4-4050-8a40-89ba9728555a",
+          "c35e747e-10ac-4a76-bce6-187618fc64f9"
+        ],
+        "package_ndc": [
+          "70771-1784-9",
+          "70771-1785-9",
+          "70771-1786-9",
+          "68382-481-16",
+          "68382-482-16",
+          "68382-483-16"
+        ],
+        "unii": [
+          "IYD54XEG3W"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 4MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 1MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 2MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170714",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 2",
+          "submission_class_code_description": "Type 2 - New Active Ingredient",
+          "application_docs": [
+            {
+              "id": "48999",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/208379s000lbl.pdf",
+              "date": "20170717",
+              "type": "Label"
+            },
+            {
+              "id": "49001",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/208379Orig1s000ltr.pdf",
+              "date": "20170717",
+              "type": "Letter"
+            },
+            {
+              "id": "49651",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/208379_toc.html",
+              "date": "20170901",
+              "type": "Review"
+            },
+            {
+              "id": "49652",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/208379Orig1s000SumR.pdf",
+              "date": "20170901",
+              "type": "Summary Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20200925",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "64707",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/208379Orig1s004ltr.pdf",
+              "date": "20200928",
+              "type": "Letter"
+            },
+            {
+              "id": "64719",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/208379s004lbl.pdf",
+              "date": "20200929",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20240131",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "77381",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/208379Orig1s005ltr.pdf",
+              "date": "20240201",
+              "type": "Letter"
+            },
+            {
+              "id": "77390",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/208379s005lbl.pdf",
+              "date": "20240202",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20200207",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "61851",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/208379s003lbl.pdf",
+              "date": "20200210",
+              "type": "Label"
+            },
+            {
+              "id": "61856",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/208379Orig1s003ltr.pdf",
+              "date": "20200210",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA208379",
+      "sponsor_name": "MEDICURE",
+      "openfda": {
+        "application_number": [
+          "NDA208379"
+        ],
+        "brand_name": [
+          "ZYPITAMAG"
+        ],
+        "generic_name": [
+          "PITAVASTATIN MAGNESIUM"
+        ],
+        "manufacturer_name": [
+          "Medicure International Inc",
+          "Zydus Lifesciences Limited"
+        ],
+        "product_ndc": [
+          "25208-201",
+          "25208-202",
+          "70771-1117",
+          "70771-1118"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PITAVASTATIN"
+        ],
+        "rxcui": [
+          "2001262",
+          "2001264",
+          "2001266",
+          "2001268"
+        ],
+        "spl_id": [
+          "d39ef44a-4e4d-459d-86bd-79394202e3ec",
+          "8eab99e7-f5e0-4b8a-8cc6-2d90618ebf93"
+        ],
+        "spl_set_id": [
+          "c8c50e03-5cb8-43f4-bdef-8edd12f1945f",
+          "e9f0fe3a-0462-4c24-8f22-3c89afe8fcea"
+        ],
+        "package_ndc": [
+          "25208-201-13",
+          "25208-201-09",
+          "25208-201-14",
+          "25208-201-15",
+          "25208-201-11",
+          "25208-201-12",
+          "25208-201-10",
+          "25208-202-13",
+          "25208-202-09",
+          "25208-202-14",
+          "25208-202-15",
+          "25208-202-11",
+          "25208-202-12",
+          "25208-202-10",
+          "70771-1117-3",
+          "70771-1117-9",
+          "70771-1117-1",
+          "70771-1117-5",
+          "70771-1117-0",
+          "70771-1117-4",
+          "70771-1117-7",
+          "70771-1118-3",
+          "70771-1118-9",
+          "70771-1118-1",
+          "70771-1118-5",
+          "70771-1118-0",
+          "70771-1118-4",
+          "70771-1118-7"
+        ],
+        "nui": [
+          "N0000175589",
+          "N0000000121"
+        ],
+        "pharm_class_epc": [
+          "HMG-CoA Reductase Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors [MoA]"
+        ],
+        "unii": [
+          "M5681Q5F9P"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "ZYPITAMAG",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN MAGNESIUM",
+              "strength": "EQ 4MG BASE"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ZYPITAMAG",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN MAGNESIUM",
+              "strength": "EQ 1MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "ZYPITAMAG",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN MAGNESIUM",
+              "strength": "EQ 2MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20240927",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240529",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190404",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA206070",
+      "sponsor_name": "MYLAN",
+      "openfda": {
+        "application_number": [
+          "ANDA206070"
+        ],
+        "brand_name": [
+          "PITAVASTATIN CALCIUM"
+        ],
+        "generic_name": [
+          "PITAVASTATIN"
+        ],
+        "manufacturer_name": [
+          "Mylan Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "0378-5055",
+          "0378-5056",
+          "0378-5057"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PITAVASTATIN CALCIUM"
+        ],
+        "rxcui": [
+          "861643",
+          "861648",
+          "861652"
+        ],
+        "spl_id": [
+          "44bb6612-917c-4457-952a-5751ea607867"
+        ],
+        "spl_set_id": [
+          "26b5e5e8-45cd-4a98-9af4-2d04c1130881"
+        ],
+        "package_ndc": [
+          "0378-5055-77",
+          "0378-5056-77",
+          "0378-5057-77"
+        ],
+        "unii": [
+          "IYD54XEG3W"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 4MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 1MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 2MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170804",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 2",
+          "submission_class_code_description": "Type 2 - New Active Ingredient",
+          "application_docs": [
+            {
+              "id": "49275",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/209875s000lbl.pdf",
+              "date": "20170808",
+              "type": "Label"
+            },
+            {
+              "id": "49278",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/209875Orig1s000ltr.pdf",
+              "date": "20170808",
+              "type": "Letter"
+            },
+            {
+              "id": "49851",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/209875Orig1s000TOC.html",
+              "date": "20170925",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20200925",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "64709",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/209875orig1s002ltr.pdf",
+              "date": "20200928",
+              "type": "Letter"
+            },
+            {
+              "id": "64720",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/209875s002lbl.pdf",
+              "date": "20200929",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20231030",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "75992",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2023/209875s003lbl.pdf",
+              "date": "20231031",
+              "type": "Label"
+            },
+            {
+              "id": "76007",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/209875Orig1s003ltr.pdf",
+              "date": "20231031",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200505",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "62833",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/209875Orig1s001ltr.pdf",
+              "date": "20200506",
+              "type": "Letter"
+            },
+            {
+              "id": "62837",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/209875s001lbl.pdf",
+              "date": "20200506",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA209875",
+      "sponsor_name": "LUPIN",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "NIKITA",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN SODIUM",
+              "strength": "EQ 2MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "NIKITA",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN SODIUM",
+              "strength": "EQ 4MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "NIKITA",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN SODIUM",
+              "strength": "EQ 1MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20120228",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "7297",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/022363s008,s009ltr.pdf",
+              "date": "20120228",
+              "type": "Letter"
+            },
+            {
+              "id": "17297",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/022363s008s009lbl.pdf",
+              "date": "20120228",
+              "type": "Label"
+            },
+            {
+              "id": "22004",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2012/022363s008s009.pdf",
+              "date": "20120424",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20090803",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "38624",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/022363s000lbl.pdf",
+              "date": "20090826",
+              "type": "Label"
+            },
+            {
+              "id": "42500",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2009/022363s000TOC.html",
+              "date": "20091123",
+              "type": "Review"
+            },
+            {
+              "id": "64048",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/N022363_pitavastatin_Orig_WR_6.pdf",
+              "date": "19000101",
+              "type": "Pediatric Written Request"
+            },
+            {
+              "id": "64049",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/N022363_pitavastatin_Amend_1_2.pdf",
+              "date": "19000101",
+              "type": "Pediatric Amendment 1"
+            },
+            {
+              "id": "7295",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/022363s000ltr.pdf",
+              "date": "20090826",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20191018",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "60610",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/022363s017lbl.pdf",
+              "date": "20191021",
+              "type": "Label"
+            },
+            {
+              "id": "60614",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/022363Orig1s017ltr.pdf",
+              "date": "20191022",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20110616",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "17295",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022363s005lbl.pdf",
+              "date": "20110616",
+              "type": "Label"
+            },
+            {
+              "id": "29653",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022363s005ltr.pdf",
+              "date": "20110627",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20190516",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "58772",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/022363Orig1s015ltr.pdf",
+              "date": "20190517",
+              "type": "Letter"
+            },
+            {
+              "id": "58820",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/022363s015lbl.pdf",
+              "date": "20190521",
+              "type": "Label"
+            },
+            {
+              "id": "63235",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/416_22363S15 pitavastatin clinical bpca.pdf",
+              "date": "19000101",
+              "type": "Pediatric Medical Review"
+            },
+            {
+              "id": "63236",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/415_22363S15 pitavastatin CDTL clinical bpca.pdf",
+              "date": "19000101",
+              "type": "Pediatric CDTL Review"
+            },
+            {
+              "id": "63237",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/417_22363S15 pitavastatin clinpharm bpca.pdf",
+              "date": "19000101",
+              "type": "Pediatric Clinical Pharmacology Review"
+            },
+            {
+              "id": "63238",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/418_22363S15 pitavastatin statistical bpca.pdf",
+              "date": "19000101",
+              "type": "Pediatric Statistical Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20150421",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20161118",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "45918",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/022363Orig1s011ltr.pdf",
+              "date": "20161122",
+              "type": "Letter"
+            },
+            {
+              "id": "45936",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/022363s011lbl.pdf",
+              "date": "20161121",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20120228",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "38625",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/022363s008s009lbl.pdf",
+              "date": "20120228",
+              "type": "Label"
+            },
+            {
+              "id": "22003",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2012/022363s008s009.pdf",
+              "date": "20120330",
+              "type": "Review"
+            },
+            {
+              "id": "29655",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/022363s008,s009ltr.pdf",
+              "date": "20120228",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20200925",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "64704",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/022363Orig1s018ltr.pdf",
+              "date": "20200928",
+              "type": "Letter"
+            },
+            {
+              "id": "64731",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/022363s018lbl.pdf",
+              "date": "20200929",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20110803",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "17296",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022363s006lbl.pdf",
+              "date": "20110805",
+              "type": "Label"
+            },
+            {
+              "id": "29654",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022363s006ltr.pdf",
+              "date": "20110805",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20240314",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "77837",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/022363s022lbl.pdf",
+              "date": "20240315",
+              "type": "Label"
+            },
+            {
+              "id": "77844",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/022363Orig1s022ltr.pdf",
+              "date": "20240315",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20100601",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "7296",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/022363s002ltr.pdf",
+              "date": "20100608",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20221109",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "72595",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2022/022363s020lbl.pdf",
+              "date": "20221110",
+              "type": "Label"
+            },
+            {
+              "id": "72596",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/022363Orig1s020ltr.pdf",
+              "date": "20221110",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20131016",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "38627",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/022363s012lbl.pdf",
+              "date": "20131018",
+              "type": "Label"
+            },
+            {
+              "id": "29657",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/022363Orig1s012ltr.pdf",
+              "date": "20131018",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20121031",
+          "review_priority": "901 REQUIRED",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "38626",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/022363s010lbl.pdf",
+              "date": "20121106",
+              "type": "Label"
+            },
+            {
+              "id": "29656",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/022363Orig1s010ltr.pdf",
+              "date": "20121106",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA022363",
+      "sponsor_name": "KOWA CO",
+      "openfda": {
+        "application_number": [
+          "NDA022363"
+        ],
+        "brand_name": [
+          "LIVALO"
+        ],
+        "generic_name": [
+          "PITAVASTATIN CALCIUM"
+        ],
+        "manufacturer_name": [
+          "Kowa Pharmaceuticals America, Inc."
+        ],
+        "product_ndc": [
+          "66869-104",
+          "66869-204",
+          "66869-404"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PITAVASTATIN CALCIUM"
+        ],
+        "rxcui": [
+          "861643",
+          "861646",
+          "861648",
+          "861650",
+          "861652",
+          "861654"
+        ],
+        "spl_id": [
+          "aacce141-185f-4d20-adb1-6cca3a9c87c4"
+        ],
+        "spl_set_id": [
+          "44dcbf97-99ec-427c-ba50-207e0069d6d2"
+        ],
+        "package_ndc": [
+          "66869-104-90",
+          "66869-204-90",
+          "66869-204-07",
+          "66869-404-90",
+          "66869-404-07"
+        ],
+        "unii": [
+          "IYD54XEG3W"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "LIVALO",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 2MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "LIVALO",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 4MG BASE"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "LIVALO",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 1MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20250613",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240404",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170203",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA205932",
+      "sponsor_name": "ORIENT PHARMA CO LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA205932"
+        ],
+        "brand_name": [
+          "PITAVASTATIN"
+        ],
+        "generic_name": [
+          "PITAVASTATIN CALCIUM"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "0480-3631",
+          "0480-3632",
+          "0480-3633"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PITAVASTATIN CALCIUM"
+        ],
+        "rxcui": [
+          "861643",
+          "861648",
+          "861652"
+        ],
+        "spl_id": [
+          "191b4856-1662-a7b8-e063-6394a90a2c56"
+        ],
+        "spl_set_id": [
+          "fac09182-dcf2-1770-e053-6394a90af50c"
+        ],
+        "package_ndc": [
+          "0480-3632-98",
+          "0480-3633-98",
+          "0480-3631-98"
+        ],
+        "unii": [
+          "IYD54XEG3W"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 2MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 4MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 1MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170203",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20241104",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20240722",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA205955",
+      "sponsor_name": "SAWAI USA",
+      "openfda": {
+        "application_number": [
+          "ANDA205955"
+        ],
+        "brand_name": [
+          "PITAVASTATIN"
+        ],
+        "generic_name": [
+          "PITAVASTATIN CALCIUM"
+        ],
+        "manufacturer_name": [
+          "Upsher-Smith Laboratories, LLC"
+        ],
+        "product_ndc": [
+          "0832-6048",
+          "0832-6049",
+          "0832-6050"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PITAVASTATIN CALCIUM"
+        ],
+        "rxcui": [
+          "861643",
+          "861648",
+          "861652"
+        ],
+        "spl_id": [
+          "53c2bd9a-c6ee-8b8c-e063-6294a90a5a95"
+        ],
+        "spl_set_id": [
+          "9ad1ecb9-822d-47c1-9f6f-6f771fa0f924"
+        ],
+        "package_ndc": [
+          "0832-6049-90",
+          "0832-6048-90",
+          "0832-6050-90"
+        ],
+        "unii": [
+          "IYD54XEG3W"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 1MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 2MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 4MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "54819",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/205961Orig1s000TAltr.pdf",
+              "date": "20180706",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA205961",
+      "sponsor_name": "AMNEAL PHARMS NY",
+      "openfda": {
+        "application_number": [
+          "ANDA205961"
+        ],
+        "brand_name": [
+          "PITAVASTATIN"
+        ],
+        "generic_name": [
+          "PITAVASTATIN"
+        ],
+        "manufacturer_name": [
+          "Amneal Pharmaceuticals LLC"
+        ],
+        "product_ndc": [
+          "65162-029",
+          "65162-030",
+          "65162-031"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PITAVASTATIN CALCIUM"
+        ],
+        "rxcui": [
+          "861643",
+          "861648",
+          "861652"
+        ],
+        "spl_id": [
+          "ab7d1d71-229c-4528-9c2d-59d268c48c25"
+        ],
+        "spl_set_id": [
+          "7fbfcc0c-9251-456d-a525-e62cfd8abd4b"
+        ],
+        "package_ndc": [
+          "65162-029-03",
+          "65162-029-09",
+          "65162-029-50",
+          "65162-030-03",
+          "65162-030-09",
+          "65162-030-50",
+          "65162-031-03",
+          "65162-031-09",
+          "65162-031-50"
+        ],
+        "unii": [
+          "IYD54XEG3W"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 2MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 4MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 1MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240430",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "75952",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/205977Orig1s000TA_ltr.pdf",
+              "date": "20231027",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA205977",
+      "sponsor_name": "HETERO LABS LTD V",
+      "openfda": {
+        "application_number": [
+          "ANDA205977"
+        ],
+        "brand_name": [
+          "PITAVASTATIN CALCIUM"
+        ],
+        "generic_name": [
+          "PITAVASTATIN CALCIUM"
+        ],
+        "manufacturer_name": [
+          "NorthStar RxLLC",
+          "XLCare Pharmaceuticals Inc.",
+          "Camber Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "72603-479",
+          "72603-480",
+          "72865-291",
+          "72865-292",
+          "72865-293",
+          "31722-875",
+          "31722-876",
+          "31722-877"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PITAVASTATIN CALCIUM"
+        ],
+        "rxcui": [
+          "861648",
+          "861652",
+          "861643"
+        ],
+        "spl_id": [
+          "27e1ba97-23bf-fc12-e063-6394a90a1699",
+          "3fef3397-a028-b301-e063-6394a90a913f",
+          "179e2267-daf5-1cab-e063-6394a90a7f0e"
+        ],
+        "spl_set_id": [
+          "98e3f1df-5b38-4169-a340-adb145eac459",
+          "f29ea90c-f4e5-4f14-9660-a0404ef87f18",
+          "e9622824-cee5-49d7-9273-f18b9cc176fd"
+        ],
+        "package_ndc": [
+          "72603-479-01",
+          "72603-480-01",
+          "72865-291-90",
+          "72865-292-90",
+          "72865-293-90",
+          "31722-875-90",
+          "31722-876-90",
+          "31722-877-90"
+        ],
+        "unii": [
+          "IYD54XEG3W"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 2MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 4MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 1MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20200624",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20161220",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "46484",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/206015Orig1s000ltr.pdf",
+              "date": "20161222",
+              "type": "Letter"
+            },
+            {
+              "id": "47078",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/206015Orig1s000lbl.pdf",
+              "date": "20170131",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20230602",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20200624",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20240611",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20230602",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA206015",
+      "sponsor_name": "AUROBINDO PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA206015"
+        ],
+        "brand_name": [
+          "PITAVASTATIN"
+        ],
+        "generic_name": [
+          "PITAVASTATIN"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "65862-812",
+          "65862-813",
+          "65862-814"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PITAVASTATIN CALCIUM"
+        ],
+        "rxcui": [
+          "861643",
+          "861648",
+          "861652"
+        ],
+        "spl_id": [
+          "9a71c5a7-aaf8-4650-aba4-da6ba84d03a7"
+        ],
+        "spl_set_id": [
+          "a52401eb-a822-475b-a40d-7b8acde2ae1a"
+        ],
+        "package_ndc": [
+          "65862-812-90",
+          "65862-812-05",
+          "65862-813-90",
+          "65862-813-05",
+          "65862-814-90",
+          "65862-814-05"
+        ],
+        "unii": [
+          "IYD54XEG3W"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 2MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 4MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 1MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20231120",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20231120",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20231120",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20231120",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA206029",
+      "sponsor_name": "LUPIN",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 4MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 1MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PITAVASTATIN CALCIUM",
+          "active_ingredients": [
+            {
+              "name": "PITAVASTATIN CALCIUM",
+              "strength": "EQ 2MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    }
+  ]
+}

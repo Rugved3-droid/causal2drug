@@ -1,0 +1,7 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+C3	D005921	Glomerulonephritis	GCST90478510	DOWN	2									0							no_overlap_after_harmonization
+C5AR1	D005921	Glomerulonephritis	GCST90478510	DOWN	2									0							no_overlap_after_harmonization
+CFD	D005921	Glomerulonephritis	GCST90478510	DOWN	13									0							no_overlap_after_harmonization
+IFNG	D005921	Glomerulonephritis	GCST90478510	DOWN	1									0							no_overlap_after_harmonization
+PDCD1	D005921	Glomerulonephritis	GCST90478510	DOWN	2									0							no_overlap_after_harmonization
+SYK	D005921	Glomerulonephritis	GCST90478510	DOWN	11									0							no_overlap_after_harmonization

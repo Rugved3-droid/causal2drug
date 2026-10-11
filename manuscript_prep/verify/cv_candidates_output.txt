@@ -1,0 +1,248 @@
+﻿
+== CURRENT atlas set (C14 top-level, or lipid token) (44 terms, 1543 pairs) ==
+mesh_id|term|minikel_areas|topl|pairs|phaseIII_pairs|launched_pairs
+D002545|Brain Ischemia|neurology, cardiovascular|C14|173|11|4
+D020521|Stroke|neurology, cardiovascular|C14|173|11|4
+D002318|Cardiovascular Diseases|cardiovascular|C14|170|5|1
+D006333|Heart Failure|cardiovascular|C14|151|15|10
+D050197|Atherosclerosis|cardiovascular|C14|132|6|2
+D006976|Hypertension, Pulmonary|respiratory, cardiovascular|C14|105|8|6
+D006949|Hyperlipidemias|metabolic|C18|76|6|4
+D006973|Hypertension|cardiovascular|C14|66|8|10
+D013927|Thrombosis|cardiovascular|C14|58|2|6
+D016491|Peripheral Vascular Diseases|cardiovascular|C14|56|4|2
+D006937|Hypercholesterolemia|metabolic|C18|47|2|3
+D023903|Coronary Restenosis|cardiovascular|C14|45|2|6
+D015228|Hypertriglyceridemia|metabolic|C18|31|1|3
+D054058|Acute Coronary Syndrome|cardiovascular|C14|28|8|1
+D014657|Vasculitis|cardiovascular|C14|26|6|2
+D009202|Cardiomyopathies|cardiovascular|C14|22|0|0
+D012170|Retinal Vein Occlusion|ophthalmology, cardiovascular|C14|20|1|2
+D020246|Venous Thrombosis|cardiovascular|C14|20|0|3
+D007022|Hypotension|cardiovascular|C14|16|5|4
+D006938|Hyperlipoproteinemia Type II|congenital, metabolic|C18|12|1|3
+D011655|Pulmonary Embolism|respiratory, cardiovascular|C14|11|1|4
+D003328|Coronary Thrombosis|cardiovascular|C14|9|0|4
+D004719|Endomyocardial Fibrosis|cardiovascular|C14|9|0|0
+D002312|Cardiomyopathy, Hypertrophic|cardiovascular|C14|9|0|0
+D050171|Dyslipidemias|metabolic|C18|7|0|3
+D011928|Raynaud Disease|cardiovascular|C14|6|0|0
+D014652|Vascular Diseases|cardiovascular|C14|6|0|0
+D015356|Retinal Artery Occlusion|ophthalmology, cardiovascular|C14|6|0|0
+D018917|Optic Neuropathy, Ischemic|neurology, ophthalmology, cardiovascular|C14|6|1|0
+D014689|Venous Insufficiency|cardiovascular|C14|6|0|5
+D000783|Aneurysm|cardiovascular|C14|6|0|0
+D008072|Hyperlipoproteinemia Type I|congenital, metabolic|C18|5|1|2
+D001024|Aortic Valve Stenosis|cardiovascular|C14|4|1|0
+D019559|Capillary Leak Syndrome|cardiovascular|C14|4|0|0
+D013919|Thromboangiitis Obliterans|cardiovascular|C14|4|1|0
+D004916|Erythromelalgia|cardiovascular|C14|4|0|0
+D013924|Thrombophlebitis|cardiovascular|C14|3|0|3
+D020767|Intracranial Thrombosis|neurology, cardiovascular|C14|3|0|0
+D009205|Myocarditis|cardiovascular|C14|2|0|0
+D058456|Retinal Telangiectasis|ophthalmology, cardiovascular|C14|2|1|0
+D052456|Hypoalphalipoproteinemias|congenital, metabolic|C18|1|0|0
+D020301|Vasospasm, Intracranial|neurology, cardiovascular|C14|1|0|0
+D004696|Endocarditis|cardiovascular|C14|1|0|0
+D010493|Pericarditis|cardiovascular|C14|1|1|0
+current-set terms whose Minikel areas do NOT contain 'cardiovascular': ['Hyperlipidemias', 'Hypercholesterolemia', 'Hypertriglyceridemia', 'Hyperlipoproteinemia Type II', 'Hyperlipoproteinemia Type I', 'Dyslipidemias', 'Hypoalphalipoproteinemias']
+
+== A: filed under C23 signs/symptoms AND Minikel areas contains cardiovascular (18 terms, 336 pairs) ==
+mesh_id|term|minikel_areas|topl|pairs|phaseIII_pairs|launched_pairs
+D009203|Myocardial Infarction|cardiovascular, signs/symptoms|C23|129|11|7
+D015427|Reperfusion Injury|cardiovascular, signs/symptoms|C23|49|3|0
+D000787|Angina Pectoris|cardiovascular, signs/symptoms|C23|33|4|2
+D001281|Atrial Fibrillation|cardiovascular, signs/symptoms|C23|33|6|5
+D001145|Arrhythmias, Cardiac|cardiovascular, signs/symptoms|C23|16|0|0
+D000789|Angina, Unstable|cardiovascular, signs/symptoms|C23|13|0|7
+D002543|Cerebral Hemorrhage|neurology, cardiovascular, signs/symptoms|C23|13|1|0
+D007383|Intermittent Claudication|cardiovascular, signs/symptoms|C23|11|1|0
+D013345|Subarachnoid Hemorrhage|neurology, cardiovascular, signs/symptoms|C23|10|0|0
+D014693|Ventricular Fibrillation|cardiovascular, signs/symptoms|C23|6|0|4
+D002544|Cerebral Infarction|neurology, cardiovascular, signs/symptoms|C23|6|0|0
+D004489|Edema, Cardiac|cardiovascular, signs/symptoms|C23|5|0|1
+D017180|Tachycardia, Ventricular|cardiovascular, signs/symptoms|C23|4|0|1
+D013617|Tachycardia, Supraventricular|cardiovascular, signs/symptoms|C23|3|0|1
+D008133|Long QT Syndrome|cardiovascular, congenital, signs/symptoms|C23|2|0|0
+D013610|Tachycardia|cardiovascular, signs/symptoms|C23|1|0|0
+D046589|CADASIL|neurology, cardiovascular, congenital, signs/symptoms|C23|1|0|0
+D001919|Bradycardia|cardiovascular, signs/symptoms|C23|1|0|0
+
+== B: filed elsewhere (not C14, not C23) AND Minikel areas contains cardiovascular (31 terms, 249 pairs) ==
+mesh_id|term|minikel_areas|topl|pairs|phaseIII_pairs|launched_pairs
+D003930|Diabetic Retinopathy|ophthalmology, cardiovascular, endocrine|C19|99|2|2
+D017719|Diabetic Foot|cardiovascular, dermatology, endocrine|C19|37|4|1
+D001528|Behcet Syndrome|ophthalmology, cardiovascular, congenital, dermatology|C17|16|1|5
+D013683|Telangiectasia, Hereditary Hemorrhagic|cardiovascular, hematology, congenital|C16|11|0|0
+D054179|Angioedemas, Hereditary|cardiovascular, congenital, dermatology, immune|C20|10|2|2
+D002311|Cardiomyopathy, Dilated|cardiovascular, congenital|C16|9|1|0
+D015140|Dementia, Vascular|neurology, cardiovascular, psychiatry|F03|6|1|0
+D004535|Ehlers-Danlos Syndrome|cardiovascular, hematology, congenital, dermatology|C17|5|5|0
+D014890|Granulomatosis with Polyangiitis|respiratory, cardiovascular, immune|C20|5|0|2
+D014647|Varicose Ulcer|cardiovascular, dermatology|C17|5|2|0
+D015267|Churg-Strauss Syndrome|cardiovascular, hematology, immune|C20|4|1|0
+D013625|Takayasu Arteritis|cardiovascular, dermatology|C17|4|3|0
+D013771|Tetralogy of Fallot|cardiovascular, congenital|C16|3|0|0
+D058065|Diabetic Cardiomyopathies|cardiovascular, endocrine|C19|3|1|0
+D016657|Cerebral Amyloid Angiopathy|neurology, cardiovascular, metabolic|C18|3|0|0
+D000795|Fabry Disease|neurology, cardiovascular, congenital, metabolic|C18|3|1|1
+D055953|Microscopic Polyangiitis|neurology, cardiovascular, immune|C20|3|0|2
+D014424|Turner Syndrome|cardiovascular, congenital, endocrine|C19|3|0|1
+D017241|MELAS Syndrome|musculoskeletal, neurology, cardiovascular, congenital, metabolic|C18|3|0|0
+D009080|Mucocutaneous Lymph Node Syndrome|cardiovascular, hematology, dermatology|C17|3|0|1
+D009634|Noonan Syndrome|musculoskeletal, cardiovascular, congenital, dermatology|C17|3|0|0
+D004374|Ductus Arteriosus, Patent|cardiovascular, congenital|C16|2|0|0
+D006623|von Hippel-Lindau Disease|neurology, cardiovascular, congenital|C16|1|0|1
+D000799|Angioedema|cardiovascular, dermatology, immune|C20|1|0|0
+D052120|Glycogen Storage Disease Type IIb|neurology, cardiovascular, congenital, metabolic|C18|1|0|0
+D058088|Sarcoglycanopathies|musculoskeletal, respiratory, neurology, cardiovascular, congenital|C16|1|0|0
+D008382|Marfan Syndrome|musculoskeletal, cardiovascular, congenital, dermatology|C17|1|0|0
+D001260|Ataxia Telangiectasia|neurology, cardiovascular, congenital, metabolic, immune|C20|1|0|0
+D006330|Heart Defects, Congenital|cardiovascular, congenital|C16|1|0|1
+D001165|Arteriovenous Malformations|cardiovascular, congenital|C16|1|0|0
+D016738|Alagille Syndrome|digestive, cardiovascular, congenital|C16|1|1|0
+
+== C: every other C23 signs/symptoms term (areas lacks cardiovascular) - for eyeballing (105 terms, 2472 pairs) ==
+mesh_id|term|minikel_areas|topl|pairs|phaseIII_pairs|launched_pairs
+D007249|Inflammation|signs/symptoms|C23|437|2|6
+D009437|Neuralgia|neurology, signs/symptoms|C23|182|9|7
+D059226|Nociceptive Pain|signs/symptoms|C23|176|4|9
+D009765|Obesity|metabolic, signs/symptoms|C23|165|6|5
+D005355|Fibrosis|signs/symptoms|C23|115|0|0
+D008103|Liver Cirrhosis|digestive, signs/symptoms|C23|98|12|1
+D059352|Musculoskeletal Pain|musculoskeletal, signs/symptoms|C23|85|6|10
+D018805|Sepsis|infection, signs/symptoms|C23|73|4|2
+D000080424|Cytokine Release Syndrome|signs/symptoms|C23|64|6|3
+D007511|Ischemia|signs/symptoms|C23|49|1|2
+D010149|Pain, Postoperative|signs/symptoms|C23|49|5|8
+D002100|Cachexia|signs/symptoms|C23|48|2|2
+D000072716|Cancer Pain|signs/symptoms|C23|44|5|7
+D011537|Pruritus|dermatology, signs/symptoms|C23|41|3|2
+D053201|Urinary Bladder, Overactive|signs/symptoms|C23|37|2|5
+D008105|Liver Cirrhosis, Biliary|digestive, signs/symptoms|C23|36|7|1
+D014549|Urinary Incontinence|signs/symptoms|C23|34|3|3
+D051474|Neuralgia, Postherpetic|neurology, signs/symptoms|C23|33|8|3
+D020820|Dyskinesias|neurology, signs/symptoms|C23|33|0|0
+D009325|Nausea|signs/symptoms|C23|30|4|7
+D014839|Vomiting|signs/symptoms|C23|30|4|7
+D000505|Alopecia|dermatology, signs/symptoms|C23|27|2|4
+D011595|Psychomotor Agitation|neurology, signs/symptoms|C23|27|5|1
+D034381|Hearing Loss|neurology, signs/symptoms|C23|25|2|0
+D004409|Dyskinesia, Drug-Induced|neurology, signs/symptoms|C23|23|3|1
+D003371|Cough|respiratory, signs/symptoms|C23|22|0|3
+D001049|Apnea|respiratory, signs/symptoms|C23|21|2|3
+D011183|Postoperative Complications|signs/symptoms|C23|20|3|2
+D055948|Sarcopenia|neurology, signs/symptoms|C23|18|0|0
+D016553|Purpura, Thrombocytopenic, Idiopathic|hematology, immune, signs/symptoms|C23|18|3|3
+D003248|Constipation|signs/symptoms|C23|17|0|4
+D018589|Gastroparesis|digestive, signs/symptoms|C23|17|1|2
+D013494|Supranuclear Palsy, Progressive|neurology, ophthalmology, signs/symptoms|C23|17|2|0
+D004415|Dyspepsia|signs/symptoms|C23|16|0|5
+D051799|Delayed Graft Function|signs/symptoms|C23|15|3|0
+D003967|Diarrhea|signs/symptoms|C23|14|0|0
+D008599|Menstruation Disturbances|signs/symptoms|C23|13|0|1
+D009128|Muscle Spasticity|musculoskeletal, neurology, signs/symptoms|C23|13|0|1
+D005334|Fever|signs/symptoms|C23|12|0|4
+D004646|Emphysema|signs/symptoms|C23|12|0|1
+D000855|Anorexia|signs/symptoms|C23|12|0|1
+D013035|Spasm|neurology, signs/symptoms|C23|11|1|0
+D013226|Status Epilepticus|neurology, signs/symptoms|C23|11|0|8
+D006261|Headache|signs/symptoms|C23|10|3|0
+D009298|Nasal Polyps|respiratory, signs/symptoms|C23|10|2|3
+D012778|Short Bowel Syndrome|digestive, signs/symptoms|C23|10|2|0
+D006470|Hemorrhage|signs/symptoms|C23|10|1|6
+D014456|Ulcer|signs/symptoms|C23|9|0|2
+D001201|Ascites|signs/symptoms|C23|9|0|7
+D012774|Shock, Traumatic|signs/symptoms|C23|8|0|1
+D004412|Dysmenorrhea|signs/symptoms|C23|8|0|1
+D009133|Muscular Atrophy|neurology, signs/symptoms|C23|7|0|0
+D007627|Keloid|dermatology, signs/symptoms|C23|7|0|0
+D019896|alpha 1-Antitrypsin Deficiency|digestive, respiratory, congenital, signs/symptoms|C23|6|0|1
+D008595|Menorrhagia|signs/symptoms|C23|6|0|4
+D011697|Purpura, Thrombotic Thrombocytopenic|hematology, signs/symptoms|C23|5|1|1
+D004487|Edema|signs/symptoms|C23|5|0|0
+D000073496|Frailty|signs/symptoms|C23|5|0|0
+D011293|Premenstrual Syndrome|signs/symptoms|C23|5|0|2
+D001750|Urinary Bladder, Neurogenic|neurology, signs/symptoms|C23|5|4|1
+D009222|Myotonia|neurology, signs/symptoms|C23|5|0|1
+D000071057|Tardive Dyskinesia|neurology, signs/symptoms|C23|5|0|1
+D015430|Weight Gain|signs/symptoms|C23|5|0|0
+D000077299|Healthcare-Associated Pneumonia|infection, respiratory, signs/symptoms|C23|5|2|0
+D042882|Gallstones|digestive, signs/symptoms|C23|4|1|0
+D002872|Chromosome Deletion|signs/symptoms|C23|4|0|0
+D011507|Proteinuria|signs/symptoms|C23|4|0|0
+D052245|Usher Syndromes|neurology, ophthalmology, congenital, signs/symptoms|C23|4|1|0
+D020250|Postoperative Nausea and Vomiting|signs/symptoms|C23|4|0|4
+D004421|Dystonia|neurology, signs/symptoms|C23|4|0|1
+D014012|Tinnitus|neurology, signs/symptoms|C23|4|1|0
+D002032|Bulimia|signs/symptoms|C23|4|0|2
+D006628|Hirsutism|dermatology, signs/symptoms|C23|3|0|0
+D006429|Hemiplegia|neurology, signs/symptoms|C23|3|0|0
+D000077295|Urinary Bladder, Underactive|signs/symptoms|C23|3|0|0
+D003117|Color Vision Defects|neurology, ophthalmology, signs/symptoms|C23|3|0|0
+D006473|Postpartum Hemorrhage|signs/symptoms|C23|3|0|1
+D001766|Blindness|neurology, ophthalmology, signs/symptoms|C23|2|0|0
+D011141|Polyuria|signs/symptoms|C23|2|0|1
+D006985|Hyperventilation|respiratory, signs/symptoms|C23|2|0|0
+D022124|Hyperammonemia|signs/symptoms|C23|2|0|1
+D014314|Trisomy|signs/symptoms|C23|2|0|0
+D059373|Mastodynia|signs/symptoms|C23|2|1|0
+D005221|Fatigue|signs/symptoms|C23|2|0|0
+D014717|Vertigo|neurology, signs/symptoms|C23|2|0|0
+D007405|Intervertebral Disc Displacement|musculoskeletal, signs/symptoms|C23|2|0|0
+D007035|Hypothermia|signs/symptoms|C23|2|0|0
+D018746|Systemic Inflammatory Response Syndrome|signs/symptoms|C23|2|0|0
+D001259|Ataxia|neurology, signs/symptoms|C23|2|0|0
+D010243|Paralysis|neurology, signs/symptoms|C23|1|0|0
+D006965|Hyperplasia|signs/symptoms|C23|1|1|0
+D006984|Hypertrophy|signs/symptoms|C23|1|0|0
+D014103|Torticollis|signs/symptoms|C23|1|0|0
+D014545|Urinary Calculi|signs/symptoms|C23|1|0|0
+D006932|Hyperbilirubinemia|signs/symptoms|C23|1|0|1
+D007565|Jaundice|signs/symptoms|C23|1|0|1
+D007647|Kernicterus|neurology, hematology, congenital, metabolic, immune, signs/symptoms|C23|1|1|0
+D009999|Ossification, Heterotopic|signs/symptoms|C23|1|0|0
+D000568|Amenorrhea|signs/symptoms|C23|1|1|0
+D006461|Hemolysis|signs/symptoms|C23|1|1|0
+D008305|Malignant Hyperthermia|signs/symptoms|C23|1|0|1
+D000550|Amblyopia|neurology, ophthalmology, signs/symptoms|C23|1|0|0
+D053159|Dysuria|signs/symptoms|C23|1|0|0
+D012003|Rectal Fistula|digestive, signs/symptoms|C23|1|0|1
+D000070607|Morton Neuroma|musculoskeletal, neurology, signs/symptoms|C23|1|1|0
+
+== D: filed elsewhere, areas lacks cardiovascular, term matches a vascular keyword (28 terms, 220 pairs) ==
+mesh_id|term|minikel_areas|topl|pairs|phaseIII_pairs|launched_pairs
+D008269|Macular Edema|ophthalmology|C11|75|2|7
+D013921|Thrombocytopenia|hematology|C15|27|1|8
+D013922|Thrombocytosis|hematology|C15|21|3|3
+D004686|Encephalomyocarditis virus|infection|C01|20|0|7
+D019142|Hemorrhagic Fever, Ebola|infection|C01|16|0|0
+D006975|Hypertension, Portal|digestive|C06|7|0|0
+D001026|Coronary Artery Bypass|other|OTH|6|1|0
+D016736|Antiphospholipid Syndrome|immune|C20|5|0|0
+D057049|Thrombotic Microangiopathies|hematology|C15|5|2|1
+D008209|Lymphedema|hematology|C15|5|0|0
+D011654|Pulmonary Edema|respiratory|C08|5|0|0
+D061205|Vascular Calcification|metabolic|C18|3|0|0
+D004932|Esophageal and Gastric Varices|digestive|C06|3|0|3
+D004211|Disseminated Intravascular Coagulation|hematology|C15|3|0|2
+D020152|Antithrombin III Deficiency|hematology, congenital|C16|3|0|3
+D007863|Lecithin Cholesterol Acyltransferase Deficiency|congenital, metabolic|C18|2|0|0
+D001929|Brain Edema|neurology|C10|2|0|0
+D015715|Corneal Edema|ophthalmology|C11|2|0|0
+D018325|Hemangioblastoma|oncology|C04|1|0|1
+D007020|Hypoprothrombinemias|hematology, congenital|C16|1|0|1
+D013915|Thrombasthenia|hematology, congenital|C16|1|0|1
+D013106|Sphingolipidoses|neurology, congenital, metabolic|C18|1|0|0
+D018192|Lymphangioleiomyomatosis|oncology|C04|1|0|1
+D054973|Perivascular Epithelioid Cell Neoplasms|oncology|C04|1|0|1
+D006482|Hemorrhagic Fevers, Viral|infection|C01|1|0|0
+D008052|Lipid Metabolism, Inborn Errors|congenital, metabolic|C18|1|0|0
+D020786|Hemangioma, Cavernous, Central Nervous System|oncology|C04|1|0|0
+D018883|Heat Stroke|other|OTH|1|0|1
+
+current: terms 44, pairs 1543, distinct targets 630
+
+current + A: terms 62, pairs 1879, distinct targets 663
+
+current + A + B: terms 93, pairs 2128, distinct targets 726

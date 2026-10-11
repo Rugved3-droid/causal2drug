@@ -1,0 +1,3 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+HMGCR	D000783	Aneurysm	GCST90473598	DOWN	1	rs6453133	1.2137e-50	0.127763	0.00853649	224	0.0788681	0.0387363	aligned_same	261	0.6173	0.303189	0.0417478	POSITIVE	POSITIVE	YES	
+IFNAR1	D000783	Aneurysm	GCST90473598	DOWN	9	rs8178576	1.881e-303	0.35604	0.00956205	1386	-0.118023	0.0438537	aligned_same	349	-0.331488	0.123171	0.00711764	NEGATIVE	POSITIVE	NO	

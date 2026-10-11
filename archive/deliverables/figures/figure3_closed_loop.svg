@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="684.932156pt" height="368.366375pt" viewBox="0 0 684.932156 368.366375" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-31T19:15:42.285442</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 368.366375 
+L 684.932156 368.366375 
+L 684.932156 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 109.859688 282.582281 
+L 589.739687 282.582281 
+L 589.739687 27.558281 
+L 109.859688 27.558281 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 109.859688 39.150281 
+L 426.394954 39.150281 
+L 426.394954 60.339959 
+L 109.859688 60.339959 
+z
+" clip-path="url(#pabe93f64db)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 109.859688 62.832862 
+L 161.794752 62.832862 
+L 161.794752 84.022539 
+L 109.859688 84.022539 
+z
+" clip-path="url(#pabe93f64db)" style="fill: #d55e00; opacity: 0.4"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 109.859688 101.472862 
+L 219.550126 101.472862 
+L 219.550126 122.662539 
+L 109.859688 122.662539 
+z
+" clip-path="url(#pabe93f64db)" style="fill: #e69f00"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 109.859688 125.155443 
+L 145.637177 125.155443 
+L 145.637177 146.34512 
+L 109.859688 146.34512 
+z
+" clip-path="url(#pabe93f64db)" style="fill: #e69f00; opacity: 0.4"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 109.859688 163.795443 
+L 169.405926 163.795443 
+L 169.405926 184.98512 
+L 109.859688 184.98512 
+z
+" clip-path="url(#pabe93f64db)" style="fill: #009e73"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 109.859688 187.478023 
+L 173.335878 187.478023 
+L 173.335878 208.667701 
+L 109.859688 208.667701 
+z
+" clip-path="url(#pabe93f64db)" style="fill: #009e73; opacity: 0.4"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 109.859688 226.118023 
+L 156.869876 226.118023 
+L 156.869876 247.307701 
+L 109.859688 247.307701 
+z
+" clip-path="url(#pabe93f64db)" style="fill: #cc79a7"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 109.859688 249.800604 
+L 113.495142 249.800604 
+L 113.495142 270.990281 
+L 109.859688 270.990281 
+z
+" clip-path="url(#pabe93f64db)" style="fill: url(#h4f3d3b9cc3); stroke: #cc79a7; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="meca6031693" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#meca6031693" x="109.859688" y="282.582281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="109.859688" y="296.420172" transform="rotate(-0 109.859688 296.420172)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#meca6031693" x="182.568778" y="282.582281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="182.568778" y="296.420172" transform="rotate(-0 182.568778 296.420172)">10</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#meca6031693" x="255.277869" y="282.582281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="255.277869" y="296.420172" transform="rotate(-0 255.277869 296.420172)">20</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#meca6031693" x="327.98696" y="282.582281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="327.98696" y="296.420172" transform="rotate(-0 327.98696 296.420172)">30</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#meca6031693" x="400.696051" y="282.582281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="400.696051" y="296.420172" transform="rotate(-0 400.696051 296.420172)">40</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#meca6031693" x="473.405142" y="282.582281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="473.405142" y="296.420172" transform="rotate(-0 473.405142 296.420172)">50</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#meca6031693" x="546.114233" y="282.582281" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="546.114233" y="296.420172" transform="rotate(-0 546.114233 296.420172)">60</text>
+     </g>
+    </g>
+    <g id="text_8">
+     <text style="font-size: 9.2px; font-family: 'DejaVu Sans'; text-anchor: middle" x="349.799688" y="309.572844" transform="rotate(-0 349.799688 309.572844)">Percentage of cardiovascular targets</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_8">
+      <defs>
+       <path id="m6195fcc423" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m6195fcc423" x="109.859688" y="61.58641" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 9.4px; font-family: 'DejaVu Sans'; text-anchor: end" x="102.859688" y="65.157676" transform="rotate(-0 102.859688 65.157676)">Heart / vessel tissue</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m6195fcc423" x="109.859688" y="123.908991" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 9.4px; font-family: 'DejaVu Sans'; text-anchor: end" x="102.859688" y="127.480257" transform="rotate(-0 102.859688 127.480257)">Liver tissue</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m6195fcc423" x="109.859688" y="186.231572" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 9.4px; font-family: 'DejaVu Sans'; text-anchor: end" x="102.859688" y="189.802837" transform="rotate(-0 102.859688 189.802837)">Vessel wall (aorta)</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m6195fcc423" x="109.859688" y="248.554152" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 9.4px; font-family: 'DejaVu Sans'; text-anchor: end" x="102.859688" y="252.125418" transform="rotate(-0 102.859688 252.125418)">Circulating protein</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_11">
+    <path d="M 109.859688 282.582281 
+L 109.859688 27.558281 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 109.859688 282.582281 
+L 589.739687 282.582281 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start" x="433.665863" y="51.97944" transform="rotate(-0 433.665863 51.97944)">43.5% need this  (n=101)</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #444444" x="169.065662" y="75.662021" transform="rotate(-0 169.065662 75.662021)">only 7.1% testable this way</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start" x="226.821035" y="114.302021" transform="rotate(-0 226.821035 114.302021)">15.1% need this  (n=35)</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #444444" x="152.908086" y="137.984602" transform="rotate(-0 152.908086 137.984602)">only 4.9% testable this way</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start" x="176.676835" y="176.624602" transform="rotate(-0 176.676835 176.624602)">8.2% need this  (n=19)</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #444444" x="180.606787" y="200.307182" transform="rotate(-0 180.606787 200.307182)">only 8.7% testable this way</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start" x="164.140785" y="238.947182" transform="rotate(-0 164.140785 238.947182)">6.5% need this  (n=15)</text>
+   </g>
+   <g id="text_20">
+    <text style="font-style: italic; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #7f7f7f" x="122.947324" y="262.629763" transform="rotate(-0 122.947324 262.629763)">no accessible resource</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start" x="109.859688" y="15.558281" transform="rotate(-0 109.859688 15.558281)">What untestable targets need, and what that measurement delivers</text>
+   </g>
+  </g>
+  <g id="text_22">
+   <text style="font-size: 7.4px; font-family: 'DejaVu Sans'; fill: #555555" transform="translate(44.843688 332.001848)">Dark bar: share of the 232 untestable cardiovascular targets that would require this measurement.   Pale bar: share of all cardiovascular targets that</text>
+   <text style="font-size: 7.4px; font-family: 'DejaVu Sans'; fill: #555555" transform="translate(44.843688 340.883871)">measurement can actually test today. Nearly half of untestable targets need heart or vessel tissue, the measurement that can test only 7.1% of all cardiovascular targets.</text>
+   <text style="font-size: 7.4px; font-family: 'DejaVu Sans'; fill: #555555" transform="translate(44.843688 349.765895)">Circulating-protein data would cover a further 6.5%, but no resource is accessible: UK Biobank-PPP requires credentials and deCODE could not be verified.</text>
+   <text style="font-size: 7.4px; font-family: 'DejaVu Sans'; fill: #555555" transform="translate(44.843688 358.647918)">Reproduce: python src/cv_atlas.py ; python src/make_figures.py</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pabe93f64db">
+   <rect x="109.859688" y="27.558281" width="479.88" height="255.024"/>
+  </clipPath>
+ </defs>
+ <defs>
+  <pattern id="h4f3d3b9cc3" patternUnits="userSpaceOnUse" x="0" y="0" width="72" height="72">
+   <rect x="0" y="0" width="73" height="73" fill="#ffffff"/>
+   <path d="M -36 36 
+L 36 -36 
+M -33 39 
+L 39 -33 
+M -30 42 
+L 42 -30 
+M -27 45 
+L 45 -27 
+M -24 48 
+L 48 -24 
+M -21 51 
+L 51 -21 
+M -18 54 
+L 54 -18 
+M -15 57 
+L 57 -15 
+M -12 60 
+L 60 -12 
+M -9 63 
+L 63 -9 
+M -6 66 
+L 66 -6 
+M -3 69 
+L 69 -3 
+M 0 72 
+L 72 0 
+M 3 75 
+L 75 3 
+M 6 78 
+L 78 6 
+M 9 81 
+L 81 9 
+M 12 84 
+L 84 12 
+M 15 87 
+L 87 15 
+M 18 90 
+L 90 18 
+M 21 93 
+L 93 21 
+M 24 96 
+L 96 24 
+M 27 99 
+L 99 27 
+M 30 102 
+L 102 30 
+M 33 105 
+L 105 33 
+M 36 108 
+L 108 36 
+" style="fill: #cc79a7; stroke: #cc79a7; stroke-width: 1.0; stroke-linecap: butt; stroke-linejoin: miter"/>
+  </pattern>
+ </defs>
+</svg>

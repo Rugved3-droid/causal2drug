@@ -1,0 +1,1014 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 6
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20210115",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "66061",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/210473Orig1s000ltr.pdf",
+              "date": "20210202",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20250603",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA210473",
+      "sponsor_name": "SUN PHARM",
+      "openfda": {
+        "application_number": [
+          "ANDA210473"
+        ],
+        "brand_name": [
+          "EPOPROSTENOL"
+        ],
+        "generic_name": [
+          "EPOPROSTENOL"
+        ],
+        "manufacturer_name": [
+          "Sun Pharmaceutical Industries, Inc."
+        ],
+        "product_ndc": [
+          "62756-059",
+          "62756-060"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "EPOPROSTENOL SODIUM"
+        ],
+        "rxcui": [
+          "562501",
+          "562502"
+        ],
+        "spl_id": [
+          "fae129b5-c1b5-45f2-864c-eee72f289334"
+        ],
+        "spl_set_id": [
+          "db57e498-db20-45e8-8298-b0cf0811d270"
+        ],
+        "package_ndc": [
+          "62756-059-40",
+          "62756-060-40"
+        ],
+        "unii": [
+          "4K04IQ1OF4"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EPOPROSTENOL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "EPOPROSTENOL SODIUM",
+              "strength": "EQ 0.5MG BASE/VIAL"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP2"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EPOPROSTENOL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "EPOPROSTENOL SODIUM",
+              "strength": "EQ 1.5MG BASE/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP2"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20220609",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20150429",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20080423",
+          "application_docs": [
+            {
+              "id": "9154",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/078396s000ltr.pdf",
+              "date": "20080428",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20220609",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20220609",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA078396",
+      "sponsor_name": "MEITHEAL",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EPOPROSTENOL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "EPOPROSTENOL SODIUM",
+              "strength": "EQ 0.5MG BASE/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued",
+          "te_code": "AP1"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EPOPROSTENOL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "EPOPROSTENOL SODIUM",
+              "strength": "EQ 1.5MG BASE/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued",
+          "te_code": "AP1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20201021",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "64984",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/022260Orig1s012ltr.pdf",
+              "date": "20201023",
+              "type": "Letter"
+            },
+            {
+              "id": "65021",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/022260s012lbl.pdf",
+              "date": "20201023",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20181212",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "56738",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/022260s010lbl.pdf",
+              "date": "20181214",
+              "type": "Label"
+            },
+            {
+              "id": "56882",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/022260Orig1s010ltr.pdf",
+              "date": "20181220",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20150303",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20120628",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "48864",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2012/022260Orig1s005.pdf",
+              "date": "20170629",
+              "type": "Review"
+            },
+            {
+              "id": "17163",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/022260s005lbl.pdf",
+              "date": "20130605",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20160718",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20110330",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "38459",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022260s004lbl.pdf",
+              "date": "20110401",
+              "type": "Label"
+            },
+            {
+              "id": "7128",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022260s004ltr.pdf",
+              "date": "20110401",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20100823",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "29487",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/022260s002ltr.pdf",
+              "date": "20100830",
+              "type": "Letter"
+            },
+            {
+              "id": "38458",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/022260s002lbl.pdf",
+              "date": "20100907",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20080627",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "application_docs": [
+            {
+              "id": "44719",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2008/022260s000_SumR.pdf",
+              "date": "20081106",
+              "type": "Summary Review"
+            },
+            {
+              "id": "7127",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/022260s000ltr.pdf",
+              "date": "20080701",
+              "type": "Letter"
+            },
+            {
+              "id": "21972",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2008/022260_epoprostenol_toc.html",
+              "date": "20081106",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA022260",
+      "sponsor_name": "ACTELION",
+      "openfda": {
+        "application_number": [
+          "NDA022260"
+        ],
+        "brand_name": [
+          "VELETRI"
+        ],
+        "generic_name": [
+          "EPOPROSTENOL"
+        ],
+        "manufacturer_name": [
+          "Actelion Pharmaceuticals US, Inc."
+        ],
+        "product_ndc": [
+          "66215-402",
+          "66215-403"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "EPOPROSTENOL"
+        ],
+        "rxcui": [
+          "562501",
+          "562502",
+          "1009216",
+          "1302755"
+        ],
+        "spl_id": [
+          "39e8b7f8-f82a-4083-a284-ce571a87ce97"
+        ],
+        "spl_set_id": [
+          "df502787-46ec-4dd1-a2c0-be90f6d95a5d"
+        ],
+        "package_ndc": [
+          "66215-403-01",
+          "66215-402-01"
+        ],
+        "nui": [
+          "N0000175416",
+          "M0017817",
+          "N0000009909"
+        ],
+        "pharm_class_epc": [
+          "Prostacycline Vasodilator [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Prostaglandins I [CS]"
+        ],
+        "pharm_class_pe": [
+          "Vasodilation [PE]"
+        ],
+        "unii": [
+          "DCR9Z582X0"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "VELETRI",
+          "active_ingredients": [
+            {
+              "name": "EPOPROSTENOL SODIUM",
+              "strength": "EQ 0.5MG BASE/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP2"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "VELETRI",
+          "active_ingredients": [
+            {
+              "name": "EPOPROSTENOL SODIUM",
+              "strength": "EQ 1.5MG BASE/VIAL"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP2"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19991102",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20110329",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2538",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/020444s018ltr.pdf",
+              "date": "20110331",
+              "type": "Letter"
+            },
+            {
+              "id": "34655",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020444s018lbl.pdf",
+              "date": "20110401",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19971121",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20181212",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "56739",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020444s024lbl.pdf",
+              "date": "20181214",
+              "type": "Label"
+            },
+            {
+              "id": "56876",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/020444Orig1s024ltr.pdf",
+              "date": "20181220",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20080312",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12581",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/020444s016lbl.pdf",
+              "date": "20080317",
+              "type": "Label"
+            },
+            {
+              "id": "2537",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/020444s016ltr.pdf",
+              "date": "20080317",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20180514",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "54211",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/020444Orig1s022ltr.pdf",
+              "date": "20180516",
+              "type": "Letter"
+            },
+            {
+              "id": "54244",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020444s022lbl.pdf",
+              "date": "20180517",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20020920",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19950920",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "57467",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/020444Orig1s000rev.pdf",
+              "date": "19950920",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20020621",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20020405",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20000921",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20210824",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "68468",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/020444Orig1s025ltr.pdf",
+              "date": "20210826",
+              "type": "Letter"
+            },
+            {
+              "id": "68470",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/020444s025lbl.pdf",
+              "date": "20210826",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20000414",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41367",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-444S003_Flolan.html",
+              "date": "20000414",
+              "type": "Review"
+            },
+            {
+              "id": "24970",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/20444S03LTR.PDF",
+              "date": "20000414",
+              "type": "Letter"
+            },
+            {
+              "id": "34654",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2000/20444S03LBL.PDF",
+              "date": "20000414",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19960318",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20181023",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "56093",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020444s023lbl.pdf",
+              "date": "20181024",
+              "type": "Label"
+            },
+            {
+              "id": "56121",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/020444Orig1s023ltr.pdf",
+              "date": "20181026",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20150417",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "34656",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/020444s021lbl.pdf",
+              "date": "20150422",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20020621",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20020117",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA020444",
+      "sponsor_name": "GLAXOSMITHKLINE LLC",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "FLOLAN",
+          "active_ingredients": [
+            {
+              "name": "EPOPROSTENOL SODIUM",
+              "strength": "EQ 1.5MG BASE/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued",
+          "te_code": "AP1"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "FLOLAN",
+          "active_ingredients": [
+            {
+              "name": "EPOPROSTENOL SODIUM",
+              "strength": "EQ 0.5MG BASE/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued",
+          "te_code": "AP1"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20251229",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA219237",
+      "sponsor_name": "GLAND",
+      "openfda": {
+        "application_number": [
+          "ANDA219237"
+        ],
+        "brand_name": [
+          "EPOPROSTENOL"
+        ],
+        "generic_name": [
+          "EPOPROSTENOL"
+        ],
+        "manufacturer_name": [
+          "Gland Pharma Limited"
+        ],
+        "product_ndc": [
+          "68083-642",
+          "68083-707"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "EPOPROSTENOL"
+        ],
+        "rxcui": [
+          "562501",
+          "562502"
+        ],
+        "spl_id": [
+          "8b45ebae-92d6-4a3b-a559-115c66a8352a"
+        ],
+        "spl_set_id": [
+          "47f64fcd-cbf7-457a-9548-661fb10ff7e0"
+        ],
+        "package_ndc": [
+          "68083-707-01",
+          "68083-642-01"
+        ],
+        "nui": [
+          "N0000175416",
+          "M0017817",
+          "N0000009909"
+        ],
+        "pharm_class_epc": [
+          "Prostacycline Vasodilator [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Prostaglandins I [CS]"
+        ],
+        "pharm_class_pe": [
+          "Vasodilation [PE]"
+        ],
+        "unii": [
+          "DCR9Z582X0"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EPOPROSTENOL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "EPOPROSTENOL SODIUM",
+              "strength": "EQ 1.5MG BASE/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP2"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EPOPROSTENOL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "EPOPROSTENOL SODIUM",
+              "strength": "EQ 0.5MG BASE/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP2"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240612",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213913",
+      "sponsor_name": "MYLAN",
+      "openfda": {
+        "application_number": [
+          "ANDA213913"
+        ],
+        "brand_name": [
+          "EPOPROSTENOL"
+        ],
+        "generic_name": [
+          "EPOPROSTENOL"
+        ],
+        "manufacturer_name": [
+          "Mylan Institutional LLC"
+        ],
+        "product_ndc": [
+          "67457-587",
+          "67457-588"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "EPOPROSTENOL"
+        ],
+        "rxcui": [
+          "562501",
+          "562502"
+        ],
+        "spl_id": [
+          "2a163b77-9e01-4516-b19c-f5a12ce48560"
+        ],
+        "spl_set_id": [
+          "2a163b77-9e01-4516-b19c-f5a12ce48560"
+        ],
+        "package_ndc": [
+          "67457-587-10",
+          "67457-588-10"
+        ],
+        "nui": [
+          "N0000175416",
+          "M0017817",
+          "N0000009909"
+        ],
+        "pharm_class_epc": [
+          "Prostacycline Vasodilator [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Prostaglandins I [CS]"
+        ],
+        "pharm_class_pe": [
+          "Vasodilation [PE]"
+        ],
+        "unii": [
+          "DCR9Z582X0"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EPOPROSTENOL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "EPOPROSTENOL SODIUM",
+              "strength": "EQ 1.5MG BASE/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP2"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EPOPROSTENOL SODIUM",
+          "active_ingredients": [
+            {
+              "name": "EPOPROSTENOL SODIUM",
+              "strength": "EQ 0.5MG BASE/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP2"
+        }
+      ]
+    }
+  ]
+}

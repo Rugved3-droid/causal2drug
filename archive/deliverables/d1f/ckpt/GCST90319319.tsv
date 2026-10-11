@@ -1,0 +1,2 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+TSHR	D006980	Hyperthyroidism	GCST90319319	UP	1	rs179252	2.859e-40	0.105698	0.00795654	176.5	-0.215399	0.018756	aligned_same	407	-2.03787	0.177449	1.58264e-30	NEGATIVE	NEGATIVE	YES	

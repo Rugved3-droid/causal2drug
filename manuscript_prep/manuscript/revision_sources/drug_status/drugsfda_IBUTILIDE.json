@@ -1,0 +1,387 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 5
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20100111",
+          "application_docs": [
+            {
+              "id": "31505",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/090924s000ltr.pdf",
+              "date": "20100115",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA090924",
+      "sponsor_name": "MYLAN INSTITUTIONAL",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "IBUTILIDE FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "IBUTILIDE FUMARATE",
+              "strength": "0.1MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240401",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA204146",
+      "sponsor_name": "AVET LIFESCIENCES",
+      "openfda": {
+        "application_number": [
+          "ANDA204146"
+        ],
+        "brand_name": [
+          "IBUTILIDE FUMARATE"
+        ],
+        "generic_name": [
+          "IBUTILIDE FUMARATE"
+        ],
+        "manufacturer_name": [
+          "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "23155-326"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "IBUTILIDE FUMARATE"
+        ],
+        "rxcui": [
+          "979120"
+        ],
+        "spl_id": [
+          "d27fccf1-d015-47a7-9fff-2d028495a1fc"
+        ],
+        "spl_set_id": [
+          "0cf8724a-f0d1-4ce2-b7c1-cf5fac345fd0"
+        ],
+        "package_ndc": [
+          "23155-326-31"
+        ],
+        "unii": [
+          "9L5X4M5L6I"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "IBUTILIDE FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "IBUTILIDE FUMARATE",
+              "strength": "0.1MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20100111",
+          "application_docs": [
+            {
+              "id": "31483",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/090643s000ltr.pdf",
+              "date": "20100115",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA090643",
+      "sponsor_name": "PHARMOBEDIENT",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "IBUTILIDE FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "IBUTILIDE FUMARATE",
+              "strength": "0.1MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20000403",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19980403",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20681",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20491s002_Corvert.pdf",
+              "date": "19980403",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20140609",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19951228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "57463",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/96/020491Orig1s000rev.pdf",
+              "date": "19960316",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20021017",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20010420",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12634",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/20-491S003.pdf",
+              "date": "20010420",
+              "type": "Label"
+            },
+            {
+              "id": "20682",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/20-491S003.pdf",
+              "date": "20010420",
+              "type": "Review"
+            },
+            {
+              "id": "2599",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/20-491S003.pdf",
+              "date": "20010420",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19990513",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "20680",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20491s001.html",
+              "date": "19990513",
+              "type": "Review"
+            },
+            {
+              "id": "2598",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20491s01ltr.pdf",
+              "date": "19990513",
+              "type": "Letter"
+            },
+            {
+              "id": "34708",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/1999/20491s01lbl.pdf",
+              "date": "19990513",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020491",
+      "sponsor_name": "PFIZER",
+      "openfda": {
+        "application_number": [
+          "NDA020491"
+        ],
+        "brand_name": [
+          "CORVERT"
+        ],
+        "generic_name": [
+          "IBUTILIDE FUMARATE"
+        ],
+        "manufacturer_name": [
+          "Pharmacia & Upjohn Company LLC"
+        ],
+        "product_ndc": [
+          "0009-3794"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "IBUTILIDE FUMARATE"
+        ],
+        "rxcui": [
+          "979120",
+          "979122"
+        ],
+        "spl_id": [
+          "1cc20301-7541-43e5-8034-8306028c50a4",
+          "c8d8e348-2795-48de-9ac8-51ee0d0201af"
+        ],
+        "spl_set_id": [
+          "2428969a-7431-4e94-9503-ad5c680e2ea4",
+          "b7d717ed-022d-4459-b5e6-098c2a8b7427"
+        ],
+        "package_ndc": [
+          "0009-3794-22",
+          "0009-3794-01"
+        ],
+        "unii": [
+          "9L5X4M5L6I"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "CORVERT",
+          "active_ingredients": [
+            {
+              "name": "IBUTILIDE FUMARATE",
+              "strength": "0.1MG/ML"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20100111",
+          "application_docs": [
+            {
+              "id": "31458",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/090240s000ltr.pdf",
+              "date": "20100120",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA090240",
+      "sponsor_name": "LUITPOLD",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "IBUTILIDE FUMARATE",
+          "active_ingredients": [
+            {
+              "name": "IBUTILIDE FUMARATE",
+              "strength": "0.1MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

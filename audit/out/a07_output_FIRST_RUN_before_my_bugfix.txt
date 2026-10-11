@@ -1,0 +1,31 @@
+[E01] target set: mine 726, original 726, only mine [], only original []
+[E02] status: 726 match, 0 differ []
+[E02] subtype: 726 match, 0 differ []
+[E02] ensembl_id: 726 match, 0 differ []
+[E02] chrom: 726 match, 0 differ []
+[E02] phase: 726 match, 0 differ []
+[E02] n_qualifying: 726 match, 0 differ []
+[E02] lead_snp: 726 match, 0 differ []
+[E03] recovery scope: mine 280, original 280, only mine [], only original []
+[E04] category: 278 match, 2 differ ['ACE2', 'LAMP2']
+[E04] tier: 279 match, 1 differ ['LAMP2']
+[E04] gtex_id_used: 280 match, 0 differ []
+[E04] gtex_n_tissues_tested: 280 match, 0 differ []
+[E04] gtex_nonblood_tissues: 280 match, 0 differ []
+[E04] gtex_cv_tissues: 280 match, 0 differ []
+[E04] gtex_whole_blood: 280 match, 0 differ []
+[E04] gtex_best_cv_tissue: 280 match, 0 differ []
+[E04] gtex_best_cv_variant: 280 match, 0 differ []
+[E04] ukb_assayed: 280 match, 0 differ []
+[E04] ukb_instrument: 274 match, 6 differ ['ACE2', 'CD40LG', 'F9', 'GLA', 'LAMP2', 'VEGFD']
+[E04] ukb_sheet: 248 match, 32 differ ['ACE2', 'ACHE', 'AGT', 'ALPP', 'ANGPTL3', 'ANGPTL4', 'AOC3', 'APOE', 'CD40LG', 'CDH17', 'CPB2', 'F11', 'F9', 'GHR', 'GLA', 'IL12B', 'IL5RA', 'ITGB6', 'KDR', 'LAMP2', 'LPA', 'MBL2', 'MMP10', 'NELL1', 'PCSK9']
+[E04] decode_assayed: 276 match, 4 differ ['ALPP', 'CDK5', 'FGA', 'ITGA2B']
+[E04] decode_instrument: 280 match, 0 differ []
+[E04] fenland_assayed: 279 match, 1 differ ['VEGFD']
+[E04] fenland_instrument: 279 match, 1 differ ['VEGFD']
+[E04] x_flag: 280 match, 0 differ []
+[E05] category mine {'fixable-both': 69, 'fixable-protein': 24, 'fixable-tissue': 130, 'locked': 57} | original {'fixable-both': 71, 'fixable-protein': 24, 'fixable-tissue': 128, 'locked': 57}
+[E05] tier mine {'locked: assayed, no instrument': 22, 'locked: never assayed': 35, 'off-target-tissue rescue': 73, 'plausible rescue': 150} | original {'locked: assayed, no instrument': 22, 'locked: never assayed': 35, 'off-target-tissue rescue': 72, 'plausible rescue': 151}
+[E06] PCSK9->LDL-C mine  beta 0.3868 se 0.0048 F 2304.8 exposure ST10 beta -1.12113 se 0.0233527; outcome beta -0.433696 se 0.005426
+[E06] PCSK9->LDL-C orig  beta 0.3761 se 0.0047 F 1722.8 exposure UKB-PPP plasma cis-pQTL (ST9) beta -1.15328 se 0.0277856; outcome beta -0.433696 se 0.005426; study GCST90239658
+[E07] HMGCR->LDL-C mine  beta 0.3891 se 0.0120 p 4.24e-229 F 224.0 lead rs6453133  | KEY_NUMBERS: beta +0.389 (SE 0.012), p 4.2e-229, F 224

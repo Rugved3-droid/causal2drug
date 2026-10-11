@@ -1,0 +1,424 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19991210",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20889",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020740s007.pdf",
+              "date": "20070924",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19990823",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19990104",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20888",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20-740S003_Baycol.pdf",
+              "date": "20011129",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19980820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20010510",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41633",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/20-740S018_Baycol.pdf",
+              "date": "20011203",
+              "type": "Review"
+            },
+            {
+              "id": "35251",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2001/20740S18lbl.pdf",
+              "date": "20030422",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20010123",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20891",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/020740_S016_BAYCOL_TABLETS.pdf",
+              "date": "20080219",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20001106",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20890",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-740S014_Baycol.pdf",
+              "date": "20011203",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19970626",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "13316",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/97/020740_baycol_toc.html",
+              "date": "20100302",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20000703",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41631",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/020740_S012_BAYCOL.pdf",
+              "date": "20070924",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "19991222",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41630",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020740_S010_BAYCOL.pdf",
+              "date": "20070924",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20000721",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41629",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-740S008_Baycol.html",
+              "date": "20011129",
+              "type": "Review"
+            },
+            {
+              "id": "13317",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-740S008_Baycol_prntlbl.pdf",
+              "date": "20000721",
+              "type": "Label"
+            },
+            {
+              "id": "3235",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/20740S8,13LTR.PDF",
+              "date": "20000723",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20010330",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41628",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/20-740S006_Baycol.pdf",
+              "date": "20011203",
+              "type": "Review"
+            },
+            {
+              "id": "25666",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/20740S6ltr.pdf",
+              "date": "20010330",
+              "type": "Letter"
+            },
+            {
+              "id": "35250",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2001/20740S6lbl.pdf",
+              "date": "20010330",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19990713",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20010521",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41634",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/20-740S019_Baycol.pdf",
+              "date": "20011203",
+              "type": "Review"
+            },
+            {
+              "id": "35252",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2001/20740S19lbl.pdf",
+              "date": "20020423",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19990524",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "20887",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20-740S002_Baycol.html",
+              "date": "20011129",
+              "type": "Review"
+            },
+            {
+              "id": "25665",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1999/20740s02ltr.pdf",
+              "date": "19990524",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20010227",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20000721",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41632",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-740S008_Baycol.html",
+              "date": "20011129",
+              "type": "Review"
+            },
+            {
+              "id": "13318",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-740S008_Baycol_prntlbl.pdf",
+              "date": "20000721",
+              "type": "Label"
+            },
+            {
+              "id": "3236",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/20740S8,13LTR.PDF",
+              "date": "20000723",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020740",
+      "sponsor_name": "BAYER PHARMS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BAYCOL",
+          "active_ingredients": [
+            {
+              "name": "CERIVASTATIN SODIUM",
+              "strength": "0.05MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "BAYCOL",
+          "active_ingredients": [
+            {
+              "name": "CERIVASTATIN SODIUM",
+              "strength": "0.8MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "BAYCOL",
+          "active_ingredients": [
+            {
+              "name": "CERIVASTATIN SODIUM",
+              "strength": "0.3MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BAYCOL",
+          "active_ingredients": [
+            {
+              "name": "CERIVASTATIN SODIUM",
+              "strength": "0.1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "BAYCOL",
+          "active_ingredients": [
+            {
+              "name": "CERIVASTATIN SODIUM",
+              "strength": "0.4MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BAYCOL",
+          "active_ingredients": [
+            {
+              "name": "CERIVASTATIN SODIUM",
+              "strength": "0.2MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

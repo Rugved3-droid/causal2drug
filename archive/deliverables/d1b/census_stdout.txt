@@ -1,0 +1,404 @@
+{
+  "mapping": {
+    "minikel_unique_targets": 2517,
+    "UNMAPPED_no_unique_GRCh37_gene_record": 60,
+    "mapped_to_GRCh37_ENSG": 2457,
+    "ABSENT_from_eQTLGen_tested_universe": 652,
+    "present_in_eQTLGen_tested_universe": 1805,
+    "eQTLGen_tested_genes_total": 19250
+  },
+  "census": {
+    "targets_with_ge1_cis_eQTL_p_lt_5e-8_in_window": 1576,
+    "targets_missing_from_clump_output": 0,
+    "targets_with_ge1_INDEPENDENT_instrument": 1576,
+    "targets_with_NO_significant_cis_eQTL_though_tested": 229,
+    "targets_ABSENT_from_eQTLGen": 652,
+    "targets_UNMAPPED": 60,
+    "instruments_per_target": {
+      "median": 3.0,
+      "q1": 1,
+      "q3": 5,
+      "min": 1,
+      "max": 30,
+      "n_with_ge3": 818,
+      "n_with_ge2": 1116,
+      "n_eq1": 460
+    },
+    "partition_sums_to_N": true
+  },
+  "pairs": {
+    "total_pairs_frozen": 29456,
+    "pairs_whose_target_has_ge1_independent_instrument": 19754
+  },
+  "distinct_targets_by_phase": {
+    "all_frozen_pairs": {
+      "any phase": 2517,
+      "Phase II+": 1306,
+      "Phase III+": 704,
+      "launched": 450
+    },
+    "surviving_pairs": {
+      "any phase": 1576,
+      "Phase II+": 831,
+      "Phase III+": 431,
+      "launched": 255
+    }
+  },
+  "therapeutic_area": {
+    "oncology": {
+      "pairs_all": 11522,
+      "pairs_surviving": 8360,
+      "distinct_targets_all": 1573,
+      "distinct_targets_surviving": 1070,
+      "target_yield_rate": 0.6802,
+      "by_phase_surviving": {
+        "any phase": 1070,
+        "Phase II+": 470,
+        "Phase III+": 179,
+        "launched": 97
+      },
+      "by_phase_all": {
+        "any phase": 1573,
+        "Phase II+": 655,
+        "Phase III+": 251,
+        "launched": 140
+      }
+    },
+    "signs/symptoms": {
+      "pairs_all": 2808,
+      "pairs_surviving": 1630,
+      "distinct_targets_all": 1051,
+      "distinct_targets_surviving": 644,
+      "target_yield_rate": 0.6127,
+      "by_phase_surviving": {
+        "any phase": 644,
+        "Phase II+": 232,
+        "Phase III+": 99,
+        "launched": 54
+      },
+      "by_phase_all": {
+        "any phase": 1051,
+        "Phase II+": 423,
+        "Phase III+": 193,
+        "launched": 113
+      }
+    },
+    "immune": {
+      "pairs_all": 2343,
+      "pairs_surviving": 1714,
+      "distinct_targets_all": 805,
+      "distinct_targets_surviving": 549,
+      "target_yield_rate": 0.682,
+      "by_phase_surviving": {
+        "any phase": 549,
+        "Phase II+": 221,
+        "Phase III+": 97,
+        "launched": 57
+      },
+      "by_phase_all": {
+        "any phase": 805,
+        "Phase II+": 328,
+        "Phase III+": 137,
+        "launched": 81
+      }
+    },
+    "psychiatry": {
+      "pairs_all": 1604,
+      "pairs_surviving": 745,
+      "distinct_targets_all": 459,
+      "distinct_targets_surviving": 278,
+      "target_yield_rate": 0.6057,
+      "by_phase_surviving": {
+        "any phase": 278,
+        "Phase II+": 96,
+        "Phase III+": 40,
+        "launched": 13
+      },
+      "by_phase_all": {
+        "any phase": 459,
+        "Phase II+": 193,
+        "Phase III+": 102,
+        "launched": 52
+      }
+    },
+    "cardiovascular": {
+      "pairs_all": 1364,
+      "pairs_surviving": 834,
+      "distinct_targets_all": 594,
+      "distinct_targets_surviving": 368,
+      "target_yield_rate": 0.6195,
+      "by_phase_surviving": {
+        "any phase": 368,
+        "Phase II+": 136,
+        "Phase III+": 55,
+        "launched": 23
+      },
+      "by_phase_all": {
+        "any phase": 594,
+        "Phase II+": 215,
+        "Phase III+": 94,
+        "launched": 44
+      }
+    },
+    "digestive": {
+      "pairs_all": 1256,
+      "pairs_surviving": 848,
+      "distinct_targets_all": 599,
+      "distinct_targets_surviving": 398,
+      "target_yield_rate": 0.6644,
+      "by_phase_surviving": {
+        "any phase": 398,
+        "Phase II+": 184,
+        "Phase III+": 54,
+        "launched": 20
+      },
+      "by_phase_all": {
+        "any phase": 599,
+        "Phase II+": 287,
+        "Phase III+": 88,
+        "launched": 40
+      }
+    },
+    "neurology": {
+      "pairs_all": 1087,
+      "pairs_surviving": 626,
+      "distinct_targets_all": 534,
+      "distinct_targets_surviving": 327,
+      "target_yield_rate": 0.6124,
+      "by_phase_surviving": {
+        "any phase": 327,
+        "Phase II+": 89,
+        "Phase III+": 33,
+        "launched": 13
+      },
+      "by_phase_all": {
+        "any phase": 534,
+        "Phase II+": 171,
+        "Phase III+": 72,
+        "launched": 37
+      }
+    },
+    "respiratory": {
+      "pairs_all": 1074,
+      "pairs_surviving": 754,
+      "distinct_targets_all": 534,
+      "distinct_targets_surviving": 369,
+      "target_yield_rate": 0.691,
+      "by_phase_surviving": {
+        "any phase": 369,
+        "Phase II+": 173,
+        "Phase III+": 67,
+        "launched": 16
+      },
+      "by_phase_all": {
+        "any phase": 534,
+        "Phase II+": 256,
+        "Phase III+": 103,
+        "launched": 29
+      }
+    },
+    "other": {
+      "pairs_all": 1070,
+      "pairs_surviving": 619,
+      "distinct_targets_all": 547,
+      "distinct_targets_surviving": 330,
+      "target_yield_rate": 0.6033,
+      "by_phase_surviving": {
+        "any phase": 330,
+        "Phase II+": 128,
+        "Phase III+": 57,
+        "launched": 27
+      },
+      "by_phase_all": {
+        "any phase": 547,
+        "Phase II+": 230,
+        "Phase III+": 101,
+        "launched": 60
+      }
+    },
+    "dermatology": {
+      "pairs_all": 1061,
+      "pairs_surviving": 762,
+      "distinct_targets_all": 455,
+      "distinct_targets_surviving": 320,
+      "target_yield_rate": 0.7033,
+      "by_phase_surviving": {
+        "any phase": 320,
+        "Phase II+": 153,
+        "Phase III+": 55,
+        "launched": 35
+      },
+      "by_phase_all": {
+        "any phase": 455,
+        "Phase II+": 223,
+        "Phase III+": 75,
+        "launched": 48
+      }
+    },
+    "endocrine": {
+      "pairs_all": 864,
+      "pairs_surviving": 518,
+      "distinct_targets_all": 545,
+      "distinct_targets_surviving": 327,
+      "target_yield_rate": 0.6,
+      "by_phase_surviving": {
+        "any phase": 327,
+        "Phase II+": 125,
+        "Phase III+": 31,
+        "launched": 19
+      },
+      "by_phase_all": {
+        "any phase": 545,
+        "Phase II+": 226,
+        "Phase III+": 58,
+        "launched": 37
+      }
+    },
+    "metabolic": {
+      "pairs_all": 859,
+      "pairs_surviving": 537,
+      "distinct_targets_all": 511,
+      "distinct_targets_surviving": 319,
+      "target_yield_rate": 0.6243,
+      "by_phase_surviving": {
+        "any phase": 319,
+        "Phase II+": 116,
+        "Phase III+": 48,
+        "launched": 29
+      },
+      "by_phase_all": {
+        "any phase": 511,
+        "Phase II+": 195,
+        "Phase III+": 84,
+        "launched": 53
+      }
+    },
+    "ophthalmology": {
+      "pairs_all": 789,
+      "pairs_surviving": 553,
+      "distinct_targets_all": 374,
+      "distinct_targets_surviving": 246,
+      "target_yield_rate": 0.6578,
+      "by_phase_surviving": {
+        "any phase": 246,
+        "Phase II+": 113,
+        "Phase III+": 43,
+        "launched": 23
+      },
+      "by_phase_all": {
+        "any phase": 374,
+        "Phase II+": 173,
+        "Phase III+": 65,
+        "launched": 29
+      }
+    },
+    "congenital": {
+      "pairs_all": 503,
+      "pairs_surviving": 330,
+      "distinct_targets_all": 332,
+      "distinct_targets_surviving": 212,
+      "target_yield_rate": 0.6386,
+      "by_phase_surviving": {
+        "any phase": 212,
+        "Phase II+": 104,
+        "Phase III+": 39,
+        "launched": 16
+      },
+      "by_phase_all": {
+        "any phase": 332,
+        "Phase II+": 161,
+        "Phase III+": 70,
+        "launched": 41
+      }
+    },
+    "hematology": {
+      "pairs_all": 498,
+      "pairs_surviving": 370,
+      "distinct_targets_all": 321,
+      "distinct_targets_surviving": 236,
+      "target_yield_rate": 0.7352,
+      "by_phase_surviving": {
+        "any phase": 236,
+        "Phase II+": 126,
+        "Phase III+": 46,
+        "launched": 24
+      },
+      "by_phase_all": {
+        "any phase": 321,
+        "Phase II+": 170,
+        "Phase III+": 62,
+        "launched": 33
+      }
+    },
+    "infection": {
+      "pairs_all": 415,
+      "pairs_surviving": 310,
+      "distinct_targets_all": 238,
+      "distinct_targets_surviving": 180,
+      "target_yield_rate": 0.7563,
+      "by_phase_surviving": {
+        "any phase": 180,
+        "Phase II+": 39,
+        "Phase III+": 17,
+        "launched": 10
+      },
+      "by_phase_all": {
+        "any phase": 238,
+        "Phase II+": 62,
+        "Phase III+": 30,
+        "launched": 22
+      }
+    },
+    "musculoskeletal": {
+      "pairs_all": 339,
+      "pairs_surviving": 244,
+      "distinct_targets_all": 248,
+      "distinct_targets_surviving": 169,
+      "target_yield_rate": 0.6815,
+      "by_phase_surviving": {
+        "any phase": 169,
+        "Phase II+": 48,
+        "Phase III+": 25,
+        "launched": 11
+      },
+      "by_phase_all": {
+        "any phase": 248,
+        "Phase II+": 80,
+        "Phase III+": 38,
+        "launched": 15
+      }
+    }
+  },
+  "controls": {
+    "HMGCR": {
+      "in_GRCh37_GTF": true,
+      "ensembl_id": "ENSG00000113161",
+      "in_eQTLGen_tested": true,
+      "n_hits_p_lt_5e-8_in_window": 277,
+      "n_independent_instruments": 1,
+      "best_p": 1.2137e-50,
+      "best_snp": "rs6453133",
+      "n_in_ld_panel": 269
+    },
+    "PCSK9": {
+      "in_GRCh37_GTF": true,
+      "ensembl_id": "ENSG00000169174",
+      "in_eQTLGen_tested": false,
+      "n_hits_p_lt_5e-8_in_window": 0,
+      "n_independent_instruments": null,
+      "best_p": null,
+      "best_snp": null,
+      "n_in_ld_panel": null
+    },
+    "IL6R": {
+      "in_GRCh37_GTF": true,
+      "ensembl_id": "ENSG00000160712",
+      "in_eQTLGen_tested": true,
+      "n_hits_p_lt_5e-8_in_window": 226,
+      "n_independent_instruments": 2,
+      "best_p": 4.0915e-34,
+      "best_snp": "rs10908839",
+      "n_in_ld_panel": 224
+    }
+  }
+}

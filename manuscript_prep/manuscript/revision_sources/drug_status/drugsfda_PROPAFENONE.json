@@ -1,0 +1,2174 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 18
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150824",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "10094",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/202688Orig1s000ltr.pdf",
+              "date": "20150828",
+              "type": "Letter"
+            },
+            {
+              "id": "19367",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/202688Orig1s000lbl.pdf",
+              "date": "20151015",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20191030",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA202688",
+      "sponsor_name": "WATSON LABS INC",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "325MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "425MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "225MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170908",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20191031",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA205268",
+      "sponsor_name": "GLENMARK PHARMS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA205268"
+        ],
+        "brand_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Glenmark Pharmaceuticals Inc., USA",
+          "Northstar Rx LLC"
+        ],
+        "product_ndc": [
+          "68462-408",
+          "68462-409",
+          "68462-410",
+          "16714-825",
+          "16714-826",
+          "16714-827"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "861156",
+          "861164",
+          "861171"
+        ],
+        "spl_id": [
+          "9b3e09a2-c396-425e-a1dc-e37cd44b612d",
+          "2f88518a-063e-435c-82bf-1b23f35e5451"
+        ],
+        "spl_set_id": [
+          "d818af31-2535-4595-82fe-fd7abf66fd6c",
+          "2ecd6452-ccc3-493f-9a4a-69f0fbf67a42"
+        ],
+        "package_ndc": [
+          "68462-408-60",
+          "68462-409-60",
+          "68462-410-60",
+          "16714-825-01",
+          "16714-826-01",
+          "16714-827-01"
+        ],
+        "unii": [
+          "33XCH0HOCD"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "425MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "225MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "325MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160429",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20191030",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA203803",
+      "sponsor_name": "MYLAN",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "325MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "425MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "225MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200618",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA212928",
+      "sponsor_name": "TWI PHARMS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "325MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "425MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "225MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20001221",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19891127",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20181102",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "56255",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/019151s015lbl.pdf",
+              "date": "20181102",
+              "type": "Label"
+            },
+            {
+              "id": "56326",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/019151Orig1s015Ltr.pdf",
+              "date": "20181107",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19990924",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20140711",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19970319",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19971223",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "20208",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/97/19151.pdf",
+              "date": "19971223",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20021205",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1235",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/19151slr005slr009ltr.pdf",
+              "date": "20040616",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20000714",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20021205",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1234",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/19151slr005slr009ltr.pdf",
+              "date": "20021205",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20130320",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "1236",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/019151Orig1s012ltr.pdf",
+              "date": "20130322",
+              "type": "Letter"
+            },
+            {
+              "id": "33701",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/019151s012lbl.pdf",
+              "date": "20130326",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19931123",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19921120",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20020111",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA019151",
+      "sponsor_name": "GLAXOSMITHKLINE LLC",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "RYTHMOL",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "225MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "RYTHMOL",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "150MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "RYTHMOL",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "300MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20210421",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA214184",
+      "sponsor_name": "ZYDUS LIFESCIENCES",
+      "openfda": {
+        "application_number": [
+          "ANDA214184"
+        ],
+        "brand_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Zydus Lifesciences Limited",
+          "Zydus Pharmaceuticals (USA) Inc."
+        ],
+        "product_ndc": [
+          "70771-1525",
+          "70771-1526",
+          "70771-1527",
+          "68382-522",
+          "68382-523",
+          "68382-524"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "861156",
+          "861164",
+          "861171"
+        ],
+        "spl_id": [
+          "e7389f3e-074b-44ca-b767-5520390265e5",
+          "a56d3284-65f2-4d77-bd0b-98afb084d7aa"
+        ],
+        "spl_set_id": [
+          "b41ec863-5734-41a3-9837-6c0a962ec6eb",
+          "163564b6-a8bf-4258-8ef9-19e33fb2d7bc"
+        ],
+        "package_ndc": [
+          "70771-1525-6",
+          "70771-1525-5",
+          "70771-1526-6",
+          "70771-1526-5",
+          "70771-1527-6",
+          "70771-1527-5",
+          "68382-522-14",
+          "68382-522-05",
+          "68382-523-14",
+          "68382-523-05",
+          "68382-524-14",
+          "68382-524-05"
+        ],
+        "unii": [
+          "33XCH0HOCD"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "425MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "225MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "325MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20060504",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20160529",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20021017"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20241017",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20241017",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20150827",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075938",
+      "sponsor_name": "STRIDES PHARMA INTL",
+      "openfda": {
+        "application_number": [
+          "ANDA075938"
+        ],
+        "brand_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Strides Pharma Science Limited"
+        ],
+        "product_ndc": [
+          "64380-163",
+          "64380-165",
+          "64380-164",
+          "64380-246",
+          "64380-269",
+          "64380-268"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "861424",
+          "861427",
+          "861430"
+        ],
+        "spl_id": [
+          "3c3e948d-7eef-4a8b-8155-aef063cd1678",
+          "c59340fa-0b07-454a-bf5a-c49b54bfd42c"
+        ],
+        "spl_set_id": [
+          "a96f9c6f-4c9c-4406-bca8-08bf9a4af1f4",
+          "c65253ab-937f-4982-b841-69c2b9f9ccdb"
+        ],
+        "package_ndc": [
+          "64380-165-02",
+          "64380-165-01",
+          "64380-164-02",
+          "64380-164-01",
+          "64380-163-01",
+          "64380-269-02",
+          "64380-269-01",
+          "64380-268-02",
+          "64380-268-01",
+          "64380-246-01"
+        ],
+        "unii": [
+          "33XCH0HOCD"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "225MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "300MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "150MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20191113",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160511",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA202445",
+      "sponsor_name": "AUROBINDO PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA202445"
+        ],
+        "brand_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "59651-256",
+          "59651-257",
+          "59651-258"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "861424",
+          "861427",
+          "861430"
+        ],
+        "spl_id": [
+          "b59b252f-8b73-4f72-8d01-4d2076c18fa6"
+        ],
+        "spl_set_id": [
+          "0c887381-42fe-4f37-858a-d9ffb218dd1c"
+        ],
+        "package_ndc": [
+          "59651-256-01",
+          "59651-256-33",
+          "59651-257-01",
+          "59651-257-33",
+          "59651-258-01"
+        ],
+        "unii": [
+          "33XCH0HOCD"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "225MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "300MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "150MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20020207"
+        }
+      ],
+      "application_number": "ANDA076193",
+      "sponsor_name": "NESHER PHARMS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "150MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "225MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "300MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20101018",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20101018",
+          "application_docs": [
+            {
+              "id": "9163",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/078540s000ltr.pdf",
+              "date": "20101020",
+              "type": "Letter"
+            },
+            {
+              "id": "22623",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/2010/078540Orig1s000.pdf",
+              "date": "20131023",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20150710",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20110711",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA078540",
+      "sponsor_name": "STRIDES PHARMA INTL",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "325MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "425MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "225MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20031024",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20020618",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20011129",
+          "application_docs": [
+            {
+              "id": "8845",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/75998APltrF.pdf",
+              "date": "20030410",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20191031",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075998",
+      "sponsor_name": "SUN PHARM INDUSTRIES",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "225MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "300MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "150MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230221",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213096",
+      "sponsor_name": "AUROBINDO PHARMA LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA213096"
+        ],
+        "brand_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "59651-276",
+          "59651-277",
+          "59651-278"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "861156",
+          "861164",
+          "861171"
+        ],
+        "spl_id": [
+          "ef0c975d-08ee-4649-9017-4f7f1a2981a1"
+        ],
+        "spl_set_id": [
+          "1c4fc726-3f5b-4b12-a66e-727c5133d1d9"
+        ],
+        "package_ndc": [
+          "59651-276-60",
+          "59651-276-90",
+          "59651-276-05",
+          "59651-277-60",
+          "59651-277-90",
+          "59651-277-05",
+          "59651-278-60",
+          "59651-278-90",
+          "59651-278-05"
+        ],
+        "unii": [
+          "33XCH0HOCD"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "325MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "425MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "225MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200625",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA212744",
+      "sponsor_name": "UPSHER SMITH LABS",
+      "openfda": {
+        "application_number": [
+          "ANDA212744"
+        ],
+        "brand_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Upsher-Smith Laboratories, LLC"
+        ],
+        "product_ndc": [
+          "0832-0740",
+          "0832-0741",
+          "0832-0742"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "861156",
+          "861164",
+          "861171"
+        ],
+        "spl_id": [
+          "45afbac0-5c1a-ebc5-e063-6294a90a4d5e"
+        ],
+        "spl_set_id": [
+          "8aa6f58a-2980-4caa-9c54-d55d69d5d132"
+        ],
+        "package_ndc": [
+          "0832-0740-60",
+          "0832-0741-60",
+          "0832-0742-60"
+        ],
+        "unii": [
+          "33XCH0HOCD"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "425MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "225MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "325MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190104",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210339",
+      "sponsor_name": "SINOTHERAPEUTICS INC",
+      "openfda": {
+        "application_number": [
+          "ANDA210339"
+        ],
+        "brand_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "PROPAFENONE"
+        ],
+        "manufacturer_name": [
+          "Vitruvias Therapeutics"
+        ],
+        "product_ndc": [
+          "69680-130",
+          "69680-131",
+          "69680-132"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "861156",
+          "861164",
+          "861171"
+        ],
+        "spl_id": [
+          "827a5fb5-9318-4116-9e23-6b75e469dd77"
+        ],
+        "spl_set_id": [
+          "bc1d2548-15a3-4986-92b1-c3ddfb35343a"
+        ],
+        "package_ndc": [
+          "69680-130-60",
+          "69680-130-92",
+          "69680-131-60",
+          "69680-131-92",
+          "69680-132-60",
+          "69680-132-92"
+        ],
+        "unii": [
+          "33XCH0HOCD"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "325MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "425MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "225MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180702",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20191114",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA205956",
+      "sponsor_name": "RISING",
+      "openfda": {
+        "application_number": [
+          "ANDA205956"
+        ],
+        "brand_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Rising Pharma Holdings, Inc."
+        ],
+        "product_ndc": [
+          "16571-736",
+          "16571-737",
+          "16571-738"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "861156",
+          "861164",
+          "861171"
+        ],
+        "spl_id": [
+          "36cf4555-6fe9-42d8-8d3b-3ca9c134a5b8"
+        ],
+        "spl_set_id": [
+          "36cf4555-6fe9-42d8-8d3b-3ca9c134a5b8"
+        ],
+        "package_ndc": [
+          "16571-736-06",
+          "16571-736-50",
+          "16571-737-06",
+          "16571-737-50",
+          "16571-738-06",
+          "16571-738-50"
+        ],
+        "unii": [
+          "33XCH0HOCD"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "425MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "225MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "325MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20191030",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20040423"
+        }
+      ],
+      "application_number": "ANDA076550",
+      "sponsor_name": "ANI PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA076550"
+        ],
+        "brand_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "ANI Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "62559-230",
+          "62559-231",
+          "62559-232"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "PROPAFENONE HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "861424",
+          "861427",
+          "861430"
+        ],
+        "spl_id": [
+          "f3d9c704-c65d-43cd-aafd-2aebe4abfee3"
+        ],
+        "spl_set_id": [
+          "8d1be333-be2b-4064-86a4-c2ad9ad07b83"
+        ],
+        "package_ndc": [
+          "62559-230-01",
+          "62559-231-01",
+          "62559-232-01"
+        ],
+        "unii": [
+          "33XCH0HOCD"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "300MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "150MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "225MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20191113",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20001024",
+          "application_docs": [
+            {
+              "id": "39465",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/2000/75203_Propafenone%20Hydrochloride_Prntlbl.pdf",
+              "date": "20031223",
+              "type": "Label"
+            },
+            {
+              "id": "42957",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/2000/075203_propafenone-hydrochloride_toc.html",
+              "date": "20031223",
+              "type": "Review"
+            },
+            {
+              "id": "30794",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75203ltr.pdf",
+              "date": "20001024",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20150813",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20020524",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20030924",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20150813",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20021107",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20020219",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA075203",
+      "sponsor_name": "WATSON LABS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "150MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "PROPAFENONE HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "225MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20130909",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20110413",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15414",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021416s010lbl.pdf",
+              "date": "20110415",
+              "type": "Label"
+            },
+            {
+              "id": "27724",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021416s010ltr.pdf",
+              "date": "20110419",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20030904",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form",
+          "application_docs": [
+            {
+              "id": "42144",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-416_Rythmol.html",
+              "date": "20040211",
+              "type": "Review"
+            },
+            {
+              "id": "5307",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/21416ltr.pdf",
+              "date": "20030925",
+              "type": "Letter"
+            },
+            {
+              "id": "36865",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2003/21416_rythmol_lbl.pdf",
+              "date": "20030925",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20101029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "27723",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/021416s007ltr.pdf",
+              "date": "20101103",
+              "type": "Letter"
+            },
+            {
+              "id": "36866",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021416s007lbl.pdf",
+              "date": "20101029",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20040913",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "27722",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/21416s001ltr.pdf",
+              "date": "20040915",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20181102",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "56253",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/021416s015lbl.pdf",
+              "date": "20181102",
+              "type": "Label"
+            },
+            {
+              "id": "56329",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/021416Orig1s015Ltr.pdf",
+              "date": "20181107",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20140711",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20130214",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15415",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021416s011lbl.pdf",
+              "date": "20140623",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA021416",
+      "sponsor_name": "GLAXOSMITHKLINE LLC",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "RYTHMOL SR",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "325MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "RYTHMOL SR",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "425MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "RYTHMOL SR",
+          "active_ingredients": [
+            {
+              "name": "PROPAFENONE HYDROCHLORIDE",
+              "strength": "225MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "CAPSULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    }
+  ]
+}

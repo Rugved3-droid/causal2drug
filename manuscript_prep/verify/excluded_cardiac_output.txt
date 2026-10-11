@@ -1,0 +1,26 @@
+﻿indication                         Minikel area      pairs  launched
+Myocardial Infarction              signs/symptoms      129         7
+Angina Pectoris                    signs/symptoms       33         2
+Atrial Fibrillation                signs/symptoms       33         5
+Encephalomyocarditis virus         infection            20         7
+Arrhythmias, Cardiac               signs/symptoms       16         0
+Angina, Unstable                   signs/symptoms       13         7
+Cardiomyopathy, Dilated            congenital            9         0
+Ventricular Fibrillation           signs/symptoms        6         4
+Coronary Artery Bypass             other                 6         0
+Edema, Cardiac                     signs/symptoms        5         1
+Tachycardia, Ventricular           signs/symptoms        4         1
+Tachycardia, Supraventricular      signs/symptoms        3         1
+Diabetic Cardiomyopathies          endocrine             3         0
+Long QT Syndrome                   signs/symptoms        2         0
+Tachycardia                        signs/symptoms        1         0
+Heart Defects, Congenital          congenital            1         1
+Bradycardia                        signs/symptoms        1         0
+
+15 clearly cardiac excluded indications: pairs 259, targets 195
+  targets not in the 630-row atlas at all: 30
+  targets with a LAUNCHED label in one of them: 18
+    not in the atlas at all: ['KCNH2']
+    in the atlas but NOT counted as launched there: 2 -> ['AVPR2', 'SCN5A']
+       AVPR2    atlas phase=Phase III   state=ABSENT       class=CLASS_A
+       SCN5A    atlas phase=Phase II    state=INSTRUMENTED class=-

@@ -1,0 +1,2 @@
+gene	gwas_acc	mesh_term	n_eqtlgen	n_gtex	eqtlgen_lead_z	gtex_lead_z	PP4_eqtlgen	PP3_eqtlgen	PP4_gtexblood	PP3_gtexblood	gap_eqtlgen	gap_gtex	note
+LYN	GCST90399686	Asthma	191	889	19.88	3.497	0.0034027	0.00137814	0.00170658	0.00224223	6.006	7.181	

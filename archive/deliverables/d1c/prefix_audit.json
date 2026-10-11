@@ -1,0 +1,74 @@
+[
+  {
+    "label": "D0 GWAS GCST90239658 chr5 HMGCR window",
+    "before": 3323,
+    "after": 3323,
+    "match": true,
+    "n_spans": 1,
+    "bytes": 1962741
+  },
+  {
+    "label": "D0 eQTL QTD000266 chr5 HMGCR window (all genes)",
+    "before": 8990,
+    "after": 8990,
+    "match": true,
+    "n_spans": 1,
+    "bytes": 2360536
+  },
+  {
+    "label": "D0 1000G GRCh38 chr5 HMGCR window",
+    "before": 5644,
+    "after": 5644,
+    "match": true,
+    "n_spans": 4,
+    "bytes": 2637757
+  },
+  {
+    "label": "D1 HMGCR GWAS GCST90239658",
+    "before": 3323,
+    "after": 3323,
+    "match": true,
+    "n_spans": 1,
+    "bytes": 1962741
+  },
+  {
+    "label": "D1 HMGCR eQTL (ENSG00000113161 only)",
+    "before": 592,
+    "after": 592,
+    "match": true,
+    "n_spans": 1,
+    "bytes": 2360536
+  },
+  {
+    "label": "D1 PCSK9 GWAS GCST90239658",
+    "before": 3925,
+    "after": 3925,
+    "match": true,
+    "n_spans": 1,
+    "bytes": 2009526
+  },
+  {
+    "label": "D1 PCSK9 eQTL (ENSG00000169174 only)",
+    "before": 846,
+    "after": 846,
+    "match": true,
+    "n_spans": 1,
+    "bytes": 2523520
+  },
+  {
+    "label": "D1 IL6R GWAS GCST90179146",
+    "before": 581,
+    "after": 581,
+    "match": true,
+    "n_spans": 1,
+    "bytes": 1607931
+  },
+  {
+    "label": "D1 IL6R eQTL (ENSG00000160712 only)",
+    "before": 839,
+    "after": 839,
+    "match": true,
+    "n_spans": 1,
+    "bytes": 3680535
+  }
+]

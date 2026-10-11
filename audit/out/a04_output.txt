@@ -1,0 +1,9 @@
+[B01] eQTLGen full file: 127341798 data rows, 19250 distinct genes tested
+[B02] SNP chromosomes present in target rows: ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22']
+[B02] chromosomes among ALL tested genes cannot be read from the universe file; X/MT targets tested: 0
+[B03] targets 726: INSTRUMENTED 443, NO_EQTL_DATA 217, NO_QUALIFYING_INSTRUMENT 63, UNRESOLVED 3
+[B04] NO_EQTL_DATA 217 = autosomal 188 + X-linked 27 + mitochondrial 2
+[B05] NO_QUALIFYING_INSTRUMENT 63; upper bound (sum) 280
+[B06] lower bound 217/726 = 29.9% ; upper 38.6%
+[B07] autosomal-only lower bound: 188/697 (denominator incl. 3 unresolved) = 27.0% ; /694 (excl. unresolved) = 27.1%
+[B08] launched 66: INSTRUMENTED 39, NO_EQTL_DATA 23, NO_QUALIFYING_INSTRUMENT 4

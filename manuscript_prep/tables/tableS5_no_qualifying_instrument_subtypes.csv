@@ -1,0 +1,64 @@
+﻿gene,phase_PRIMARY,no_instrument_subtype,gtex_blood_tpm,n_cis_eqtl_p5e8_any_distance,nearest_p5e8_variant_bp_from_gene_body,best_p_any_distance,tissue_restricted,chembl_verified_strict,chembl_verified_permissive
+IL1B,Launched,T1 significant cis-eQTL only outside ±100 kb,29.4903,50,119995,4.5107E-16,YES,True,True
+ADCY5,Preclinical,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",0.119349,0,,,YES,,
+ATP1A1,Preclinical,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",25.944,0,,,YES,,
+EEF2K,Preclinical,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",1.52294,0,,,YES,,
+ENPEP,Phase III,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",0.014664,0,,,YES,False,False
+FZD4,Preclinical,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",0.110477,0,,,YES,,
+GPR176,Preclinical,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",0.052653,0,,,YES,,
+GRK2,Preclinical,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",372.214,0,,,NO,,
+GUCY1B1,Launched,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",0.699656,0,,,NO,False,True
+HCN2,Phase III,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",0.543467,0,,,YES,False,False
+HDAC2,Preclinical,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",4.01601,0,,,NO,,
+HSPA1A,Preclinical,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",201.068,0,,,NO,,
+IL5RA,Phase III,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",0.227826,0,,,YES,False,False
+ITGA2B,Launched,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",36.2607,0,,,YES,True,True
+ITGB8,Phase II,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",0.037402,0,,,NO,,
+KCNA5,Phase II,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",0.024295,0,,,YES,,
+KIT,Phase III,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",0.217265,0,,,YES,False,False
+LRP5,Preclinical,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",0.333741,0,,,YES,,
+MCU,Preclinical,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",10.4369,0,,,YES,,
+NOTCH3,Preclinical,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",0.338676,0,,,YES,,
+NRG4,Phase I,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",0.089764,0,,,YES,,
+PDGFRB,Phase III,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",1.15671,0,,,NO,False,False
+RHOA,Preclinical,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",349.052,0,,,NO,,
+SLC10A1,Phase I,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",0.123798,0,,,YES,,
+SREBF2,Phase I,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",16.1045,0,,,NO,,
+SUMO1,Preclinical,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",34.3657,0,,,NO,,
+TGFB1,Phase II,"T2 cis-eQTL at FDR<0.05, none at P<5×10⁻⁸",337.627,0,,,NO,,
+ACHE,Phase II,T3 no cis-eQTL at FDR<0.05,1.53168,0,,,YES,,
+ANGPTL4,Phase I,T3 no cis-eQTL at FDR<0.05,0.422891,0,,,YES,,
+AOC3,Phase II,T3 no cis-eQTL at FDR<0.05,2.08337,0,,,YES,,
+APOA1,Phase III,T3 no cis-eQTL at FDR<0.05,0.713321,0,,,YES,False,False
+APOE,Phase II,T3 no cis-eQTL at FDR<0.05,3.27425,0,,,YES,,
+B4GALT2,Preclinical,T3 no cis-eQTL at FDR<0.05,0.816337,0,,,NO,,
+BRD4,Phase III,T3 no cis-eQTL at FDR<0.05,21.1275,0,,,NO,False,False
+CD74,Preclinical,T3 no cis-eQTL at FDR<0.05,1152.79,0,,,YES,,
+CDK5,Preclinical,T3 no cis-eQTL at FDR<0.05,13.3369,0,,,YES,,
+CHRM3,Preclinical,T3 no cis-eQTL at FDR<0.05,0.008549,0,,,YES,,
+CTF1,Phase I,T3 no cis-eQTL at FDR<0.05,0.551287,0,,,NO,,
+DLG4,Phase I,T3 no cis-eQTL at FDR<0.05,3.17196,0,,,YES,,
+FKBP8,Preclinical,T3 no cis-eQTL at FDR<0.05,2185.67,0,,,NO,,
+GRIN1,Phase III,T3 no cis-eQTL at FDR<0.05,0.039658,0,,,YES,False,True
+HSD11B1,Phase II,T3 no cis-eQTL at FDR<0.05,0.1825,0,,,YES,,
+HSPD1,Preclinical,T3 no cis-eQTL at FDR<0.05,27.9973,0,,,YES,,
+HTR7,Phase I,T3 no cis-eQTL at FDR<0.05,0.08791,0,,,YES,,
+IGF1,Phase I,T3 no cis-eQTL at FDR<0.05,0.068856,0,,,NO,,
+INHBA,Phase I,T3 no cis-eQTL at FDR<0.05,0.157586,0,,,YES,,
+KCND3,Phase I,T3 no cis-eQTL at FDR<0.05,0.074955,0,,,YES,,
+MDK,Preclinical,T3 no cis-eQTL at FDR<0.05,1.18422,0,,,YES,,
+MTMR14,Preclinical,T3 no cis-eQTL at FDR<0.05,47.2998,0,,,NO,,
+NPC1L1,Launched,T3 no cis-eQTL at FDR<0.05,0.030092,0,,,YES,True,True
+NPR2,Phase II,T3 no cis-eQTL at FDR<0.05,0.276565,0,,,NO,,
+NPR3,Preclinical,T3 no cis-eQTL at FDR<0.05,0.059456,0,,,YES,,
+NTRK1,Preclinical,T3 no cis-eQTL at FDR<0.05,0.271881,0,,,YES,,
+PDE3A,Phase III,T3 no cis-eQTL at FDR<0.05,0.041784,0,,,YES,True,True
+PDGFRA,Phase III,T3 no cis-eQTL at FDR<0.05,0.101329,0,,,YES,False,False
+PLA2G10,Preclinical,T3 no cis-eQTL at FDR<0.05,0.0,0,,,YES,,
+PRKACA,Preclinical,T3 no cis-eQTL at FDR<0.05,50.325,0,,,YES,,
+PTGER3,Phase II,T3 no cis-eQTL at FDR<0.05,0.038431,0,,,YES,,
+PYCARD,Preclinical,T3 no cis-eQTL at FDR<0.05,197.707,0,,,YES,,
+RRM2,Preclinical,T3 no cis-eQTL at FDR<0.05,2.14485,0,,,YES,,
+SCN11A,Preclinical,T3 no cis-eQTL at FDR<0.05,0.008519,0,,,YES,,
+SLC6A4,Phase III,T3 no cis-eQTL at FDR<0.05,0.144586,0,,,YES,False,False
+TYRO3,Preclinical,T3 no cis-eQTL at FDR<0.05,0.087065,0,,,YES,,

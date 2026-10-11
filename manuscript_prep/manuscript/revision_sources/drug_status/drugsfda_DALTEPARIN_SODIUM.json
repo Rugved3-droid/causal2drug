@@ -1,0 +1,1084 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "19990805",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20589",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020287_S015_FRAGMIN_AP.pdf",
+              "date": "20070706",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "68",
+          "submission_status": "AP",
+          "submission_status_date": "20170126",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20020404",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "24734",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20287s21ltr.pdf",
+              "date": "20020404",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "74",
+          "submission_status": "AP",
+          "submission_status_date": "20200626",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "63751",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/020287Orig1s074, 075ltr.pdf",
+              "date": "20200630",
+              "type": "Letter"
+            },
+            {
+              "id": "63786",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/020287s074s075lbl.pdf",
+              "date": "20200702",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "19990330",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "20588",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020287S008_Fragmin.html",
+              "date": "19990330",
+              "type": "Review"
+            },
+            {
+              "id": "2295",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1999/20287s8ltr.pdf",
+              "date": "19990330",
+              "type": "Letter"
+            },
+            {
+              "id": "34473",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/1999/20287s8lbl.pdf",
+              "date": "19990330",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "80",
+          "submission_status": "AP",
+          "submission_status_date": "20241015",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "79909",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/020287Orig1s080ltr.pdf",
+              "date": "20241016",
+              "type": "Letter"
+            },
+            {
+              "id": "79934",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/020287Orig1s080lbl.pdf",
+              "date": "20241202",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "72",
+          "submission_status": "AP",
+          "submission_status_date": "20190516",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "58751",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/020287s072lbl.pdf",
+              "date": "20190516",
+              "type": "Label"
+            },
+            {
+              "id": "58767",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/020287Orig1s072ltr.pdf",
+              "date": "20190517",
+              "type": "Letter"
+            },
+            {
+              "id": "62923",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/420_20287S72 dalteparin unireview prea.pdf",
+              "date": "19000101",
+              "type": "Pediatric Other"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20030227",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2296",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20287slr011ltr.pdf",
+              "date": "20030310",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19980130",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19970408",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "62",
+          "submission_status": "AP",
+          "submission_status_date": "20150127",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12420",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/020287s062lbl.pdf",
+              "date": "20150130",
+              "type": "Label"
+            },
+            {
+              "id": "24740",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/020287Orig1s062ltr.pdf",
+              "date": "20150127",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19941222",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19960318",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20586",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/96/020287_s002_FRAGMIN INJECTION.pdf",
+              "date": "20080811",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "60",
+          "submission_status": "AP",
+          "submission_status_date": "20190925",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "50",
+          "submission_status": "AP",
+          "submission_status_date": "20101022",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "24739",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/020287s050ltr.pdf",
+              "date": "20101026",
+              "type": "Letter"
+            },
+            {
+              "id": "34479",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/020287s050lbl.pdf",
+              "date": "20101025",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20020911",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "34",
+          "submission_status": "AP",
+          "submission_status_date": "20040421",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41269",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/020287_s034_FRAGMIN INJECTION.pdf",
+              "date": "20080731",
+              "type": "Review"
+            },
+            {
+              "id": "2301",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/20287slr034ltr.pdf",
+              "date": "20040429",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20020426",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20000803",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2297",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/20287S18LTR.PDF",
+              "date": "20000803",
+              "type": "Letter"
+            },
+            {
+              "id": "34475",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2000/20287S18LBL.PDF",
+              "date": "20000803",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "32",
+          "submission_status": "AP",
+          "submission_status_date": "20031210",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41268",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/020287_s032_FRAGMIN INJECTION.pdf",
+              "date": "20080801",
+              "type": "Review"
+            },
+            {
+              "id": "24737",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20287se1-032ltr.pdf",
+              "date": "20031216",
+              "type": "Letter"
+            },
+            {
+              "id": "34476",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2003/20287se1-032_fragmin_lbl.pdf",
+              "date": "20031216",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20020313",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "19990630",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "69",
+          "submission_status": "AP",
+          "submission_status_date": "20170512",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "48370",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020287s069lbl.pdf",
+              "date": "20170512",
+              "type": "Label"
+            },
+            {
+              "id": "48406",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/020287Orig1s069ltr.pdf",
+              "date": "20170517",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20020404",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "2298",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20287s21ltr.pdf",
+              "date": "20020404",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "75",
+          "submission_status": "AP",
+          "submission_status_date": "20200626",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "63750",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/020287Orig1s074, 075ltr.pdf",
+              "date": "20200630",
+              "type": "Letter"
+            },
+            {
+              "id": "63787",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/020287s074s075lbl.pdf",
+              "date": "20200702",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "67",
+          "submission_status": "AP",
+          "submission_status_date": "20160804",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "44987",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/020287Orig1s067ltr.pdf",
+              "date": "20160804",
+              "type": "Letter"
+            },
+            {
+              "id": "44997",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/020287s067lbl.pdf",
+              "date": "20160804",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "81",
+          "submission_status": "AP",
+          "submission_status_date": "20241024",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "79997",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/020287s081lbl.pdf",
+              "date": "20241025",
+              "type": "Label"
+            },
+            {
+              "id": "80010",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/020287Orig1s081ltr.pdf",
+              "date": "20241028",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "19980130",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20010904",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "59",
+          "submission_status": "AP",
+          "submission_status_date": "20130927",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "19990122",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19970123",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "19990525",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41266",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020287S10_Fragmin.html",
+              "date": "19990525",
+              "type": "Review"
+            },
+            {
+              "id": "24733",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020287S10_Fragmin_appltr.pdf",
+              "date": "19990525",
+              "type": "Letter"
+            },
+            {
+              "id": "34474",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020287S10_Fragmin_prntlbl.pdf",
+              "date": "19990525",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "49",
+          "submission_status": "AP",
+          "submission_status_date": "20091223",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "24738",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/020287s049ltr.pdf",
+              "date": "20100105",
+              "type": "Letter"
+            },
+            {
+              "id": "34478",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/020287s049lbl.pdf",
+              "date": "20091230",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19960924",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20587",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/96/020287a_s005edt.pdf",
+              "date": "19980204",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "63",
+          "submission_status": "AP",
+          "submission_status_date": "20150929",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "24741",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/020287Orig1s063ltr.pdf",
+              "date": "20151001",
+              "type": "Letter"
+            },
+            {
+              "id": "34480",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/020287s063lbl.pdf",
+              "date": "20151007",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19960318",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "61",
+          "submission_status": "AP",
+          "submission_status_date": "20131022",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19950814",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "20021119",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "24736",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20287slr029ltr.pdf",
+              "date": "20021119",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "20070501",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41270",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/020287Orig1s035.pdf",
+              "date": "20120327",
+              "type": "Review"
+            },
+            {
+              "id": "2302",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/020287s035ltr.pdf",
+              "date": "20070507",
+              "type": "Letter"
+            },
+            {
+              "id": "34477",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/020287s035lbl.pdf",
+              "date": "20070507",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20021101",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2299",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20287slr027LTR.pdf",
+              "date": "20021101",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20010619",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20001114",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20590",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/020287_S017_FRAGMIN_AP.pdf",
+              "date": "20070706",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "20030630",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41267",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/020287_s031_FRAGMIN INJECTION.pdf",
+              "date": "20080801",
+              "type": "Review"
+            },
+            {
+              "id": "2300",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20287slr031ltr.pdf",
+              "date": "20030706",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20020404",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "24735",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20287s21ltr.pdf",
+              "date": "20020404",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "76",
+          "submission_status": "AP",
+          "submission_status_date": "20201205",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "65517",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/020287Orig1s076ltr.pdf",
+              "date": "20201208",
+              "type": "Letter"
+            },
+            {
+              "id": "65549",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/020287Orig1s076lbl.pdf",
+              "date": "20201209",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020287",
+      "sponsor_name": "PFIZER",
+      "openfda": {
+        "application_number": [
+          "NDA020287"
+        ],
+        "brand_name": [
+          "FRAGMIN"
+        ],
+        "generic_name": [
+          "DALTEPARIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Pfizer Laboratories Div Pfizer Inc"
+        ],
+        "product_ndc": [
+          "0069-0195",
+          "0069-0196",
+          "0069-0206",
+          "0069-0217",
+          "0069-0220",
+          "0069-0223",
+          "0069-0228",
+          "0069-0232",
+          "0069-0253"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "DALTEPARIN SODIUM"
+        ],
+        "rxcui": [
+          "978725",
+          "978727",
+          "978733",
+          "978735",
+          "978736",
+          "978737",
+          "978740",
+          "978741",
+          "978744",
+          "978745",
+          "978746",
+          "978747",
+          "978755",
+          "978757",
+          "978777",
+          "978778",
+          "2618839",
+          "2618842"
+        ],
+        "spl_id": [
+          "af340f13-7954-4974-845d-ae55e0b56512"
+        ],
+        "spl_set_id": [
+          "23527b8b-9b28-4e6d-9751-33b143975ac7"
+        ],
+        "package_ndc": [
+          "0069-0195-01",
+          "0069-0195-02",
+          "0069-0196-01",
+          "0069-0196-02",
+          "0069-0206-01",
+          "0069-0206-02",
+          "0069-0217-01",
+          "0069-0217-02",
+          "0069-0220-01",
+          "0069-0220-02",
+          "0069-0223-01",
+          "0069-0223-02",
+          "0069-0228-01",
+          "0069-0228-02",
+          "0069-0232-01",
+          "0069-0253-01",
+          "0069-0253-10"
+        ],
+        "unii": [
+          "12M44VTJ7B"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "008",
+          "reference_drug": "No",
+          "brand_name": "FRAGMIN",
+          "active_ingredients": [
+            {
+              "name": "DALTEPARIN SODIUM",
+              "strength": "7,500 IU/0.75ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "Yes",
+          "brand_name": "FRAGMIN",
+          "active_ingredients": [
+            {
+              "name": "DALTEPARIN SODIUM",
+              "strength": "95,000IU/3.8ML (25,000IU/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "012",
+          "reference_drug": "Yes",
+          "brand_name": "FRAGMIN",
+          "active_ingredients": [
+            {
+              "name": "DALTEPARIN SODIUM",
+              "strength": "10,000IU/4ML (2,500IU/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "FRAGMIN",
+          "active_ingredients": [
+            {
+              "name": "DALTEPARIN SODIUM",
+              "strength": "10,000IU/ML (10,000IU/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "010",
+          "reference_drug": "Yes",
+          "brand_name": "FRAGMIN",
+          "active_ingredients": [
+            {
+              "name": "DALTEPARIN SODIUM",
+              "strength": "15,000IU/0.6ML (25,000IU/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "FRAGMIN",
+          "active_ingredients": [
+            {
+              "name": "DALTEPARIN SODIUM",
+              "strength": "10,000IU/0.4ML (25,000IU/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "009",
+          "reference_drug": "Yes",
+          "brand_name": "FRAGMIN",
+          "active_ingredients": [
+            {
+              "name": "DALTEPARIN SODIUM",
+              "strength": "12,500IU/0.5ML (25,000IU/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "FRAGMIN",
+          "active_ingredients": [
+            {
+              "name": "DALTEPARIN SODIUM",
+              "strength": "95,000IU/9.5ML (10,000IU/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "Yes",
+          "brand_name": "FRAGMIN",
+          "active_ingredients": [
+            {
+              "name": "DALTEPARIN SODIUM",
+              "strength": "7,500IU/0.3ML (25,000IU/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "011",
+          "reference_drug": "Yes",
+          "brand_name": "FRAGMIN",
+          "active_ingredients": [
+            {
+              "name": "DALTEPARIN SODIUM",
+              "strength": "18,000IU/0.72ML (25,000IU/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "FRAGMIN",
+          "active_ingredients": [
+            {
+              "name": "DALTEPARIN SODIUM",
+              "strength": "5,000IU/0.2ML (25,000IU/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "FRAGMIN",
+          "active_ingredients": [
+            {
+              "name": "DALTEPARIN SODIUM",
+              "strength": "2,500IU/0.2ML (12,500IU/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription"
+        }
+      ]
+    }
+  ]
+}

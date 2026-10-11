@@ -1,0 +1,3 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+HTR3A	D009771	Obsessive-Compulsive Disorder	GCST90473277	DOWN	2	rs45438696	3.776e-29	0.138488	0.0123574	125.6	-0.0323406	0.0747855	aligned_same	43	-0.233527	0.540015	0.665418	NEGATIVE	POSITIVE	NO	
+SCN5A	D009771	Obsessive-Compulsive Disorder	GCST90473277	DOWN	2	rs41312437	3.1831e-23	0.290777	0.0292921	98.54	0.0696713	0.147387	aligned_same	35	0.239604	0.506873	0.63642	POSITIVE	POSITIVE	YES	

@@ -1,0 +1,1146 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 5
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20210408",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "65432",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/206888Orig1s000ltr.pdf",
+              "date": "20201201",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA206888",
+      "sponsor_name": "GLAND",
+      "openfda": {
+        "application_number": [
+          "ANDA206888"
+        ],
+        "brand_name": [
+          "TIROFIBAN HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "TIROFIBAN",
+          "TIROFIBAN HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Gland Pharma Limited",
+          "Sagent Pharmaceuticals"
+        ],
+        "product_ndc": [
+          "68083-145",
+          "25021-417"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "TIROFIBAN HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1737471"
+        ],
+        "spl_id": [
+          "a206685a-4e0d-40a1-8f39-a4b2f660d7d7",
+          "42fc0d8a-6595-491f-aedb-6451129d239d"
+        ],
+        "spl_set_id": [
+          "fa3ac570-f9f6-474c-a920-bd0cf03045ac",
+          "13ea7fb8-4b01-4286-9464-26c0b624bc3b"
+        ],
+        "package_ndc": [
+          "68083-145-01",
+          "25021-417-84"
+        ],
+        "unii": [
+          "6H925F8O5J"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TIROFIBAN HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "TIROFIBAN HYDROCHLORIDE",
+              "strength": "EQ 12.5MG BASE/250ML (EQ 0.05MG BASE/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20010925",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3731",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/20-913S007_Aggrastat.pdf",
+              "date": "20010925",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20010208",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20000111",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "21274",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20912-s004_aggrasat.pdf",
+              "date": "20040526",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20120606",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "13729",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020912s018,020913s017lbl.pdf",
+              "date": "20120611",
+              "type": "Label"
+            },
+            {
+              "id": "26181",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020912s018,020913s017ltr.pdf",
+              "date": "20120608",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19990609",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20160831",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "45214",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/020912s024,020913s022lbl.pdf",
+              "date": "20160831",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20131010",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "26182",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/020912Orig1s019,s020ltr.pdf",
+              "date": "20131011",
+              "type": "Letter"
+            },
+            {
+              "id": "35633",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/020912s019s020lbl.pdf",
+              "date": "20131017",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20020617",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "26180",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20913s009ltr.pdf",
+              "date": "20040526",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20020117",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19980514",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "3729",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1998/20912ltr.pdf",
+              "date": "19980514",
+              "type": "Letter"
+            },
+            {
+              "id": "13728",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/1998/20912lbl.pdf",
+              "date": "19980514",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20020724",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "26179",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20913slr008and20912slr009ltr.pdf",
+              "date": "20020724",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20010323",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "26178",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/20913s6ltr.pdf",
+              "date": "20010323",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20190516",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "58768",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/020912Orig1s027, 020913Orig1s026ltr.pdf",
+              "date": "20190517",
+              "type": "Letter"
+            },
+            {
+              "id": "58793",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/020912s027,020913s026lbl.pdf",
+              "date": "20190520",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20001215",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20131010",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "13730",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/020912s019s020lbl.pdf",
+              "date": "20131017",
+              "type": "Label"
+            },
+            {
+              "id": "3733",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/020912Orig1s019,s020ltr.pdf",
+              "date": "20131011",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19990709",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3730",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20912S001_AGGRASTAT_APPROV.PDF",
+              "date": "19990709",
+              "type": "Letter"
+            },
+            {
+              "id": "21273",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20912S001_Aggrastat.html",
+              "date": "20040526",
+              "type": "Review"
+            },
+            {
+              "id": "35632",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20912S001_AGGRASTAT_prntlbl.pdf",
+              "date": "19990709",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20150421",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3734",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/020912Orig1s021,020913Orig1s018ltr.pdf",
+              "date": "20150422",
+              "type": "Letter"
+            },
+            {
+              "id": "35634",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/020912s021,020913s018lbl.pdf",
+              "date": "20150428",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20030228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3732",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20912slr013ltr.pdf",
+              "date": "20030310",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20020212",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA020912",
+      "sponsor_name": "MEDICURE",
+      "openfda": {
+        "application_number": [
+          "NDA020912"
+        ],
+        "brand_name": [
+          "AGGRASTAT"
+        ],
+        "generic_name": [
+          "TIROFIBAN"
+        ],
+        "manufacturer_name": [
+          "Medicure International Inc"
+        ],
+        "product_ndc": [
+          "25208-001",
+          "25208-002",
+          "25208-901",
+          "25208-902"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "TIROFIBAN HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1737466",
+          "1737468",
+          "1737471",
+          "1737472",
+          "1813035",
+          "1813037"
+        ],
+        "spl_id": [
+          "6fae214d-f37d-49ff-b1bb-266584eb664f",
+          "d7b2e8c6-afd1-4e94-b780-ed2fc439e3f3"
+        ],
+        "spl_set_id": [
+          "fe0ced75-ccbf-4d2e-bd0d-b57e60ab913f",
+          "e850111f-e713-41a2-9c65-21c517cf5511"
+        ],
+        "package_ndc": [
+          "25208-002-02",
+          "25208-002-03",
+          "25208-002-01",
+          "25208-001-04",
+          "25208-902-02",
+          "25208-902-01",
+          "25208-901-04"
+        ],
+        "unii": [
+          "6H925F8O5J"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "AGGRASTAT",
+          "active_ingredients": [
+            {
+              "name": "TIROFIBAN HYDROCHLORIDE",
+              "strength": "EQ 3.75MG BASE/15ML (EQ 0.25MG BASE/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "INJECTION",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AGGRASTAT",
+          "active_ingredients": [
+            {
+              "name": "TIROFIBAN HYDROCHLORIDE",
+              "strength": "EQ 12.5MG BASE/50ML (EQ 0.25MG BASE/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19980514",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form",
+          "application_docs": [
+            {
+              "id": "41807",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20913.pdf",
+              "date": "20100604",
+              "type": "Review"
+            },
+            {
+              "id": "3735",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1998/20913ltr.pdf",
+              "date": "19980514",
+              "type": "Letter"
+            },
+            {
+              "id": "35635",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/1998/20913lbl.pdf",
+              "date": "19980514",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20020724",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "26184",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20913slr008and20912slr009ltr.pdf",
+              "date": "20020724",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20010323",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3736",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/20913s6ltr.pdf",
+              "date": "20010323",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20120606",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "13731",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020912s018,020913s017lbl.pdf",
+              "date": "20120611",
+              "type": "Label"
+            },
+            {
+              "id": "26186",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020912s018,020913s017ltr.pdf",
+              "date": "20120608",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20000111",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41808",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20912-s004_aggrasat.pdf",
+              "date": "20040526",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19990609",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20020617",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3738",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20913s009ltr.pdf",
+              "date": "20030724",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20201211",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "67880",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/020913Orig1s028ReplacementLbl.pdf",
+              "date": "20211222",
+              "type": "Label"
+            },
+            {
+              "id": "67915",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/020913Orig1s028Replacementltr.pdf",
+              "date": "20210628",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20010925",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3737",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/20-913S007_Aggrastat.pdf",
+              "date": "20010925",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20190516",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "58769",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/020912Orig1s027,%20020913Orig1s026ltr.pdf",
+              "date": "20190517",
+              "type": "Letter"
+            },
+            {
+              "id": "58794",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/020912s027,020913s026lbl.pdf",
+              "date": "20190520",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20150421",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3739",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/020912Orig1s021,020913Orig1s018ltr.pdf",
+              "date": "20150422",
+              "type": "Letter"
+            },
+            {
+              "id": "35637",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/020912s021,020913s018lbl.pdf",
+              "date": "20150428",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20000420",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20130305",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20160907",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "45213",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/020912s024,020913s022lbl.pdf",
+              "date": "20160907",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19990709",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "21275",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20912S001_Aggrastat.html",
+              "date": "20040526",
+              "type": "Review"
+            },
+            {
+              "id": "26183",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20912S001_AGGRASTAT_APPROV.PDF",
+              "date": "19990709",
+              "type": "Letter"
+            },
+            {
+              "id": "35636",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20912S001_AGGRASTAT_prntlbl.pdf",
+              "date": "19990709",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20160616",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20020517",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "26185",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20913s010ltr.pdf",
+              "date": "20020517",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020913",
+      "sponsor_name": "MEDICURE",
+      "openfda": {
+        "application_number": [
+          "NDA020913"
+        ],
+        "brand_name": [
+          "AGGRASTAT"
+        ],
+        "generic_name": [
+          "TIROFIBAN"
+        ],
+        "manufacturer_name": [
+          "Medicure International Inc"
+        ],
+        "product_ndc": [
+          "25208-002",
+          "25208-001",
+          "25208-902",
+          "25208-901"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "TIROFIBAN HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1737466",
+          "1737468",
+          "1737471",
+          "1737472",
+          "1813035",
+          "1813037"
+        ],
+        "spl_id": [
+          "6fae214d-f37d-49ff-b1bb-266584eb664f",
+          "d7b2e8c6-afd1-4e94-b780-ed2fc439e3f3"
+        ],
+        "spl_set_id": [
+          "fe0ced75-ccbf-4d2e-bd0d-b57e60ab913f",
+          "e850111f-e713-41a2-9c65-21c517cf5511"
+        ],
+        "package_ndc": [
+          "25208-002-02",
+          "25208-002-03",
+          "25208-002-01",
+          "25208-001-04",
+          "25208-902-02",
+          "25208-902-01",
+          "25208-901-04"
+        ],
+        "unii": [
+          "6H925F8O5J"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "AGGRASTAT",
+          "active_ingredients": [
+            {
+              "name": "TIROFIBAN HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE/100ML (EQ 0.05MG BASE/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "AGGRASTAT",
+          "active_ingredients": [
+            {
+              "name": "TIROFIBAN HYDROCHLORIDE",
+              "strength": "EQ 12.5MG BASE/250ML (EQ 0.05MG BASE/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "AGGRASTAT",
+          "active_ingredients": [
+            {
+              "name": "TIROFIBAN HYDROCHLORIDE",
+              "strength": "EQ 25MG BASE/500ML (EQ 0.05MG BASE/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230501",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA216379",
+      "sponsor_name": "EUGIA PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA216379"
+        ],
+        "brand_name": [
+          "TIROFIBAN"
+        ],
+        "generic_name": [
+          "TIROFIBAN"
+        ],
+        "manufacturer_name": [
+          "Eugia US LLC"
+        ],
+        "product_ndc": [
+          "55150-429",
+          "55150-430"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "TIROFIBAN HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1737466",
+          "1737471"
+        ],
+        "spl_id": [
+          "1751523a-e22e-4faf-bdb1-c850afe2fd36"
+        ],
+        "spl_set_id": [
+          "d554acff-22e9-4f28-b826-ee1b91daa2df"
+        ],
+        "package_ndc": [
+          "55150-429-01",
+          "55150-430-01"
+        ],
+        "unii": [
+          "6H925F8O5J"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TIROFIBAN HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "TIROFIBAN HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE/100ML (EQ 0.05MG BASE/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TIROFIBAN HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "TIROFIBAN HYDROCHLORIDE",
+              "strength": "EQ 12.5MG BASE/250ML (EQ 0.05MG BASE/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230207",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "73754",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/213947Orig1s000SplitA_TA_ltr.pdf",
+              "date": "20230314",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20230724",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213947",
+      "sponsor_name": "NEXUS",
+      "openfda": {
+        "application_number": [
+          "ANDA213947"
+        ],
+        "brand_name": [
+          "TIROFIBAN HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "TIROFIBAN HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Nexus Pharmaceuticals LLC"
+        ],
+        "product_ndc": [
+          "14789-101",
+          "14789-102"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "TIROFIBAN HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1737466",
+          "1737471"
+        ],
+        "spl_id": [
+          "2dfa5385-2e91-c26a-e063-6394a90a37aa"
+        ],
+        "spl_set_id": [
+          "7731e46a-2121-441b-b090-12dcefe240f0"
+        ],
+        "package_ndc": [
+          "14789-101-01",
+          "14789-102-02",
+          "14789-102-10"
+        ],
+        "unii": [
+          "6H925F8O5J"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "TIROFIBAN HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "TIROFIBAN HYDROCHLORIDE",
+              "strength": "EQ 12.5MG BASE/250ML (EQ 0.05MG BASE/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "TIROFIBAN HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "TIROFIBAN HYDROCHLORIDE",
+              "strength": "EQ 5MG BASE/100ML (EQ 0.05MG BASE/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    }
+  ]
+}

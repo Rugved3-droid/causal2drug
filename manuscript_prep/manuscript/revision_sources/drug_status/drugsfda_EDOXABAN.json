@@ -1,0 +1,521 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 2
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "TA",
+          "submission_status_date": "20221116",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "72947",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/213064Orig1s000TAltr.pdf",
+              "date": "20221220",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA213064",
+      "sponsor_name": "ZYDUS PHARMS USA INC",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "EDOXABAN",
+          "active_ingredients": [
+            {
+              "name": "EDOXABAN",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EDOXABAN",
+          "active_ingredients": [
+            {
+              "name": "EDOXABAN",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "EDOXABAN",
+          "active_ingredients": [
+            {
+              "name": "EDOXABAN",
+              "strength": "30MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20231018",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "75846",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/206316Orig1s019ltr.pdf",
+              "date": "20231019",
+              "type": "Letter"
+            },
+            {
+              "id": "75864",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2023/206316s019lbl.pdf",
+              "date": "20231019",
+              "type": "Label"
+            },
+            {
+              "id": "75865",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/206316s019lbl.pdf#page=35",
+              "date": "20231019",
+              "type": "Medication Guide"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20210420",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "67135",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/206316Orig1s017ltr.pdf",
+              "date": "20210422",
+              "type": "Letter"
+            },
+            {
+              "id": "67153",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/206316s017lbl.pdf",
+              "date": "20210422",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20190809",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "59656",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/206316s015lbl.pdf",
+              "date": "20190812",
+              "type": "Label"
+            },
+            {
+              "id": "59679",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/206316Orig1s015ltr.pdf",
+              "date": "20190813",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20231018",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20160425",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20151106",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150108",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "40535",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/206316lbl.pdf",
+              "date": "20150109",
+              "type": "Label"
+            },
+            {
+              "id": "43514",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2015/206316Orig1Orig2s000TOC.html",
+              "date": "20150213",
+              "type": "Review"
+            },
+            {
+              "id": "43558",
+              "url": "http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm429523.htm",
+              "date": "20150109",
+              "type": "FDA Press Release"
+            },
+            {
+              "id": "44942",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2015/206316Orig1Orig2s000SumR.pdf",
+              "date": "20150213",
+              "type": "Summary Review"
+            },
+            {
+              "id": "10557",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/206316Orig2s000ltr.pdf",
+              "date": "20150109",
+              "type": "Letter"
+            },
+            {
+              "id": "32795",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/206316Orig1s000ltr.pdf",
+              "date": "20150109",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20151030",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150824",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20211101",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "69195",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/206316Orig1s018ltr.pdf",
+              "date": "20211102",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20200421",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "62625",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/206316Orig1s016ltr.pdf",
+              "date": "20200422",
+              "type": "Letter"
+            },
+            {
+              "id": "62648",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/206316s016lbl.pdf",
+              "date": "20200423",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20230911",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "75393",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/206316Orig1s020ltr.pdf",
+              "date": "20230912",
+              "type": "Letter"
+            },
+            {
+              "id": "75406",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/206316Orig1s020lbl.pdf",
+              "date": "20230912",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20151016",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20150108",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20170929",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "49908",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/206316Orig1s012ltr.pdf",
+              "date": "20171002",
+              "type": "Letter"
+            },
+            {
+              "id": "49911",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/206316s012lbl.pdf",
+              "date": "20171002",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20160915",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "45281",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/206316Orig1s004ltr.pdf",
+              "date": "20160919",
+              "type": "Letter"
+            },
+            {
+              "id": "45300",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/206316s004lbl.pdf",
+              "date": "20160920",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20150910",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "10558",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/206316Orig1s002ltr.pdf",
+              "date": "20150914",
+              "type": "Letter"
+            },
+            {
+              "id": "40536",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/206316s002lbl.pdf",
+              "date": "20150911",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA206316",
+      "sponsor_name": "DAIICHI SANKYO INC",
+      "openfda": {
+        "application_number": [
+          "NDA206316"
+        ],
+        "brand_name": [
+          "SAVAYSA"
+        ],
+        "generic_name": [
+          "EDOXABAN TOSYLATE"
+        ],
+        "manufacturer_name": [
+          "Daiichi Sankyo Inc."
+        ],
+        "product_ndc": [
+          "65597-201",
+          "65597-202",
+          "65597-203"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "EDOXABAN TOSYLATE"
+        ],
+        "rxcui": [
+          "1599543",
+          "1599549",
+          "1599551",
+          "1599553",
+          "1599555",
+          "1599557"
+        ],
+        "spl_id": [
+          "dc54247c-0158-4cae-b692-914717ab3a67"
+        ],
+        "spl_set_id": [
+          "e77d3400-56ad-11e3-949a-0800200c9a66"
+        ],
+        "package_ndc": [
+          "65597-201-07",
+          "65597-201-10",
+          "65597-201-30",
+          "65597-201-50",
+          "65597-201-70",
+          "65597-201-90",
+          "65597-202-10",
+          "65597-202-05",
+          "65597-202-07",
+          "65597-202-30",
+          "65597-202-50",
+          "65597-202-70",
+          "65597-202-90",
+          "65597-203-10",
+          "65597-203-05",
+          "65597-203-07",
+          "65597-203-30",
+          "65597-203-50",
+          "65597-203-70",
+          "65597-203-90"
+        ],
+        "unii": [
+          "32W99UE810"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "SAVAYSA",
+          "active_ingredients": [
+            {
+              "name": "EDOXABAN TOSYLATE",
+              "strength": "EQ 60MG BASE"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "SAVAYSA",
+          "active_ingredients": [
+            {
+              "name": "EDOXABAN TOSYLATE",
+              "strength": "EQ 15MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "SAVAYSA",
+          "active_ingredients": [
+            {
+              "name": "EDOXABAN TOSYLATE",
+              "strength": "EQ 30MG BASE"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        }
+      ]
+    }
+  ]
+}

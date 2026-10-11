@@ -1,0 +1,73 @@
+gene,phase_primary,indication_areas,eqtlgen_status,n_tissues,tissues_with_instrument_and_lead_p,pqtl_studies_assayed
+ABCG5,Preclinical,Lipids / atherosclerosis,NO_EQTL_DATA,1,Spleen (6e-11),
+ABCG8,Preclinical,Lipids / atherosclerosis,NO_EQTL_DATA,2,Colon_Transverse (1.1e-16); Adipose_Subcutaneous (1.6e-11),
+ADRA1B,Launched,Other,NO_EQTL_DATA,2,Cells_Cultured_fibroblasts (8.8e-11); Skin_Not_Sun_Exposed_Suprapubic (5.2e-09),
+ADRA1D,Launched,Other,NO_EQTL_DATA,2,Testis (1.5e-23); Brain_Cortex (3.4e-11),
+APLN,Phase I,Heart failure / cardiomyopathy; Pulmonary hypertension; Other; Unspecified CV,NO_EQTL_DATA,1,Esophagus_Muscularis (1.7e-09),deCODE; Fenland
+AQP4,Phase I,Cerebrovascular,NO_EQTL_DATA,4,Testis (3.3e-22); Pituitary (1.5e-14); Ovary (1.9e-11); Nerve_Tibial (2.6e-09),deCODE
+AR,Phase II,Lipids / atherosclerosis; Heart failure / cardiomyopathy; Other,NO_EQTL_DATA,4,Thyroid (5.2e-13); Brain_Nucleus_accumbens_basal_ganglia (1.9e-11); Brain_Frontal_Cortex_BA9 (5.2e-11); Cells_Cultured_fibroblasts (4.4e-10),
+ATP1A1,Preclinical,Heart failure / cardiomyopathy,NO_QUALIFYING_INSTRUMENT,1,Esophagus_Mucosa (4.9e-12),
+BDKRB1,Phase II,Other,NO_EQTL_DATA,6,Brain_Cerebellum (1.5e-22); Brain_Cerebellar_Hemisphere (1.5e-16); Esophagus_Mucosa (1.1e-13); Brain_Cortex (5.9e-13); Nerve_Tibial (2.4e-11); Pancreas (4.9e-09),
+BDKRB2,Phase III,Hypertension; Other,NO_EQTL_DATA,8,Brain_Cerebellum (3.6e-33); Brain_Cerebellar_Hemisphere (8.4e-26); Lung (6.2e-18); Esophagus_Mucosa (2e-14); Spleen (2.4e-12); Brain_Putamen_basal_ganglia (8.8e-11); Cells_Cultured_fibroblasts (3.6e-08); Breast_Mammary_Tissue (4.1e-08),
+CACNA1G,Phase II,Ischaemic heart disease; Hypertension; Cerebrovascular,NO_EQTL_DATA,2,Cells_Cultured_fibroblasts (9.8e-11); Lung (8.7e-09),
+CACNA2D1,Phase III,Ischaemic heart disease; Arrhythmia; Hypertension,NO_EQTL_DATA,6,Skin_Not_Sun_Exposed_Suprapubic (2.7e-23); Skin_Sun_Exposed_Lower_leg (2.4e-20); Adipose_Subcutaneous (5.3e-14); Esophagus_Mucosa (7.8e-14); Cells_Cultured_fibroblasts (7.1e-09); Lung (1.2e-08),
+CHRNA3,Phase II,Hypertension,NO_EQTL_DATA,7,Muscle_Skeletal (4.1e-66); Brain_Caudate_basal_ganglia (1.3e-36); Nerve_Tibial (2.4e-34); Brain_Nucleus_accumbens_basal_ganglia (6.4e-24); Brain_Putamen_basal_ganglia (1.4e-22); Colon_Sigmoid (5.8e-11); Testis (7.8e-11),
+CHRNB4,Phase II,Hypertension,NO_EQTL_DATA,2,Testis (5.2e-27); Esophagus_Mucosa (1.1e-11),
+CMA1,Phase II,Ischaemic heart disease; Heart failure / cardiomyopathy; Unspecified CV,NO_EQTL_DATA,6,Skin_Sun_Exposed_Lower_leg (1.5e-15); Skin_Not_Sun_Exposed_Suprapubic (3.5e-15); Esophagus_Mucosa (1.5e-11); Adipose_Subcutaneous (3.2e-10); Esophagus_Muscularis (6.5e-10); Nerve_Tibial (1.1e-08),deCODE; Fenland
+CRHR1,Phase II,Unspecified CV,NO_EQTL_DATA,6,Breast_Mammary_Tissue (4.7e-24); Adipose_Visceral_Omentum (1.3e-22); Adipose_Subcutaneous (5.4e-18); Nerve_Tibial (4.1e-14); Esophagus_Muscularis (2.5e-10); Muscle_Skeletal (4.6e-08),UKB-PPP
+CYP7A1,Preclinical,Lipids / atherosclerosis; Heart failure / cardiomyopathy,NO_EQTL_DATA,4,Spleen (1.3e-18); Nerve_Tibial (1.7e-10); Adipose_Subcutaneous (8.4e-09); Breast_Mammary_Tissue (1.3e-08),
+DLG4,Phase I,Cerebrovascular,NO_QUALIFYING_INSTRUMENT,1,Muscle_Skeletal (6.5e-17),UKB-PPP; deCODE; Fenland
+DRD1,Phase II,Heart failure / cardiomyopathy; Unspecified CV,NO_EQTL_DATA,2,Adipose_Visceral_Omentum (8.9e-12); Adipose_Subcutaneous (4.1e-08),
+DRD2,Phase I,Pulmonary hypertension,NO_EQTL_DATA,4,Esophagus_Muscularis (1.1e-14); Adipose_Subcutaneous (9.5e-11); Esophagus_Gastroesophageal_Junction (7.1e-10); Stomach (9.6e-09),
+DRD3,Phase I,Pulmonary hypertension,NO_EQTL_DATA,1,Testis (2.2e-27),
+EDNRA,Launched,Lipids / atherosclerosis; Heart failure / cardiomyopathy; Hypertension; Pulmonary hypertension; Other; Unspecified CV,NO_EQTL_DATA,3,Esophagus_Mucosa (7.4e-17); Skin_Not_Sun_Exposed_Suprapubic (3.2e-10); Testis (1.4e-09),
+EDNRB,Launched,Heart failure / cardiomyopathy; Hypertension; Pulmonary hypertension; Cerebrovascular; Other; Unspecified CV,NO_EQTL_DATA,1,Esophagus_Muscularis (4e-08),UKB-PPP
+EEF2K,Preclinical,Unspecified CV,NO_QUALIFYING_INSTRUMENT,3,Cells_Cultured_fibroblasts (5.2e-10); Muscle_Skeletal (1.1e-09); Nerve_Tibial (1.9e-09),deCODE; Fenland
+FGF1,Preclinical,Cerebrovascular,NO_EQTL_DATA,6,Nerve_Tibial (2.7e-97); Cells_Cultured_fibroblasts (2.2e-32); Testis (2.8e-29); Brain_Spinal_cord_cervical_c-1 (2.2e-12); Muscle_Skeletal (2.1e-10); Skin_Not_Sun_Exposed_Suprapubic (7.4e-10),deCODE
+FGF4,Preclinical,Heart failure / cardiomyopathy; Other,NO_EQTL_DATA,1,Nerve_Tibial (1.2e-14),deCODE; Fenland
+FKBP8,Preclinical,Cerebrovascular,NO_QUALIFYING_INSTRUMENT,2,Nerve_Tibial (1.6e-10); Cells_Cultured_fibroblasts (3.4e-08),
+FZD4,Preclinical,Cerebrovascular,NO_QUALIFYING_INSTRUMENT,1,Testis (5.1e-10),
+GABRA5,Phase II,Cerebrovascular,NO_EQTL_DATA,9,Esophagus_Muscularis (2.7e-72); Thyroid (3.6e-38); Esophagus_Gastroesophageal_Junction (5.7e-36); Esophagus_Mucosa (7.6e-36); Testis (1.1e-21); Pancreas (1.9e-21); Colon_Sigmoid (7.9e-17); Stomach (3.9e-13); Prostate (1.8e-10),
+GCGR,Preclinical,Ischaemic heart disease; Heart failure / cardiomyopathy; Unspecified CV,NO_EQTL_DATA,9,Nerve_Tibial (3.7e-54); Spleen (5e-24); Lung (5.7e-18); Colon_Sigmoid (1e-13); Adipose_Subcutaneous (1.5e-12); Esophagus_Muscularis (3.3e-10); Esophagus_Gastroesophageal_Junction (6.7e-10); Adipose_Visceral_Omentum (1.7e-08); Skin_Not_Sun_Exposed_Suprapubic (2.7e-08),
+GPC3,Preclinical,Pulmonary hypertension,NO_EQTL_DATA,1,Cells_Cultured_fibroblasts (6.5e-32),deCODE; Fenland
+GPR119,Phase II,Lipids / atherosclerosis,NO_EQTL_DATA,1,Testis (4.8e-09),
+GRIN2B,Phase I,Cerebrovascular; Other,NO_EQTL_DATA,1,Nerve_Tibial (1.5e-11),UKB-PPP
+GRM4,Phase I,Cerebrovascular,NO_EQTL_DATA,3,Brain_Cerebellum (4.9e-22); Brain_Cerebellar_Hemisphere (1.1e-11); Pancreas (4.4e-09),
+HCN2,Phase III,Ischaemic heart disease; Heart failure / cardiomyopathy; Arrhythmia,NO_QUALIFYING_INSTRUMENT,2,Esophagus_Mucosa (8.1e-42); Cells_Cultured_fibroblasts (4.2e-08),
+HRH3,Phase II,Lipids / atherosclerosis,NO_EQTL_DATA,1,Brain_Cerebellum (7.2e-09),
+HTR7,Phase I,Pulmonary hypertension,NO_QUALIFYING_INSTRUMENT,3,Cells_Cultured_fibroblasts (2.6e-15); Adipose_Subcutaneous (5.1e-13); Colon_Sigmoid (7e-10),deCODE; Fenland
+IL1A,Phase II,Lipids / atherosclerosis; Ischaemic heart disease; Thrombosis; Other,NO_EQTL_DATA,2,Skin_Sun_Exposed_Lower_leg (4.1e-26); Skin_Not_Sun_Exposed_Suprapubic (1.3e-17),UKB-PPP; deCODE; Fenland
+IL1B,Launched,Lipids / atherosclerosis; Ischaemic heart disease; Heart failure / cardiomyopathy; Cerebrovascular; Other; Unspecified CV,NO_QUALIFYING_INSTRUMENT,2,Testis (6.8e-26); Skin_Sun_Exposed_Lower_leg (4.7e-11),UKB-PPP; deCODE; Fenland
+ITGA2B,Launched,Lipids / atherosclerosis; Ischaemic heart disease; Heart failure / cardiomyopathy; Thrombosis; Cerebrovascular; Unspecified CV,NO_QUALIFYING_INSTRUMENT,1,Thyroid (7.6e-17),Fenland
+ITGB1BP2,Preclinical,Heart failure / cardiomyopathy; Pulmonary hypertension,NO_EQTL_DATA,1,Thyroid (6.3e-11),UKB-PPP
+ITGB8,Phase II,Other,NO_QUALIFYING_INSTRUMENT,1,Pancreas (4.8e-35),
+KCNJ1,Phase I,Heart failure / cardiomyopathy; Hypertension,NO_EQTL_DATA,3,Skin_Not_Sun_Exposed_Suprapubic (6.4e-14); Lung (1.3e-12); Skin_Sun_Exposed_Lower_leg (6.8e-12),
+MC5R,Preclinical,Other,NO_EQTL_DATA,1,Testis (1.1e-14),
+MCU,Preclinical,Unspecified CV,NO_QUALIFYING_INSTRUMENT,2,Brain_Cerebellum (8.5e-29); Brain_Cerebellar_Hemisphere (8.9e-14),
+MTNR1B,Preclinical,Cerebrovascular,NO_EQTL_DATA,1,Testis (2.1e-15),
+NOX1,Preclinical,Unspecified CV,NO_EQTL_DATA,6,Small_Intestine_Terminal_Ileum (4.1e-17); Brain_Cerebellum (6.7e-09); Brain_Cerebellar_Hemisphere (6.8e-09); Nerve_Tibial (2.8e-08); Colon_Transverse (2.9e-08); Brain_Caudate_basal_ganglia (3.5e-08),
+NOX4,Preclinical,Cerebrovascular,NO_EQTL_DATA,1,Cells_Cultured_fibroblasts (8.7e-23),
+NPC1L1,Launched,Lipids / atherosclerosis,NO_QUALIFYING_INSTRUMENT,2,Adipose_Subcutaneous (1.7e-18); Testis (9.2e-10),
+NPR1,Phase II,Heart failure / cardiomyopathy; Hypertension; Pulmonary hypertension; Unspecified CV,NO_EQTL_DATA,2,Esophagus_Gastroesophageal_Junction (4.5e-09); Colon_Sigmoid (6.8e-09),UKB-PPP
+NPY2R,Preclinical,Lipids / atherosclerosis; Other,NO_EQTL_DATA,10,Brain_Caudate_basal_ganglia (6.2e-28); Brain_Cortex (2.2e-22); Brain_Putamen_basal_ganglia (3e-21); Brain_Spinal_cord_cervical_c-1 (1.5e-20); Brain_Substantia_nigra (1.7e-18); Brain_Hippocampus (4.6e-16); Brain_Amygdala (3.6e-15); Brain_Hypothalamus (6.6e-09); Brain_Anterior_cingulate_cortex_BA24 (8.3e-09); Brain_Frontal_Cortex_BA9 (3.1e-08),
+NPY4R,Preclinical,Ischaemic heart disease; Heart failure / cardiomyopathy; Arrhythmia; Thrombosis; Other,NO_EQTL_DATA,3,Skin_Not_Sun_Exposed_Suprapubic (4.8e-29); Skin_Sun_Exposed_Lower_leg (1.2e-19); Colon_Transverse (2.9e-09),
+NTRK1,Preclinical,Ischaemic heart disease,NO_QUALIFYING_INSTRUMENT,2,Nerve_Tibial (9.7e-12); Brain_Nucleus_accumbens_basal_ganglia (4.2e-08),deCODE; Fenland
+OPRD1,Preclinical,Ischaemic heart disease; Heart failure / cardiomyopathy,NO_EQTL_DATA,2,Testis (1.2e-15); Adipose_Visceral_Omentum (8.9e-11),
+OPRM1,Preclinical,Ischaemic heart disease,NO_EQTL_DATA,1,Testis (4.5e-09),
+PRKACA,Preclinical,Ischaemic heart disease; Other; Unspecified CV,NO_QUALIFYING_INSTRUMENT,1,Esophagus_Mucosa (2e-26),deCODE
+PTGER3,Phase II,Thrombosis; Other; Unspecified CV,NO_QUALIFYING_INSTRUMENT,6,Skin_Sun_Exposed_Lower_leg (5.4e-66); Skin_Not_Sun_Exposed_Suprapubic (8.2e-41); Brain_Frontal_Cortex_BA9 (2.5e-12); Adipose_Subcutaneous (2e-10); Brain_Cortex (1.4e-09); Minor_Salivary_Gland (1.2e-08),
+PYCARD,Preclinical,Cerebrovascular,NO_QUALIFYING_INSTRUMENT,3,Esophagus_Mucosa (1.6e-20); Skin_Sun_Exposed_Lower_leg (9.3e-11); Cells_Cultured_fibroblasts (5.8e-10),
+RHOA,Preclinical,Pulmonary hypertension; Unspecified CV,NO_QUALIFYING_INSTRUMENT,1,Muscle_Skeletal (4.8e-19),deCODE; Fenland
+RXFP1,Launched,Lipids / atherosclerosis; Ischaemic heart disease; Heart failure / cardiomyopathy; Unspecified CV,NO_EQTL_DATA,1,Cells_Cultured_fibroblasts (7.1e-13),deCODE; Fenland
+RXRG,Preclinical,Lipids / atherosclerosis,NO_EQTL_DATA,5,Nerve_Tibial (4.9e-11); Muscle_Skeletal (1.3e-10); Adipose_Subcutaneous (2.3e-10); Colon_Sigmoid (1.1e-08); Testis (1.4e-08),
+SCN1A,Phase II,Arrhythmia; Pulmonary hypertension; Thrombosis; Unspecified CV,NO_EQTL_DATA,4,Testis (7.4e-33); Brain_Cortex (6.2e-12); Brain_Nucleus_accumbens_basal_ganglia (4.3e-11); Brain_Cerebellum (1.7e-10),
+SLC22A12,Phase II,Heart failure / cardiomyopathy,NO_EQTL_DATA,1,Adipose_Subcutaneous (5.4e-15),
+SLC5A1,Launched,Heart failure / cardiomyopathy,NO_EQTL_DATA,3,Thyroid (8.5e-18); Spleen (4.7e-14); Nerve_Tibial (1.8e-09),
+SREBF2,Phase I,Lipids / atherosclerosis; Other,NO_QUALIFYING_INSTRUMENT,2,Cells_Cultured_fibroblasts (1.2e-08); Testis (1.8e-08),
+SSTR2,Phase II,Other,NO_EQTL_DATA,1,Testis (2.6e-09),
+SSTR4,Preclinical,Unspecified CV,NO_EQTL_DATA,3,Brain_Cerebellum (8.6e-12); Brain_Nucleus_accumbens_basal_ganglia (8.8e-10); Brain_Cerebellar_Hemisphere (8e-09),
+TLR8,Phase I,Lipids / atherosclerosis; Cerebrovascular,NO_EQTL_DATA,1,Adipose_Subcutaneous (5e-15),
+TMSB4X,Phase II,Ischaemic heart disease,NO_EQTL_DATA,1,Nerve_Tibial (4.1e-08),
+UCN2,Phase I,Heart failure / cardiomyopathy,NO_EQTL_DATA,3,Skin_Sun_Exposed_Lower_leg (5.9e-15); Esophagus_Mucosa (1.2e-08); Testis (4.2e-08),
+UCN3,Phase II,Heart failure / cardiomyopathy,NO_EQTL_DATA,1,Colon_Sigmoid (6.8e-16),deCODE
+XDH,Phase II,Heart failure / cardiomyopathy; Pulmonary hypertension; Other,NO_EQTL_DATA,3,Cells_Cultured_fibroblasts (1.2e-26); Esophagus_Mucosa (9.6e-21); Thyroid (3.3e-15),deCODE

@@ -1,0 +1,9 @@
+[B09] Preclinical: 323 targets; instrumented 196; no eQTL data 97 (85 / 10 + 2); autosomal-only 85 of 311; no qualifying instrument 29; upper 126; unresolved 1
+[B09] Phase I: 91 targets; instrumented 53; no eQTL data 26 (20 / 6 + 0); autosomal-only 20 of 85; no qualifying instrument 10; upper 36; unresolved 2
+[B09] Phase II: 171 targets; instrumented 105; no eQTL data 57 (48 / 9 + 0); autosomal-only 48 of 162; no qualifying instrument 9; upper 66; unresolved 0
+[B09] Phase III: 75 targets; instrumented 50; no eQTL data 14 (14 / 0 + 0); autosomal-only 14 of 75; no qualifying instrument 11; upper 25; unresolved 0
+[B09] Launched: 66 targets; instrumented 39; no eQTL data 23 (21 / 2 + 0); autosomal-only 21 of 64; no qualifying instrument 4; upper 27; unresolved 0
+[F01] recorded not assayed, but present under a previous symbol or UniProt accession: 2
+       ('SLC6A2', 'plausible rescue', 'deCODE', ['NAT1', 'NET1'], [])
+       ('SLC6A2', 'plausible rescue', 'Fenland', ['NAT1'], [])
+[F02] of these, currently 'locked: never assayed': []

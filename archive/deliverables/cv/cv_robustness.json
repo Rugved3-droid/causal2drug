@@ -1,0 +1,132 @@
+{
+  "CV_PRIMARY": {
+    "definition": "CV-PRIMARY",
+    "n_pairs": 1364,
+    "n_targets": 594,
+    "ABSENT": 162,
+    "ABSENT_pct": 27.272727272727273,
+    "TESTED_NULL": 53,
+    "TESTED_NULL_pct": 8.922558922558922,
+    "INSTRUMENTED": 368,
+    "INSTRUMENTED_pct": 61.95286195286195,
+    "UNMAPPED": 11,
+    "UNMAPPED_pct": 1.8518518518518519,
+    "CLASS_A": 215,
+    "CLASS_A_pct": 36.195286195286194,
+    "blood": 368,
+    "blood_pct": 61.95286195286195,
+    "heart_LV": 44,
+    "heart_LV_pct": 7.407407407407407,
+    "heart_atrial": 42,
+    "heart_atrial_pct": 7.070707070707071,
+    "artery_aorta": 54,
+    "artery_aorta_pct": 9.090909090909092,
+    "liver": 31,
+    "liver_pct": 5.218855218855219,
+    "cardiac_union": 107,
+    "cardiac_union_pct": 18.013468013468014,
+    "or_": 10.595732068761114,
+    "or_lo": 4.814189260299477,
+    "or_hi": 23.320549318409796,
+    "or_p": 1.834850853487167e-14,
+    "or_table": [
+      [
+        143,
+        7
+      ],
+      [
+        241,
+        125
+      ]
+    ],
+    "classA_launched": 20,
+    "classA_phase3": 18,
+    "classB": 1,
+    "modality": {
+      "cardiac eQTL": 98,
+      "tissue eQTL": 46,
+      "liver eQTL": 27,
+      "vascular eQTL": 18,
+      "pQTL": 15,
+      "UNKNOWN": 11
+    },
+    "modality_pct": {
+      "tissue eQTL": 21.3953488372093,
+      "cardiac eQTL": 45.58139534883721,
+      "vascular eQTL": 8.372093023255815,
+      "UNKNOWN": 5.116279069767442,
+      "pQTL": 6.976744186046512,
+      "liver eQTL": 12.55813953488372
+    },
+    "attr": [
+      218,
+      401,
+      54.3640897755611
+    ]
+  },
+  "CV_EXTENDED": {
+    "definition": "CV-EXTENDED",
+    "n_pairs": 1543,
+    "n_targets": 630,
+    "ABSENT": 177,
+    "ABSENT_pct": 28.095238095238095,
+    "TESTED_NULL": 55,
+    "TESTED_NULL_pct": 8.73015873015873,
+    "INSTRUMENTED": 386,
+    "INSTRUMENTED_pct": 61.26984126984127,
+    "UNMAPPED": 12,
+    "UNMAPPED_pct": 1.9047619047619047,
+    "CLASS_A": 232,
+    "CLASS_A_pct": 36.82539682539682,
+    "blood": 386,
+    "blood_pct": 61.26984126984127,
+    "heart_LV": 45,
+    "heart_LV_pct": 7.142857142857143,
+    "heart_atrial": 43,
+    "heart_atrial_pct": 6.825396825396825,
+    "artery_aorta": 55,
+    "artery_aorta_pct": 8.73015873015873,
+    "liver": 31,
+    "liver_pct": 4.920634920634921,
+    "cardiac_union": 110,
+    "cardiac_union_pct": 17.46031746031746,
+    "or_": 10.019762845849803,
+    "or_lo": 4.774245166931705,
+    "or_hi": 21.028590693760705,
+    "or_p": 4.049617322634367e-15,
+    "or_table": [
+      [
+        156,
+        8
+      ],
+      [
+        253,
+        130
+      ]
+    ],
+    "classA_launched": 21,
+    "classA_phase3": 18,
+    "classB": 1,
+    "modality": {
+      "cardiac eQTL": 101,
+      "tissue eQTL": 50,
+      "liver eQTL": 35,
+      "vascular eQTL": 19,
+      "pQTL": 15,
+      "UNKNOWN": 12
+    },
+    "modality_pct": {
+      "tissue eQTL": 21.551724137931036,
+      "cardiac eQTL": 43.53448275862069,
+      "liver eQTL": 15.086206896551724,
+      "vascular eQTL": 8.189655172413794,
+      "UNKNOWN": 5.172413793103448,
+      "pQTL": 6.4655172413793105
+    },
+    "attr": [
+      265,
+      448,
+      59.151785714285715
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+(a) studies mapped to EFO_0006335: 339
+(b) of those, with harmonised sumstats: 144
+(c) of those, with .tbi: 125
+(d) of those, European-ancestry-only (R2a): 31
+eligible after all of (a)-(d): 26
+
+Top 5 eligible (tbi_present=True), ranked by max_parsed_N:
+  GCST90310294   N=1028980   Keaton JM      2024-04-30  systolic blood pressure
+  GCST90449056   N=757601    Koskeridis F   2024-11-13  systolic blood pressure
+  GCST90809379   N=477445    Lee S          2026-01-10  systolic blood pressure, depressive symp
+  GCST90809391   N=477445    Lee S          2026-01-10  systolic blood pressure, depressive symp
+  GCST90474636   N=431014    UK Biobank Whole-Genome Sequencing Consortium 2025-08-06  systolic blood pressure
+
+SELECTED: GCST90310294  (N=1028980)  ./GCST90310001-GCST90311000/GCST90310294/harmonised/GCST90310294.h.tsv.gz
+wrote D:\causal2drug\manuscript_prep\manuscript\rescue_controls\gwas_selection_EFO_0006335.csv

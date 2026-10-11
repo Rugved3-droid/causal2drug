@@ -1,0 +1,274 @@
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+  
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+_______________________________________________________________________________________________________________________________________  
+ 
+   
+  
+-------HIGHLIGHTS OF PRESCRIBING INFORMATION 
+These highlights do not include all the information needed to use 
+KYNAMRO safely and effectively. See full prescribing information for 
+KYNAMRO. 
+KYNAMRO (mipomersen sodium) Injection 
+Solution for Subcutaneous Injection 
+Initial U.S. Approval: 2013 
+WARNING: RISK OF HEPATOTOXICITY 
+See full prescribing information for complete boxed warning. 
+KYNAMRO can cause elevations in transaminases (5.1). 
+	 Measure alanine aminotransferase (ALT), aspartate aminotransferase 
+(AST), alkaline phosphatase, and total bilirubin before initiating 
+treatment and then ALT and AST regularly as recommended (2.3, 
+5.1) 
+ During treatment, withhold the dose of KYNAMRO if the ALT or 
+AST is ≥3 times the upper limit of normal (ULN) (2.3, 5.1). 
+ Discontinue KYNAMRO for clinically significant liver toxicity (2.3, 
+5.1). 
+KYNAMRO increases hepatic fat (hepatic steatosis) with or without 
+concomitant increases in transaminases (5.1).  
+ Hepatic steatosis associated with KYNAMRO may be a risk factor for 
+progressive liver disease, including steatohepatitis and cirrhosis (5.1). 
+Because of the risk of hepatotoxicity, KYNAMRO is available only 
+through a restricted program called the KYNAMRO REMS (5.2). 
+----------------------------INDICATIONS AND USAGE--------------------------- 
+KYNAMRO™ is an oligonucleotide  inhibitor of  apolipoprotein B-100 
+synthesis indicated as an adjunct to lipid-lowering medications and diet to 
+reduce low density lipoprotein-cholesterol (LDL-C), apolipoprotein B (apo 
+B), total cholesterol (TC), and non-high density lipoprotein-cholesterol (non 
+HDL-C) in  patients with homozygous familial hypercholesterolemia (HoFH) 
+(1). 
+Limitations of Use: 
+ The safety and effectiveness of KYNAMRO have not been established 
+in patients with hypercholesterolemia who do not have HoFH. 
+ The effect of KYNAMRO on cardiovascular morbidity and mortality 
+has not been determined. 
+ The use of KYNAMRO as an adjunct to LDL apheresis is not 
+recommended. 
+----------------------DOSAGE AND ADMINISTRATION----------------------- 
+ 200 mg once weekly as a subcutaneous injection (2.1) 
+ Before treatment, measure ALT, AST, alkaline phosphatase, and total 
+bilirubin (2.1) 
+---------------------DOSAGE FORMS AND STRENGTHS---------------------- 
+ Single-use vial containing 1 mL of a 200 mg/mL solution  (3) 
+ Single-use pre-filled syringe containing 1 mL of a 200 mg/mL solution 
+(3) 
+---------------------------CONTRAINDICATIONS---------------------------------- 
+ Moderate or severe hepatic  impairment, or active liver disease, 
+including unexplained  persistent elevations of serum transaminases (4) 
+ Known sensitivity to product components (4) 
+-----------------------WARNINGS AND PRECAUTIONS------------------------ 
+	 Injection site reactions occur in 84% of patients and typically consist of 
+one or more of the following: erythema, pain, tenderness, pruritus and 
+local swelling (5.3) 
+	 Flu-like symptoms, which typically occur within 2 days after an 
+injection, occur in 30% of patients and include one or more of the 
+following: influenza-like illness, pyrexia, chills, myalgia, arthralgia, 
+malaise or fatigue (5.4) 
+------------------------------ADVERSE REACTIONS------------------------------- 
+The most commonly reported adverse reactions (incidence ≥ 
+10% and greater than placebo) are injection site reactions, flu-
+like symptoms, nausea, headache and elevations in serum 
+transaminases, specifically ALT. (5.4, 6). 
+-----------------------USE IN SPECIFIC POPULATIONS ----------------------
+• Nursing mothers: Discontinue drug or nursing (8.3). 
+• Pediatric Patients: Safety and effectiveness not established (8.4).  
+To report SUSPECTED ADVERSE REACTIONS, contact 
+Genzyme Corporation at 1-800-745-4447 or FDA at 1-800-
+FDA-1088 or www.fda.gov/medwatch 
+See 17 for PATIENT COUNSELING INFORMATION and FDA-approved 
+patient labeling 
+    Revised: 1/2013 
+FULL PRESCRIBING INFORMATION: CONTENTS* 8. 4 Pediatric Use 
+ 8.5 Geriatric Use  
+WARNING: RISK  OF HEPATOTOXICITY 8.6 Females of Reproductive Potential  
+1 INDICATIONS AND USAGE   8.7 Renal Impairment 
+2 DOSAGE AND  ADMINISTRATION 8.8 Hepatic Impairment 
+2.1 General Dosing Information 10 OVERDOSAGE  
+2.2 Administration 11 DESCRIPTION 
+2.3 Adjustments for Patients Developing Transaminase Elevations 12 CLINICAL PHARMACOLOGY 
+3 DOSAGE FORMS AND STRENGTHS 12.1  Mechanism of Action 
+4 CONTRAINDICATIONS 12.2 Pharmacodynamics 
+5 WARNINGS AND PRECAUTIONS 12.3 Pharmacokinetics 
+5.1 Risk of Hepatotoxicity  13 NONCLINICAL TOXICOLOGY 
+5.2 KYNAMRO REMS  13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility  
+5.3 Injection Site Reactions 13.2  Animal Pharmacology and/or Toxicology  
+5.4 Flu-Like symptoms 14 CLINICAL STUDIES 
+6 ADVERSE REACTIONS 16 HOW SUPPLIED/STORAGE AND HANDLING 
+6.1 Clinical Trials 17  PATIENT COUNSELING INFORMATION 
+7 DRUG  INTERACTIONS  
+8 USE IN SPECIFIC POPULATIONS *Sections or subsections omitted from  the full prescribing information are not 
+8.1 Pregnancy  listed 
+8.3 Nursing Mothers 
+Proprietary and Confidential	 Page 1 of 23 
+Doc ID: Mipomersen PI 8Jan2013.docReference ID: 3252315 
+This label may not be the latest approved by FDA.  
+For current labeling information, please visit https://www.fda.gov/drugsatfda
+ 
+   
+   
+ 
+ 
+ 
+  
+  
+KYNAMROTM (mipomersen sodium) 
+PROPOSED TEXT OF THE LABELING OF THE DRUG
+ 
+1 FULL PRESCRIBING INFORMATION 
+2 WARNING: RISK OF HEPATOTOXICITY  
+3  
+4 KYNAMRO can cause elevations in transami nases. In the KYNAMRO clinical trial 
+5 in patients with HoFH, 4 (12%) of the 34 patients treated with KYNAMRO 
+6 compared with 0% of the 17 patients treate d with placebo had at least one elevation 
+7 in alanine aminotransferase (ALT) ≥3x upper limit of normal (ULN). There were no 
+8 concomitant clinically meaningful elevations of total bilirubin, international 
+9 normalized ratio (INR) or partial thromboplastin time (PTT)  [see Warnings and 
+10 Precautions (5.1)]. 
+11 KYNAMRO also increases hepatic fat, with or without concomitant increases in 
+12 transaminases. In the trials in patients with heterozygous familial 
+13 hypercholesterolemia (HeFH) and hyperlipid emia, the median absolute increase in 
+14 hepatic fat was 10% after 26 weeks of treatm ent, from 0% at baseline, measured by 
+15 magnetic resonance imaging (MRI).  Hepati c steatosis is a risk factor for advanced 
+16 liver disease; including steato hepatitis and cirrhosis [see  Warnings and Precautions 
+17 (5.1)].  
+18 Measure ALT, AST, alkaline phosphatase, and total bilirubin before initiating  
+19 treatment and then ALT, AST regularly  as recommended. During treatment, 
+20 withhold the dose of KYNAM RO if the ALT or AST are ≥3 x ULN. Discontinue 
+21 KYNAMRO for clinically signif icant liver toxicity [see Dosage and Administration 
+22 (2.3) and Warnings and Precautions (5.1)].  
+23  
+24 Because of the risk of hepatotoxicity, KYNAMRO is available only through a 
+25 restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called 
+26 the KYNAMRO REMS [see Warnings and Precautions (5.2)].    
+27  
+28 1 INDICATIONS AND USAGE 
+29 KYNAMROTM is indicated as an adjunct to lipid-lowering medications and diet to reduce 
+30 low density lipoprotein-cholesterol (LDL-C), apolipoprotein B (apo B), total cholesterol 
+31 (TC), and non-high density lipoprotein-cholesterol (non-HDL-C) in patients with 
+32 homozygous familial hypercholesterolemia (HoFH).  
+33  
+34 Limitations of Use  
+35   The safety and effectiveness of KYNAMRO have not been established in patients 
+36 with hypercholesterolemia who do not have HoFH. 
+37   The effect of KYNAMRO on cardiovascular morbidity and mortality has not been 
+38 determined. 
+Proprietary and Confidential Page 2 of 23 
+Doc ID: Mipomersen PI  changes final draft 1 24 2013.doc 
+Reference ID: 3252315 
+This label may not be the latest approved by FDA.  
+For current labeling information, please visit https://www.fda.gov/drugsatfda
+ 
+   
+   
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+KYNAMROTM (mipomersen sodium) 
+PROPOSED TEXT OF THE LABELING OF THE DRUG
+ 
+39  The safety and effectiveness of KYNAMRO as an adjunct to LDL apheresis have 
+40 not been established; therefore, the use of KYNAMRO as an adjunct to LDL 
+41 apheresis is not recommended. 
+42 
+43 2 DOSAGE AND ADMINISTRATION 
+44 2.1 General Dosing Information 
+45 Before beginning treatment with KYNAMRO, measure transaminases (ALT, AST), 
+46 alkaline phosphatase, and total bilirubin [see Warnings and Precautions (5.1)]. 
+47 The recommended dose of KYNAMRO is 200 milligrams (mg) once weekly as a 
+48 subcutaneous injection. 
+49 KYNAMRO is intended for subcutaneous use only.  Do not administer intramuscularly 
+50 or intravenously. 
+51 The injection should be given on the same day every week, but if a dose is missed, the 
+52 injection should be given at least 3 days from the next weekly dose 
+53 After initiation of KYNAMRO therapy lipid levels should be monitored at least every 3 
+54 months for the first year. Maximal reduction of LDL-C may be seen with KYNAMRO 
+55 therapy after approximately 6 months (based on the time to steady state seen in clinical 
+56 studies). Health care providers should assess the patient’s LDL-C level after 6 months to 
+57 determine if the LDL-C reduction achieved with KYNAMRO is sufficiently robust to 
+58 warrant the potential risk of liver toxicity. 
+59 
+60 2.2 Administration 
+61 Each vial or pre-filled syringe of KYNAMRO provides 200 mg of mipomersen sodium in 
+62 a deliverable volume of 1 milliliter (mL) of solution and is intended for single-use only.   
+63 The KYNAMRO vial or pre-filled syringe should be removed from 2-8°C (36-46°F) 
+64 refrigerated storage and allowed to reach room temperature for at least 30 minutes prior 
+65 to administration.   
+66 Parenteral drug products should be inspected visually prior to administration.  If the 
+67 solution is cloudy or contains visible particulate matter, the contents must not be injected 
+68 and the product should be returned to the pharmacy. 
+69 The first injection administered by the patient or caregiver should be performed under the 
+70 guidance and supervision of an appropriately qualified health care professional.   
+71 KYNAMRO should be injected into the abdomen, thigh region, or outer area of the upper 
+72 arm.  KYNAMRO should not be injected in areas of active skin disease or injury such as 
+73 sunburns, skin rashes, inflammation, skin infections, active areas of psoriasis, etc.  Areas 
+74 of tattooed skin and scarring should also be avoided. 
+75 
+76 
+2.3 Adjustments for Patients Developing Transaminase Elevations 
+77 
+Proprietary and Confidential Page 3 of 23 
+Doc ID: Mipomersen PI  changes final draft 1 24 2013.doc 
+Reference ID: 3252315 
+This label may not be the latest approved by FDA.  
+For current labeling information, please visit https://www.fda.gov/drugsatfda
+ 

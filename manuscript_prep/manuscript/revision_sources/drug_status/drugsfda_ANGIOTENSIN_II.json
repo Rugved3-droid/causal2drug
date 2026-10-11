@@ -1,0 +1,246 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 2
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250603",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "76818",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/216966Orig1s000TA_ltr.pdf",
+              "date": "20231214",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA216966",
+      "sponsor_name": "GLAND",
+      "openfda": {
+        "application_number": [
+          "ANDA216966"
+        ],
+        "brand_name": [
+          "ANGIOTENSIN II"
+        ],
+        "generic_name": [
+          "ANGIOTENSIN II"
+        ],
+        "manufacturer_name": [
+          "Gland Pharma Limited"
+        ],
+        "product_ndc": [
+          "68083-553"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ANGIOTENSIN II"
+        ],
+        "rxcui": [
+          "1999007"
+        ],
+        "spl_id": [
+          "db7a3372-cd0e-412e-a8e2-90b5fdcf3e3e"
+        ],
+        "spl_set_id": [
+          "727d1102-fc46-46f8-b78e-fd13f0738fe4"
+        ],
+        "package_ndc": [
+          "68083-553-01"
+        ],
+        "nui": [
+          "N0000192562",
+          "N0000009908"
+        ],
+        "pharm_class_epc": [
+          "Vasoconstrictor [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Vasoconstriction [PE]"
+        ],
+        "unii": [
+          "M089EFU921"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ANGIOTENSIN ll ACETATE",
+          "active_ingredients": [
+            {
+              "name": "ANGIOTENSIN II ACETATE",
+              "strength": "EQ 2.5MG BASE/ML (EQ 2.5MG BASE/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20171221",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "50866",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/209360s000lbl.pdf",
+              "date": "20171226",
+              "type": "Label"
+            },
+            {
+              "id": "50923",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/209360Orig1s000ltr.pdf",
+              "date": "20171227",
+              "type": "Letter"
+            },
+            {
+              "id": "52233",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/209360Orig1s000TOC.html",
+              "date": "20180131",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA209360",
+      "sponsor_name": "LA JOLLA PHARMA",
+      "openfda": {
+        "application_number": [
+          "NDA209360"
+        ],
+        "brand_name": [
+          "GIAPREZA"
+        ],
+        "generic_name": [
+          "ANGIOTENSIN II"
+        ],
+        "manufacturer_name": [
+          "La Jolla Pharmaceutical Company"
+        ],
+        "product_ndc": [
+          "68547-005",
+          "68547-501"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ANGIOTENSIN II"
+        ],
+        "rxcui": [
+          "1999007",
+          "1999012",
+          "2611704",
+          "2611707"
+        ],
+        "spl_id": [
+          "2c555078-770d-43d9-93e5-40e4cf5a4acf"
+        ],
+        "spl_set_id": [
+          "c265d69a-3efe-4107-9a9e-e6fd3d531c48"
+        ],
+        "package_ndc": [
+          "68547-501-02",
+          "68547-501-07",
+          "68547-005-01"
+        ],
+        "nui": [
+          "N0000192562",
+          "N0000009908"
+        ],
+        "pharm_class_epc": [
+          "Vasoconstrictor [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Vasoconstriction [PE]"
+        ],
+        "unii": [
+          "M089EFU921"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "GIAPREZA",
+          "active_ingredients": [
+            {
+              "name": "ANGIOTENSIN II ACETATE",
+              "strength": "EQ 5MG BASE/2ML (EQ 2.5MG BASE/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "GIAPREZA",
+          "active_ingredients": [
+            {
+              "name": "ANGIOTENSIN II ACETATE",
+              "strength": "EQ 0.5MG BASE/ML (EQ 0.5MG BASE/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "GIAPREZA",
+          "active_ingredients": [
+            {
+              "name": "ANGIOTENSIN II ACETATE",
+              "strength": "EQ 2.5MG BASE/ML (EQ 2.5MG BASE/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    }
+  ]
+}

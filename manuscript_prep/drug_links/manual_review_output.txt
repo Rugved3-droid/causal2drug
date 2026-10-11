@@ -1,0 +1,8 @@
+[MR01] evidence rows reviewed: 327; targets: 32
+[MR02] rows where the drug is recorded against a family or group, not the gene: 308
+[MR03] rows with a direct link whose indication lies outside cardiovascular branches: 19
+[MR04] family or group link only                                              283 rows, 19 targets: ADORA1, ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, CACNA1C, CACNA2D1, EDNRA, EDNRB, GRIN1, GUCY1A1, GUCY1B1, PDE4A, PDE4B, PDE4C, PDE4D, SCN9A
+[MR04] family or group link, and indication outside cardiovascular branches    25 rows, 18 targets: ADORA1, ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, CACNA1C, EDNRA, EDNRB, GUCY1A1, GUCY1B1, PDE4A, PDE4B, PDE4C, PDE4D, SCN9A, TUBB
+[MR04] direct link, indication outside cardiovascular branches                 19 rows, 12 targets: BDKRB2, C5AR1, EPAS1, F11, F12, GHR, GLA, IL6R, KLKB1, SERPING1, SLC10A2, VEGFA
+[MR05] rows accepted as making the target an approved-drug target under the primary definition: 0
+[MR06] outcome: the strict rule, with an FDA or EMA approval record, is the primary definition; the permissive rule is reported as a sensitivity analysis

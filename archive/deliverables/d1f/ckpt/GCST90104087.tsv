@@ -1,0 +1,26 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+ABAT	D010300	Parkinson Disease	GCST90104087	DOWN	10																no_gwas_chunks
+ABL1	D010300	Parkinson Disease	GCST90104087	DOWN	1																no_gwas_chunks
+ADORA1	D010300	Parkinson Disease	GCST90104087	UP	7																no_gwas_chunks
+C5AR1	D010300	Parkinson Disease	GCST90104087	DOWN	2																no_gwas_chunks
+COMT	D010300	Parkinson Disease	GCST90104087	DOWN	3																no_gwas_chunks
+CPT2	D010300	Parkinson Disease	GCST90104087	DOWN	2																no_gwas_chunks
+CSF1R	D010300	Parkinson Disease	GCST90104087	DOWN	6																no_gwas_chunks
+CSF3R	D010300	Parkinson Disease	GCST90104087	UP	2																no_gwas_chunks
+DRD4	D010300	Parkinson Disease	GCST90104087	DOWN	3																no_gwas_chunks
+EPOR	D010300	Parkinson Disease	GCST90104087	UP	4																no_gwas_chunks
+FKBP1A	D010300	Parkinson Disease	GCST90104087	DOWN	11																no_gwas_chunks
+GIPR	D010300	Parkinson Disease	GCST90104087	UP	1																no_gwas_chunks
+IL6R	D010300	Parkinson Disease	GCST90104087	DOWN	2																no_gwas_chunks
+INSR	D010300	Parkinson Disease	GCST90104087	UP	4																no_gwas_chunks
+LYN	D010300	Parkinson Disease	GCST90104087	DOWN	2																no_gwas_chunks
+MTOR	D010300	Parkinson Disease	GCST90104087	DOWN	4																no_gwas_chunks
+PARP1	D010300	Parkinson Disease	GCST90104087	DOWN	5																no_gwas_chunks
+PARP2	D010300	Parkinson Disease	GCST90104087	DOWN	4																no_gwas_chunks
+PIK3CA	D010300	Parkinson Disease	GCST90104087	DOWN	1																no_gwas_chunks
+PPARA	D010300	Parkinson Disease	GCST90104087	UP	3																no_gwas_chunks
+PPARD	D010300	Parkinson Disease	GCST90104087	UP	3																no_gwas_chunks
+PPARG	D010300	Parkinson Disease	GCST90104087	UP	4																no_gwas_chunks
+TNF	D010300	Parkinson Disease	GCST90104087	DOWN	3																no_gwas_chunks
+UGCG	D010300	Parkinson Disease	GCST90104087	DOWN	4																no_gwas_chunks
+VEGFA	D010300	Parkinson Disease	GCST90104087	DOWN	5																no_gwas_chunks

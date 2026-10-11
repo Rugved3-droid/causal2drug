@@ -1,0 +1,661 @@
+[
+  {
+    "pair": "HMGCR_LDL",
+    "started_utc": "2026-08-26T22:57:13Z",
+    "preregistration": "deliverables/d1/PREREGISTRATION.md",
+    "bytes_transferred": 7070351,
+    "gene": {
+      "symbol": "HMGCR",
+      "ensembl_id": "ENSG00000113161",
+      "chrom": "5",
+      "start": 75336329,
+      "end": 75364241,
+      "strand": 1,
+      "assembly": "GRCh38",
+      "retrieved_utc": "2026-08-26T22:57:22Z",
+      "source": "https://rest.ensembl.org/lookup/symbol/homo_sapiens/HMGCR"
+    },
+    "window": {
+      "chrom": "5",
+      "start": 75236329,
+      "end": 75464241,
+      "flank_bp": 100000
+    },
+    "gwas_retrieval": {
+      "bytes": 2028277,
+      "requests": 3,
+      "data_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90239001-GCST90240000/GCST90239658/harmonised/GCST90239658.h.tsv.gz",
+      "tbi_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90239001-GCST90240000/GCST90239658/harmonised/GCST90239658.h.tsv.gz.tbi",
+      "head_status": 200,
+      "accept_ranges": "bytes",
+      "data_file_total_bytes": 1416980601,
+      "status_codes": [
+        206,
+        206
+      ],
+      "data_is_bgzf": true,
+      "first_block_size": 24514,
+      "probe_status": 206,
+      "tbi_bytes": 1803528,
+      "tbi_n_ref": 22,
+      "tbi_names_head": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tbi_cols_seq_beg_end": [
+        1,
+        2,
+        2
+      ],
+      "chrom_used": "5",
+      "n_chunks": 1,
+      "byte_span": [
+        472443986,
+        472603180
+      ],
+      "blocks_decompressed": 6,
+      "uncompressed_bytes": 391680,
+      "rows": 3323,
+      "pct_of_file_transferred": 0.138516,
+      "columns": [
+        "chromosome",
+        "base_pair_location",
+        "effect_allele",
+        "other_allele",
+        "beta",
+        "standard_error",
+        "effect_allele_frequency",
+        "p_value",
+        "variant_id",
+        "n",
+        "N_studies",
+        "hm_coordinate_conversion",
+        "hm_code",
+        "rsid"
+      ],
+      "retrieved_utc": "2026-08-26T22:57:27Z",
+      "seconds": 5.44,
+      "accession": "GCST90239658"
+    },
+    "eqtl_retrieval": {
+      "bytes": 2356944,
+      "requests": 3,
+      "data_url": "https://ftp.ebi.ac.uk/pub/databases/spot/eQTL/sumstats/QTS000015/QTD000266/QTD000266.all.tsv.gz",
+      "tbi_url": "https://ftp.ebi.ac.uk/pub/databases/spot/eQTL/sumstats/QTS000015/QTD000266/QTD000266.all.tsv.gz.tbi",
+      "head_status": 200,
+      "accept_ranges": "bytes",
+      "data_file_total_bytes": 2906926368,
+      "status_codes": [
+        206,
+        206
+      ],
+      "data_is_bgzf": true,
+      "first_block_size": 11126,
+      "probe_status": 206,
+      "tbi_bytes": 2112225,
+      "tbi_n_ref": 23,
+      "tbi_names_head": [
+        "1",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "tbi_cols_seq_beg_end": [
+        2,
+        3,
+        3
+      ],
+      "chrom_used": "5",
+      "n_chunks": 1,
+      "byte_span": [
+        2219071243,
+        2219315943
+      ],
+      "blocks_decompressed": 28,
+      "uncompressed_bytes": 1827840,
+      "rows": 8990,
+      "pct_of_file_transferred": 0.08108,
+      "retrieved_utc": "2026-08-26T22:57:31Z",
+      "seconds": 3.8,
+      "dataset": "QTD000266 GTEx_v10 liver ge (eQTL Catalogue R8)",
+      "rows_all_traits": 8990,
+      "rows_this_gene": 592
+    },
+    "build_check": {
+      "eqtl_variant_id_matches_pos_ref_alt": "200/200",
+      "gwas_file_is_harmonised_GRCh38": true,
+      "gene_assembly": "GRCh38",
+      "kg_panel_build": "GRCh38 (1kGP high coverage phased panel)"
+    },
+    "harmonization": {
+      "eqtl_variants": 592,
+      "gwas_variants": 3323,
+      "position_matched": 578,
+      "aligned_same": 529,
+      "aligned_flipped": 0,
+      "strand_flipped": 0,
+      "allele_mismatch": 0,
+      "indel_or_multiallelic": 44,
+      "ambiguous_total": 85,
+      "ambiguous_resolved": 80,
+      "ambiguous_unresolved": 5,
+      "missing_stats": 0,
+      "harmonized": 529
+    },
+    "ld_retrieval": {
+      "bytes": 2685130,
+      "requests": 3,
+      "data_url": "https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/1000G_2504_high_coverage/working/20220422_3202_phased_SNV_INDEL_SV/1kGP_high_coverage_Illumina.chr5.filtered.SNV_INDEL_SV_phased_panel.vcf.gz",
+      "tbi_url": "https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/1000G_2504_high_coverage/working/20220422_3202_phased_SNV_INDEL_SV/1kGP_high_coverage_Illumina.chr5.filtered.SNV_INDEL_SV_phased_panel.vcf.gz.tbi",
+      "head_status": 200,
+      "accept_ranges": "bytes",
+      "data_file_total_bytes": 1899165551,
+      "status_codes": [
+        206,
+        206
+      ],
+      "data_is_bgzf": true,
+      "first_block_size": 10115,
+      "probe_status": 206,
+      "tbi_bytes": 178609,
+      "tbi_n_ref": 1,
+      "tbi_names_head": [
+        "chr5"
+      ],
+      "tbi_cols_seq_beg_end": [
+        1,
+        2,
+        0
+      ],
+      "chrom_used": "chr5",
+      "n_chunks": 1,
+      "byte_span": [
+        786255955,
+        788500313
+      ],
+      "blocks_decompressed": 1233,
+      "uncompressed_bytes": 80490240,
+      "rows": 5644,
+      "pct_of_file_transferred": 0.127582,
+      "retrieved_utc": "2026-08-26T22:58:24Z",
+      "seconds": 52.85,
+      "n_eur_unrelated_samples": 525,
+      "n_biallelic_snps_in_panel_window": 4757
+    },
+    "instruments": {
+      "threshold": 5e-08,
+      "n_candidates_before_clumping": 0,
+      "n_after_clumping": 0,
+      "clump_r2": 0.01,
+      "n_dropped_by_ld": 0,
+      "min_eqtl_p_in_window": 0.013254,
+      "min_eqtl_p_variant": "chr5_75268665_G_A",
+      "min_eqtl_p_rsid": "rs143528459",
+      "F_of_best_variant": 6.25
+    },
+    "instrument_strength": null,
+    "mr": {
+      "status": "NOT COMPUTABLE - zero instruments at p<5e-08"
+    },
+    "coloc": {
+      "n_variants": 529,
+      "PP0": 0.0,
+      "PP1": 0.0,
+      "PP2": 0.9001899923491626,
+      "PP3": 0.03853579137301793,
+      "PP4": 0.061274216277826955
+    },
+    "pass_criteria": {
+      "1_eGene_FDR005": false,
+      "2_ge1_instrument": false,
+      "3_F_ge_10": false,
+      "4_MR_p_lt_005": false,
+      "5_direction_matches": false
+    },
+    "VERDICT": "FAIL",
+    "finished_utc": "2026-08-26T22:58:24Z"
+  },
+  {
+    "pair": "PCSK9_LDL",
+    "started_utc": "2026-08-26T22:58:24Z",
+    "preregistration": "deliverables/d1/PREREGISTRATION.md",
+    "bytes_transferred": 7646700,
+    "gene": {
+      "symbol": "PCSK9",
+      "ensembl_id": "ENSG00000169174",
+      "chrom": "1",
+      "start": 55039445,
+      "end": 55064852,
+      "strand": 1,
+      "assembly": "GRCh38",
+      "retrieved_utc": "2026-08-26T22:58:29Z",
+      "source": "https://rest.ensembl.org/lookup/symbol/homo_sapiens/PCSK9"
+    },
+    "window": {
+      "chrom": "1",
+      "start": 54939445,
+      "end": 55164852,
+      "flank_bp": 100000
+    },
+    "gwas_retrieval": {
+      "bytes": 2075062,
+      "requests": 3,
+      "data_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90239001-GCST90240000/GCST90239658/harmonised/GCST90239658.h.tsv.gz",
+      "tbi_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90239001-GCST90240000/GCST90239658/harmonised/GCST90239658.h.tsv.gz.tbi",
+      "head_status": 200,
+      "accept_ranges": "bytes",
+      "data_file_total_bytes": 1416980601,
+      "status_codes": [
+        206,
+        206
+      ],
+      "data_is_bgzf": true,
+      "first_block_size": 24514,
+      "probe_status": 206,
+      "tbi_bytes": 1803528,
+      "tbi_n_ref": 22,
+      "tbi_names_head": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tbi_cols_seq_beg_end": [
+        1,
+        2,
+        2
+      ],
+      "chrom_used": "1",
+      "n_chunks": 1,
+      "byte_span": [
+        27811935,
+        28017914
+      ],
+      "blocks_decompressed": 8,
+      "uncompressed_bytes": 522240,
+      "rows": 3925,
+      "pct_of_file_transferred": 0.141817,
+      "columns": [
+        "chromosome",
+        "base_pair_location",
+        "effect_allele",
+        "other_allele",
+        "beta",
+        "standard_error",
+        "effect_allele_frequency",
+        "p_value",
+        "variant_id",
+        "n",
+        "N_studies",
+        "hm_coordinate_conversion",
+        "hm_code",
+        "rsid"
+      ],
+      "retrieved_utc": "2026-08-26T22:58:35Z",
+      "seconds": 6.0,
+      "accession": "GCST90239658"
+    },
+    "eqtl_retrieval": {
+      "bytes": 2519378,
+      "requests": 3,
+      "data_url": "https://ftp.ebi.ac.uk/pub/databases/spot/eQTL/sumstats/QTS000015/QTD000266/QTD000266.all.tsv.gz",
+      "tbi_url": "https://ftp.ebi.ac.uk/pub/databases/spot/eQTL/sumstats/QTS000015/QTD000266/QTD000266.all.tsv.gz.tbi",
+      "head_status": 200,
+      "accept_ranges": "bytes",
+      "data_file_total_bytes": 2906926368,
+      "status_codes": [
+        206,
+        206
+      ],
+      "data_is_bgzf": true,
+      "first_block_size": 11126,
+      "probe_status": 206,
+      "tbi_bytes": 2112225,
+      "tbi_n_ref": 23,
+      "tbi_names_head": [
+        "1",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "tbi_cols_seq_beg_end": [
+        2,
+        3,
+        3
+      ],
+      "chrom_used": "1",
+      "n_chunks": 1,
+      "byte_span": [
+        96889484,
+        97296618
+      ],
+      "blocks_decompressed": 45,
+      "uncompressed_bytes": 2937600,
+      "rows": 15584,
+      "pct_of_file_transferred": 0.086668,
+      "retrieved_utc": "2026-08-26T22:58:39Z",
+      "seconds": 3.99,
+      "dataset": "QTD000266 GTEx_v10 liver ge (eQTL Catalogue R8)",
+      "rows_all_traits": 15584,
+      "rows_this_gene": 846
+    },
+    "build_check": {
+      "eqtl_variant_id_matches_pos_ref_alt": "200/200",
+      "gwas_file_is_harmonised_GRCh38": true,
+      "gene_assembly": "GRCh38",
+      "kg_panel_build": "GRCh38 (1kGP high coverage phased panel)"
+    },
+    "harmonization": {
+      "eqtl_variants": 846,
+      "gwas_variants": 3925,
+      "position_matched": 828,
+      "aligned_same": 763,
+      "aligned_flipped": 0,
+      "strand_flipped": 0,
+      "allele_mismatch": 0,
+      "indel_or_multiallelic": 59,
+      "ambiguous_total": 106,
+      "ambiguous_resolved": 100,
+      "ambiguous_unresolved": 6,
+      "missing_stats": 0,
+      "harmonized": 763
+    },
+    "ld_retrieval": {
+      "bytes": 3052260,
+      "requests": 3,
+      "data_url": "https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/1000G_2504_high_coverage/working/20220422_3202_phased_SNV_INDEL_SV/1kGP_high_coverage_Illumina.chr1.filtered.SNV_INDEL_SV_phased_panel.vcf.gz",
+      "tbi_url": "https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/1000G_2504_high_coverage/working/20220422_3202_phased_SNV_INDEL_SV/1kGP_high_coverage_Illumina.chr1.filtered.SNV_INDEL_SV_phased_panel.vcf.gz.tbi",
+      "head_status": 200,
+      "accept_ranges": "bytes",
+      "data_file_total_bytes": 2390515911,
+      "status_codes": [
+        206,
+        206
+      ],
+      "data_is_bgzf": true,
+      "first_block_size": 10226,
+      "probe_status": 206,
+      "tbi_bytes": 228701,
+      "tbi_n_ref": 1,
+      "tbi_names_head": [
+        "chr1"
+      ],
+      "tbi_cols_seq_beg_end": [
+        1,
+        2,
+        0
+      ],
+      "chrom_used": "chr1",
+      "n_chunks": 1,
+      "byte_span": [
+        579979483,
+        582540879
+      ],
+      "blocks_decompressed": 1269,
+      "uncompressed_bytes": 82840320,
+      "rows": 5605,
+      "pct_of_file_transferred": 0.116716,
+      "retrieved_utc": "2026-08-26T22:58:50Z",
+      "seconds": 10.43,
+      "n_eur_unrelated_samples": 525,
+      "n_biallelic_snps_in_panel_window": 5030
+    },
+    "instruments": {
+      "threshold": 5e-08,
+      "n_candidates_before_clumping": 0,
+      "n_after_clumping": 0,
+      "clump_r2": 0.01,
+      "n_dropped_by_ld": 0,
+      "min_eqtl_p_in_window": 4.56763e-06,
+      "min_eqtl_p_variant": "chr1_55054539_G_A",
+      "min_eqtl_p_rsid": "rs1165287",
+      "F_of_best_variant": 22.257
+    },
+    "instrument_strength": null,
+    "mr": {
+      "status": "NOT COMPUTABLE - zero instruments at p<5e-08"
+    },
+    "coloc": {
+      "n_variants": 763,
+      "PP0": 0.0,
+      "PP1": 0.0,
+      "PP2": 0.454596064123843,
+      "PP3": 0.5032681674312276,
+      "PP4": 0.04213576844488674
+    },
+    "pass_criteria": {
+      "1_eGene_FDR005": false,
+      "2_ge1_instrument": false,
+      "3_F_ge_10": false,
+      "4_MR_p_lt_005": false,
+      "5_direction_matches": false
+    },
+    "VERDICT": "FAIL",
+    "finished_utc": "2026-08-26T22:58:50Z"
+  },
+  {
+    "pair": "IL6R_CRP",
+    "started_utc": "2026-08-26T22:58:50Z",
+    "preregistration": "deliverables/d1/PREREGISTRATION.md",
+    "bytes_transferred": 8830967,
+    "gene": {
+      "symbol": "IL6R",
+      "ensembl_id": "ENSG00000160712",
+      "chrom": "1",
+      "start": 154405141,
+      "end": 154469450,
+      "strand": 1,
+      "assembly": "GRCh38",
+      "retrieved_utc": "2026-08-26T22:59:20Z",
+      "source": "https://rest.ensembl.org/lookup/symbol/homo_sapiens/IL6R"
+    },
+    "window": {
+      "chrom": "1",
+      "start": 154305141,
+      "end": 154569450,
+      "flank_bp": 100000
+    },
+    "gwas_retrieval": {
+      "bytes": 1673467,
+      "requests": 3,
+      "data_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90179001-GCST90180000/GCST90179146/harmonised/GCST90179146.h.tsv.gz",
+      "tbi_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90179001-GCST90180000/GCST90179146/harmonised/GCST90179146.h.tsv.gz.tbi",
+      "head_status": 200,
+      "accept_ranges": "bytes",
+      "data_file_total_bytes": 332651595,
+      "status_codes": [
+        206,
+        206
+      ],
+      "data_is_bgzf": true,
+      "first_block_size": 27145,
+      "probe_status": 206,
+      "tbi_bytes": 1489118,
+      "tbi_n_ref": 22,
+      "tbi_names_head": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tbi_cols_seq_beg_end": [
+        1,
+        2,
+        2
+      ],
+      "chrom_used": "1",
+      "n_chunks": 1,
+      "byte_span": [
+        14193469,
+        14312263
+      ],
+      "blocks_decompressed": 4,
+      "uncompressed_bytes": 261120,
+      "rows": 581,
+      "pct_of_file_transferred": 0.483368,
+      "columns": [
+        "chromosome",
+        "base_pair_location",
+        "effect_allele",
+        "other_allele",
+        "beta",
+        "standard_error",
+        "effect_allele_frequency",
+        "p_value",
+        "variant_id",
+        "z",
+        "hm_coordinate_conversion",
+        "hm_code",
+        "rsid"
+      ],
+      "retrieved_utc": "2026-08-26T22:59:25Z",
+      "seconds": 5.47,
+      "accession": "GCST90179146"
+    },
+    "eqtl_retrieval": {
+      "bytes": 3671276,
+      "requests": 3,
+      "data_url": "https://ftp.ebi.ac.uk/pub/databases/spot/eQTL/sumstats/QTS000015/QTD000266/QTD000266.all.tsv.gz",
+      "tbi_url": "https://ftp.ebi.ac.uk/pub/databases/spot/eQTL/sumstats/QTS000015/QTD000266/QTD000266.all.tsv.gz.tbi",
+      "head_status": 200,
+      "accept_ranges": "bytes",
+      "data_file_total_bytes": 2906926368,
+      "status_codes": [
+        206,
+        206
+      ],
+      "data_is_bgzf": true,
+      "first_block_size": 11126,
+      "probe_status": 206,
+      "tbi_bytes": 2112225,
+      "tbi_n_ref": 23,
+      "tbi_names_head": [
+        "1",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "tbi_cols_seq_beg_end": [
+        2,
+        3,
+        3
+      ],
+      "chrom_used": "1",
+      "n_chunks": 1,
+      "byte_span": [
+        159657172,
+        161216204
+      ],
+      "blocks_decompressed": 168,
+      "uncompressed_bytes": 10967040,
+      "rows": 64557,
+      "pct_of_file_transferred": 0.126294,
+      "retrieved_utc": "2026-08-26T22:59:30Z",
+      "seconds": 4.15,
+      "dataset": "QTD000266 GTEx_v10 liver ge (eQTL Catalogue R8)",
+      "rows_all_traits": 64557,
+      "rows_this_gene": 839
+    },
+    "build_check": {
+      "eqtl_variant_id_matches_pos_ref_alt": "200/200",
+      "gwas_file_is_harmonised_GRCh38": true,
+      "gene_assembly": "GRCh38",
+      "kg_panel_build": "GRCh38 (1kGP high coverage phased panel)"
+    },
+    "harmonization": {
+      "eqtl_variants": 839,
+      "gwas_variants": 581,
+      "position_matched": 546,
+      "aligned_same": 546,
+      "aligned_flipped": 0,
+      "strand_flipped": 0,
+      "allele_mismatch": 0,
+      "indel_or_multiallelic": 0,
+      "ambiguous_total": 0,
+      "ambiguous_resolved": 0,
+      "ambiguous_unresolved": 0,
+      "missing_stats": 0,
+      "harmonized": 546
+    },
+    "ld_retrieval": {
+      "bytes": 3486224,
+      "requests": 3,
+      "data_url": "https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/1000G_2504_high_coverage/working/20220422_3202_phased_SNV_INDEL_SV/1kGP_high_coverage_Illumina.chr1.filtered.SNV_INDEL_SV_phased_panel.vcf.gz",
+      "tbi_url": "https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/1000G_2504_high_coverage/working/20220422_3202_phased_SNV_INDEL_SV/1kGP_high_coverage_Illumina.chr1.filtered.SNV_INDEL_SV_phased_panel.vcf.gz.tbi",
+      "head_status": 200,
+      "accept_ranges": "bytes",
+      "data_file_total_bytes": 2390515911,
+      "status_codes": [
+        206,
+        206
+      ],
+      "data_is_bgzf": true,
+      "first_block_size": 10226,
+      "probe_status": 206,
+      "tbi_bytes": 228701,
+      "tbi_n_ref": 1,
+      "tbi_names_head": [
+        "chr1"
+      ],
+      "tbi_cols_seq_beg_end": [
+        1,
+        2,
+        0
+      ],
+      "chrom_used": "chr1",
+      "n_chunks": 1,
+      "byte_span": [
+        1390438771,
+        1393434131
+      ],
+      "blocks_decompressed": 1457,
+      "uncompressed_bytes": 95112960,
+      "rows": 6382,
+      "pct_of_file_transferred": 0.13487,
+      "retrieved_utc": "2026-08-26T23:00:05Z",
+      "seconds": 35.35,
+      "n_eur_unrelated_samples": 525,
+      "n_biallelic_snps_in_panel_window": 5398
+    },
+    "instruments": {
+      "threshold": 5e-08,
+      "n_candidates_before_clumping": 0,
+      "n_after_clumping": 0,
+      "clump_r2": 0.01,
+      "n_dropped_by_ld": 0,
+      "min_eqtl_p_in_window": 0.00643959,
+      "min_eqtl_p_variant": "chr1_154408010_G_A",
+      "min_eqtl_p_rsid": "rs6427641",
+      "F_of_best_variant": 7.588
+    },
+    "instrument_strength": null,
+    "mr": {
+      "status": "NOT COMPUTABLE - zero instruments at p<5e-08"
+    },
+    "coloc": {
+      "n_variants": 546,
+      "PP0": 0.0,
+      "PP1": 0.0,
+      "PP2": 0.9017900798099013,
+      "PP3": 0.0361404531849444,
+      "PP4": 0.06206946700515737
+    },
+    "pass_criteria": {
+      "1_eGene_FDR005": false,
+      "2_ge1_instrument": false,
+      "3_F_ge_10": false,
+      "4_MR_p_lt_005": false,
+      "5_direction_matches": false
+    },
+    "VERDICT": "FAIL",
+    "finished_utc": "2026-08-26T23:00:05Z"
+  }
+]

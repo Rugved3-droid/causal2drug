@@ -1,0 +1,4 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+KLKB1	D011654	Pulmonary Edema	GCST90473722	DOWN	10	rs55975907	3.2717e-310	0.662081	0.010161	4246	0.0351931	0.0531042	aligned_same	564	0.0531552	0.080208	0.507511	POSITIVE	POSITIVE	YES	
+TBXAS1	D011654	Pulmonary Edema	GCST90473722	DOWN	12	rs2240395	4.7934e-268	-0.284525	0.00813432	1223	-0.084432	0.0420559	aligned_same	522	0.296748	0.147811	0.0446844	POSITIVE	POSITIVE	YES	
+TRPV4	D011654	Pulmonary Edema	GCST90473722	DOWN	2	rs7310287	1.2001e-49	0.26746	0.0180551	219.4	-0.0417279	0.0814019	aligned_same	72	-0.156015	0.304351	0.60822	NEGATIVE	POSITIVE	NO	

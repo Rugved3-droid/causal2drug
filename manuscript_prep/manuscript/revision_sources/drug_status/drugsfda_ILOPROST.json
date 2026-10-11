@@ -1,0 +1,622 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 3
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20260710",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA214997",
+      "sponsor_name": "REGCON HOLDINGS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ILOPROST",
+          "active_ingredients": [
+            {
+              "name": "ILOPROST",
+              "strength": "20MCG/ML (20MCG/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "INHALATION",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ILOPROST",
+          "active_ingredients": [
+            {
+              "name": "ILOPROST",
+              "strength": "10MCG/ML (10MCG/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "INHALATION",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240213",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "77496",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/217933Orig1s000ltr.pdf",
+              "date": "20240214",
+              "type": "Letter"
+            },
+            {
+              "id": "77503",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/217933s000lbl.pdf",
+              "date": "20240215",
+              "type": "Label"
+            },
+            {
+              "id": "80910",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/217933Orig1s000TOC.html",
+              "date": "20250204",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240514",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "78484",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/217933s001lbl.pdf",
+              "date": "20240515",
+              "type": "Label"
+            },
+            {
+              "id": "78508",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/217933Orig1s001ltr.pdf",
+              "date": "20240520",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA217933",
+      "sponsor_name": "BTG INTL",
+      "openfda": {
+        "application_number": [
+          "NDA217933"
+        ],
+        "brand_name": [
+          "AURLUMYN"
+        ],
+        "generic_name": [
+          "ILOPROST"
+        ],
+        "manufacturer_name": [
+          "BTG International Inc"
+        ],
+        "product_ndc": [
+          "50633-340"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ILOPROST"
+        ],
+        "rxcui": [
+          "2680303",
+          "2680309"
+        ],
+        "spl_id": [
+          "58f248cb-1255-2580-e063-6294a90a21b5"
+        ],
+        "spl_set_id": [
+          "34036fc0-6832-d066-e063-6394a90a18a4"
+        ],
+        "package_ndc": [
+          "50633-340-01"
+        ],
+        "nui": [
+          "N0000175603",
+          "M0017817"
+        ],
+        "pharm_class_epc": [
+          "Prostacycline [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Prostaglandins I [CS]"
+        ],
+        "unii": [
+          "JED5K35YGL"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "AURLUMYN",
+          "active_ingredients": [
+            {
+              "name": "ILOPROST",
+              "strength": "100MCG/ML (100MCG/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20171016",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "50069",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/021779s018lbl.pdf",
+              "date": "20171017",
+              "type": "Label"
+            },
+            {
+              "id": "50093",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/021779Orig1s018ltr.pdf",
+              "date": "20171018",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20090807",
+          "review_priority": "N/A",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "37636",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/021779s009lbl.pdf",
+              "date": "20090922",
+              "type": "Label"
+            },
+            {
+              "id": "21817",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2009/021779Orig1s009.pdf",
+              "date": "20111010",
+              "type": "Review"
+            },
+            {
+              "id": "28587",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/021779s009ltr.pdf",
+              "date": "20100127",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20150105",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20131125",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "37640",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021779s014lbl.pdf",
+              "date": "20131126",
+              "type": "Label"
+            },
+            {
+              "id": "28589",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/021779Orig1s014ltr_corrected.pdf",
+              "date": "20131125",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20110208",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "6173",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021779s012ltr.pdf",
+              "date": "20110214",
+              "type": "Letter"
+            },
+            {
+              "id": "37638",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021779s012lbl.pdf",
+              "date": "20110209",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20051208",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "28585",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/021779s003ltr.pdf",
+              "date": "20051215",
+              "type": "Letter"
+            },
+            {
+              "id": "37634",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/021779s003lbl.pdf",
+              "date": "20051215",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20050824",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "16358",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/021779s001,002lbl.pdf",
+              "date": "20050831",
+              "type": "Label"
+            },
+            {
+              "id": "28583",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/021779s001,002ltr.pdf",
+              "date": "20050831",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20100420",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "28588",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/021779s010ltr.pdf",
+              "date": "20100423",
+              "type": "Letter"
+            },
+            {
+              "id": "37637",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021779s010lbl.pdf",
+              "date": "20100503",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20191216",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "61316",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021779s019lbl.pdf",
+              "date": "20191217",
+              "type": "Label"
+            },
+            {
+              "id": "61338",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/021779Orig1s019ltr.pdf",
+              "date": "20191219",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20080922",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "37635",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/021779s008lbl.pdf",
+              "date": "20080925",
+              "type": "Label"
+            },
+            {
+              "id": "28586",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/021779s008ltr.pdf",
+              "date": "20080923",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20041229",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "37632",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2004/021779lbl.pdf",
+              "date": "20050111",
+              "type": "Label"
+            },
+            {
+              "id": "42306",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-779_Ventavis.html",
+              "date": "20050328",
+              "type": "Review"
+            },
+            {
+              "id": "6171",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/021779ltr.pdf",
+              "date": "20050111",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20141110",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20080304",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "6172",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/021779s006ltr.pdf",
+              "date": "20080307",
+              "type": "Letter"
+            },
+            {
+              "id": "16359",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/021779s006lbl.pdf",
+              "date": "20080305",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20220302",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "70382",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/021779Orig1s021ltr.pdf",
+              "date": "20220303",
+              "type": "Letter"
+            },
+            {
+              "id": "70389",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2022/021779s021lbl.pdf",
+              "date": "20220303",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20120426",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "6174",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/021779Orig1s013ltr.pdf",
+              "date": "20120502",
+              "type": "Letter"
+            },
+            {
+              "id": "37639",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021779s013lbl.pdf",
+              "date": "20120501",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20050824",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "37633",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/021779s001,002lbl.pdf",
+              "date": "20050831",
+              "type": "Label"
+            },
+            {
+              "id": "28584",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/021779s001,002ltr.pdf",
+              "date": "20050831",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA021779",
+      "sponsor_name": "ACTELION",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "VENTAVIS",
+          "active_ingredients": [
+            {
+              "name": "ILOPROST",
+              "strength": "10MCG/ML (10MCG/ML) **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INHALATION",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "VENTAVIS",
+          "active_ingredients": [
+            {
+              "name": "ILOPROST",
+              "strength": "20MCG/ML (20MCG/ML) **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INHALATION",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "VENTAVIS",
+          "active_ingredients": [
+            {
+              "name": "ILOPROST",
+              "strength": "20MCG/2ML (10MCG/ML) **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INHALATION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

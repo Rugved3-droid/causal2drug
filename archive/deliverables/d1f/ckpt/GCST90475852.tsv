@@ -1,0 +1,25 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+ANGPT2	D008268	Macular Degeneration	GCST90475852	DOWN	2									0							no_overlap_after_harmonization
+BCL2	D008268	Macular Degeneration	GCST90475852	DOWN	2									0							no_overlap_after_harmonization
+BCL2L1	D008268	Macular Degeneration	GCST90475852	DOWN	1									0							no_overlap_after_harmonization
+C5	D008268	Macular Degeneration	GCST90475852	DOWN	15									0							no_overlap_after_harmonization
+C5AR1	D008268	Macular Degeneration	GCST90475852	DOWN	2									0							no_overlap_after_harmonization
+FLT1	D008268	Macular Degeneration	GCST90475852	DOWN	4									0							no_overlap_after_harmonization
+FLT4	D008268	Macular Degeneration	GCST90475852	DOWN	2									0							no_overlap_after_harmonization
+KRAS	D008268	Macular Degeneration	GCST90475852	DOWN	2									0							no_overlap_after_harmonization
+MASP2	D008268	Macular Degeneration	GCST90475852	DOWN	1									0							no_overlap_after_harmonization
+MIF	D008268	Macular Degeneration	GCST90475852	DOWN	4									0							no_overlap_after_harmonization
+NFE2L2	D008268	Macular Degeneration	GCST90475852	UP	2									0							no_overlap_after_harmonization
+PARP1	D008268	Macular Degeneration	GCST90475852	DOWN	5									0							no_overlap_after_harmonization
+PGF	D008268	Macular Degeneration	GCST90475852	DOWN	1									0							no_overlap_after_harmonization
+PIK3CA	D008268	Macular Degeneration	GCST90475852	DOWN	1									0							no_overlap_after_harmonization
+PPARA	D008268	Macular Degeneration	GCST90475852	UP	3									0							no_overlap_after_harmonization
+PTGS1	D008268	Macular Degeneration	GCST90475852	DOWN	2									0							no_overlap_after_harmonization
+PTGS2	D008268	Macular Degeneration	GCST90475852	DOWN	2									0							no_overlap_after_harmonization
+ROCK2	D008268	Macular Degeneration	GCST90475852	DOWN	1									0							no_overlap_after_harmonization
+SRC	D008268	Macular Degeneration	GCST90475852	DOWN	2									0							no_overlap_after_harmonization
+SYK	D008268	Macular Degeneration	GCST90475852	DOWN	11									0							no_overlap_after_harmonization
+TEK	D008268	Macular Degeneration	GCST90475852	DOWN	11									0							no_overlap_after_harmonization
+TNF	D008268	Macular Degeneration	GCST90475852	DOWN	3									0							no_overlap_after_harmonization
+TRPV1	D008268	Macular Degeneration	GCST90475852	UP	1									0							no_overlap_after_harmonization
+VEGFA	D008268	Macular Degeneration	GCST90475852	DOWN	5									0							no_overlap_after_harmonization

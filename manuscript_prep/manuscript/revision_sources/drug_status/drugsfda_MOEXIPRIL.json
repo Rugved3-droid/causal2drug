@@ -1,0 +1,1499 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 10
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19980121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20120119",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3220",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020312s034,020729s025ltr.pdf",
+              "date": "20120123",
+              "type": "Letter"
+            },
+            {
+              "id": "35245",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020729s025lbl.pdf",
+              "date": "20120123",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20110519",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "35244",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020729s023lbl.pdf",
+              "date": "20110523",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20100113",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "25650",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/020729s021ltr.pdf",
+              "date": "20100115",
+              "type": "Letter"
+            },
+            {
+              "id": "35243",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/020729s021lbl.pdf",
+              "date": "20100120",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20010924",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20010112",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20000405",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19990422",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19971118",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19970627",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 4",
+          "submission_class_code_description": "Type 4 - New Combination"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20120913",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "25652",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020729Orig1s026ltr.pdf",
+              "date": "20120917",
+              "type": "Letter"
+            },
+            {
+              "id": "35246",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020729s026lbl.pdf",
+              "date": "20120914",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20110823",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "13305",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020729s024lbl.pdf",
+              "date": "20110902",
+              "type": "Label"
+            },
+            {
+              "id": "25651",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/020729s024ltr.pdf",
+              "date": "20110826",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20031029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "25649",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20312slr012,20312slr024ltr.pdf",
+              "date": "20031125",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20001222",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20020214",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20885",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/020729_S010_UNIRETIC.pdf",
+              "date": "20070926",
+              "type": "Review"
+            },
+            {
+              "id": "3219",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20729s10ltr.pdf",
+              "date": "20020214",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20000510",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19991029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA020729",
+      "sponsor_name": "UCB INC",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "UNIRETIC",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            },
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "15MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "UNIRETIC",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "15MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "UNIRETIC",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "7.5MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20100917",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20080602",
+          "application_docs": [
+            {
+              "id": "44385",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm102981.htm",
+              "date": "20080701",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20150302",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA078454",
+      "sponsor_name": "APOTEX INC",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "MOEXIPRIL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "7.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "MOEXIPRIL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20200820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20131213",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20111031",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20110629",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20110629",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20070307"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20131213",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076980",
+      "sponsor_name": "TEVA",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "MOEXIPRIL HYDROCHLORIDE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            },
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "MOEXIPRIL HYDROCHLORIDE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "MOEXIPRIL HYDROCHLORIDE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "7.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20131213",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20111129",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20100317"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20200820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20131213",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20110726",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA090718",
+      "sponsor_name": "GLENMARK PHARMS",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "MOEXIPRIL HYDROCHLORIDE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            },
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "MOEXIPRIL HYDROCHLORIDE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "7.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "MOEXIPRIL HYDROCHLORIDE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20150302",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20150302",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20111129",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20100330"
+        }
+      ],
+      "application_number": "ANDA090416",
+      "sponsor_name": "GLENMARK PHARMS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA090416"
+        ],
+        "brand_name": [
+          "MOEXIPRIL HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "MOEXIPRIL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Glenmark Pharmaceuticals Inc., USA"
+        ],
+        "product_ndc": [
+          "68462-208",
+          "68462-209"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "MOEXIPRIL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1299896",
+          "1299897"
+        ],
+        "spl_id": [
+          "66bb1c8f-1f66-4834-86a3-a387d076aa22"
+        ],
+        "spl_set_id": [
+          "baac91ad-f8ee-4694-89f8-5c47a8eda39a"
+        ],
+        "package_ndc": [
+          "68462-209-90",
+          "68462-209-01",
+          "68462-209-10",
+          "68462-208-90",
+          "68462-208-01",
+          "68462-208-10"
+        ],
+        "unii": [
+          "Q1UMG3UH45"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "MOEXIPRIL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "7.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "MOEXIPRIL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20080925",
+          "application_docs": [
+            {
+              "id": "23937",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm102981.htm",
+              "date": "20081113",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20131213",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20200820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA090096",
+      "sponsor_name": "CHARTWELL RX",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "MOEXIPRIL HYDROCHLORIDE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            },
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "MOEXIPRIL HYDROCHLORIDE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "7.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "MOEXIPRIL HYDROCHLORIDE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20150402",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20111115",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20030508",
+          "application_docs": [
+            {
+              "id": "22548",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/076204.pdf",
+              "date": "20050722",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20100831",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20150402",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076204",
+      "sponsor_name": "TEVA",
+      "openfda": {
+        "application_number": [
+          "ANDA076204"
+        ],
+        "brand_name": [
+          "MOEXIPRIL HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "MOEXIPRIL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "0093-0017",
+          "0093-5150"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "MOEXIPRIL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1299896",
+          "1299897"
+        ],
+        "spl_id": [
+          "2c29e2eb-8956-4fb2-a371-57466c82f348"
+        ],
+        "spl_set_id": [
+          "5d4078f3-b621-475f-a4e6-005de2e62b32"
+        ],
+        "package_ndc": [
+          "0093-0017-01",
+          "0093-5150-01"
+        ],
+        "unii": [
+          "Q1UMG3UH45"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "MOEXIPRIL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "7.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "MOEXIPRIL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20061130",
+          "application_docs": [
+            {
+              "id": "44355",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm102981.htm",
+              "date": "20061218",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA077536",
+      "sponsor_name": "CHARTWELL RX",
+      "openfda": {
+        "application_number": [
+          "ANDA077536"
+        ],
+        "brand_name": [
+          "MOEXIPRIL HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "MOEXIPRIL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Chartwell RX, LLC"
+        ],
+        "product_ndc": [
+          "62135-967",
+          "62135-969"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "MOEXIPRIL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1299896",
+          "1299897"
+        ],
+        "spl_id": [
+          "3001c14d-1545-86fb-e063-6294a90a035f"
+        ],
+        "spl_set_id": [
+          "5c24072c-9769-4cb5-b8da-bf814d21391d"
+        ],
+        "package_ndc": [
+          "62135-967-90",
+          "62135-969-90"
+        ],
+        "unii": [
+          "Q1UMG3UH45"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "MOEXIPRIL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "MOEXIPRIL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "7.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20200820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140307"
+        }
+      ],
+      "application_number": "ANDA202150",
+      "sponsor_name": "HERITAGE",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "MOEXIPRIL HYDROCHLORIDE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "MOEXIPRIL HYDROCHLORIDE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            },
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "15MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "MOEXIPRIL HYDROCHLORIDE AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            },
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "7.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20011002",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "19980903",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20031029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2323",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20312slr012,20312slr024ltr.pdf",
+              "date": "20031125",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20010411",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2322",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/20312S16ltr.pdf",
+              "date": "20010411",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19960903",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20000202",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19960117",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "19991029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19951018",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "19980408",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "20120914",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12438",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020312s035lbl.pdf",
+              "date": "20120918",
+              "type": "Label"
+            },
+            {
+              "id": "24764",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020312Orig1s035ltr.pdf",
+              "date": "20120918",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20021209",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "33",
+          "submission_status": "AP",
+          "submission_status_date": "20110823",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12436",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020312s033lbl.pdf",
+              "date": "20110902",
+              "type": "Label"
+            },
+            {
+              "id": "24763",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/020312s033ltr.pdf",
+              "date": "20110826",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20010924",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "20100113",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12435",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/020312s031lbl.pdf",
+              "date": "20100129",
+              "type": "Label"
+            },
+            {
+              "id": "24762",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/020312s031ltr.pdf",
+              "date": "20100115",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "19961108",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19950419",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "41278",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/20-312_Moexipril_Univasc.pdf",
+              "date": "20020913",
+              "type": "Review"
+            },
+            {
+              "id": "57395",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/020312Orig1s000rev.pdf",
+              "date": "19950419",
+              "type": "Review"
+            },
+            {
+              "id": "23575",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm102981.htm",
+              "date": "20060609",
+              "type": "Other Important Information from FDA"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20010328",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19960709",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20000718",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19951018",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "19990211",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19951018",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "34",
+          "submission_status": "AP",
+          "submission_status_date": "20120119",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12437",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020312s034lbl.pdf",
+              "date": "20120123",
+              "type": "Label"
+            },
+            {
+              "id": "2324",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020312s034,020729s025ltr.pdf",
+              "date": "20120123",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020312",
+      "sponsor_name": "UCB INC",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "UNIVASC",
+          "active_ingredients": [
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "15MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "UNIVASC",
+          "active_ingredients": [
+            {
+              "name": "MOEXIPRIL HYDROCHLORIDE",
+              "strength": "7.5MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

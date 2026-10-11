@@ -1,0 +1,10 @@
+header: Pvalue	SNP	SNPChr	SNPPos	AssessedAllele	OtherAllele	Zscore	Gene	GeneSymbol	GeneChr	GenePos	NrCohorts	NrSamples	FDR	BonferroniP
+data_rows: 127341798
+rows_with_ENSG00000169174: 0
+rows_with_GeneSymbol_PCSK9: 0
+rows_PCSK4: 9510
+rows_PCSK5: 8583
+rows_PCSK6: 6525
+rows_PCSK7: 8377
+rows_HMGCR: 6719
+rows_IL6R: 4457

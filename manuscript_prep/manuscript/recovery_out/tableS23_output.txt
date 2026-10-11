@@ -1,0 +1,12 @@
+[S23] named targets 11; with a matching GTEx tissue 9; with a candidate instrument in a matching tissue 1 (AGTR1)
+[S23] AGTR1   Artery Aorta (n=387): no; Artery Coronary (n=213): no; Artery Tibial (n=584): YES, lead P 2.97×10⁻¹⁴; Adrenal Gland (n=233): no; Kidney Cortex (n=73): no
+[S23] ANGPTL3 Liver (n=208): no
+[S23] APOB    Liver (n=208): no
+[S23] APOC3   Liver (n=208): no
+[S23] AVPR2   Kidney Cortex (n=73): no
+[S23] F2      No matching GTEx tissue
+[S23] PCSK9   Liver (n=208): no
+[S23] REN     Kidney Cortex (n=73): no
+[S23] SLC5A1  Small Intestine Terminal Ileum (n=174): no; Colon Transverse (n=368): no; Colon Sigmoid (n=318): no
+[S23] ITGA2B  No matching GTEx tissue
+[S23] NPC1L1  Small Intestine Terminal Ileum (n=174): no

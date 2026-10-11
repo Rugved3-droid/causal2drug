@@ -1,0 +1,3 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+TRPV1	D016584	Panic Disorder	GCST90225525	UP	1	rs222741	2.9171e-19	0.0818535	0.00912322	80.5	0.000170375	0.0001453	aligned_flipped	28	0.00208146	0.00177512	0.240967	POSITIVE	NEGATIVE	NO	
+TSPO	D016584	Panic Disorder	GCST90225525	UP	7	rs739092	2.8742e-200	-0.29096	0.00963647	911.7	-0.000168996	0.000145038	aligned_same	209	0.000580823	0.000498482	0.243944	POSITIVE	NEGATIVE	NO	

@@ -1,0 +1,4 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+DHFR	D008288	Malaria	GCST90473091	DOWN	9	rs1478834	3.2717e-310	-0.855289	0.0173954	2417	-0.0603671	0.0585751	aligned_same	576	0.0705809	0.0684857	0.302732	POSITIVE	POSITIVE	YES	
+EEF2	D008288	Malaria	GCST90473091	DOWN	2	rs72976912	5.4668e-47	-0.481429	0.0334419	207.2	-0.17573	0.156803	aligned_same	131	0.365017	0.325703	0.262413	POSITIVE	POSITIVE	YES	
+ERBB2	D008288	Malaria	GCST90473091	DOWN	2	rs903506	3.6755e-16	0.0686646	0.00842614	66.41	0.0106816	0.0555737	aligned_flipped	110	0.155562	0.80935	0.847581	POSITIVE	POSITIVE	YES	

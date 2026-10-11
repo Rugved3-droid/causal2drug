@@ -1,0 +1,291 @@
+﻿
+==============================================================================
+[V01] FLOW: raw pp.tsv -> dedup by ti_uid -> drop 4 conflicting programs
+==============================================================================
+raw data rows                         : 29476
+distinct ti_uid                       : 29460
+after dropping 4 conflicting programs : 29456
+rows removed in total                 : 20
+   dropped DAO-D022124        present=True rows=2 ccat values=['Phase III', 'Preclinical']
+   dropped HRH1-D000086382    present=True rows=2 ccat values=['Launched', 'Phase II']
+   dropped IFNAR2-D012141     present=True rows=2 ccat values=['Launched', 'Phase II']
+   dropped MC1R-D010787       present=True rows=2 ccat values=['Phase II', 'Phase III']
+pp_dedup_frozen.tsv data rows         : 29456
+pp_dedup_frozen.tsv sha256            : 5cb7b8015bdc4756f98e55ac787d04d00c3e8a733fb62762cfdac96ad56c153c
+frozen ti_uid set == recomputed set   : True
+distinct genes / MeSH indications     : 2517 / 1014
+pp.tsv sha1                           : d8490008afbb178c2a7004a1d9eba8e423d2431a
+
+==============================================================================
+[V02] CV SET: CV-PRIMARY (MeSH C14) and CV-EXTENDED (+ 8 lipid/athero tokens)
+==============================================================================
+frozen indications with no top-level mapping: 0
+CV-PRIMARY  pairs 1364  targets 594  indications 37
+CV-EXTENDED pairs 1543  targets 630  indications 44  (+36 targets)
+indications added by the token rule (7): Dyslipidemias; Hypercholesterolemia; Hyperlipidemias; Hyperlipoproteinemia Type I; Hyperlipoproteinemia Type II; Hypertriglyceridemia; Hypoalphalipoproteinemias
+PCSK9 in CV-PRIMARY: True ; in CV-EXTENDED: True
+
+==============================================================================
+[V03] STATE / CLASS per CV target, recomputed from d1e/classA_annotation.tsv
+==============================================================================
+genome-wide (all 2517 Minikel targets): {'INSTRUMENTED': 1576, 'ABSENT': 652, 'TESTED_NULL': 229, 'UNMAPPED': 60}
+   + targets in frozen set not in annotation: 0
+  ABSENT         177  28.1% of 630
+  TESTED_NULL     55  8.7% of 630
+  INSTRUMENTED   386  61.3% of 630
+  UNMAPPED        12  1.9% of 630
+  CLASS_A        232  36.8%
+  CLASS_B          1  0.2%  (assigned by name: IL6R only)
+  CLASS_A as % of MAPPED targets (618): 37.5%
+  CLASS_A + CLASS_B: 233  37.0%
+  UNMAPPED genes: ACE, ANGPTL8, CCN1, FIGNL2, GRK2, GUCY1A1, GUCY1B1, ITGB3, MIR29B1, MIR92A1, TLR9, VEGFD
+
+shipped atlas rows: 630, columns: 25
+atlas rows disagreeing with recomputation (state/class/max phase): 0
+atlas genes == recomputed CV-EXTENDED genes: True
+  sha256 cv             cardiovascular_atlas.csv   54443cc9076181cdf1cc2e60efcd39ebcd4976a5645523a572cc8925c59636ed
+  sha256 cv             classB_upper_bound.csv     682d735099882eed108c1396b964360e4fc2bcdac813d1d44abd3ad5a67507d7
+  sha256 supplementary  cardiovascular_atlas.csv   54443cc9076181cdf1cc2e60efcd39ebcd4976a5645523a572cc8925c59636ed
+  sha256 supplementary  classB_upper_bound.csv     682d735099882eed108c1396b964360e4fc2bcdac813d1d44abd3ad5a67507d7
+
+==============================================================================
+[V04] CLASS x HIGHEST PHASE REACHED (target level; phase = max ccatnum over the target's CV-EXTENDED pairs)
+==============================================================================
+phase             ABSENT TESTED_NULL     CLASS_A INSTR_other     CLASS_B    UNMAPPED         ALL   classA_%_of_phase
+Preclinical           84          28         112         182           0           3         297   37.7%
+Phase I               22           7          29          57           0           4          90   32.2%
+Phase II              44           8          52          87           0           1         140   37.1%
+Phase III              9           9          18          32           1           0          51   35.3%
+Launched              18           3          21          27           0           4          52   40.4%
+TOTAL                177          55         232         385           1          12         630   36.8%
+raw ccat labels among CV-EXTENDED pairs: {('4', 'Phase III'): 109, ('1', 'Preclinical'): 813, ('2', 'Phase I'): 210, ('3', 'Phase II'): 314, ('5', 'Launched'): 97}
+CV-EXTENDED pairs with non-numeric ccatnum: 0
+descriptive only: chi-square ClassA-vs-instrumented across phases: chi2=1.47 dof=4 p=0.831
+
+==============================================================================
+[V05] HOOK: launched / Phase III CV targets by class
+==============================================================================
+LAUNCHED: N=52  {'ABSENT': 18, 'INSTR_other': 27, 'TESTED_NULL': 3, 'UNMAPPED': 4}
+   CLASS_A = 21  -> 40.4% of all 52 ; 43.8% of the 48 mapped
+   ABSENT only = 18 -> 34.6% of all
+   CLASS_A beyond PCSK9 = 20 -> 38.5% of all 52 launched
+   ABSENT beyond PCSK9  = 17
+   CLASS_A + CLASS_B(IL6R launched? False)
+   unmapped genes: ['ACE', 'GUCY1A1', 'GUCY1B1', 'ITGB3']
+PHASE III: N=51  {'INSTR_other': 32, 'ABSENT': 9, 'TESTED_NULL': 9, 'CLASS_B': 1}
+   CLASS_A = 18  -> 35.3% of all 51 ; 35.3% of the 51 mapped
+   ABSENT only = 9 -> 17.6% of all
+   unmapped genes: []
+PHASE III or LAUNCHED: N=103  {'ABSENT': 27, 'INSTR_other': 59, 'TESTED_NULL': 12, 'UNMAPPED': 4, 'CLASS_B': 1}
+   CLASS_A = 39  -> 37.9% of all 103 ; 39.4% of the 99 mapped
+   ABSENT only = 27 -> 26.2% of all
+   unmapped genes: ['ACE', 'GUCY1A1', 'GUCY1B1', 'ITGB3']
+IL6R max CV phase: Phase III
+CV-PRIMARY: launched targets 44, CLASS_A 17 (38.6%); not in CV-PRIMARY launched Class A but in EXTENDED: ['ANGPTL3', 'APOB', 'APOC3', 'NPC1L1']
+  ADRA1A   Launched  CLASS_A ABSENT       agent=Prazosin             yr=2014       h|a=Launched|Launched
+        CV indications at max phase (1): Hypotension
+  ADRA1B   Launched  CLASS_A ABSENT       agent=Prazosin             yr=2019       h|a=Launched|Launched
+        CV indications at max phase (1): Hypotension
+  ADRA1D   Launched  CLASS_A ABSENT       agent=Prazosin             yr=2019       h|a=Launched|Launched
+        CV indications at max phase (1): Hypotension
+  ADRA2B   Launched  CLASS_A ABSENT       agent=not in Open Targets  yr=           h|a=Launched|Launched
+        CV indications at max phase (1): Hypertension
+  ADRA2C   Launched  CLASS_A ABSENT       agent=Clonidine            yr=           h|a=Launched|Launched
+        CV indications at max phase (1): Hypertension
+  AGT      Launched  CLASS_A ABSENT       agent=Gsk-2586881          yr=           h|a=Launched|Launched
+        CV indications at max phase (2): Hypertension; Hypotension
+  AGTR1    Launched  CLASS_A ABSENT       agent=Losartan             yr=           h|a=Launched|Launched
+        CV indications at max phase (2): Heart Failure; Hypertension
+  ANGPTL3  Launched  CLASS_A ABSENT       agent=Evinacumab           yr=2021       h|a=Launched|Launched
+        CV indications at max phase (1): Hyperlipoproteinemia Type II
+  APOB     Launched  CLASS_A ABSENT       agent=Mipomersen           yr=           h|a=Launched|Launched
+        CV indications at max phase (1): Hyperlipoproteinemia Type II
+  APOC3    Launched  CLASS_A ABSENT       agent=Olezarsen            yr=           h|a=Launched|Launched
+        CV indications at max phase (2): Hyperlipoproteinemia Type I; Hypertriglyceridemia
+  EDNRA    Launched  CLASS_A ABSENT       agent=Bosentan             yr=           h|a=Launched|Launched
+        CV indications at max phase (1): Hypertension, Pulmonary
+  EDNRB    Launched  CLASS_A ABSENT       agent=Bosentan             yr=2015       h|a=Launched|Launched
+        CV indications at max phase (3): Brain Ischemia; Hypertension, Pulmonary; Stroke
+  F2       Launched  CLASS_A ABSENT       agent=Desirudin            yr=2011; 2021 h|a=Launched|Launched
+        CV indications at max phase (6): Brain Ischemia; Pulmonary Embolism; Stroke; Thrombosis; Venous Insufficiency; Venous Thrombosis
+  IL1B     Launched  CLASS_A TESTED_NULL  agent=Rilonacept           yr=           h|a=Launched|Launched
+        CV indications at max phase (1): Atherosclerosis
+  ITGA2B   Launched  CLASS_A TESTED_NULL  agent=Abciximab            yr=2013       h|a=Launched|Launched
+        CV indications at max phase (2): Coronary Restenosis; Coronary Thrombosis
+  NPC1L1   Launched  CLASS_A TESTED_NULL  agent=Ezetimibe            yr=           h|a=Launched|Launched
+        CV indications at max phase (1): Dyslipidemias
+  PCSK9    Launched  CLASS_A ABSENT       agent=Alirocumab           yr=2018; 2019 h|a=Launched|Launched
+        CV indications at max phase (4): Atherosclerosis; Hypercholesterolemia; Hyperlipidemias; Hyperlipoproteinemia Type II
+  PLG      Launched  CLASS_A ABSENT       agent=Aprotinin            yr=           h|a=Launched|Launched
+        CV indications at max phase (1): Thrombosis
+  REN      Launched  CLASS_A ABSENT       agent=Aliskiren            yr=           h|a=Launched|Launched
+        CV indications at max phase (1): Hypertension
+  RXFP1    Launched  CLASS_A ABSENT       agent=Serelaxin            yr=           h|a=Launched|Launched
+        CV indications at max phase (1): Heart Failure
+  SLC5A1   Launched  CLASS_A ABSENT       agent=Sotagliflozin        yr=           h|a=Launched|Launched
+        CV indications at max phase (1): Heart Failure
+  ABCC8    Phase III CLASS_A ABSENT       agent=Glipizide            yr=           h|a=|Phase III
+        CV indications at max phase (2): Brain Ischemia; Stroke
+  APOA1    Phase III CLASS_A TESTED_NULL  agent=not in Open Targets  yr=           h|a=|Phase III
+        CV indications at max phase (1): Acute Coronary Syndrome
+  AVPR1A   Phase III CLASS_A ABSENT       agent=Lypressin            yr=           h|a=Phase III|
+        CV indications at max phase (1): Hypotension
+  AVPR2    Phase III CLASS_A ABSENT       agent=Lypressin            yr=           h|a=|Phase III
+        CV indications at max phase (1): Heart Failure
+  BRD4     Phase III CLASS_A TESTED_NULL  agent=Pelabresib           yr=           h|a=|Phase III
+        CV indications at max phase (1): Atherosclerosis
+  CNTFR    Phase III CLASS_A ABSENT       agent=not in Open Targets  yr=           h|a=|Phase III
+        CV indications at max phase (1): Retinal Telangiectasis
+  ENPEP    Phase III CLASS_A TESTED_NULL  agent=Firibastat           yr=           h|a=|Phase III
+        CV indications at max phase (1): Hypertension, Pulmonary
+  GRIN1    Phase III CLASS_A TESTED_NULL  agent=Ketamine             yr=           h|a=|Phase III
+        CV indications at max phase (2): Brain Ischemia; Stroke
+  HCN1     Phase III CLASS_A ABSENT       agent=not in Open Targets  yr=           h|a=Phase III|
+        CV indications at max phase (1): Heart Failure
+  HCN2     Phase III CLASS_A TESTED_NULL  agent=not in Open Targets  yr=           h|a=Phase III|
+        CV indications at max phase (1): Heart Failure
+  HCN4     Phase III CLASS_A ABSENT       agent=Ivabradine           yr=           h|a=Phase III|
+        CV indications at max phase (1): Heart Failure
+  IL17A    Phase III CLASS_A ABSENT       agent=Ixekizumab           yr=           h|a=|Phase III
+        CV indications at max phase (1): Vasculitis
+  IL6R     Phase III CLASS_B INSTRUMENTED agent=NOT IN table1        yr=           h|a=|Phase III
+        CV indications at max phase (1): Vasculitis
+  KIT      Phase III CLASS_A TESTED_NULL  agent=Imatinib             yr=           h|a=|Phase III
+        CV indications at max phase (1): Hypertension, Pulmonary
+  LPA      Phase III CLASS_A ABSENT       agent=Olpasiran            yr=           h|a=|Phase III
+        CV indications at max phase (2): Cardiovascular Diseases; Hyperlipidemias
+  PDE3A    Phase III CLASS_A TESTED_NULL  agent=Enoximone            yr=           h|a=Phase III|
+        CV indications at max phase (3): Brain Ischemia; Peripheral Vascular Diseases; Stroke
+  PDGFRA   Phase III CLASS_A TESTED_NULL  agent=Cediranib            yr=           h|a=|Phase III
+        CV indications at max phase (1): Hypertension, Pulmonary
+  SLC6A2   Phase III CLASS_A ABSENT       agent=Doxepin              yr=           h|a=Phase III|
+        CV indications at max phase (3): Brain Ischemia; Hypotension; Stroke
+  SLC6A4   Phase III CLASS_A TESTED_NULL  agent=Mazindol             yr=           h|a=Phase III|
+        CV indications at max phase (3): Brain Ischemia; Hypotension; Stroke
+table1 genes == recomputed Class A launched+PhIII genes: True
+table1 rows whose single listed indication is NOT the only CV indication at max phase: 13 of 39
+table1 rows with example_agent 'not in Open Targets': ['ADRA2B', 'APOA1', 'CNTFR', 'HCN1', 'HCN2']
+
+==============================================================================
+[V06] CLASS x CV INDICATION (MeSH term level - the only indication grouping that exists in the repo)
+==============================================================================
+distinct CV-EXTENDED MeSH indications: 44  (full table -> class_by_indication_mesh.csv)
+indication (top 30 by targets)                   N     A     A%   instr     L   L_A
+Brain Ischemia                                 173    65   37.6     106     4     2
+Stroke                                         173    65   37.6     106     4     2
+Cardiovascular Diseases                        170    57   33.5     110     1     0
+Heart Failure                                  151    62   41.1      84    10     3
+Atherosclerosis                                132    47   35.6      79     2     2
+Hypertension, Pulmonary                        105    37   35.2      66     6     2
+Hyperlipidemias                                 76    31   40.8      44     4     1
+Hypertension                                    66    31   47.0      34    10     5
+Thrombosis                                      58    21   36.2      36     6     2
+Peripheral Vascular Diseases                    56    19   33.9      34     2     0
+Hypercholesterolemia                            47    21   44.7      25     3     1
+Coronary Restenosis                             45    17   37.8      27     6     1
+Hypertriglyceridemia                            31    14   45.2      17     3     1
+Acute Coronary Syndrome                         28    10   35.7      16     1     0
+Vasculitis                                      26     6   23.1      20     2     0
+Cardiomyopathies                                22     6   27.3      16     0     0
+Retinal Vein Occlusion                          20     6   30.0      14     2     0
+Venous Thrombosis                               20     7   35.0      13     3     1
+Hypotension                                     16    12   75.0       4     4     4
+Hyperlipoproteinemia Type II                    12     6   50.0       6     3     3
+Pulmonary Embolism                              11     4   36.4       7     4     1
+Coronary Thrombosis                              9     2   22.2       6     4     1
+Endomyocardial Fibrosis                          9     2   22.2       6     0     0
+Cardiomyopathy, Hypertrophic                     9     3   33.3       6     0     0
+Dyslipidemias                                    7     3   42.9       4     3     1
+Raynaud Disease                                  6     2   33.3       2     0     0
+Vascular Diseases                                6     0    0.0       6     0     0
+Retinal Artery Occlusion                         6     0    0.0       6     0     0
+Optic Neuropathy, Ischemic                       6     2   33.3       4     0     0
+Venous Insufficiency                             6     2   33.3       4     5     1
+pair-level: CV-EXTENDED pairs whose target is Class A: 577 of 1543 (37.4%)
+pair-level: pairs whose target is INSTRUMENTED: 932
+any sub-area column (lipids/HF/arrhythmia/...) in atlas header: []
+
+==============================================================================
+[V07] CLASS A ENRICHMENT for tissue-restricted expression (from shipped atlas)
+==============================================================================
+2x2 [[ABSENT TR, ABSENT low],[INSTR TR, INSTR low]] = (156, 8, 253, 130)
+OR 10.020  95% CI [4.774, 21.029]  Fisher p 4.05e-15
+CV targets with tissue_restricted in YES/NO: 602 of 630
+  yield blood           386 / 630 = 61.3%
+  yield heart LV         45 / 630 = 7.1%
+  yield heart atrial     43 / 630 = 6.8%
+  yield artery aorta     55 / 630 = 8.7%
+  yield liver            31 / 630 = 4.9%
+  yield cardiac union   110 / 630 = 17.5%
+required modality, Class A: {'cardiac eQTL': 101, 'tissue eQTL': 50, 'liver eQTL': 35, 'vascular eQTL': 19, 'pQTL': 15, 'UNKNOWN': 12}
+Class A launched targets with heart LV TPM >= 1 -> labelled 'cardiac eQTL' while liver TPM is >10x higher:
+    AGT     heartLV 24.1  liver 312.6  phase Launched
+    AGTR1   heartLV 1.4  liver 28.2  phase Launched
+    APOA1   heartLV 17.6  liver 8481.3  phase Phase III
+    APOB    heartLV 1.8  liver 350.4  phase Launched
+
+==============================================================================
+[V08] POSITIVE CONTROLS
+==============================================================================
+-- Deliverable 1, GTEx v10 liver (d1/egene_status.json):
+   HMGCR  top nominal cis p = 0.00109037   eGene(FDR0.05) = False ; resource eGenes 2603 / 20540
+   PCSK9  top nominal cis p = 1.02726e-05  eGene(FDR0.05) = False ; resource eGenes 2603 / 20540
+   IL6R   top nominal cis p = 0.000596506  eGene(FDR0.05) = False ; resource eGenes 2603 / 20540
+-- Deliverable 1c, eQTLGen (d1c/d1c_summary.json):
+   HMGCR_LDL VERDICT=PASS  hits=277  n_indep=1 (rs6453133)
+      clump lead rs6453133 p_exp=1.2137e-50 F=224.0
+      MR lead rs6453133 lead_p_exposure=1.2137e-50 F=224.0  beta=0.38908 se=0.012040 p=4.24e-229  dir=POSITIVE expected=POSITIVE  overlap=276
+      pass flags: {'instrument_p_lt_5e-8': True, 'F_ge_10': True, 'mr_p_lt_0.05': True, 'direction_matches': True}
+   IL6R_CRP VERDICT=FAIL  hits=226  n_indep=2 (rs10908839,rs58229059)
+      clump lead rs10908839 p_exp=4.0915e-34 F=148.3
+      MR lead rs2229238 lead_p_exposure=4.2678e-31 F=134.5  beta=0.37616 se=0.023091 p=1.16e-59  dir=POSITIVE expected=NEGATIVE  overlap=167
+      pass flags: {'instrument_p_lt_5e-8': True, 'F_ge_10': True, 'mr_p_lt_0.05': True, 'direction_matches': False}
+   independent Wald recompute HMGCR_LDL: rows=276 lead(min p_exp in merge)=rs6453133 p_exp=1.2137e-50 F=224.0 -> beta=0.38908 se=0.012040 z=32.32 p=4.24e-229
+      harmonization: {'aligned_same': 276}
+      variants p_exp<1e-10: 255, positive Wald 255, negative 0
+   independent Wald recompute IL6R_CRP: rows=167 lead(min p_exp in merge)=rs2229238 p_exp=4.2678e-31 F=134.5 -> beta=0.37616 se=0.023091 z=16.29 p=1.16e-59
+      harmonization: {'aligned_flipped': 76, 'aligned_same': 91}
+      variants p_exp<1e-10: 102, positive Wald 94, negative 8
+-- atlas rows for the controls:
+   HMGCR  state=INSTRUMENTED class= n_indep=1 best_eqtl_p=1.2137e-50 maxphase=Launched blood_tpm=5.51336 liver_tpm=8.30724
+   IL6R   state=INSTRUMENTED class=CLASS_B n_indep=2 best_eqtl_p=4.0915e-34 maxphase=Phase III blood_tpm=60.1007 liver_tpm=38.7108
+   PCSK9  state=ABSENT class=CLASS_A n_indep= best_eqtl_p= maxphase=Launched blood_tpm=0.292035 liver_tpm=28.3131
+-- PCSK9 in d1b/eqtlgen_tested_universe.tsv: ENSG00000169174 False ; symbol token PCSK9 False
+   PCSK4/5/6/7 present: {'PCSK4': True, 'PCSK5': True, 'PCSK6': True, 'PCSK7': True}
+   (full raw-file scan: see pcsk9_scan.txt)
+
+==============================================================================
+[V09] CLASS C refutation test (d1h/part3_headtohead.tsv)
+==============================================================================
+loci attempted 60 ; paired 50 ; unpaired notes: {'gtex_too_few': 10}
+PP4 higher in eQTLGen 32 ; lower 18 ; ties 0
+median PP4 GTEx blood 0.00821 ; eQTLGen 0.01390
+median log10 difference (eQTLGen - GTEx): +0.0310
+Wilcoxon signed-rank on log10(PP4) diff: W=408.0 p=0.0262 (two-sided)
+exact binomial two-sided (32 of 50): p=0.0649
+median |lead z| eQTLGen 24.4 ; GTEx 3.6
+Spearman(log10 diff, eQTLGen |lead z|): rho=-0.455 p=0.00090
+max PP4 in either arm: eQTLGen 0.0910 ; GTEx 0.1423 ; loci with PP4>0.5 in either arm: 0
+distinct outcome GWAS among paired loci: 19
+paired loci whose gene is in the 630 CV atlas: 31 of 50
+
+==============================================================================
+[V10] METHOD AVAILABILITY (CV-restricted)
+==============================================================================
+R15 loci screened (all) 106 ; genome-wide sig on outcome side 6
+CV-atlas genes among R15 loci 65 ; outcome-significant 3 (ADORA1/Atrial Fibrillation, PPARG/Asthma, TNF/Asthma) ; with susie PP4 2 (ADORA1, PPARG)
+   of those 65 CV-gene loci, the locus's OWN indication is a CV-EXTENDED indication: 12
+Part C: qualifying pairs 1310 ; result rows 732 ; skipped accessions 70 ; pairs lost (sum n_pairs_lost) 578 ; lost (pairs not in results) 578 -> 44.1%
+   skip reasons recorded: {'plain_gzip_no_tbi_not_range_queryable': 70}
+CV Part C pairs 103 (targets 65) ; lost 57 (55.3%) ; accessions: {'GCST90044006': 23, 'GCST90029021': 10, 'GCST90080708': 15, 'GCST90043777': 9}
+CV-EXTENDED: pairs mappable to a EUR-only harmonised GWAS 448 ; accession in skip list 265 (59.2%) ; accession produced Part C results 181 ; accession NEVER PROBED in Part C 2
+CV-PRIMARY: pairs mappable to a EUR-only harmonised GWAS 401 ; accession in skip list 218 (54.4%) ; accession produced Part C results 181 ; accession NEVER PROBED in Part C 2
+
+==============================================================================
+[V11] CLASS B upper bound (cv/classB_upper_bound.csv)
+==============================================================================
+flagged rows 196 of 386 instrumented (50.8%) ; cv_relevant_trait True 62 (16.1%)
+instrumented launched 27 ; flagged any-trait 16 ; flagged CV-trait 6
+IL6R in bound file: True
+
+DONE

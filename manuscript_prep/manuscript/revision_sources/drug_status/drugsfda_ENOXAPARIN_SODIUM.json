@@ -1,0 +1,3824 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 13
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220614",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA214856",
+      "sponsor_name": "EMERGE BIOSCIENCE",
+      "openfda": {
+        "application_number": [
+          "ANDA214856"
+        ],
+        "brand_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "generic_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "BluePoint Laboratories",
+          "Meitheal Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "68001-641",
+          "71288-426"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS",
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "rxcui": [
+          "854255"
+        ],
+        "spl_id": [
+          "3f6241ed-b5ff-9869-e063-6294a90a0156",
+          "a4691de7-7504-48e7-ae54-a5441d5a002d",
+          "72e0f228-ca47-4296-bd53-7e5ca00eb922"
+        ],
+        "spl_set_id": [
+          "d978e06e-b758-460b-81d3-69f7a5b89b00",
+          "7d38c307-767f-4c38-ac0e-b8bb62782602",
+          "adfc2b23-00a5-4f05-a08b-83087e1e4843"
+        ],
+        "package_ndc": [
+          "68001-641-41",
+          "71288-426-03",
+          "71288-426-91"
+        ],
+        "unii": [
+          "8NZ41MIK1O"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "300MG/3ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20240626",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20200319",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20220728",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180928"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20240626",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA078990",
+      "sponsor_name": "GLAND",
+      "openfda": {
+        "application_number": [
+          "ANDA078990"
+        ],
+        "brand_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "generic_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Gland Pharma Limited",
+          "Fresenius Kabi USA, LLC"
+        ],
+        "product_ndc": [
+          "68083-634",
+          "68083-635",
+          "68083-636",
+          "68083-637",
+          "68083-638",
+          "68083-639",
+          "68083-640",
+          "63323-559",
+          "63323-564",
+          "63323-566",
+          "63323-584",
+          "63323-586"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "rxcui": [
+          "854228",
+          "854235",
+          "854238",
+          "854241",
+          "854245",
+          "854248",
+          "854252"
+        ],
+        "spl_id": [
+          "24d882c6-ad8c-488a-a3ab-810f5feb4025",
+          "2b6f0c59-240a-48ec-9cef-e55cc4b52274"
+        ],
+        "spl_set_id": [
+          "65025e0d-eb54-4c4e-bd14-f294ce038902",
+          "c3be543e-8aff-4311-bf77-e7a5a814ca6f"
+        ],
+        "package_ndc": [
+          "68083-634-10",
+          "68083-635-10",
+          "68083-636-10",
+          "68083-637-10",
+          "68083-638-10",
+          "68083-639-10",
+          "68083-640-10",
+          "63323-559-63",
+          "63323-559-65",
+          "63323-564-63",
+          "63323-564-65",
+          "63323-566-63",
+          "63323-566-65",
+          "63323-584-63",
+          "63323-584-65",
+          "63323-586-63",
+          "63323-586-65"
+        ],
+        "unii": [
+          "8NZ41MIK1O"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "40MG/0.4ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "150MG/ML (150MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "100MG/ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "60MG/0.6ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "30MG/0.3ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "120MG/0.8ML (150MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "80MG/0.8ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20260107",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA218775",
+      "sponsor_name": "HEBEI CHANGSHAN",
+      "openfda": {
+        "application_number": [
+          "ANDA218775"
+        ],
+        "brand_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "generic_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Hebei Changshan Biochemical Pharmaceutical Co., Ltd."
+        ],
+        "product_ndc": [
+          "28955-101",
+          "28955-102",
+          "28955-103",
+          "28955-104",
+          "28955-105",
+          "28955-106",
+          "28955-107"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "rxcui": [
+          "854228",
+          "854235",
+          "854238",
+          "854241",
+          "854245",
+          "854248",
+          "854252"
+        ],
+        "spl_id": [
+          "486592e2-4eef-525e-e063-6394a90a3048"
+        ],
+        "spl_set_id": [
+          "7fa78f8d-92d9-434a-8e26-b886ab0ae77f"
+        ],
+        "package_ndc": [
+          "28955-101-10",
+          "28955-102-10",
+          "28955-103-10",
+          "28955-104-10",
+          "28955-105-10",
+          "28955-106-10",
+          "28955-107-10"
+        ],
+        "unii": [
+          "8NZ41MIK1O"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "120MG/0.8ML (150MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "80MG/0.8ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "40MG/0.4ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "150MG/ML (150MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "100MG/ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "60MG/0.6ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "30MG/0.3ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "45",
+          "submission_status": "AP",
+          "submission_status_date": "20240614",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "20200618",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "41",
+          "submission_status": "AP",
+          "submission_status_date": "20221209",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20100723",
+          "application_docs": [
+            {
+              "id": "43131",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/2010/077857Orig1s000.pdf",
+              "date": "20130225",
+              "type": "Review"
+            },
+            {
+              "id": "9090",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/077857s000ltr.pdf",
+              "date": "20100723",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20110725",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20111031",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20131029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20111122",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20151228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077857",
+      "sponsor_name": "SANDOZ",
+      "openfda": {
+        "application_number": [
+          "ANDA077857"
+        ],
+        "brand_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "generic_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Sandoz Inc"
+        ],
+        "product_ndc": [
+          "0781-3238",
+          "0781-3246",
+          "0781-3256",
+          "0781-3262",
+          "0781-3268",
+          "0781-3298",
+          "0781-3299"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "rxcui": [
+          "854228",
+          "854235",
+          "854238",
+          "854241",
+          "854245",
+          "854248",
+          "854252"
+        ],
+        "spl_id": [
+          "82c50153-58b8-4c35-8fc2-1d9b3d3ac7de"
+        ],
+        "spl_set_id": [
+          "38f60bd8-b518-4098-a808-b8f5a3ae6a3a"
+        ],
+        "package_ndc": [
+          "0781-3238-01",
+          "0781-3238-63",
+          "0781-3246-02",
+          "0781-3246-64",
+          "0781-3256-03",
+          "0781-3256-66",
+          "0781-3262-04",
+          "0781-3262-68",
+          "0781-3268-05",
+          "0781-3268-69",
+          "0781-3298-04",
+          "0781-3298-68",
+          "0781-3299-05",
+          "0781-3299-69"
+        ],
+        "unii": [
+          "8NZ41MIK1O"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "120MG/0.8ML (150MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "60MG/0.6ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "30MG/0.3ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "150MG/ML (150MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "80MG/0.8ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "40MG/0.4ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "100MG/ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20201030",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20141024",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20221115",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20110919",
+          "application_docs": [
+            {
+              "id": "22578",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/2011/076684Orig1s000ChemR.pdf",
+              "date": "20120214",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20120824",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076684",
+      "sponsor_name": "AMPHASTAR PHARM",
+      "openfda": {
+        "application_number": [
+          "ANDA076684"
+        ],
+        "brand_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "generic_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Amphastar Pharmaceuticals, Inc.",
+          "BluePoint Laboratories"
+        ],
+        "product_ndc": [
+          "0548-5601",
+          "0548-5602",
+          "0548-5603",
+          "0548-5604",
+          "0548-5605",
+          "0548-5606",
+          "0548-5607",
+          "0548-5608",
+          "68001-457",
+          "68001-458",
+          "68001-459",
+          "68001-460",
+          "68001-461",
+          "68001-462",
+          "68001-463",
+          "68001-464"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "rxcui": [
+          "854228",
+          "854235",
+          "854238",
+          "854241",
+          "854245",
+          "854248",
+          "854252",
+          "854255"
+        ],
+        "spl_id": [
+          "2910408b-d506-4a3a-a2c8-64fc46ba0da0",
+          "018c897c-b446-14d9-e063-6294a90a35ce"
+        ],
+        "spl_set_id": [
+          "3e6bf2b3-9339-4104-bda3-ad86a1949703",
+          "9e2875df-0f0c-46ec-990f-69108f383f58"
+        ],
+        "package_ndc": [
+          "0548-5601-00",
+          "0548-5602-00",
+          "0548-5603-00",
+          "0548-5604-00",
+          "0548-5605-00",
+          "0548-5606-00",
+          "0548-5607-00",
+          "0548-5608-00",
+          "68001-457-43",
+          "68001-457-42",
+          "68001-458-43",
+          "68001-458-42",
+          "68001-459-43",
+          "68001-459-42",
+          "68001-460-43",
+          "68001-460-42",
+          "68001-461-43",
+          "68001-461-42",
+          "68001-462-43",
+          "68001-462-42",
+          "68001-463-43",
+          "68001-463-42",
+          "68001-464-41"
+        ],
+        "unii": [
+          "8NZ41MIK1O"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "150MG/ML (150MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "100MG/ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "60MG/0.6ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "30MG/0.3ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "120MG/0.8ML (150MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "80MG/0.8ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "40MG/0.4ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140623"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20200319",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20220912",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20160112",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076726",
+      "sponsor_name": "ZYDUS PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA076726"
+        ],
+        "brand_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "generic_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Italfarmaco SpA",
+          "Zydus Pharmaceuticals USA Inc."
+        ],
+        "product_ndc": [
+          "11797-757",
+          "11797-758",
+          "11797-759",
+          "11797-760",
+          "11797-761",
+          "11797-762",
+          "11797-763",
+          "70710-1757",
+          "70710-1758",
+          "70710-1759",
+          "70710-1760",
+          "70710-1761",
+          "70710-1762",
+          "70710-1763"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS",
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "rxcui": [
+          "854228",
+          "854235",
+          "854238",
+          "854241",
+          "854245",
+          "854248",
+          "854252"
+        ],
+        "spl_id": [
+          "3102514e-1702-4b7d-9d26-60e98488ffc3",
+          "2d7a790d-adee-4a6e-890f-21efba7fb79f"
+        ],
+        "spl_set_id": [
+          "b4d9e4d4-4fdb-48d6-a169-7bc5eebc51e9",
+          "d8afb29f-cbed-43bc-809f-09b30fca28f5"
+        ],
+        "package_ndc": [
+          "11797-757-02",
+          "11797-757-06",
+          "11797-758-02",
+          "11797-758-06",
+          "11797-759-02",
+          "11797-759-06",
+          "11797-760-02",
+          "11797-760-06",
+          "11797-761-02",
+          "11797-761-06",
+          "11797-762-02",
+          "11797-762-06",
+          "11797-763-02",
+          "11797-763-06",
+          "70710-1757-2",
+          "70710-1757-6",
+          "70710-1758-2",
+          "70710-1758-6",
+          "70710-1759-2",
+          "70710-1759-6",
+          "70710-1760-2",
+          "70710-1760-6",
+          "70710-1761-2",
+          "70710-1761-6",
+          "70710-1762-2",
+          "70710-1762-6",
+          "70710-1763-2",
+          "70710-1763-6"
+        ],
+        "unii": [
+          "8NZ41MIK1O"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "120MG/0.8ML (150MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "80MG/0.8ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "40MG/0.4ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "150MG/ML (150MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "100MG/ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "60MG/0.6ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "30MG/0.3ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230606",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA214646",
+      "sponsor_name": "BE PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA214646"
+        ],
+        "brand_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "generic_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "BE Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "71839-109",
+          "71839-110",
+          "71839-111",
+          "71839-112",
+          "71839-113",
+          "71839-115",
+          "71839-116"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "rxcui": [
+          "854228",
+          "854235",
+          "854238",
+          "854241",
+          "854245",
+          "854248",
+          "854252"
+        ],
+        "spl_id": [
+          "c0e38cb8-8aa0-439a-a879-1b54a81ec151"
+        ],
+        "spl_set_id": [
+          "b7197534-1daa-42de-8b83-a727da1195bf"
+        ],
+        "package_ndc": [
+          "71839-109-10",
+          "71839-110-10",
+          "71839-111-10",
+          "71839-112-10",
+          "71839-113-10",
+          "71839-115-10",
+          "71839-116-10"
+        ],
+        "unii": [
+          "8NZ41MIK1O"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "80MG/0.8ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "40MG/0.4ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "150MG/ML (150MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "100MG/ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "60MG/0.6ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "30MG/0.3ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "120MG/0.8ML (150MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190314",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20221115",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA208600",
+      "sponsor_name": "AMPHASTAR PHARMS INC",
+      "openfda": {
+        "application_number": [
+          "ANDA208600"
+        ],
+        "brand_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "generic_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Amphastar Pharmaceuticals, Inc.",
+          "BluePoint Laboratories"
+        ],
+        "product_ndc": [
+          "0548-5608",
+          "0548-5601",
+          "0548-5602",
+          "0548-5603",
+          "0548-5604",
+          "0548-5605",
+          "0548-5606",
+          "0548-5607",
+          "68001-464",
+          "68001-457",
+          "68001-458",
+          "68001-459",
+          "68001-460",
+          "68001-461",
+          "68001-462",
+          "68001-463"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS",
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "rxcui": [
+          "854228",
+          "854235",
+          "854238",
+          "854241",
+          "854245",
+          "854248",
+          "854252",
+          "854255"
+        ],
+        "spl_id": [
+          "2910408b-d506-4a3a-a2c8-64fc46ba0da0",
+          "018c897c-b446-14d9-e063-6294a90a35ce"
+        ],
+        "spl_set_id": [
+          "3e6bf2b3-9339-4104-bda3-ad86a1949703",
+          "9e2875df-0f0c-46ec-990f-69108f383f58"
+        ],
+        "package_ndc": [
+          "0548-5601-00",
+          "0548-5602-00",
+          "0548-5603-00",
+          "0548-5604-00",
+          "0548-5605-00",
+          "0548-5606-00",
+          "0548-5607-00",
+          "0548-5608-00",
+          "68001-457-43",
+          "68001-457-42",
+          "68001-458-43",
+          "68001-458-42",
+          "68001-459-43",
+          "68001-459-42",
+          "68001-460-43",
+          "68001-460-42",
+          "68001-461-43",
+          "68001-461-42",
+          "68001-462-43",
+          "68001-462-42",
+          "68001-463-43",
+          "68001-463-42",
+          "68001-464-41"
+        ],
+        "unii": [
+          "8NZ41MIK1O"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "300MG/3ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "103",
+          "submission_status": "AP",
+          "submission_status_date": "20130927",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "57",
+          "submission_status": "AP",
+          "submission_status_date": "20040518",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41199",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/020164_S057_LOVENOX INJECION_AP.pdf",
+              "date": "20070709",
+              "type": "Review"
+            },
+            {
+              "id": "2123",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/20164slr057ltr.pdf",
+              "date": "20040526",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "19980130",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41183",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20164S10_lovenox.html",
+              "date": "20030429",
+              "type": "Review"
+            },
+            {
+              "id": "2114",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20164S10_lovenox_approv.pdf",
+              "date": "20040608",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "63",
+          "submission_status": "AP",
+          "submission_status_date": "20050307",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2124",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/20164s063ltr.pdf",
+              "date": "20050310",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "101",
+          "submission_status": "AP",
+          "submission_status_date": "20230728",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "74940",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/020164Orig1s101lbl.pdf",
+              "date": "20230731",
+              "type": "Label"
+            },
+            {
+              "id": "74941",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/020164Orig1s101ltr.pdf",
+              "date": "20230731",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "55",
+          "submission_status": "AP",
+          "submission_status_date": "20040723",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "12286",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2004/20164s055lbl.pdf",
+              "date": "20040728",
+              "type": "Label"
+            },
+            {
+              "id": "20513",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/020164_S055_Lovenox_Approval_Package.pdf",
+              "date": "20061026",
+              "type": "Review"
+            },
+            {
+              "id": "21242",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/20164s055ltr.pdf",
+              "date": "20040728",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "39",
+          "submission_status": "AP",
+          "submission_status_date": "20001024",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41192",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/020164_S039_LOVENOX_INJECTION.pdf",
+              "date": "20080804",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "53",
+          "submission_status": "AP",
+          "submission_status_date": "20041020",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "21241",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/20164s053ltr.pdf",
+              "date": "20041026",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "19970506",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "45",
+          "submission_status": "AP",
+          "submission_status_date": "20020109",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41197",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/020164_S040&045&046_LOVENOX INJ.pdf",
+              "date": "20080804",
+              "type": "Review"
+            },
+            {
+              "id": "21240",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20164s40s45s46ltr.pdf",
+              "date": "20020109",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "98",
+          "submission_status": "AP",
+          "submission_status_date": "20130906",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "20001117",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12285",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2000/20164S36lbl.pdf",
+              "date": "20001117",
+              "type": "Label"
+            },
+            {
+              "id": "21237",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/20164S36ltr.pdf",
+              "date": "20001117",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "51",
+          "submission_status": "AP",
+          "submission_status_date": "20030620",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2122",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20164slr051ltr.pdf",
+              "date": "20030706",
+              "type": "Letter"
+            },
+            {
+              "id": "20512",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/020164_S051_LOVENOX INJ.pdf",
+              "date": "20080801",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19970527",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "43",
+          "submission_status": "AP",
+          "submission_status_date": "20030123",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20510",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/020164_S043_LOVENOX_INJECTION.pdf",
+              "date": "20080801",
+              "type": "Review"
+            },
+            {
+              "id": "21239",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20164scm043ltr.pdf",
+              "date": "20030123",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "20000404",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19960315",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20503",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/96/020164_S004_LOVENOX_INJECTION.pdf",
+              "date": "20080811",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "19991005",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "41",
+          "submission_status": "AP",
+          "submission_status_date": "20001214",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41194",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/020164_S041_LOVENOX_INJECTION.pdf",
+              "date": "20080804",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "19990303",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41186",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020164_S019_LOVENOX.pdf",
+              "date": "20080808",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19950309",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "92",
+          "submission_status": "AP",
+          "submission_status_date": "20110413",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2126",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/020164s092ltr.pdf",
+              "date": "20110415",
+              "type": "Letter"
+            },
+            {
+              "id": "34333",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020164s092lbl.pdf",
+              "date": "20110419",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "116",
+          "submission_status": "AP",
+          "submission_status_date": "20181211",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "56710",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020164s116lbl.pdf",
+              "date": "20181212",
+              "type": "Label"
+            },
+            {
+              "id": "56839",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/020164Orig1s116ltr.pdf",
+              "date": "20181220",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "19970527",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "19991005",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "108",
+          "submission_status": "AP",
+          "submission_status_date": "20170130",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "19991108",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20509",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020164_S023_LOVENOX_INJECTION.pdf",
+              "date": "20080808",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "19981231",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41185",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20164S15_Lovenox.html",
+              "date": "20000703",
+              "type": "Review"
+            },
+            {
+              "id": "2115",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1998/20164s15ltr.pdf",
+              "date": "19981231",
+              "type": "Letter"
+            },
+            {
+              "id": "34329",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/1998/20164s15lbl.pdf",
+              "date": "19981231",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "106",
+          "submission_status": "AP",
+          "submission_status_date": "20150803",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "19990420",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20507",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020164_S021_LOVENOX.pdf",
+              "date": "20080808",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "19970516",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20506",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/97/020164_S013_LOVENOX_INJECTION.pdf",
+              "date": "20080811",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "80",
+          "submission_status": "AP",
+          "submission_status_date": "20080716",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12288",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/020164s080lbl.pdf",
+              "date": "20080722",
+              "type": "Label"
+            },
+            {
+              "id": "21246",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/020164s080ltr.pdf",
+              "date": "20080718",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "58",
+          "submission_status": "AP",
+          "submission_status_date": "20040421",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41200",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/020164_S058_LOVENOX INJECTION_AP.pdf",
+              "date": "20070709",
+              "type": "Review"
+            },
+            {
+              "id": "21244",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/20164slr058ltr.pdf",
+              "date": "20040429",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "19980224",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41184",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020164_S011_LOVENOX.pdf",
+              "date": "20080808",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "110",
+          "submission_status": "AP",
+          "submission_status_date": "20171026",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "50238",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/020164Orig1s110ltr.pdf",
+              "date": "20171031",
+              "type": "Letter"
+            },
+            {
+              "id": "50280",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020164s110lbl.pdf",
+              "date": "20171103",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "102",
+          "submission_status": "AP",
+          "submission_status_date": "20131023",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "21249",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/020164Orig1s102ltr.pdf",
+              "date": "20131025",
+              "type": "Letter"
+            },
+            {
+              "id": "34335",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/020164s102lbl.pdf",
+              "date": "20131031",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "56",
+          "submission_status": "AP",
+          "submission_status_date": "20040413",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20514",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/020164_S056_LOVENOX INJ.pdf",
+              "date": "20080801",
+              "type": "Review"
+            },
+            {
+              "id": "21243",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/20164slr056ltr.pdf",
+              "date": "20040420",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "70",
+          "submission_status": "AP",
+          "submission_status_date": "20070112",
+          "review_priority": "N/A",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "2125",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/020164s070ltr.pdf",
+              "date": "20070116",
+              "type": "Letter"
+            },
+            {
+              "id": "34331",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/020164s070lbl.pdf",
+              "date": "20070116",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "48",
+          "submission_status": "AP",
+          "submission_status_date": "20031218",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2120",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20164slr048ltr.pdf",
+              "date": "20031223",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "100",
+          "submission_status": "AP",
+          "submission_status_date": "20130605",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2128",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/020164Orig1s100ltr.pdf",
+              "date": "20130607",
+              "type": "Letter"
+            },
+            {
+              "id": "34334",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/020164s100lbl.pdf",
+              "date": "20130611",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "19960626",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41182",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/96/020164_S009_LOVENOX INJ.pdf",
+              "date": "20080811",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "46",
+          "submission_status": "AP",
+          "submission_status_date": "20020109",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20511",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/020164_S040&045&046_LOVENOX INJ.pdf",
+              "date": "20080804",
+              "type": "Review"
+            },
+            {
+              "id": "2119",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20164s40s45s46ltr.pdf",
+              "date": "20020109",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "99",
+          "submission_status": "AP",
+          "submission_status_date": "20121128",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "38",
+          "submission_status": "AP",
+          "submission_status_date": "20000620",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41191",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/020164_S038_LOVENOX_INJECTION.pdf",
+              "date": "20080804",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19970307",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "129",
+          "submission_status": "AP",
+          "submission_status_date": "20211220",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "69699",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/020164s129lbl.pdf",
+              "date": "20211220",
+              "type": "Label"
+            },
+            {
+              "id": "69729",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/020164Orig1s129ltr.pdf",
+              "date": "20211221",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "44",
+          "submission_status": "AP",
+          "submission_status_date": "20011130",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41196",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/020164_S044_LOVENOX INJ.pdf",
+              "date": "20080804",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "36",
+          "submission_status": "AP",
+          "submission_status_date": "20001117",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "2118",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/20164S36ltr.pdf",
+              "date": "20001117",
+              "type": "Letter"
+            },
+            {
+              "id": "34330",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2000/20164S36lbl.pdf",
+              "date": "20001117",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19960130",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20504",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/96/020164_S005_LOVENOX INJ.pdf",
+              "date": "20080811",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "50",
+          "submission_status": "AP",
+          "submission_status_date": "20030701",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41198",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/020164_S050_LOVENOX INJ.pdf",
+              "date": "20080801",
+              "type": "Review"
+            },
+            {
+              "id": "2121",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20164slr050ltr.pdf",
+              "date": "20030708",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "89",
+          "submission_status": "AP",
+          "submission_status_date": "20121206",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "19990928",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "42",
+          "submission_status": "AP",
+          "submission_status_date": "20010705",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41195",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/020164_S042_LOVENOX_INJECTION.pdf",
+              "date": "20080804",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "34",
+          "submission_status": "AP",
+          "submission_status_date": "20000530",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "2117",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/20164S34ltr.pdf",
+              "date": "20000927",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "19990914",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41188",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020164_S026_LOVENOX.pdf",
+              "date": "20080808",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "40",
+          "submission_status": "AP",
+          "submission_status_date": "20020109",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "41193",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/020164_S040&045&046_LOVENOX INJ.pdf",
+              "date": "20080804",
+              "type": "Review"
+            },
+            {
+              "id": "21238",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20164s40s45s46ltr.pdf",
+              "date": "20020109",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "79",
+          "submission_status": "AP",
+          "submission_status_date": "20121210",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "93",
+          "submission_status": "AP",
+          "submission_status_date": "20110420",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12290",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020164s093lbl.pdf",
+              "date": "20110421",
+              "type": "Label"
+            },
+            {
+              "id": "2127",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/020164s093ltr.pdf",
+              "date": "20110422",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19940314",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "131",
+          "submission_status": "AP",
+          "submission_status_date": "20221201",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "72770",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/020164Orig1s131ltr.pdf",
+              "date": "20221202",
+              "type": "Letter"
+            },
+            {
+              "id": "72775",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2022/020164Orig1s131lbl.pdf",
+              "date": "20221205",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "32",
+          "submission_status": "AP",
+          "submission_status_date": "20000127",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41190",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/020164_S032_LOVENOX_INJECTION.pdf",
+              "date": "20080804",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "85",
+          "submission_status": "AP",
+          "submission_status_date": "20091223",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12289",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/020164s085lbl.pdf",
+              "date": "20091230",
+              "type": "Label"
+            },
+            {
+              "id": "21248",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/020164s085ltr.pdf",
+              "date": "20091231",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "19990722",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41187",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020164_S024_LOVENOX.pdf",
+              "date": "20080808",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "19980327",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20000602",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "41189",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/020164_S030_LOVENOX_INJECTION.pdf",
+              "date": "20080804",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "83",
+          "submission_status": "AP",
+          "submission_status_date": "20090727",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "21247",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/020164s083ltr.pdf",
+              "date": "20090731",
+              "type": "Letter"
+            },
+            {
+              "id": "34332",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/020164s083lbl.pdf",
+              "date": "20090730",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "107",
+          "submission_status": "AP",
+          "submission_status_date": "20150824",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "19990721",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20508",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020164_S022_LOVENOX.pdf",
+              "date": "20080808",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "75",
+          "submission_status": "AP",
+          "submission_status_date": "20070516",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12287",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/022138,020164s075lbl.pdf",
+              "date": "20070529",
+              "type": "Label"
+            },
+            {
+              "id": "20515",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022138_020164_lovenox_enoxaparin_sodium_toc.html",
+              "date": "20090324",
+              "type": "Review"
+            },
+            {
+              "id": "21245",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/022138s000,020164s075ltr.pdf",
+              "date": "20070529",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "19970127",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19930329",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "44049",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm373741.htm",
+              "date": "20131107",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "20502",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/20-164_review.pdf",
+              "date": "20040715",
+              "type": "Review"
+            },
+            {
+              "id": "21236",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/pre96/20-164ltr.pdf",
+              "date": "20040225",
+              "type": "Letter"
+            },
+            {
+              "id": "34328",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/pre96/20-164_lbl.pdf",
+              "date": "20040405",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "105",
+          "submission_status": "AP",
+          "submission_status_date": "20140529",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20000803",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "2116",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/20164S20LTR.PDF",
+              "date": "20000804",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "19961023",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20505",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/96/020164_S012_LOVENOX_INJECTION.pdf",
+              "date": "20080811",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020164",
+      "sponsor_name": "SANOFI AVENTIS US",
+      "openfda": {
+        "application_number": [
+          "NDA020164"
+        ],
+        "brand_name": [
+          "ENOXAPARIN SODIUM",
+          "LOVENOX"
+        ],
+        "generic_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "Fresenius Kabi USA, LLC",
+          "Sanofi-Aventis U.S. LLC"
+        ],
+        "product_ndc": [
+          "63323-531",
+          "63323-533",
+          "63323-535",
+          "63323-607",
+          "63323-605",
+          "63323-539",
+          "63323-609",
+          "63323-537",
+          "0075-8013",
+          "0075-8014",
+          "0075-8016",
+          "0075-8018",
+          "0075-8020",
+          "0075-8030",
+          "0075-8022",
+          "0075-8025",
+          "0075-0620",
+          "0075-0624",
+          "0075-0621",
+          "0075-0622",
+          "0075-0623",
+          "0075-0626",
+          "0075-2912",
+          "0075-2915"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "SUBCUTANEOUS",
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "rxcui": [
+          "854228",
+          "854235",
+          "854238",
+          "854241",
+          "854245",
+          "854248",
+          "854252",
+          "854255",
+          "854232",
+          "854236",
+          "854239",
+          "854242",
+          "854247",
+          "854249",
+          "854253",
+          "854256"
+        ],
+        "spl_id": [
+          "53e20cb1-9e79-4c45-a5a7-62c3904df818",
+          "a12d41f8-475d-4932-9aa0-73180eb1fd60",
+          "006561fa-e16d-4129-9dde-89c109b51d8f",
+          "cdb74d6d-1a74-4156-a52a-710c55cb2927"
+        ],
+        "spl_set_id": [
+          "21b095d1-5ade-43e9-9114-30fbfb2331c9",
+          "066f27ec-352c-4051-ba29-248e292690db",
+          "de6fb917-a94a-41ea-9d7d-937d4080ffcd",
+          "5017a927-2a24-4f27-89f9-27c805bf7d59"
+        ],
+        "package_ndc": [
+          "63323-533-01",
+          "63323-533-83",
+          "63323-535-01",
+          "63323-535-87",
+          "63323-607-01",
+          "63323-607-88",
+          "63323-531-01",
+          "63323-531-90",
+          "63323-605-01",
+          "63323-605-84",
+          "63323-539-03",
+          "63323-609-01",
+          "63323-609-90",
+          "63323-537-01",
+          "63323-537-84",
+          "63323-533-13",
+          "63323-533-93",
+          "63323-535-08",
+          "63323-535-98",
+          "63323-607-08",
+          "63323-607-98",
+          "63323-531-08",
+          "63323-531-98",
+          "63323-605-04",
+          "63323-605-94",
+          "63323-539-13",
+          "63323-609-08",
+          "63323-609-98",
+          "63323-537-04",
+          "63323-537-94",
+          "0075-8013-01",
+          "0075-8013-10",
+          "0075-8014-01",
+          "0075-8014-10",
+          "0075-8016-01",
+          "0075-8016-10",
+          "0075-8018-01",
+          "0075-8018-10",
+          "0075-8020-01",
+          "0075-8020-10",
+          "0075-8030-01",
+          "0075-8022-01",
+          "0075-8022-10",
+          "0075-8025-01",
+          "0075-8025-10",
+          "0075-0624-01",
+          "0075-0624-30",
+          "0075-0620-01",
+          "0075-0620-40",
+          "0075-0621-01",
+          "0075-0621-60",
+          "0075-0622-01",
+          "0075-0622-80",
+          "0075-0623-03",
+          "0075-0623-00",
+          "0075-0626-03",
+          "0075-2912-00",
+          "0075-2912-01",
+          "0075-2915-00",
+          "0075-2915-01"
+        ],
+        "unii": [
+          "8NZ41MIK1O"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "LOVENOX (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "40MG/0.4ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "009",
+          "reference_drug": "Yes",
+          "brand_name": "LOVENOX",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "300MG/3ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "Yes",
+          "brand_name": "LOVENOX (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "120MG/0.8ML (150MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "Yes",
+          "brand_name": "LOVENOX (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "100MG/ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "LOVENOX (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "60MG/0.6ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "LOVENOX (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "30MG/0.3ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "008",
+          "reference_drug": "Yes",
+          "brand_name": "LOVENOX (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "150MG/ML (150MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "Yes",
+          "brand_name": "LOVENOX (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "90MG/0.6ML (150MG/ML) **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "LOVENOX (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "80MG/0.8ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20070516",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 6",
+          "submission_class_code_description": "Type 6 - New Indication (no longer used)",
+          "application_docs": [
+            {
+              "id": "38297",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/022138,020164s075lbl.pdf",
+              "date": "20070529",
+              "type": "Label"
+            },
+            {
+              "id": "42427",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022138_020164_lovenox_enoxaparin_sodium_toc.html",
+              "date": "20090324",
+              "type": "Review"
+            },
+            {
+              "id": "44174",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm373741.htm",
+              "date": "20131107",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "29308",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/022138s000,020164s075ltr.pdf",
+              "date": "20070529",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA022138",
+      "sponsor_name": "SANOFI AVENTIS US",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "LOVENOX",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "100MG/ML"
+            }
+          ],
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20191129",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20220715",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA206834",
+      "sponsor_name": "EMERGE BIOSCIENCE",
+      "openfda": {
+        "application_number": [
+          "ANDA206834"
+        ],
+        "brand_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "generic_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "BluePoint Laboratories",
+          "NorthStar Rx LLC",
+          "Meitheal Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "68001-633",
+          "68001-634",
+          "68001-635",
+          "68001-636",
+          "68001-637",
+          "68001-638",
+          "68001-639",
+          "16714-006",
+          "16714-016",
+          "16714-026",
+          "16714-036",
+          "16714-046",
+          "16714-056",
+          "16714-066",
+          "71288-432",
+          "71288-433",
+          "71288-434",
+          "71288-435",
+          "71288-436",
+          "71288-437",
+          "71288-438"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "rxcui": [
+          "854228",
+          "854235",
+          "854238",
+          "854241",
+          "854245",
+          "854248",
+          "854252"
+        ],
+        "spl_id": [
+          "3ff02fbe-5a9d-e284-e063-6294a90a0ef8",
+          "9f9af4cb-9c7e-471c-8a8a-7b476631d4b3",
+          "a3c72056-bfa7-404e-961d-79247263adff",
+          "6f7ce651-e9dd-4c6b-a63c-1d911d63222a"
+        ],
+        "spl_set_id": [
+          "a2a8615b-a27e-4ab2-ae4c-592bbf4643c0",
+          "32f8d292-0dda-4931-81ea-ba47e23edf61",
+          "adbba7bb-fa72-4cec-aa69-13965591a45d",
+          "b6fb85ab-1fe5-4dd3-a97f-adbed0674f67"
+        ],
+        "package_ndc": [
+          "68001-633-43",
+          "68001-633-42",
+          "68001-634-43",
+          "68001-634-42",
+          "68001-635-43",
+          "68001-635-42",
+          "68001-636-43",
+          "68001-636-42",
+          "68001-637-43",
+          "68001-637-42",
+          "68001-638-43",
+          "68001-638-42",
+          "68001-639-43",
+          "68001-639-42",
+          "16714-006-01",
+          "16714-006-10",
+          "16714-016-01",
+          "16714-016-10",
+          "16714-026-01",
+          "16714-026-10",
+          "16714-036-01",
+          "16714-036-10",
+          "16714-046-01",
+          "16714-046-10",
+          "16714-056-01",
+          "16714-056-10",
+          "16714-066-01",
+          "16714-066-10",
+          "71288-432-80",
+          "71288-432-81",
+          "71288-433-82",
+          "71288-433-83",
+          "71288-434-84",
+          "71288-434-85",
+          "71288-435-86",
+          "71288-435-87",
+          "71288-436-88",
+          "71288-436-89",
+          "71288-437-91",
+          "71288-437-92",
+          "71288-438-93",
+          "71288-438-94",
+          "71288-432-91",
+          "71288-432-92",
+          "71288-433-91",
+          "71288-433-92",
+          "71288-434-91",
+          "71288-434-92",
+          "71288-435-91",
+          "71288-435-92",
+          "71288-436-91",
+          "71288-436-92",
+          "71288-437-93",
+          "71288-437-94",
+          "71288-438-95",
+          "71288-438-96"
+        ],
+        "unii": [
+          "8NZ41MIK1O"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "120MG/0.8ML (150MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "80MG/0.8ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "40MG/0.4ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "150MG/ML (150MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "100MG/ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "60MG/0.6ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "30MG/0.3ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230315",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20251125",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA205660",
+      "sponsor_name": "SHENZHEN TECHDOW",
+      "openfda": {
+        "application_number": [
+          "ANDA205660"
+        ],
+        "brand_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "generic_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "manufacturer_name": [
+          "NorthStar RxLLC",
+          "Hepalink USA Inc."
+        ],
+        "product_ndc": [
+          "72603-165",
+          "72603-175",
+          "72603-185",
+          "72603-195",
+          "72603-205",
+          "72603-215",
+          "72603-225",
+          "81952-123",
+          "81952-124",
+          "81952-126",
+          "81952-128",
+          "81952-130",
+          "81952-132",
+          "81952-135"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "ENOXAPARIN SODIUM"
+        ],
+        "rxcui": [
+          "854228",
+          "854235",
+          "854238",
+          "854241",
+          "854245",
+          "854248",
+          "854252"
+        ],
+        "spl_id": [
+          "1b5d6d46-a8fc-ed74-e063-6294a90af6c1",
+          "48e2dcd3-c03e-580c-e063-6294a90aa4b6"
+        ],
+        "spl_set_id": [
+          "014c6710-f2c4-fd1e-e063-6394a90ae525",
+          "31e7c4d0-ba45-4b20-8e25-2d12892372e5"
+        ],
+        "package_ndc": [
+          "72603-165-01",
+          "72603-165-10",
+          "72603-175-01",
+          "72603-175-10",
+          "72603-185-01",
+          "72603-185-10",
+          "72603-195-01",
+          "72603-195-10",
+          "72603-205-01",
+          "72603-205-10",
+          "72603-215-01",
+          "72603-215-10",
+          "72603-225-01",
+          "72603-225-10",
+          "81952-123-13",
+          "81952-123-23",
+          "81952-124-14",
+          "81952-124-24",
+          "81952-126-16",
+          "81952-126-26",
+          "81952-128-18",
+          "81952-128-28",
+          "81952-130-01",
+          "81952-130-06",
+          "81952-132-18",
+          "81952-132-28",
+          "81952-135-01",
+          "81952-135-06"
+        ],
+        "unii": [
+          "8NZ41MIK1O"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "60MG/0.6ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "30MG/0.3ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "120MG/0.8ML (150MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "80MG/0.8ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "40MG/0.4ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "150MG/ML (150MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM (PRESERVATIVE FREE)",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "100MG/ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20111128"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20131029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20151228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20130131",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20230105",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA078660",
+      "sponsor_name": "SANDOZ INC",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ENOXAPARIN SODIUM",
+          "active_ingredients": [
+            {
+              "name": "ENOXAPARIN SODIUM",
+              "strength": "300MG/3ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS, SUBCUTANEOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    }
+  ]
+}

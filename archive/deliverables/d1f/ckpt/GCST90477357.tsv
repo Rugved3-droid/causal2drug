@@ -1,0 +1,11 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+ACVR2A	D002100	Cachexia	GCST90477357	UP	1									0							no_overlap_after_harmonization
+ACVR2B	D002100	Cachexia	GCST90477357	UP	4									0							no_overlap_after_harmonization
+DRD4	D002100	Cachexia	GCST90477357	DOWN	3									0							no_overlap_after_harmonization
+HTR3A	D002100	Cachexia	GCST90477357	DOWN	2									0							no_overlap_after_harmonization
+IL6	D002100	Cachexia	GCST90477357	DOWN	2									0							no_overlap_after_harmonization
+IL6R	D002100	Cachexia	GCST90477357	DOWN	2									0							no_overlap_after_harmonization
+JAK3	D002100	Cachexia	GCST90477357	DOWN	1									0							no_overlap_after_harmonization
+LEPR	D002100	Cachexia	GCST90477357	UP	10									0							no_overlap_after_harmonization
+PPARD	D002100	Cachexia	GCST90477357	UP	3									0							no_overlap_after_harmonization
+RYR1	D002100	Cachexia	GCST90477357	DOWN	4									0							no_overlap_after_harmonization

@@ -1,0 +1,3191 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 21
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20040726"
+        }
+      ],
+      "application_number": "ANDA076883",
+      "sponsor_name": "TEVA",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "160MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "120MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20201029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20230912",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20150428",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20230228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20070301",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20031107"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20110428",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075563",
+      "sponsor_name": "OXFORD PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA075563"
+        ],
+        "brand_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Oxford Pharmaceuticals, LLC"
+        ],
+        "product_ndc": [
+          "69584-841",
+          "69584-842",
+          "69584-843",
+          "69584-844"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "904589",
+          "1923422",
+          "1923424",
+          "1923426"
+        ],
+        "spl_id": [
+          "71c67f34-73e1-4e4c-9c72-56f4b9222a88"
+        ],
+        "spl_set_id": [
+          "c8ac6351-b1e9-4dd2-82f2-5980814fda15"
+        ],
+        "package_ndc": [
+          "69584-841-10",
+          "69584-841-50",
+          "69584-842-10",
+          "69584-842-30",
+          "69584-843-10",
+          "69584-844-10"
+        ],
+        "unii": [
+          "HEC37C70XX"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "240MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "120MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "160MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20210127",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20230911",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20230911",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20020926"
+        }
+      ],
+      "application_number": "ANDA076140",
+      "sponsor_name": "APOTEX",
+      "openfda": {},
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "240MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "120MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "160MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20030314",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "26911",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/21151scs004ltr.pdf",
+              "date": "20030326",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000222",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 6",
+          "submission_class_code_description": "Type 6 - New Indication (no longer used)",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "41987",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/021151_s000_BetapaceAFTOC.html",
+              "date": "20060111",
+              "type": "Review"
+            },
+            {
+              "id": "4475",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/21151ltr.pdf",
+              "date": "20000222",
+              "type": "Letter"
+            },
+            {
+              "id": "14508",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2000/21151lbl.pdf",
+              "date": "20000222",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20110203",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "4477",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021151s009ltr.pdf",
+              "date": "20110209",
+              "type": "Letter"
+            },
+            {
+              "id": "14509",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021151s009lbl.pdf",
+              "date": "20110209",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20110817",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "36220",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021151s010lbl.pdf",
+              "date": "20110824",
+              "type": "Label"
+            },
+            {
+              "id": "26912",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021151s010ltr.pdf",
+              "date": "20110818",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20030402",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "4476",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/21151scs005ltr.pdf",
+              "date": "20030418",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20011001",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20001122",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA021151",
+      "sponsor_name": "LEGACY",
+      "products": [
+        {
+          "product_number": "006",
+          "reference_drug": "No",
+          "brand_name": "BETAPACE AF",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "40MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "BETAPACE AF",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "120MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "BETAPACE AF",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "60MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "No",
+          "brand_name": "BETAPACE AF",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "100MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "BETAPACE AF",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "160MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "BETAPACE AF",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "19990823",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20011001",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "41072",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/19-865s10_Betapace.html",
+              "date": "20020619",
+              "type": "Review"
+            },
+            {
+              "id": "11798",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/19-865S010_Betapace_prntlbl.pdf",
+              "date": "20011001",
+              "type": "Label"
+            },
+            {
+              "id": "19780",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/19-865S010_Betapace_Approv.pdf",
+              "date": "20011001",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19951204",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19940420",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19940420",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20110203",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "19781",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/019865s019ltr.pdf",
+              "date": "20110209",
+              "type": "Letter"
+            },
+            {
+              "id": "34055",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/019865s019lbl.pdf",
+              "date": "20110204",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20160510",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "11799",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/019865s021lbl.pdf",
+              "date": "20160511",
+              "type": "Label"
+            },
+            {
+              "id": "19783",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/019865Orig1s021ltr.pdf",
+              "date": "20160517",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "19990409",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20000707",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19950726",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19940906",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19930413",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19921030",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20230615",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "74505",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2023/019865Orig1s026Corrected_lbl.pdf",
+              "date": "20230616",
+              "type": "Label"
+            },
+            {
+              "id": "74620",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/019865Orig1s026Corrected_ltr.pdf",
+              "date": "20230623",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20210603",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "67722",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/019865Orig1s022ltr.pdf",
+              "date": "20210607",
+              "type": "Letter"
+            },
+            {
+              "id": "67737",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/019865s022lbl.pdf",
+              "date": "20210608",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20010726",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20110817",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "19782",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/019865s020ltr.pdf",
+              "date": "20110818",
+              "type": "Letter"
+            },
+            {
+              "id": "34056",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/019865s020lbl.pdf",
+              "date": "20110824",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20001122",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA019865",
+      "sponsor_name": "LEGACY",
+      "openfda": {
+        "application_number": [
+          "NDA019865"
+        ],
+        "brand_name": [
+          "BETAPACE",
+          "BETAPACE AF"
+        ],
+        "generic_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Legacy Pharma USA, Inc."
+        ],
+        "product_ndc": [
+          "83107-005",
+          "83107-006",
+          "83107-007",
+          "83107-008",
+          "83107-009",
+          "83107-010"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1922720",
+          "1922721",
+          "1922763",
+          "1922764",
+          "1922765",
+          "1922766",
+          "1923422",
+          "1923423",
+          "1923424",
+          "1923425",
+          "1923426",
+          "1923427"
+        ],
+        "spl_id": [
+          "fcc2fc9c-87b2-4f9f-8d4d-b1f10214884e"
+        ],
+        "spl_set_id": [
+          "a6a7702f-36c9-45db-b640-453dc324baee"
+        ],
+        "package_ndc": [
+          "83107-005-10",
+          "83107-006-10",
+          "83107-007-10",
+          "83107-008-60",
+          "83107-009-60",
+          "83107-010-60"
+        ],
+        "unii": [
+          "HEC37C70XX"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "BETAPACE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "BETAPACE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "320MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "BETAPACE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "160MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "Yes",
+          "brand_name": "BETAPACE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "120MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "BETAPACE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "240MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20150925",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20200306",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "62086",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/022306s005lblrpl.pdf",
+              "date": "20200309",
+              "type": "Label"
+            },
+            {
+              "id": "62099",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/022306Orig1s005_Replacement_ltr.pdf",
+              "date": "20200313",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20130606",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20090702",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "38538",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/022306s000lbl.pdf",
+              "date": "20090709",
+              "type": "Label"
+            },
+            {
+              "id": "42483",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2009/022306_sotalol_hydrochloride_toc.html",
+              "date": "20100330",
+              "type": "Review"
+            },
+            {
+              "id": "44732",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2009/022306s000SumR.pdf",
+              "date": "20100330",
+              "type": "Summary Review"
+            },
+            {
+              "id": "7207",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/022306s000ltr.pdf",
+              "date": "20090709",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20250723",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "82919",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/022306Orig1s008ltr.pdf",
+              "date": "20250725",
+              "type": "Letter"
+            },
+            {
+              "id": "82936",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2025/022306s008lbl.pdf",
+              "date": "20250725",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20230921",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "75536",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/022306Orig1s006ltr.pdf",
+              "date": "20230922",
+              "type": "Letter"
+            },
+            {
+              "id": "75545",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2023/022306s006lbl.pdf",
+              "date": "20230922",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA022306",
+      "sponsor_name": "ALTATHERA PHARMS LLC",
+      "openfda": {
+        "application_number": [
+          "NDA022306"
+        ],
+        "brand_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "ALTATHERA Pharmaceuticals, LLC"
+        ],
+        "product_ndc": [
+          "69724-112"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "904630"
+        ],
+        "spl_id": [
+          "d155f318-ecbf-4392-90a1-4409c5b8d13f"
+        ],
+        "spl_set_id": [
+          "ff3061ab-d930-4318-a5be-684e38be229e"
+        ],
+        "package_ndc": [
+          "69724-112-10"
+        ],
+        "unii": [
+          "HEC37C70XX"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "150MG/10ML (15MG/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20000907",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20151218",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20020918",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000501",
+          "application_docs": [
+            {
+              "id": "39481",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/2000/75-366_Sotalol%20Hydrochloride_prntlbl.pdf",
+              "date": "20040617",
+              "type": "Label"
+            },
+            {
+              "id": "42985",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/2000/75-366_Sotalol.html",
+              "date": "20011218",
+              "type": "Review"
+            },
+            {
+              "id": "8634",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75366ltr.pdf",
+              "date": "20000501",
+              "type": "Letter"
+            },
+            {
+              "id": "30862",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1999/75366ta.pdf",
+              "date": "20040618",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20001025",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000907",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20151218",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20020430",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA075366",
+      "sponsor_name": "UPSHER SMITH LABS",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "160MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "240MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "120MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20230228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20001107",
+          "application_docs": [
+            {
+              "id": "43017",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/075663.PDF",
+              "date": "20050722",
+              "type": "Review"
+            },
+            {
+              "id": "30979",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75663ltr.pdf",
+              "date": "20001107",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20210216",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20021003",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20231206",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075663",
+      "sponsor_name": "IMPAX PHARMS",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "160MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "240MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "120MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20150825",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20240430",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20070207"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20240430",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA077616",
+      "sponsor_name": "AUROBINDO PHARMA USA",
+      "openfda": {
+        "application_number": [
+          "ANDA077616"
+        ],
+        "brand_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "59651-775",
+          "59651-776",
+          "59651-777"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1922720",
+          "1922763",
+          "1922765"
+        ],
+        "spl_id": [
+          "8a142042-e510-4232-8f20-5c92a991bd91"
+        ],
+        "spl_set_id": [
+          "6f3145d7-f3c9-4456-a77d-d04c54f24668"
+        ],
+        "package_ndc": [
+          "59651-775-01",
+          "59651-776-01",
+          "59651-777-01"
+        ],
+        "unii": [
+          "HEC37C70XX"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "160MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "120MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20260630",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20161021",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA207428",
+      "sponsor_name": "REGCON HOLDINGS",
+      "openfda": {
+        "application_number": [
+          "ANDA207428"
+        ],
+        "brand_name": [
+          "SOTALOL"
+        ],
+        "generic_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "UNICHEM PHARMACEUTICALS (USA), INC."
+        ],
+        "product_ndc": [
+          "76385-114",
+          "76385-125",
+          "76385-115",
+          "76385-126",
+          "76385-116",
+          "76385-127"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1922720",
+          "1922763",
+          "1922765",
+          "1923422",
+          "1923424",
+          "1923426"
+        ],
+        "spl_id": [
+          "96bb0a48-48ee-4756-959b-f901434fd629"
+        ],
+        "spl_set_id": [
+          "56879738-8662-4f5c-8386-761ab2b5e46f"
+        ],
+        "package_ndc": [
+          "76385-114-01",
+          "76385-114-50",
+          "76385-125-01",
+          "76385-125-50",
+          "76385-115-01",
+          "76385-115-50",
+          "76385-126-01",
+          "76385-126-50",
+          "76385-116-01",
+          "76385-116-50",
+          "76385-127-01",
+          "76385-127-50"
+        ],
+        "unii": [
+          "HEC37C70XX"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "160MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "120MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20181102",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20260605",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA207429",
+      "sponsor_name": "REGCON HOLDINGS",
+      "openfda": {
+        "application_number": [
+          "ANDA207429"
+        ],
+        "brand_name": [
+          "SOTALOL HYDROCHLORIDE AF"
+        ],
+        "generic_name": [
+          "SOTALOL HYDROCHLORIDE TABLES AF",
+          "SOTALOL HYDROCHLORIDE TABLETS AF"
+        ],
+        "manufacturer_name": [
+          "UNICHEM PHARMACEUTICALS (USA), INC."
+        ],
+        "product_ndc": [
+          "76385-125",
+          "76385-114",
+          "76385-115",
+          "76385-126",
+          "76385-116",
+          "76385-127"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1922720",
+          "1922763",
+          "1922765",
+          "1923422",
+          "1923424",
+          "1923426"
+        ],
+        "spl_id": [
+          "96bb0a48-48ee-4756-959b-f901434fd629"
+        ],
+        "spl_set_id": [
+          "56879738-8662-4f5c-8386-761ab2b5e46f"
+        ],
+        "package_ndc": [
+          "76385-114-01",
+          "76385-114-50",
+          "76385-125-01",
+          "76385-125-50",
+          "76385-115-01",
+          "76385-115-50",
+          "76385-126-01",
+          "76385-126-50",
+          "76385-116-01",
+          "76385-116-50",
+          "76385-127-01",
+          "76385-127-50"
+        ],
+        "unii": [
+          "HEC37C70XX"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "160MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "120MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20210127",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20030827"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20230911",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20150701",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA076214",
+      "sponsor_name": "APOTEX",
+      "openfda": {},
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "120MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "160MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20120111",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20021203",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20110428",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000501",
+          "application_docs": [
+            {
+              "id": "42995",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/2000/75-429_Sotalol.html",
+              "date": "20011217",
+              "type": "Review"
+            },
+            {
+              "id": "18410",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/2000/75-429_Sotalol%20Hydrochloride_prntlbl.pdf",
+              "date": "20040617",
+              "type": "Label"
+            },
+            {
+              "id": "30880",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1999/75429ta.pdf",
+              "date": "20040617",
+              "type": "Letter"
+            },
+            {
+              "id": "30881",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75429ltr.pdf",
+              "date": "20000501",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20061226",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20001013",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20221025",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20210204",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20141024",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20240515",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20140904",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075429",
+      "sponsor_name": "TEVA",
+      "openfda": {
+        "application_number": [
+          "ANDA075429"
+        ],
+        "brand_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "0093-1060",
+          "0093-1061",
+          "0093-1062",
+          "0093-1063"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "904589",
+          "1923422",
+          "1923424",
+          "1923426"
+        ],
+        "spl_id": [
+          "b0c7f185-187e-443c-9ca8-7ff9658bf713"
+        ],
+        "spl_set_id": [
+          "8e2772cb-7dea-42d1-ba31-d479ba7cb09a"
+        ],
+        "package_ndc": [
+          "0093-1061-01",
+          "0093-1060-01",
+          "0093-1062-01",
+          "0093-1063-01"
+        ],
+        "unii": [
+          "HEC37C70XX"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "160MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "240MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "120MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20030604",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20260707",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20210216",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20001219",
+          "application_docs": [
+            {
+              "id": "43022",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/2000/75-725_Sotalol%20Hydrochloride.pdf",
+              "date": "20011205",
+              "type": "Review"
+            },
+            {
+              "id": "8775",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75725ltr.pdf",
+              "date": "20001219",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20070522",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA075725",
+      "sponsor_name": "RISING",
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "240MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "120MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "160MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20051104"
+        }
+      ],
+      "application_number": "ANDA077070",
+      "sponsor_name": "EPIC PHARMA LLC",
+      "openfda": {
+        "application_number": [
+          "ANDA077070"
+        ],
+        "brand_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Epic Pharma, LLC"
+        ],
+        "product_ndc": [
+          "42806-121",
+          "42806-122",
+          "42806-123"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1922720",
+          "1922763",
+          "1922765"
+        ],
+        "spl_id": [
+          "34ed0846-81bd-46c4-a57c-b617c7d8232d"
+        ],
+        "spl_set_id": [
+          "c0a34c56-9641-4592-9754-bcc233ec86b6"
+        ],
+        "package_ndc": [
+          "42806-121-01",
+          "42806-121-10",
+          "42806-122-01",
+          "42806-122-10",
+          "42806-123-01",
+          "42806-123-10"
+        ],
+        "unii": [
+          "HEC37C70XX"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "160MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "120MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20141022",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form",
+          "application_docs": [
+            {
+              "id": "40444",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/205108s000lbl.pdf",
+              "date": "20141024",
+              "type": "Label"
+            },
+            {
+              "id": "22974",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/205108Orig1s000TOC.html",
+              "date": "20141218",
+              "type": "Review"
+            },
+            {
+              "id": "32631",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/205108Orig1s000Approv.pdf",
+              "date": "20141218",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20240112",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "77219",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/205108Orig1s003ltr.pdf",
+              "date": "20240116",
+              "type": "Letter"
+            },
+            {
+              "id": "77225",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/205108s003lbl.pdf",
+              "date": "20240116",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150616",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA205108",
+      "sponsor_name": "AZURITY",
+      "openfda": {
+        "application_number": [
+          "NDA205108"
+        ],
+        "brand_name": [
+          "SOTYLIZE"
+        ],
+        "generic_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Azurity Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "24338-530"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1593725",
+          "1593731"
+        ],
+        "spl_id": [
+          "73961d33-7149-49f3-8386-91f1b1758ca5"
+        ],
+        "spl_set_id": [
+          "1f33f900-0777-4a92-a7f7-00cf3d57d95c"
+        ],
+        "package_ndc": [
+          "24338-530-25",
+          "24338-530-48"
+        ],
+        "unii": [
+          "HEC37C70XX"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "SOTYLIZE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "5MG/ML (5MG/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20150302",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20021219",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20210204",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20010427",
+          "application_docs": [
+            {
+              "id": "30914",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/75500ltr.pdf",
+              "date": "20010427",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20150302",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20030513",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075500",
+      "sponsor_name": "AIPING PHARM INC",
+      "openfda": {
+        "application_number": [
+          "ANDA075500"
+        ],
+        "brand_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "AiPing Pharmaceutical, Inc."
+        ],
+        "product_ndc": [
+          "11788-051",
+          "11788-052",
+          "11788-053",
+          "11788-054"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "SOTALOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "904589",
+          "1923422",
+          "1923424",
+          "1923426"
+        ],
+        "spl_id": [
+          "d2c31b08-0c64-48be-aa84-aeaead306b2a"
+        ],
+        "spl_set_id": [
+          "56326224-fc80-4b89-8ba3-70cb873173b4"
+        ],
+        "package_ndc": [
+          "11788-051-01",
+          "11788-052-01",
+          "11788-053-01",
+          "11788-054-01"
+        ],
+        "unii": [
+          "HEC37C70XX"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "SORINE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "SORINE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "120MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "SORINE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "160MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "SORINE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "240MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20040408"
+        }
+      ],
+      "application_number": "ANDA076576",
+      "sponsor_name": "SUN PHARM INDUSTRIES",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "120MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "160MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20011015",
+          "application_docs": [
+            {
+              "id": "8703",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/75515ltr.pdf",
+              "date": "20030414",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20040806",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20030407",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075515",
+      "sponsor_name": "SUN PHARM INDUSTRIES",
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "120MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "160MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "240MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20021031",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20001013",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000501",
+          "application_docs": [
+            {
+              "id": "39467",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/2000/75-237_Sotalol%20Hydrochloride_prntlbl.pdf",
+              "date": "20040618",
+              "type": "Label"
+            },
+            {
+              "id": "42962",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/2000/75-237_Sotalol.html",
+              "date": "20011228",
+              "type": "Review"
+            },
+            {
+              "id": "8574",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1999/75237ta.pdf",
+              "date": "20040618",
+              "type": "Letter"
+            },
+            {
+              "id": "8575",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75237ltr.pdf",
+              "date": "20000501",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20150901",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20150901",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20020624",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA075237",
+      "sponsor_name": "NOVITIUM PHARMA",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "160MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "240MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "120MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000713",
+          "application_docs": [
+            {
+              "id": "8576",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1999/75238ta.pdf",
+              "date": "20040618",
+              "type": "Letter"
+            },
+            {
+              "id": "30808",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/75238ltr.pdf",
+              "date": "20000713",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20021107",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20020624",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20001205",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20030131",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20020916",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20020624",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA075238",
+      "sponsor_name": "WATSON LABS",
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "240MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "120MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "160MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "SOTALOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "SOTALOL HYDROCHLORIDE",
+              "strength": "80MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "bytes": 1962741,
+  "requests": 3,
+  "data_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90239001-GCST90240000/GCST90239658/harmonised/GCST90239658.h.tsv.gz",
+  "tbi_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90239001-GCST90240000/GCST90239658/harmonised/GCST90239658.h.tsv.gz.tbi",
+  "head_status": 200,
+  "accept_ranges": "bytes",
+  "data_file_total_bytes": 1416980601,
+  "status_codes": [
+    206,
+    206
+  ],
+  "data_is_bgzf": true,
+  "first_block_size": 24514,
+  "probe_status": 206,
+  "tbi_bytes": 1803528,
+  "tbi_n_ref": 22,
+  "tbi_names_head": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "tbi_cols_seq_beg_end": [
+    1,
+    2,
+    2
+  ],
+  "chrom_used": "5",
+  "n_chunks": 1,
+  "byte_span": [
+    472443986,
+    472603180
+  ],
+  "blocks_decompressed": 6,
+  "uncompressed_bytes": 391680,
+  "rows": 3323,
+  "pct_of_file_transferred": 0.138516,
+  "wall_clock_s": 5.14
+}

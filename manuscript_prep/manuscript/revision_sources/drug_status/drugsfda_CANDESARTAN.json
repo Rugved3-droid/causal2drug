@@ -1,0 +1,2953 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 16
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20170403",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20130503",
+          "application_docs": [
+            {
+              "id": "31381",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/078702Orig1s000ltr.pdf",
+              "date": "20130507",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20210430",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20210430",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA078702",
+      "sponsor_name": "MYLAN",
+      "openfda": {
+        "application_number": [
+          "ANDA078702"
+        ],
+        "brand_name": [
+          "CANDESARTAN CILEXETIL"
+        ],
+        "generic_name": [
+          "CANDESARTAN CILEXETIL"
+        ],
+        "manufacturer_name": [
+          "Mylan Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "0378-3224",
+          "0378-3225",
+          "0378-3231",
+          "0378-3232"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CANDESARTAN CILEXETIL"
+        ],
+        "rxcui": [
+          "153822",
+          "153823",
+          "577776",
+          "639537"
+        ],
+        "spl_id": [
+          "62815e9d-598e-4b5f-b33b-3a9659eec024"
+        ],
+        "spl_set_id": [
+          "904b357e-97bf-475e-90a5-f0449f2a428e"
+        ],
+        "package_ndc": [
+          "0378-3224-93",
+          "0378-3224-77",
+          "0378-3225-93",
+          "0378-3225-77",
+          "0378-3231-93",
+          "0378-3231-77",
+          "0378-3232-93",
+          "0378-3232-77"
+        ],
+        "unii": [
+          "R85M2X0D68"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "8MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "16MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "4MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20210308",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170620",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA209119",
+      "sponsor_name": "ALEMBIC",
+      "openfda": {
+        "application_number": [
+          "ANDA209119"
+        ],
+        "brand_name": [
+          "CANDESARTAN CILEXETIL"
+        ],
+        "generic_name": [
+          "CANDESARTAN CILEXETIL"
+        ],
+        "manufacturer_name": [
+          "Alembic Pharmaceuticals Inc.",
+          "Alembic Pharmaceuticals Limited"
+        ],
+        "product_ndc": [
+          "62332-060",
+          "46708-060"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CANDESARTAN CILEXETIL"
+        ],
+        "rxcui": [
+          "639537"
+        ],
+        "spl_id": [
+          "55b443a9-6652-4408-a91d-7aa4dbc457f9",
+          "048b90e3-9511-49be-8513-ebd0bde1e03c"
+        ],
+        "spl_set_id": [
+          "0f2b2fa3-249b-4756-a3f1-3223a004d9cb",
+          "d23fe59a-2ad6-4885-a0d8-2239048f05a3"
+        ],
+        "package_ndc": [
+          "62332-060-30",
+          "62332-060-90",
+          "62332-060-10",
+          "46708-060-30",
+          "46708-060-90",
+          "46708-060-10"
+        ],
+        "unii": [
+          "R85M2X0D68"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20230607",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20161205",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20210430",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170719",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA203813",
+      "sponsor_name": "MACLEODS PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA203813"
+        ],
+        "brand_name": [
+          "CANDESARTAN"
+        ],
+        "generic_name": [
+          "CANDESARTAN"
+        ],
+        "manufacturer_name": [
+          "Macleods Pharmaceuticals Limited",
+          "NorthStar RxLLC"
+        ],
+        "product_ndc": [
+          "33342-114",
+          "33342-115",
+          "33342-116",
+          "33342-117",
+          "72603-720",
+          "72603-721"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CANDESARTAN CILEXETIL"
+        ],
+        "rxcui": [
+          "153822",
+          "153823",
+          "577776",
+          "639537"
+        ],
+        "spl_id": [
+          "4079c843-42ee-4f7a-a4a0-9498ba6cf12d",
+          "400810c5-9f59-4285-a3f6-fa98bba0c6a0"
+        ],
+        "spl_set_id": [
+          "8ceb5658-b03c-475d-9ef0-2cd0645191d3",
+          "880f685f-be01-42f4-9e76-ebd1fcfb1f77"
+        ],
+        "package_ndc": [
+          "33342-114-07",
+          "33342-114-51",
+          "33342-114-12",
+          "33342-114-10",
+          "33342-115-07",
+          "33342-115-51",
+          "33342-115-12",
+          "33342-115-10",
+          "33342-116-07",
+          "33342-116-51",
+          "33342-116-12",
+          "33342-116-10",
+          "33342-117-07",
+          "33342-117-51",
+          "33342-117-12",
+          "33342-117-10",
+          "72603-720-01",
+          "72603-721-01"
+        ],
+        "unii": [
+          "R85M2X0D68"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "16MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "4MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "8MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20171127",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20210430",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA203466",
+      "sponsor_name": "ZYDUS LIFESCIENCES",
+      "openfda": {
+        "application_number": [
+          "ANDA203466"
+        ],
+        "brand_name": [
+          "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE"
+        ],
+        "generic_name": [
+          "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "Zydus Lifesciences Limited"
+        ],
+        "product_ndc": [
+          "70771-1325",
+          "70771-1326",
+          "70771-1327"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CANDESARTAN CILEXETIL",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "578325",
+          "578330",
+          "802749"
+        ],
+        "spl_id": [
+          "2b38d778-d732-4a7b-bb34-b426a14e10bc"
+        ],
+        "spl_set_id": [
+          "cb328bc1-5738-4620-b2b3-442e98388a86"
+        ],
+        "package_ndc": [
+          "70771-1325-3",
+          "70771-1325-9",
+          "70771-1325-0",
+          "70771-1325-1",
+          "70771-1325-2",
+          "70771-1325-4",
+          "70771-1326-2",
+          "70771-1326-4",
+          "70771-1326-0",
+          "70771-1326-1",
+          "70771-1326-9",
+          "70771-1326-3",
+          "70771-1327-3",
+          "70771-1327-9",
+          "70771-1327-1",
+          "70771-1327-0",
+          "70771-1327-2",
+          "70771-1327-4"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "unii": [
+          "R85M2X0D68",
+          "0J48LPH2TH"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "16MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20121204",
+          "application_docs": [
+            {
+              "id": "31489",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/090704Orig1s000ltr.pdf",
+              "date": "20121206",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20210513",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20150819",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20150819",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20210513",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA090704",
+      "sponsor_name": "PHARMOBEDIENT",
+      "openfda": {
+        "application_number": [
+          "ANDA090704"
+        ],
+        "brand_name": [
+          "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE"
+        ],
+        "generic_name": [
+          "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "Mylan Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "0378-3001",
+          "0378-3002",
+          "0378-3003"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CANDESARTAN CILEXETIL",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "578325",
+          "578330",
+          "802749"
+        ],
+        "spl_id": [
+          "b308024b-d9c2-4b12-ac28-cb2e295ab1bf"
+        ],
+        "spl_set_id": [
+          "f3c4f7ed-e667-4528-a675-b032c2a4425d"
+        ],
+        "package_ndc": [
+          "0378-3001-77",
+          "0378-3002-77",
+          "0378-3003-77"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "unii": [
+          "R85M2X0D68",
+          "0J48LPH2TH"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "16MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170823",
+          "application_docs": [
+            {
+              "id": "49579",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/091390Orig1s000ltr.pdf",
+              "date": "20170829",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20240402",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA091390",
+      "sponsor_name": "ZYDUS LIFESCIENCES",
+      "openfda": {
+        "application_number": [
+          "ANDA091390"
+        ],
+        "brand_name": [
+          "CANDESARTAN CILEXETIL"
+        ],
+        "generic_name": [
+          "CANDESARTAN CILEXETIL"
+        ],
+        "manufacturer_name": [
+          "Viona Pharmaceuticals Inc",
+          "Zydus Lifesciences Limited"
+        ],
+        "product_ndc": [
+          "72578-157",
+          "72578-158",
+          "72578-159",
+          "72578-160",
+          "70771-1204",
+          "70771-1205",
+          "70771-1206",
+          "70771-1207"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CANDESARTAN CILEXETIL"
+        ],
+        "rxcui": [
+          "153822",
+          "153823",
+          "577776",
+          "639537"
+        ],
+        "spl_id": [
+          "4093b082-6e7b-4dea-b659-69b0b9bc84e0",
+          "c7bdc8a6-d668-43d8-b824-8d83bbe6664d"
+        ],
+        "spl_set_id": [
+          "9da86c48-5911-4512-8c71-eca4a6418cf6",
+          "26df3269-3682-4ce0-be81-8c029254b5a8"
+        ],
+        "package_ndc": [
+          "72578-157-06",
+          "72578-157-16",
+          "72578-158-06",
+          "72578-158-16",
+          "72578-159-06",
+          "72578-159-16",
+          "72578-160-06",
+          "72578-160-16",
+          "70771-1204-3",
+          "70771-1204-9",
+          "70771-1205-3",
+          "70771-1205-9",
+          "70771-1206-3",
+          "70771-1206-9",
+          "70771-1207-3",
+          "70771-1207-9"
+        ],
+        "unii": [
+          "R85M2X0D68"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "8MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "16MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "4MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140110",
+          "submission_class_code": "N/A",
+          "submission_class_code_description": "Not Applicable"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20160212",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA202079",
+      "sponsor_name": "APOTEX",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "16MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "4MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "8MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20030122",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "26013",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20838slr017ltr.pdf",
+              "date": "20040527",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "20091022",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "51274",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/020838_candesartan_Original_WR.pdf",
+              "date": "19990315",
+              "type": "Pediatric Written Request"
+            },
+            {
+              "id": "51275",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/20838_candesartan_Amendment_1.pdf",
+              "date": "20031102",
+              "type": "Pediatric Amendment 1"
+            },
+            {
+              "id": "51276",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/020838_candesartan_Amendment_2_WR.pdf",
+              "date": "20030108",
+              "type": "Pediatric Amendment 2"
+            },
+            {
+              "id": "51277",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/020838_candesartan_Amendment_3_WR.pdf",
+              "date": "20040827",
+              "type": "Pediatric Amendment 3"
+            },
+            {
+              "id": "51278",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/020838_candesartan_Amendment_4_WR.pdf",
+              "date": "20050315",
+              "type": "Pediatric Amendment 4"
+            },
+            {
+              "id": "51279",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/https://www.fda.gov/downloads/Drugs/DevelopmentApprovalProcess/DevelopmentResources/UCM176534.pdf",
+              "date": "20070130",
+              "type": "Pediatric Amendment 5"
+            },
+            {
+              "id": "26015",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/020838s031ltr.pdf",
+              "date": "20091105",
+              "type": "Letter"
+            },
+            {
+              "id": "35482",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/020838s031lbl.pdf",
+              "date": "20091023",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20041216",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3525",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/20838s023ltr.pdf",
+              "date": "20041230",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20020913",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "35480",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2002/20838s015lbl.pdf",
+              "date": "20020913",
+              "type": "Label"
+            },
+            {
+              "id": "41744",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/20838s015_Atacand.html",
+              "date": "20040527",
+              "type": "Review"
+            },
+            {
+              "id": "26012",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20838se4-015ltr.pdf",
+              "date": "20020913",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20010329",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20010402",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20000614",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "21001",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20838-s008_atacand.pdf",
+              "date": "20040527",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19991208",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "38",
+          "submission_status": "AP",
+          "submission_status_date": "20130426",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "26018",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/020838Orig1s038ltr.pdf",
+              "date": "20130430",
+              "type": "Letter"
+            },
+            {
+              "id": "35485",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/020838s038lbl.pdf",
+              "date": "20130429",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19990728",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "36",
+          "submission_status": "AP",
+          "submission_status_date": "20150206",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "13576",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/020838s036lbl.pdf",
+              "date": "20150209",
+              "type": "Label"
+            },
+            {
+              "id": "26017",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/020838Orig1s036ltr.pdf",
+              "date": "20150210",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19981116",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20060817",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3526",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/020838s026LTR.pdf",
+              "date": "20060821",
+              "type": "Letter"
+            },
+            {
+              "id": "35481",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020838s026lbl.pdf",
+              "date": "20060821",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "32",
+          "submission_status": "AP",
+          "submission_status_date": "20120413",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "13575",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020838s032lbl.pdf",
+              "date": "20120417",
+              "type": "Label"
+            },
+            {
+              "id": "3527",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020838s032ltr.pdf",
+              "date": "20120416",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19980604",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "35479",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/1998/20838lbl.pdf",
+              "date": "19980604",
+              "type": "Label"
+            },
+            {
+              "id": "44075",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/InformationbyDrugClass/ucm218897.htm",
+              "date": "20111222",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "54097",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/020838_Candesartan_Clinical_BPCA.pdf",
+              "date": "19000101",
+              "type": "Pediatric Medical Review"
+            },
+            {
+              "id": "54098",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/020838_Candesartan_Clinpharm_BPCA.pdf",
+              "date": "19000101",
+              "type": "Pediatric Clinical Pharmacology Review"
+            },
+            {
+              "id": "54099",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/020838_Candesartan_Statisitical_BPCA.pdf",
+              "date": "19000101",
+              "type": "Pediatric Statistical Review"
+            },
+            {
+              "id": "63875",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/20838_candesartan_Amendment_1.pdf",
+              "date": "19000101",
+              "type": "Pediatric Amendment 1"
+            },
+            {
+              "id": "63876",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/020838-Candesartan-Original-WR.pdf",
+              "date": "19000101",
+              "type": "Pediatric Written Request"
+            },
+            {
+              "id": "63877",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/020838-Candesartan-Amendment-2-WR.pdf",
+              "date": "19000101",
+              "type": "Pediatric Amendment 2"
+            },
+            {
+              "id": "63878",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/020838-Candesartan-Amendment-3-WR.pdf",
+              "date": "19000101",
+              "type": "Pediatric Amendment 3"
+            },
+            {
+              "id": "63879",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/020838-Candesartan-Amendment-4-WR.pdf",
+              "date": "19000101",
+              "type": "Pediatric Amendment 4"
+            },
+            {
+              "id": "63880",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/020838_candesartan_Amendment_5_WR.pdf",
+              "date": "19000101",
+              "type": "Pediatric Amendment 5"
+            },
+            {
+              "id": "21000",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20838_Atacand.html",
+              "date": "20030522",
+              "type": "Review"
+            },
+            {
+              "id": "26011",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1998/20838ltr.pdf",
+              "date": "19980604",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20050222",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "13574",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/20838s024lbl.pdf",
+              "date": "20050223",
+              "type": "Label"
+            },
+            {
+              "id": "26014",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/20838s024ltr.pdf",
+              "date": "20050223",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20011128",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20050518",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "13573",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/020838s022lbl.pdf",
+              "date": "20050520",
+              "type": "Label"
+            },
+            {
+              "id": "3524",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/020838s022ltr.pdf",
+              "date": "20050520",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20011004",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20010524",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20010607",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20001227",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "39",
+          "submission_status": "AP",
+          "submission_status_date": "20160209",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3529",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/020838Orig1s039ltr.pdf",
+              "date": "20160211",
+              "type": "Letter"
+            },
+            {
+              "id": "13577",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/020838s039lbl.pdf",
+              "date": "20160211",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19990811",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "20130221",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "20120427",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3528",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/020838s035ltr.pdf",
+              "date": "20120502",
+              "type": "Letter"
+            },
+            {
+              "id": "35484",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020838s035lbl.pdf",
+              "date": "20120501",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19981207",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "41",
+          "submission_status": "AP",
+          "submission_status_date": "20200624",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "63695",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/020838s041lbl.pdf",
+              "date": "20200625",
+              "type": "Label"
+            },
+            {
+              "id": "63699",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/020838Orig1s041ltr.pdf",
+              "date": "20200625",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20030423",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3523",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20838slr019ltr.pdf",
+              "date": "20030529",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "33",
+          "submission_status": "AP",
+          "submission_status_date": "20110624",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "35483",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020838s033lbl.pdf",
+              "date": "20110628",
+              "type": "Label"
+            },
+            {
+              "id": "26016",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/020838s033ltr.pdf",
+              "date": "20110705",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020838",
+      "sponsor_name": "ANI PHARMS",
+      "openfda": {
+        "application_number": [
+          "NDA020838"
+        ],
+        "brand_name": [
+          "ATACAND",
+          "CANDESARTAN CILEXETIL"
+        ],
+        "generic_name": [
+          "CANDESARTAN CILEXETIL"
+        ],
+        "manufacturer_name": [
+          "ANI Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "62559-640",
+          "62559-641",
+          "62559-642",
+          "62559-643",
+          "62559-686",
+          "62559-687",
+          "62559-688",
+          "62559-689"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CANDESARTAN CILEXETIL"
+        ],
+        "rxcui": [
+          "153822",
+          "153823",
+          "577776",
+          "577785",
+          "577787",
+          "639537",
+          "639539",
+          "639543"
+        ],
+        "spl_id": [
+          "6ae461eb-f06a-4bf1-b6da-73d66b99b33c",
+          "9cfa9177-a7c4-416c-9328-dfdb4f27bfde"
+        ],
+        "spl_set_id": [
+          "94a59260-d2b6-464a-b5b9-bbc599e57e10",
+          "4621249c-1f44-4d95-8513-a1a2b1859e41"
+        ],
+        "package_ndc": [
+          "62559-640-30",
+          "62559-641-30",
+          "62559-642-30",
+          "62559-642-90",
+          "62559-643-30",
+          "62559-643-90",
+          "62559-686-99",
+          "62559-687-99",
+          "62559-688-99",
+          "62559-689-98"
+        ],
+        "unii": [
+          "R85M2X0D68"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "ATACAND",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "16MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ATACAND",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "4MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "ATACAND",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "ATACAND",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "8MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230821",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA206233",
+      "sponsor_name": "PRINSTON INC",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "16MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "8MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20210304",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20181204",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210302",
+      "sponsor_name": "ALEMBIC",
+      "openfda": {
+        "application_number": [
+          "ANDA210302"
+        ],
+        "brand_name": [
+          "CANDESARTAN CILEXETIL"
+        ],
+        "generic_name": [
+          "CANDESARTAN CILEXETIL"
+        ],
+        "manufacturer_name": [
+          "Alembic Pharmaceuticals Limited",
+          "Alembic Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "46708-341",
+          "46708-342",
+          "46708-343",
+          "62332-341",
+          "62332-342",
+          "62332-343"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CANDESARTAN CILEXETIL"
+        ],
+        "rxcui": [
+          "153822",
+          "153823",
+          "577776"
+        ],
+        "spl_id": [
+          "aaa63206-6c7d-4996-8991-91bfdb69b821",
+          "5a3c0018-b0e2-4fe7-bec7-c075f50833ec"
+        ],
+        "spl_set_id": [
+          "d5b43fa0-6678-4219-99f1-10d273d49baf",
+          "8a515af5-bd53-43f1-b40a-aa0f332bc2ab"
+        ],
+        "package_ndc": [
+          "46708-341-30",
+          "46708-341-90",
+          "46708-341-91",
+          "46708-342-30",
+          "46708-342-90",
+          "46708-342-91",
+          "46708-343-30",
+          "46708-343-90",
+          "46708-343-91",
+          "62332-341-30",
+          "62332-341-90",
+          "62332-341-91",
+          "62332-342-30",
+          "62332-342-90",
+          "62332-342-91",
+          "62332-343-30",
+          "62332-343-90",
+          "62332-343-91"
+        ],
+        "unii": [
+          "R85M2X0D68"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "16MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "4MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "8MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180411",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20210513",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA207455",
+      "sponsor_name": "PRINSTON INC",
+      "openfda": {
+        "application_number": [
+          "ANDA207455"
+        ],
+        "brand_name": [
+          "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE"
+        ],
+        "generic_name": [
+          "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "Solco Healthcare LLC"
+        ],
+        "product_ndc": [
+          "43547-459",
+          "43547-460",
+          "43547-461"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CANDESARTAN CILEXETIL",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "578325",
+          "578330",
+          "802749"
+        ],
+        "spl_id": [
+          "745438ab-c3fe-4da9-9548-730970399e0d"
+        ],
+        "spl_set_id": [
+          "543b9806-ccfa-4144-a2a2-d0e35eaceeee"
+        ],
+        "package_ndc": [
+          "43547-459-09",
+          "43547-459-50",
+          "43547-460-09",
+          "43547-460-50",
+          "43547-461-09",
+          "43547-461-50"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "unii": [
+          "R85M2X0D68",
+          "0J48LPH2TH"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "16MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20121204",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "32332",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/202884Orig1s000ltr.pdf",
+              "date": "20121206",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20160212",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20130603",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA202884",
+      "sponsor_name": "APOTEX INC",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "16MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "TA",
+          "submission_status_date": "20121211"
+        }
+      ],
+      "application_number": "ANDA200887",
+      "sponsor_name": "TEVA PHARMS USA",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL; HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL; HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            }
+          ],
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL; HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "16MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20160209",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "4322",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/021093Orig1s019ltr.pdf",
+              "date": "20160211",
+              "type": "Letter"
+            },
+            {
+              "id": "14381",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/021093s019lbl.pdf",
+              "date": "20160304",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20060817",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "14378",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021093s006lbl.pdf",
+              "date": "20060818",
+              "type": "Label"
+            },
+            {
+              "id": "26757",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/021093s006LTR.pdf",
+              "date": "20060818",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20041216",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "4316",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/21093s004ltr.pdf",
+              "date": "20041230",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20120329",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "4319",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/021093s015ltr.pdf",
+              "date": "20120402",
+              "type": "Letter"
+            },
+            {
+              "id": "36106",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021093s015lbl.pdf",
+              "date": "20120329",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20020703",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20200820",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "64381",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/021093Orig1s021ltr.pdf",
+              "date": "20200824",
+              "type": "Letter"
+            },
+            {
+              "id": "64429",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/021093s021lbl.pdf",
+              "date": "20200827",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20110614",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "4318",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021093s013ltr.pdf",
+              "date": "20110617",
+              "type": "Letter"
+            },
+            {
+              "id": "36105",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021093s013lbl.pdf",
+              "date": "20110616",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20130426",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "36107",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021093s018lbl.pdf",
+              "date": "20130429",
+              "type": "Label"
+            },
+            {
+              "id": "4321",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/021093Orig1s018ltr.pdf",
+              "date": "20130430",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20150209",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "4320",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/021093Orig1s016ltr.pdf",
+              "date": "20150210",
+              "type": "Letter"
+            },
+            {
+              "id": "14380",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/021093s016lbl.pdf",
+              "date": "20150210",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20011128",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20110311",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "14379",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021093s012lbl.pdf",
+              "date": "20110311",
+              "type": "Label"
+            },
+            {
+              "id": "4317",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/019888s049,021093s012ltr.pdf",
+              "date": "20110316",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000905",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 4",
+          "submission_class_code_description": "Type 4 - New Combination",
+          "application_docs": [
+            {
+              "id": "44096",
+              "url": "http://www.fda.gov/Drugs/DrugSafety/InformationbyDrugClass/ucm218897.htm",
+              "date": "20111222",
+              "type": "Other Important Information from FDA"
+            },
+            {
+              "id": "14377",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2000/21093lbl.pdf",
+              "date": "20000905",
+              "type": "Label"
+            },
+            {
+              "id": "21446",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-093_AtacandHCT.html",
+              "date": "20040527",
+              "type": "Review"
+            },
+            {
+              "id": "26756",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/21093ltr.pdf",
+              "date": "20000905",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20080516",
+          "review_priority": "N/A",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "26758",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/021093s008ltr.pdf",
+              "date": "20080520",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA021093",
+      "sponsor_name": "ANI PHARMS",
+      "openfda": {
+        "application_number": [
+          "NDA021093"
+        ],
+        "brand_name": [
+          "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE",
+          "ATACAND HCT"
+        ],
+        "generic_name": [
+          "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "ANI Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "62559-660",
+          "62559-661",
+          "62559-662",
+          "62559-650",
+          "62559-651",
+          "62559-652"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CANDESARTAN CILEXETIL",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "578325",
+          "578330",
+          "802749",
+          "805855",
+          "805859",
+          "805863"
+        ],
+        "spl_id": [
+          "f88f68dc-85bd-494d-b111-07701c619ea5",
+          "512f014c-894d-43ff-96a6-1ff05bc476e6"
+        ],
+        "spl_set_id": [
+          "bd8d318d-167a-4b26-935d-265dde3193de",
+          "d91152c4-66ba-466f-b4f9-0da628d42b1d"
+        ],
+        "package_ndc": [
+          "62559-660-90",
+          "62559-661-90",
+          "62559-662-90",
+          "62559-650-90",
+          "62559-651-90",
+          "62559-652-90"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "unii": [
+          "R85M2X0D68",
+          "0J48LPH2TH"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "ATACAND HCT",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "ATACAND HCT",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ATACAND HCT",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "16MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20130603",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA202965",
+      "sponsor_name": "SENORES PHARMS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "16MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150227",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160623",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20210513",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20160623",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA204100",
+      "sponsor_name": "MACLEODS PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA204100"
+        ],
+        "brand_name": [
+          "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE"
+        ],
+        "generic_name": [
+          "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE"
+        ],
+        "manufacturer_name": [
+          "Macleods Pharmaceuticals Limited"
+        ],
+        "product_ndc": [
+          "33342-131",
+          "33342-132",
+          "33342-133"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CANDESARTAN CILEXETIL",
+          "HYDROCHLOROTHIAZIDE"
+        ],
+        "rxcui": [
+          "578325",
+          "578330",
+          "802749"
+        ],
+        "spl_id": [
+          "07873250-a90d-4e06-bfa8-a4202794791d"
+        ],
+        "spl_set_id": [
+          "76630807-9717-44be-946d-756038cf677e"
+        ],
+        "package_ndc": [
+          "33342-131-12",
+          "33342-131-10",
+          "33342-131-51",
+          "33342-131-15",
+          "33342-132-12",
+          "33342-132-10",
+          "33342-132-51",
+          "33342-132-15",
+          "33342-133-12",
+          "33342-133-10",
+          "33342-133-51",
+          "33342-133-15"
+        ],
+        "nui": [
+          "N0000175359",
+          "N0000175419",
+          "M0471776"
+        ],
+        "pharm_class_pe": [
+          "Increased Diuresis [PE]"
+        ],
+        "pharm_class_epc": [
+          "Thiazide Diuretic [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Thiazides [CS]"
+        ],
+        "unii": [
+          "R85M2X0D68",
+          "0J48LPH2TH"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "32MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE",
+          "active_ingredients": [
+            {
+              "name": "CANDESARTAN CILEXETIL",
+              "strength": "16MG"
+            },
+            {
+              "name": "HYDROCHLOROTHIAZIDE",
+              "strength": "12.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    }
+  ]
+}

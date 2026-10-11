@@ -1,0 +1,2332 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 18
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160921",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "45478",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/204120Orig1s000ltr.pdf",
+              "date": "20160926",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20190827",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA204120",
+      "sponsor_name": "HOSPIRA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ARGATROBAN",
+          "active_ingredients": [
+            {
+              "name": "ARGATROBAN",
+              "strength": "250MG/2.5ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230731",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA217848",
+      "sponsor_name": "GLAND",
+      "openfda": {
+        "application_number": [
+          "ANDA217848"
+        ],
+        "brand_name": [
+          "ARGATROBAN"
+        ],
+        "generic_name": [
+          "ARGATROBAN"
+        ],
+        "manufacturer_name": [
+          "Mullan Pharmaceutical Inc.",
+          "Gland Pharma Limited"
+        ],
+        "product_ndc": [
+          "83301-0062",
+          "68083-568",
+          "83301-0500"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ARGATROBAN"
+        ],
+        "rxcui": [
+          "1804735"
+        ],
+        "spl_id": [
+          "5454d4f3-2931-ab28-e063-6394a90a8bf3",
+          "aef05b20-ddc7-48bd-b0b9-8528d15afde9",
+          "54653390-29a8-71ad-e063-6394a90a1fcb"
+        ],
+        "spl_set_id": [
+          "50e21062-f021-40f2-ad11-896f46378a15",
+          "270dbb59-e080-4a64-91d9-a68bed4bd2e5",
+          "546484ed-afab-b47b-e063-6394a90aa52d"
+        ],
+        "package_ndc": [
+          "83301-0062-1",
+          "68083-568-01",
+          "83301-0500-1"
+        ],
+        "nui": [
+          "N0000175980",
+          "N0000175518",
+          "N0000009963"
+        ],
+        "pharm_class_epc": [
+          "Anti-coagulant [EPC]",
+          "Direct Thrombin Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Thrombin Inhibitors [MoA]"
+        ],
+        "unii": [
+          "IY90U61Z3S"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ARGATROBAN",
+          "active_ingredients": [
+            {
+              "name": "ARGATROBAN",
+              "strength": "50MG/50ML (1MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20141016",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20260515",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "85961",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/203049Orig1s016ltr.pdf",
+              "date": "20260519",
+              "type": "Letter"
+            },
+            {
+              "id": "85969",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/203049s016lbl.pdf",
+              "date": "20260519",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20160930",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "45448",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/203049Orig1s004ltr.pdf",
+              "date": "20161003",
+              "type": "Letter"
+            },
+            {
+              "id": "45582",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/203049s004lbl.pdf",
+              "date": "20161006",
+              "type": "Label"
+            },
+            {
+              "id": "48862",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/203049Orig1s004.pdf",
+              "date": "20170629",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20130213",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20200422",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "62645",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/203049s007lbl.pdf",
+              "date": "20200423",
+              "type": "Label"
+            },
+            {
+              "id": "62650",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/203049Orig1s007ltr.pdf",
+              "date": "20200423",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20160526",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "19414",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/203049s005lbl.pdf",
+              "date": "20160601",
+              "type": "Label"
+            },
+            {
+              "id": "32362",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/203049Orig1s005ltr.pdf",
+              "date": "20160527",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20120105",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "application_docs": [
+            {
+              "id": "40254",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/203049s000lbl.pdf",
+              "date": "20120106",
+              "type": "Label"
+            },
+            {
+              "id": "22907",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2012/203049_argatroban_toc.html",
+              "date": "20130604",
+              "type": "Review"
+            },
+            {
+              "id": "24424",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2012/203049Orig1s000SumR.pdf",
+              "date": "20130604",
+              "type": "Summary Review"
+            },
+            {
+              "id": "32361",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/203049s000ltr.pdf",
+              "date": "20120109",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA203049",
+      "sponsor_name": "HIKMA PHARM CO LTD",
+      "openfda": {
+        "application_number": [
+          "NDA203049"
+        ],
+        "brand_name": [
+          "ARGATROBAN"
+        ],
+        "generic_name": [
+          "ARGATROBAN"
+        ],
+        "manufacturer_name": [
+          "Hikma Pharmaceuticals USA Inc."
+        ],
+        "product_ndc": [
+          "0143-9377",
+          "0143-9288",
+          "0143-9559",
+          "0143-9674"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ARGATROBAN"
+        ],
+        "rxcui": [
+          "1804735",
+          "308351"
+        ],
+        "spl_id": [
+          "064bb5bf-9eeb-4c32-991f-bdf6a468a81c",
+          "6dc32247-fa53-4948-a7fb-f7e71051a62a",
+          "6581f4f1-6a34-4f92-8e37-7587f75c4e71"
+        ],
+        "spl_set_id": [
+          "41f56fe7-4824-4032-aa73-cfb4f8db2252",
+          "79eec27d-ac63-4996-8b1a-c2cd52ad2b2c",
+          "0cdf3f67-5bf3-4d58-b330-03febdc652bf"
+        ],
+        "package_ndc": [
+          "0143-9377-01",
+          "0143-9288-01",
+          "0143-9674-01",
+          "0143-9559-01"
+        ],
+        "nui": [
+          "N0000175980",
+          "N0000175518",
+          "N0000009963"
+        ],
+        "pharm_class_epc": [
+          "Anti-coagulant [EPC]",
+          "Direct Thrombin Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Thrombin Inhibitors [MoA]"
+        ],
+        "unii": [
+          "IY90U61Z3S"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "ARGATROBAN",
+          "active_ingredients": [
+            {
+              "name": "ARGATROBAN",
+              "strength": "50MG/50ML (1MG/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ARGATROBAN",
+          "active_ingredients": [
+            {
+              "name": "ARGATROBAN",
+              "strength": "250MG/2.5ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140630"
+        }
+      ],
+      "application_number": "ANDA091665",
+      "sponsor_name": "PH HEALTH",
+      "openfda": {
+        "application_number": [
+          "ANDA091665"
+        ],
+        "brand_name": [
+          "ARGATROBAN"
+        ],
+        "generic_name": [
+          "ARGATROBAN"
+        ],
+        "manufacturer_name": [
+          "Par Health USA, LLC"
+        ],
+        "product_ndc": [
+          "42023-182"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ARGATROBAN"
+        ],
+        "rxcui": [
+          "308351"
+        ],
+        "spl_id": [
+          "493ddc78-4566-486f-8cdd-7d6868ddf153",
+          "05c8d32d-744b-4758-a94e-d912f410bbf7"
+        ],
+        "spl_set_id": [
+          "1a67a87d-59cb-414c-a11e-ab8f0a9bb778",
+          "d4e5238f-2378-424e-bda2-f1a2cf874041"
+        ],
+        "package_ndc": [
+          "42023-182-89",
+          "42023-182-01"
+        ],
+        "nui": [
+          "N0000175980",
+          "N0000175518",
+          "N0000009963"
+        ],
+        "pharm_class_epc": [
+          "Anti-coagulant [EPC]",
+          "Direct Thrombin Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Thrombin Inhibitors [MoA]"
+        ],
+        "unii": [
+          "IY90U61Z3S"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ARGATROBAN",
+          "active_ingredients": [
+            {
+              "name": "ARGATROBAN",
+              "strength": "250MG/2.5ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20260610",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "86224",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/209552Orig1s008ltr.pdf",
+              "date": "20260611",
+              "type": "Letter"
+            },
+            {
+              "id": "86299",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/209552s008lbl.pdf",
+              "date": "20260622",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20181127",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "application_docs": [
+            {
+              "id": "56810",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/209552Orig1s000ltr.pdf",
+              "date": "20181219",
+              "type": "Letter"
+            },
+            {
+              "id": "57036",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/209552Orig1s000TOC.html",
+              "date": "20181226",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA209552",
+      "sponsor_name": "EUGIA PHARMA SPECLTS",
+      "openfda": {
+        "application_number": [
+          "NDA209552"
+        ],
+        "brand_name": [
+          "ARGATROBAN"
+        ],
+        "generic_name": [
+          "ARGATROBAN"
+        ],
+        "manufacturer_name": [
+          "Eugia US LLC"
+        ],
+        "product_ndc": [
+          "55150-241"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ARGATROBAN"
+        ],
+        "rxcui": [
+          "1804735"
+        ],
+        "spl_id": [
+          "22fd3221-0cbe-4fc2-b4ca-e93faa99b8c0"
+        ],
+        "spl_set_id": [
+          "d9b975bd-e3f4-466e-96ca-7bef7899506d"
+        ],
+        "package_ndc": [
+          "55150-241-10",
+          "55150-241-01"
+        ],
+        "nui": [
+          "N0000175980",
+          "N0000175518",
+          "N0000009963"
+        ],
+        "pharm_class_epc": [
+          "Anti-coagulant [EPC]",
+          "Direct Thrombin Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Thrombin Inhibitors [MoA]"
+        ],
+        "unii": [
+          "IY90U61Z3S"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ARGATROBAN IN SODIUM CHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ARGATROBAN",
+              "strength": "50MG/50ML (1MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20250617",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20210121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "66060",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/214235Orig1s000ltr.pdf",
+              "date": "20210202",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA214235",
+      "sponsor_name": "CAPLIN",
+      "openfda": {
+        "application_number": [
+          "ANDA214235"
+        ],
+        "brand_name": [
+          "ARGATROBAN"
+        ],
+        "generic_name": [
+          "ARGATROBAN"
+        ],
+        "manufacturer_name": [
+          "Fresenius Kabi USA, LLC",
+          "Caplin Steriles Limited",
+          "Sagent Pharmaceuticals"
+        ],
+        "product_ndc": [
+          "65219-429",
+          "65145-126",
+          "25021-414"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ARGATROBAN"
+        ],
+        "rxcui": [
+          "1804735"
+        ],
+        "spl_id": [
+          "c650fddc-9627-4dc0-af04-8a7d6e423da9",
+          "b36d78fb-27ca-45cf-a980-335364fe53c0",
+          "7e553d26-bce8-422f-a49d-a9f87e158e38"
+        ],
+        "spl_set_id": [
+          "dfa5d325-f609-4c9a-aaae-1a17df47da1e",
+          "b5143563-ff45-433a-a9e2-f8b8340db1f5",
+          "629aee90-3bf3-4947-a978-21cbba2e1c41"
+        ],
+        "package_ndc": [
+          "65219-429-50",
+          "65145-126-01",
+          "25021-414-50"
+        ],
+        "nui": [
+          "N0000175980",
+          "N0000175518",
+          "N0000009963"
+        ],
+        "pharm_class_epc": [
+          "Anti-coagulant [EPC]",
+          "Direct Thrombin Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Thrombin Inhibitors [MoA]"
+        ],
+        "unii": [
+          "IY90U61Z3S"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ARGATROBAN",
+          "active_ingredients": [
+            {
+              "name": "ARGATROBAN",
+              "strength": "50MG/50ML (1MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "TA",
+          "submission_status_date": "20100728",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "application_docs": [
+            {
+              "id": "29642",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/022359s000TAltr.pdf",
+              "date": "20100809",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA022359",
+      "sponsor_name": "BAXTER HLTHCARE CORP",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ARGATROBAN",
+          "active_ingredients": [
+            {
+              "name": "ARGATROBAN",
+              "strength": "250MG/250ML"
+            }
+          ],
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "None (Tentative Approval)"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20020701",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20000822",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20170808",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "49290",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020883s019lbl.pdf",
+              "date": "20170809",
+              "type": "Label"
+            },
+            {
+              "id": "49363",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/020883Orig1s019ltr.pdf",
+              "date": "20170815",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20160126",
+          "review_priority": "N/A",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20260616",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "86284",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/020883Orig1s021ltr.pdf",
+              "date": "20260617",
+              "type": "Letter"
+            },
+            {
+              "id": "86285",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/020883s021lbl.pdf",
+              "date": "20260617",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20020403",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "35568",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2002/20883s4lbl.pdf",
+              "date": "20020403",
+              "type": "Label"
+            },
+            {
+              "id": "26119",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20883s4ltr.pdf",
+              "date": "20020403",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20160525",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "26122",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/020883Orig1s018ltr.pdf",
+              "date": "20160527",
+              "type": "Letter"
+            },
+            {
+              "id": "35569",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/020883s018lbl.pdf",
+              "date": "20160601",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000630",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "3644",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/20883ltr.pdf",
+              "date": "20000630",
+              "type": "Letter"
+            },
+            {
+              "id": "53179",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/020883se8-014_Argatroban_Clinical_PREA.pdf",
+              "date": "19000101",
+              "type": "Pediatric Medical Review"
+            },
+            {
+              "id": "53180",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/020883se8-014_Argatroban_Clinpharm_PREA.pdf",
+              "date": "19000101",
+              "type": "Pediatric Clinical Pharmacology Review"
+            },
+            {
+              "id": "13664",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2000/20883lbl.pdf",
+              "date": "20000630",
+              "type": "Label"
+            },
+            {
+              "id": "21040",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-883_Acova.html",
+              "date": "20020405",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20140310",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3647",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/020883Orig1s016ltr.pdf",
+              "date": "20140311",
+              "type": "Letter"
+            },
+            {
+              "id": "13666",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/020883s016lbl.pdf",
+              "date": "20140311",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20080505",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "13665",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/020883s014lbl.pdf",
+              "date": "20080519",
+              "type": "Label"
+            },
+            {
+              "id": "24183",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/summary_review/2008/020883se8-014_sumr.pdf",
+              "date": "20080716",
+              "type": "Summary Review"
+            },
+            {
+              "id": "26121",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/020883se8-014ltr.pdf",
+              "date": "20080508",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20050411",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3646",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/020883s010ltr.pdf",
+              "date": "20050412",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20050901",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "26120",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/020883s009ltr.pdf",
+              "date": "20050908",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20031029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3645",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20883slr007ltr.pdf",
+              "date": "20031113",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020883",
+      "sponsor_name": "SANDOZ",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ARGATROBAN",
+          "active_ingredients": [
+            {
+              "name": "ARGATROBAN",
+              "strength": "250MG/2.5ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180126",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA206698",
+      "sponsor_name": "AMNEAL PHARMS CO",
+      "openfda": {
+        "application_number": [
+          "ANDA206698"
+        ],
+        "brand_name": [
+          "ARGATROBAN"
+        ],
+        "generic_name": [
+          "ARGATROBAN"
+        ],
+        "manufacturer_name": [
+          "Amneal Pharmaceuticals LLC"
+        ],
+        "product_ndc": [
+          "70121-1037"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ARGATROBAN"
+        ],
+        "rxcui": [
+          "308351"
+        ],
+        "spl_id": [
+          "f7911ddf-f082-4900-9504-d45cc15861c0"
+        ],
+        "spl_set_id": [
+          "dedef330-555a-46b7-b1d6-0838b4cd9651"
+        ],
+        "package_ndc": [
+          "70121-1037-1"
+        ],
+        "nui": [
+          "N0000175980",
+          "N0000175518",
+          "N0000009963"
+        ],
+        "pharm_class_epc": [
+          "Anti-coagulant [EPC]",
+          "Direct Thrombin Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Thrombin Inhibitors [MoA]"
+        ],
+        "unii": [
+          "IY90U61Z3S"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ARGATROBAN",
+          "active_ingredients": [
+            {
+              "name": "ARGATROBAN",
+              "strength": "250MG/2.5ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20210607",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "application_docs": [
+            {
+              "id": "57931",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/212035Orig1s000ltr.pdf",
+              "date": "20210608",
+              "type": "Letter"
+            },
+            {
+              "id": "67743",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/212035s000lbl.pdf",
+              "date": "20210608",
+              "type": "Label"
+            },
+            {
+              "id": "69282",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/212035Orig1s000TOC.html",
+              "date": "20211109",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20260731",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "86782",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/212035Orig1s004correctedltr.pdf",
+              "date": "20260804",
+              "type": "Letter"
+            },
+            {
+              "id": "86843",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/212035s004Correctedlbl.pdf",
+              "date": "20260811",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20260521",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "86020",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/212035s003lbl.pdf",
+              "date": "20260526",
+              "type": "Label"
+            },
+            {
+              "id": "86024",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/212035Orig1s003ltr.pdf",
+              "date": "20260526",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA212035",
+      "sponsor_name": "ACCORD HLTHCARE",
+      "openfda": {
+        "application_number": [
+          "NDA212035"
+        ],
+        "brand_name": [
+          "ARGATROBAN"
+        ],
+        "generic_name": [
+          "ARGATROBAN"
+        ],
+        "manufacturer_name": [
+          "Accord Healthcare Inc."
+        ],
+        "product_ndc": [
+          "16729-430"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ARGATROBAN"
+        ],
+        "rxcui": [
+          "1804735"
+        ],
+        "spl_id": [
+          "525900ef-aa6b-7f43-e063-6294a90a27de"
+        ],
+        "spl_set_id": [
+          "46cdf9e6-839c-49c8-9ee1-c30cfdd9368d"
+        ],
+        "package_ndc": [
+          "16729-430-43",
+          "16729-430-11"
+        ],
+        "nui": [
+          "N0000175980",
+          "N0000175518",
+          "N0000009963"
+        ],
+        "pharm_class_epc": [
+          "Anti-coagulant [EPC]",
+          "Direct Thrombin Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Thrombin Inhibitors [MoA]"
+        ],
+        "unii": [
+          "IY90U61Z3S"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ARGATROBAN IN SODIUM CHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ARGATROBAN",
+              "strength": "50MG/50ML (1MG/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20110629",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "application_docs": [
+            {
+              "id": "42527",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/022434_argatroban_toc.html",
+              "date": "20111122",
+              "type": "Review"
+            },
+            {
+              "id": "7397",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022434s000ltr.pdf",
+              "date": "20110706",
+              "type": "Letter"
+            },
+            {
+              "id": "24308",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/022434Orig1s000SumR.pdf",
+              "date": "20111122",
+              "type": "Summary Review"
+            },
+            {
+              "id": "38711",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022434s000lbl.pdf",
+              "date": "20110630",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20150818",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20140909",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "38712",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/022434s006lbl.pdf",
+              "date": "20140911",
+              "type": "Label"
+            },
+            {
+              "id": "7398",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/022434Orig1s006ltr.pdf",
+              "date": "20140910",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20130610",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20191206",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "61205",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/022434Orig1s013ltr.pdf",
+              "date": "20191210",
+              "type": "Letter"
+            },
+            {
+              "id": "61213",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/022434s013lbl.pdf",
+              "date": "20191210",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20180618",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "54641",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/022434Orig1s011ltr.pdf",
+              "date": "20180621",
+              "type": "Letter"
+            },
+            {
+              "id": "54678",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/022434s011lbl.pdf",
+              "date": "20180622",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20150805",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20140116",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20130520",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20260610",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "86228",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/022434Orig1s014ltr.pdf",
+              "date": "20260611",
+              "type": "Letter"
+            },
+            {
+              "id": "86251",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/022434s014lbl.pdf",
+              "date": "20260616",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20160526",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "38713",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/022434s010lbl.pdf",
+              "date": "20160601",
+              "type": "Label"
+            },
+            {
+              "id": "29729",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/022434Orig1s010ltr.pdf",
+              "date": "20160527",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA022434",
+      "sponsor_name": "CIPLA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ARGATROBAN IN SODIUM CHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ARGATROBAN",
+              "strength": "50MG/50ML (1MG/ML) **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170522",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "48643",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/205570Orig1s000ltr.pdf",
+              "date": "20170605",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA205570",
+      "sponsor_name": "GLAND",
+      "openfda": {
+        "application_number": [
+          "ANDA205570"
+        ],
+        "brand_name": [
+          "ARGATROBAN"
+        ],
+        "generic_name": [
+          "ARGATROBAN"
+        ],
+        "manufacturer_name": [
+          "Gland Pharma Limited"
+        ],
+        "product_ndc": [
+          "68083-141"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ARGATROBAN"
+        ],
+        "rxcui": [
+          "1804737"
+        ],
+        "spl_id": [
+          "c07a92fe-93d4-456d-8df2-ce14959116b6"
+        ],
+        "spl_set_id": [
+          "e5ccb93c-f411-4e7e-824a-4a592b4947ec"
+        ],
+        "package_ndc": [
+          "68083-141-01",
+          "68083-141-02"
+        ],
+        "nui": [
+          "N0000175980",
+          "N0000175518",
+          "N0000009963"
+        ],
+        "pharm_class_epc": [
+          "Anti-coagulant [EPC]",
+          "Direct Thrombin Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Thrombin Inhibitors [MoA]"
+        ],
+        "unii": [
+          "IY90U61Z3S"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ARGATROBAN IN SODIUM CHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ARGATROBAN",
+              "strength": "125MG/125ML (1MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20141215",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "application_docs": [
+            {
+              "id": "44948",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/206769Orig1s000SumR.pdf",
+              "date": "20150127",
+              "type": "Summary Review"
+            },
+            {
+              "id": "19735",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/206769s000lbl.pdf",
+              "date": "20141216",
+              "type": "Label"
+            },
+            {
+              "id": "23025",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/206769Orig1s000TOC.html",
+              "date": "20150127",
+              "type": "Review"
+            },
+            {
+              "id": "32826",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/206769Orig1s000ltr.pdf",
+              "date": "20141217",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20260626",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "86411",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/206769Orig1s005ltr.pdf",
+              "date": "20260630",
+              "type": "Letter"
+            },
+            {
+              "id": "86454",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/206769s005lbl.pdf",
+              "date": "20260706",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20170825",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "49537",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/206769s003lbl.pdf",
+              "date": "20170825",
+              "type": "Label"
+            },
+            {
+              "id": "49548",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/206769Orig1s003ltr.pdf",
+              "date": "20170828",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20190729",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "59503",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/206769Orig1s004ltr.pdf",
+              "date": "20190730",
+              "type": "Letter"
+            },
+            {
+              "id": "59516",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/206769s004lbl.pdf",
+              "date": "20190730",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20160525",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40564",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/206769s002lbl.pdf",
+              "date": "20160601",
+              "type": "Label"
+            },
+            {
+              "id": "32827",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/206769Orig1s002ltr.pdf",
+              "date": "20160527",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA206769",
+      "sponsor_name": "TEVA PHARMS USA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ARGATROBAN IN 0.9% SODIUM CHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ARGATROBAN",
+              "strength": "250MG/250ML (1MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20160526",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "38758",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/022485s009lbl.pdf",
+              "date": "20160601",
+              "type": "Label"
+            },
+            {
+              "id": "29772",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/022485Orig1s009ltr.pdf",
+              "date": "20160527",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20151201",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20260925",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "87309",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/022485Orig1s015ltr.pdf",
+              "date": "20260929",
+              "type": "Letter"
+            },
+            {
+              "id": "87346",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/022485s015lbl.pdf",
+              "date": "20261006",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20190429",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "58477",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/022485Orig1s013ltr.pdf",
+              "date": "20190430",
+              "type": "Letter"
+            },
+            {
+              "id": "58480",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/022485s013lbl.pdf",
+              "date": "20190429",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20180703",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "54784",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/022485Orig1s011ltr.pdf",
+              "date": "20180706",
+              "type": "Letter"
+            },
+            {
+              "id": "55862",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/022485s011lbl.pdf",
+              "date": "20181010",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20140911",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20110509",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "application_docs": [
+            {
+              "id": "42536",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/022485_argatroban_toc.html",
+              "date": "20120105",
+              "type": "Review"
+            },
+            {
+              "id": "44760",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/022485Orig1s000SumR.pdf",
+              "date": "20120105",
+              "type": "Summary Review"
+            },
+            {
+              "id": "7456",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022485s000(1)ltr.pdf",
+              "date": "20110512",
+              "type": "Letter"
+            },
+            {
+              "id": "17638",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/022485lbl.pdf",
+              "date": "20110509",
+              "type": "Label"
+            },
+            {
+              "id": "29771",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/022485s000ltr.pdf",
+              "date": "20110119",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA022485",
+      "sponsor_name": "PLANO PHARMS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ARGATROBAN IN SODIUM CHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ARGATROBAN",
+              "strength": "125MG/125ML (1MG/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20180622",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "54718",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/201743s002lbl.pdf",
+              "date": "20180628",
+              "type": "Label"
+            },
+            {
+              "id": "54855",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/201743Orig1s002ltr.pdf",
+              "date": "20180706",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20260603",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "86141",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/201743Orig1s003ltr.pdf",
+              "date": "20260605",
+              "type": "Letter"
+            },
+            {
+              "id": "86169",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/201743s003lbl.pdf",
+              "date": "20260609",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160526",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "9929",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/201743Orig1s001ltr.pdf",
+              "date": "20160527",
+              "type": "Letter"
+            },
+            {
+              "id": "19034",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/201743s001lbl.pdf",
+              "date": "20160601",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20110509",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "application_docs": [
+            {
+              "id": "40085",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/201743lbl.pdf",
+              "date": "20110509",
+              "type": "Label"
+            },
+            {
+              "id": "9928",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/201743s000ltr.pdf",
+              "date": "20110214",
+              "type": "Letter"
+            },
+            {
+              "id": "22856",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/201743_argatroban_toc.html",
+              "date": "20120105",
+              "type": "Review"
+            },
+            {
+              "id": "24401",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/201743Orig1s000SumR.pdf",
+              "date": "20120105",
+              "type": "Summary Review"
+            },
+            {
+              "id": "32135",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/201743s000(1)ltr.pdf",
+              "date": "20110512",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA201743",
+      "sponsor_name": "SANDOZ",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ARGATROBAN IN DEXTROSE",
+          "active_ingredients": [
+            {
+              "name": "ARGATROBAN",
+              "strength": "125MG/125ML (1MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "TA",
+          "submission_status_date": "20101229"
+        }
+      ],
+      "application_number": "ANDA079238",
+      "sponsor_name": "PLIVA HRVATSKA DOO",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ARGATROBAN",
+          "active_ingredients": [
+            {
+              "name": "ARGATROBAN",
+              "strength": "100MG"
+            }
+          ],
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "None (Tentative Approval)"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20151211",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150323",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "application_docs": [
+            {
+              "id": "43374",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2015/201811Orig1s000TOC.html",
+              "date": "20160302",
+              "type": "Review"
+            },
+            {
+              "id": "44838",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2015/201811Orig1s000SumR.pdf",
+              "date": "20160302",
+              "type": "Summary Review"
+            },
+            {
+              "id": "19035",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/201811s000lbl.pdf",
+              "date": "20150414",
+              "type": "Label"
+            },
+            {
+              "id": "32139",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/201811Orig1s000ltr.pdf",
+              "date": "20150325",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20260713",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "86560",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/201811s012lbl.pdf",
+              "date": "20260715",
+              "type": "Label"
+            },
+            {
+              "id": "86600",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/201811Orig1s012ltr.pdf",
+              "date": "20260720",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20180130",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "52278",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/201811Orig1s006ltr.pdf",
+              "date": "20180202",
+              "type": "Letter"
+            },
+            {
+              "id": "52432",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/201811s006lbl.pdf",
+              "date": "20180206",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20160525",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40088",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/201811s003lbl.pdf",
+              "date": "20160601",
+              "type": "Label"
+            },
+            {
+              "id": "9931",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/201811Orig1s003ltr.pdf",
+              "date": "20160527",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA201811",
+      "sponsor_name": "FRESENIUS KABI USA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ARGATROBAN",
+          "active_ingredients": [
+            {
+              "name": "ARGATROBAN",
+              "strength": "250MG/2.5ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20140630",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20230801",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20230801",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA202626",
+      "sponsor_name": "MYLAN INSTITUTIONAL",
+      "openfda": {
+        "application_number": [
+          "ANDA202626"
+        ],
+        "brand_name": [
+          "ARGATROBAN"
+        ],
+        "generic_name": [
+          "ARGATROBAN"
+        ],
+        "manufacturer_name": [
+          "Mylan Institutional LLC"
+        ],
+        "product_ndc": [
+          "67457-212"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ARGATROBAN"
+        ],
+        "rxcui": [
+          "308351"
+        ],
+        "spl_id": [
+          "08b6fbe4-ad4f-45eb-aad5-0b6bac026652"
+        ],
+        "spl_set_id": [
+          "b0dedf95-8395-46bf-b94a-dcf2dd085942"
+        ],
+        "package_ndc": [
+          "67457-212-02"
+        ],
+        "nui": [
+          "N0000175980",
+          "N0000175518",
+          "N0000009963"
+        ],
+        "pharm_class_epc": [
+          "Anti-coagulant [EPC]",
+          "Direct Thrombin Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Thrombin Inhibitors [MoA]"
+        ],
+        "unii": [
+          "IY90U61Z3S"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ARGATROBAN",
+          "active_ingredients": [
+            {
+              "name": "ARGATROBAN",
+              "strength": "250MG/2.5ML (100MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    }
+  ]
+}

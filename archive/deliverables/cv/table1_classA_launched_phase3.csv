@@ -1,0 +1,40 @@
+gene,example_agent,n_agents_for_target,drug_class,indication,highest_phase,blood_tpm,primary_tissue,primary_tissue_tpm,failure_class,required_modality
+ADRA1A,Prazosin,80,Small molecule antagonist,Hypotension,Launched,0.01,liver,13.3,absent from blood eQTL resource,cardiac eQTL
+ADRA1B,Prazosin,71,Small molecule antagonist,Hypotension,Launched,0.0,aorta,28.3,absent from blood eQTL resource,cardiac eQTL
+ADRA1D,Prazosin,72,Small molecule antagonist,Hypotension,Launched,0.01,aorta,10.6,absent from blood eQTL resource,vascular eQTL
+ADRA2B,not in Open Targets,0,—,Hypertension,Launched,,,,absent from blood eQTL resource,UNKNOWN
+ADRA2C,Clonidine,70,Small molecule agonist,Hypertension,Launched,0.05,aorta,194.5,absent from blood eQTL resource,cardiac eQTL
+AGT,Gsk-2586881,1,Unknown hydrolytic enzyme,Hypertension,Launched,0.16,liver,312.6,absent from blood eQTL resource,cardiac eQTL
+AGTR1,Losartan,25,Small molecule antagonist,Heart Failure,Launched,0.03,liver,28.2,absent from blood eQTL resource,cardiac eQTL
+ANGPTL3,Evinacumab,3,Antibody inhibitor,Hyperlipoproteinemia Type II,Launched,0.02,liver,127.7,absent from blood eQTL resource,liver eQTL
+APOB,Mipomersen,2,Oligonucleotide antisense inhibitor,Hyperlipoproteinemia Type II,Launched,0.02,liver,350.4,absent from blood eQTL resource,cardiac eQTL
+APOC3,Olezarsen,3,Oligonucleotide antisense inhibitor,Hyperlipoproteinemia Type I,Launched,0.79,liver,8122.2,absent from blood eQTL resource,liver eQTL
+EDNRA,Bosentan,18,Small molecule antagonist,"Hypertension, Pulmonary",Launched,0.02,aorta,17.0,absent from blood eQTL resource,cardiac eQTL
+EDNRB,Bosentan,11,Small molecule antagonist,Brain Ischemia,Launched,0.53,heart LV,10.4,absent from blood eQTL resource,cardiac eQTL
+F2,Desirudin,14,Protein inhibitor,Brain Ischemia,Launched,0.09,liver,598.4,absent from blood eQTL resource,liver eQTL
+IL1B,Rilonacept,5,Protein inhibitor,Atherosclerosis,Launched,29.49,aorta,1.2,"tested, no usable signal",vascular eQTL
+ITGA2B,Abciximab,6,Antibody inhibitor,Coronary Thrombosis,Launched,36.26,aorta,0.6,"tested, no usable signal",cardiac eQTL
+NPC1L1,Ezetimibe,1,Small molecule inhibitor,Dyslipidemias,Launched,0.03,liver,31.1,"tested, no usable signal",liver eQTL
+PCSK9,Alirocumab,11,Antibody inhibitor,Hypercholesterolemia,Launched,0.29,liver,28.3,absent from blood eQTL resource,liver eQTL
+PLG,Aprotinin,9,Unknown inhibitor,Thrombosis,Launched,0.02,liver,288.6,absent from blood eQTL resource,liver eQTL
+REN,Aliskiren,6,Small molecule inhibitor,Hypertension,Launched,0.0,liver,0.4,absent from blood eQTL resource,pQTL
+RXFP1,Serelaxin,1,Unknown activator,Heart Failure,Launched,0.0,aorta,0.8,absent from blood eQTL resource,tissue eQTL (Brain_Frontal_Cortex_BA9)
+SLC5A1,Sotagliflozin,2,Small molecule inhibitor,Heart Failure,Launched,0.02,heart LV,46.7,absent from blood eQTL resource,cardiac eQTL
+ABCC8,Glipizide,16,Small molecule blocker,Brain Ischemia,Phase III,0.01,heart LV,0.6,absent from blood eQTL resource,tissue eQTL (Pancreas_Islets)
+APOA1,not in Open Targets,0,—,Acute Coronary Syndrome,Phase III,0.71,liver,8481.3,"tested, no usable signal",cardiac eQTL
+AVPR1A,Lypressin,15,Protein agonist,Hypotension,Phase III,0.04,liver,9.3,absent from blood eQTL resource,liver eQTL
+AVPR2,Lypressin,14,Protein agonist,Heart Failure,Phase III,0.32,heart LV,3.2,absent from blood eQTL resource,cardiac eQTL
+BRD4,Pelabresib,6,Small molecule inhibitor,Atherosclerosis,Phase III,21.13,aorta,32.8,"tested, no usable signal",cardiac eQTL
+CNTFR,not in Open Targets,0,—,Retinal Telangiectasis,Phase III,0.1,aorta,7.0,absent from blood eQTL resource,cardiac eQTL
+ENPEP,Firibastat,2,Small molecule inhibitor,"Hypertension, Pulmonary",Phase III,0.01,liver,7.6,"tested, no usable signal",cardiac eQTL
+GRIN1,Ketamine,35,Small molecule negative allosteric modulator,Brain Ischemia,Phase III,0.04,aorta,0.0,"tested, no usable signal",tissue eQTL (Brain_Cortex)
+HCN1,not in Open Targets,0,—,Heart Failure,Phase III,0.0,aorta,0.0,absent from blood eQTL resource,cardiac eQTL
+HCN2,not in Open Targets,0,—,Heart Failure,Phase III,0.54,heart LV,5.8,"tested, no usable signal",cardiac eQTL
+HCN4,Ivabradine,5,Small molecule blocker,Heart Failure,Phase III,0.0,heart LV,2.9,absent from blood eQTL resource,cardiac eQTL
+IL17A,Ixekizumab,11,Antibody inhibitor,Vasculitis,Phase III,0.0,heart LV,0.0,absent from blood eQTL resource,pQTL
+KIT,Imatinib,40,Small molecule inhibitor,"Hypertension, Pulmonary",Phase III,0.22,aorta,6.1,"tested, no usable signal",vascular eQTL
+LPA,Olpasiran,2,Oligonucleotide rnai inhibitor,Cardiovascular Diseases,Phase III,0.0,liver,14.6,absent from blood eQTL resource,liver eQTL
+PDE3A,Enoximone,23,Small molecule inhibitor,Brain Ischemia,Phase III,0.04,aorta,34.0,"tested, no usable signal",cardiac eQTL
+PDGFRA,Cediranib,34,Small molecule inhibitor,"Hypertension, Pulmonary",Phase III,0.1,aorta,69.6,"tested, no usable signal",cardiac eQTL
+SLC6A2,Doxepin,129,Small molecule inhibitor,Brain Ischemia,Phase III,0.0,liver,0.0,absent from blood eQTL resource,tissue eQTL (Testis)
+SLC6A4,Mazindol,72,Small molecule inhibitor,Brain Ischemia,Phase III,0.14,aorta,0.6,"tested, no usable signal",tissue eQTL (Lung)

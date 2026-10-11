@@ -1,0 +1,11 @@
+**Supplementary Table S19. Positive controls using candidate instruments from the recovery map**
+
+| Control | Resource | Variant | Effect allele | Exposure beta (SE) | F | Outcome study (N) | Outcome beta for the effect allele (SE) | Harmonization | MR beta (95% CI) | MR p | Observed sign | Verdict | Reason |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| PCSK9 → LDL | UKB-PPP plasma cis-pQTL (ST10) | rs11591147 | T | -1.1211 (0.0234) | 2305 | GCST90239658 (1,320,016) | -0.43370 (0.00543) | aligned_same | +0.387 (+0.377 to +0.396) | <1×10⁻³⁰⁰ | POSITIVE | PASS |  |
+| ANGPTL3 → TG | UKB-PPP plasma cis-pQTL (ST10) | rs775677524 | A | -0.2817 (0.0059) | 2296 | GCST90239664 (1,320,016) |  | not_snp |  |  |  | NOT HARMONIZABLE | harmonize_one status: not_snp |
+| APOC3 → TG | Fenland plasma cis-pQTL (ST2) | rs964184 | C | -0.2103 (0.0196) | 115 | GCST90239664 (1,320,016) | -0.24629 (0.00199) | aligned_same | +1.171 (+1.153 to +1.190) | <1×10⁻³⁰⁰ | POSITIVE | PASS |  |
+| AGTR1 → SBP | GTEx v8 Artery_Tibial cis-eQTL | chr3_148624775_T_G_b38 | G | +0.2122 (0.0271) | 61 | GCST90310294 (1,028,980) | -0.00790 (0.02500) | aligned_same | -0.037 (-0.268 to +0.194) | 0.75 | NEGATIVE | FAIL |  |
+| REN → SBP | UKB-PPP plasma cis-pQTL (ST10) | rs193280350 | A | +0.8345 (0.0347) | 578 | GCST90310294 (1,028,980) |  |  |  |  |  | NOT HARMONIZABLE | variant position absent from the outcome file (11 rows within +-1 kb) |
+
+Protocol written before the outcome data were retrieved (RESCUE_CONTROLS_PROTOCOL.md). Single-variant Wald ratio; expected sign positive for all five (higher target level, higher outcome). Pass: instrument P<5×10⁻⁸ within ±100 kb, F≥10, MR P<0.05 and the expected sign. Not harmonizable: the recorded variant could not be aligned under the pipeline's rule; no other variant was substituted.

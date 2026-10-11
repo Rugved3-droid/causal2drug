@@ -1,0 +1,15 @@
+[B01] source: https://www.accessdata.fda.gov/drugsatfda_docs/PurpleBook/2026/purplebook-search-September-data-download.csv
+[B02] purplebook_latest.csv   2273 product rows | streptokinase 0; streptase 0; kabikinase 0; anistreplase 0; eminase 0; alteplase 3; urokinase 3; abciximab 1
+[B02] pb_2023.csv             1940 product rows | streptokinase 0; streptase 0; kabikinase 0; anistreplase 0; eminase 0; alteplase 3; urokinase 3; abciximab 1
+[B02] pb_2021.csv             1680 product rows | streptokinase 0; streptase 0; kabikinase 0; anistreplase 0; eminase 0; alteplase 3; urokinase 3; abciximab 1
+[B02] pb_2020.csv             1620 product rows | streptokinase 0; streptase 0; kabikinase 0; anistreplase 0; eminase 0; alteplase 3; urokinase 3; abciximab 1
+[B03] control row: alteplase | Activase | BLA 103172 | Rx | Licensed | approved November 13, 1987
+[B03] control row: urokinase | Kinlytic | BLA 021846 | Disc | Licensed | approved January 16, 1978
+[B03] control row: abciximab | Reopro | BLA 103575 | Disc | Voluntarily Revoked | approved December 22, 1994
+[B04] streptokinase / Streptase / Kabikinase / anistreplase / Eminase rows in any of the four Purple Book releases: 0
+[B05] Federal Register, term streptokinase: 46 documents; first 46 examined, of which from FDA: 5 [('1996-06-13', 'Internal Analgesic, Antipyretic, and Antirheumatic Drug Prod'), ('1998-10-23', 'Internal Analgesic, Antipyretic, and Antirheumatic Drug Prod'), ('1999-09-14', 'Internal Analgesic, Antipyretic, and Antirheumatic Drug Prod')]
+[B05] Federal Register, term Streptase    : 0 documents; first 0 examined, of which from FDA: 0 []
+[B05] Federal Register, term Kabikinase   : 0 documents; first 0 examined, of which from FDA: 0 []
+[B05] Federal Register, term anistreplase : 42 documents; first 42 examined, of which from FDA: 0 []
+[B05] Federal Register, term Eminase      : 0 documents; first 0 examined, of which from FDA: 0 []
+[B06] conclusion: no FDA approval record for streptokinase or anistreplase was found in the Purple Book, Drugs@FDA, DailyMed, openFDA labels or the Federal Register (1994 onward). Both products were licensed before 1994, so the Federal Register search cannot show the original licence. PLG is NOT restored.

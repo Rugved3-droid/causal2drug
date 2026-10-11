@@ -1,0 +1,2017 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 8
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19980330",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19970909",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19961119",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20020604",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19980127",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19970213",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "32",
+          "submission_status": "AP",
+          "submission_status_date": "20240517",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "78514",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/020700Orig1s032ltr.pdf",
+              "date": "20240520",
+              "type": "Letter"
+            },
+            {
+              "id": "78516",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/020700s032lbl.pdf",
+              "date": "20240520",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "19980331",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19970909",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20020730",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19970909",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "19980624",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19970513",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA020700",
+      "sponsor_name": "VIATRIS",
+      "products": [
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "MUSE",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.5MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SUPPOSITORY",
+          "route": "URETHRAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "MUSE",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.125MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SUPPOSITORY",
+          "route": "URETHRAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "MUSE",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "1MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SUPPOSITORY",
+          "route": "URETHRAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "MUSE",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.25MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SUPPOSITORY",
+          "route": "URETHRAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20020611",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form",
+          "application_docs": [
+            {
+              "id": "36364",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2002/21212lbl.pdf",
+              "date": "20020611",
+              "type": "Label"
+            },
+            {
+              "id": "4647",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/21212ltr.pdf",
+              "date": "20020611",
+              "type": "Letter"
+            },
+            {
+              "id": "21511",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-212_Caverject.html",
+              "date": "20020611",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20161025",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "45701",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/021212Orig1s015,s016ltr.pdf",
+              "date": "20161028",
+              "type": "Letter"
+            },
+            {
+              "id": "45756",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/021212s015s016lbl.pdf",
+              "date": "20161101",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20161201",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20151027",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "27082",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/021212Orig1s011ltr.pdf",
+              "date": "20151028",
+              "type": "Letter"
+            },
+            {
+              "id": "36365",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/021212s011lbl.pdf",
+              "date": "20151104",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20030902",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "4648",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20379slr017,20755slr005,21212slr002ltr.pdf",
+              "date": "20030909",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20221223",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "73039",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2022/021212s018lbl.pdf",
+              "date": "20221227",
+              "type": "Label"
+            },
+            {
+              "id": "73051",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/021212Orig1s018ltr.pdf",
+              "date": "20221227",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20161025",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "45702",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/021212Orig1s015,s016ltr.pdf",
+              "date": "20161028",
+              "type": "Letter"
+            },
+            {
+              "id": "45755",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/021212s015s016lbl.pdf",
+              "date": "20161101",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20131219",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "14641",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021212s007lbl.pdf",
+              "date": "20131223",
+              "type": "Label"
+            },
+            {
+              "id": "27080",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/021212Orig1s007ltr.pdf",
+              "date": "20131220",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20160505",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "4649",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/021212Orig1s014ltr.pdf",
+              "date": "20160506",
+              "type": "Letter"
+            },
+            {
+              "id": "14642",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/021212s014lbl.pdf",
+              "date": "20160506",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20150112",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20140611",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "27081",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/021212Orig1s010ltr.pdf",
+              "date": "20140612",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA021212",
+      "sponsor_name": "PFIZER",
+      "openfda": {
+        "application_number": [
+          "NDA021212"
+        ],
+        "brand_name": [
+          "CAVERJECT IMPULSE"
+        ],
+        "generic_name": [
+          "ALPROSTADIL"
+        ],
+        "manufacturer_name": [
+          "Pharmacia & Upjohn Company LLC"
+        ],
+        "product_ndc": [
+          "0009-5181",
+          "0009-5182"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRACAVERNOUS"
+        ],
+        "substance_name": [
+          "ALPROSTADIL"
+        ],
+        "rxcui": [
+          "763470",
+          "763472",
+          "763473",
+          "763474"
+        ],
+        "spl_id": [
+          "eeb7c131-8178-44e1-b266-6306dc162a9b"
+        ],
+        "spl_set_id": [
+          "4dec1dbd-c63b-4a1b-81cb-c8d29696cc40"
+        ],
+        "package_ndc": [
+          "0009-5181-10",
+          "0009-5181-01",
+          "0009-5182-11",
+          "0009-5182-01"
+        ],
+        "nui": [
+          "N0000009059",
+          "N0000175454",
+          "N0000180189",
+          "N0000000106",
+          "M0017805",
+          "N0000009911"
+        ],
+        "pharm_class_pe": [
+          "Genitourinary Arterial Vasodilation [PE]",
+          "Venous Vasodilation [PE]"
+        ],
+        "pharm_class_epc": [
+          "Prostaglandin Analog [EPC]",
+          "Prostaglandin E1 Agonist [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Prostaglandin Receptor Agonists [MoA]"
+        ],
+        "pharm_class_cs": [
+          "Prostaglandins [CS]"
+        ],
+        "unii": [
+          "F5TD010360"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CAVERJECT IMPULSE",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.01MG/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CAVERJECT IMPULSE",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.02MG/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "19990120",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "19980326",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20619",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20379-s009_caverject.pdf",
+              "date": "19980326",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19970519",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19961021",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19960627",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19960319",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20140609",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20030902",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2425",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20379slr017,20755slr005,21212slr002ltr.pdf",
+              "date": "20030909",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "20171206",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "50632",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/020379s031ltr.pdf",
+              "date": "20171207",
+              "type": "Letter"
+            },
+            {
+              "id": "50642",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020379s031lbl.pdf",
+              "date": "20171207",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20010329",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20160208",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20001129",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20020115",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2424",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20379s11ltr.pdf",
+              "date": "20020115",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "19980520",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19971008",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "38",
+          "submission_status": "AP",
+          "submission_status_date": "20221223",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "73038",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2022/020379s038lbl.pdf",
+              "date": "20221227",
+              "type": "Label"
+            },
+            {
+              "id": "73050",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/020379Orig1s038ltr.pdf",
+              "date": "20221227",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19960628",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19960513",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20140612",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "24870",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/020379Orig1s028ltr.pdf",
+              "date": "20140617",
+              "type": "Letter"
+            },
+            {
+              "id": "34574",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/020379s028lbl.pdf",
+              "date": "20140617",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "34",
+          "submission_status": "AP",
+          "submission_status_date": "20171206",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "50634",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/020379s034ltr.pdf",
+              "date": "20171207",
+              "type": "Letter"
+            },
+            {
+              "id": "50635",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020379s034lbl.pdf",
+              "date": "20171207",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20140328",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "32",
+          "submission_status": "AP",
+          "submission_status_date": "20171206",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "50633",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/020379s032ltr.pdf",
+              "date": "20171207",
+              "type": "Letter"
+            },
+            {
+              "id": "50643",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020379s032lbl.pdf",
+              "date": "20171207",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19950706",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20021015",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20160505",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12502",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/020379s030lbl.pdf",
+              "date": "20160506",
+              "type": "Label"
+            },
+            {
+              "id": "2426",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/020379Orig1s030ltr.pdf",
+              "date": "20160506",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20000403",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "19990702",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "NDA020379",
+      "sponsor_name": "PFIZER",
+      "openfda": {
+        "application_number": [
+          "NDA020379"
+        ],
+        "brand_name": [
+          "CAVERJECT"
+        ],
+        "generic_name": [
+          "ALPROSTADIL"
+        ],
+        "manufacturer_name": [
+          "Pharmacia & Upjohn Company LLC"
+        ],
+        "product_ndc": [
+          "0009-3701",
+          "0009-7686"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRACAVERNOUS"
+        ],
+        "substance_name": [
+          "ALPROSTADIL"
+        ],
+        "rxcui": [
+          "103956",
+          "226921",
+          "226922",
+          "242691"
+        ],
+        "spl_id": [
+          "c9c81920-1b63-4318-9cc1-38cc4d3fa601"
+        ],
+        "spl_set_id": [
+          "a295fc1e-d82c-4f44-bc2d-a552bf594c98"
+        ],
+        "package_ndc": [
+          "0009-3701-08",
+          "0009-3701-05",
+          "0009-7686-01",
+          "0009-7686-04"
+        ],
+        "nui": [
+          "N0000009059",
+          "N0000175454",
+          "N0000180189",
+          "N0000000106",
+          "M0017805",
+          "N0000009911"
+        ],
+        "pharm_class_pe": [
+          "Genitourinary Arterial Vasodilation [PE]",
+          "Venous Vasodilation [PE]"
+        ],
+        "pharm_class_epc": [
+          "Prostaglandin Analog [EPC]",
+          "Prostaglandin E1 Agonist [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Prostaglandin Receptor Agonists [MoA]"
+        ],
+        "pharm_class_cs": [
+          "Prostaglandins [CS]"
+        ],
+        "unii": [
+          "F5TD010360"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "CAVERJECT",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.04MG/VIAL"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "CAVERJECT",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.02MG/VIAL"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "CAVERJECT",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.005MG/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "CAVERJECT",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.01MG/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19980922",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19980730",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19970612",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form",
+          "application_docs": [
+            {
+              "id": "41522",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/97/020649_edex_toc.html",
+              "date": "20030808",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20161117",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20140312",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20000601",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20000310",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "19990906",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19991020",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19991020",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19980401",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19971105",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20150309",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "25444",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/020649Orig1s023ltr.pdf",
+              "date": "20150311",
+              "type": "Letter"
+            },
+            {
+              "id": "35077",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/020649s023lbl.pdf",
+              "date": "20150326",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20060609",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12922",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020649s015lbl.pdf",
+              "date": "20060612",
+              "type": "Label"
+            },
+            {
+              "id": "25443",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/020649s015LTR.pdf",
+              "date": "20060612",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20140211",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20011214",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20000731",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "19991015",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19991119",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "NDA020649",
+      "sponsor_name": "ENDO OPERATIONS",
+      "openfda": {
+        "application_number": [
+          "NDA020649"
+        ],
+        "brand_name": [
+          "EDEX"
+        ],
+        "generic_name": [
+          "ALPROSTADIL"
+        ],
+        "manufacturer_name": [
+          "Endo USA, Inc."
+        ],
+        "product_ndc": [
+          "52244-010",
+          "52244-020",
+          "52244-040"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRACAVERNOUS"
+        ],
+        "substance_name": [
+          "ALPROSTADIL"
+        ],
+        "rxcui": [
+          "1234236",
+          "1234238",
+          "1234239",
+          "1234240",
+          "1234241",
+          "1234242"
+        ],
+        "spl_id": [
+          "160196d5-a339-455d-8b68-4c9f437929a5"
+        ],
+        "spl_set_id": [
+          "e8b8ec8d-1318-43e4-a182-446e9f9579de"
+        ],
+        "package_ndc": [
+          "52244-010-02",
+          "52244-010-06",
+          "52244-020-02",
+          "52244-020-06",
+          "52244-040-02",
+          "52244-040-06"
+        ],
+        "nui": [
+          "N0000009059",
+          "N0000175454",
+          "N0000180189",
+          "N0000000106",
+          "M0017805",
+          "N0000009911"
+        ],
+        "pharm_class_pe": [
+          "Genitourinary Arterial Vasodilation [PE]",
+          "Venous Vasodilation [PE]"
+        ],
+        "pharm_class_epc": [
+          "Prostaglandin Analog [EPC]",
+          "Prostaglandin E1 Agonist [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Prostaglandin Receptor Agonists [MoA]"
+        ],
+        "pharm_class_cs": [
+          "Prostaglandins [CS]"
+        ],
+        "unii": [
+          "F5TD010360"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "005",
+          "reference_drug": "Yes",
+          "brand_name": "EDEX",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.01MG/VIAL"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "Yes",
+          "brand_name": "EDEX",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.02MG/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "EDEX",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.005MG/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "006",
+          "reference_drug": "Yes",
+          "brand_name": "EDEX",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.02MG/VIAL"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "EDEX",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.04MG/VIAL"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "EDEX",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.01MG/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "Yes",
+          "brand_name": "EDEX",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.04MG/VIAL"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19980120",
+          "application_docs": [
+            {
+              "id": "22374",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/anda/98/074815ap.pdf",
+              "date": "19980120",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20020911",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20000711",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000711",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20010403",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20000711",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        }
+      ],
+      "application_number": "ANDA074815",
+      "sponsor_name": "HIKMA PHARMS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ALPROSTADIL",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.5MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19860414",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20000403",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19871028",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "19940615",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "19940504",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "19930126",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19811016",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19920211",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20021217",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19870710",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20010813",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19880331",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19821129",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "19930626",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20190718",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "59382",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/018484Orig1s028ltr.pdf",
+              "date": "20190719",
+              "type": "Letter"
+            },
+            {
+              "id": "60546",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/018484Orig1s028lbl.pdf",
+              "date": "20191011",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20140609",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "19950110",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19900328",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20020501",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20251222",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "84529",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/018484Orig1s030ltr.pdf",
+              "date": "20251223",
+              "type": "Letter"
+            },
+            {
+              "id": "84647",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2025/018484s030lbl.pdf",
+              "date": "20260106",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA018484",
+      "sponsor_name": "PFIZER",
+      "openfda": {
+        "application_number": [
+          "NDA018484"
+        ],
+        "brand_name": [
+          "PROSTIN VR PEDIATRIC"
+        ],
+        "generic_name": [
+          "ALPROSTADIL"
+        ],
+        "manufacturer_name": [
+          "Pharmacia & Upjohn Company LLC"
+        ],
+        "product_ndc": [
+          "0009-3169",
+          "0009-0215"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVASCULAR",
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ALPROSTADIL"
+        ],
+        "rxcui": [
+          "105467",
+          "237212"
+        ],
+        "spl_id": [
+          "ba63df7a-ea4f-45e8-8ad9-7fb640f42be6",
+          "77f50b86-f209-4f15-9dde-1e348635598e"
+        ],
+        "spl_set_id": [
+          "dea460fa-d05e-4191-8461-f185a711ad89",
+          "930f8c02-46a8-4cff-a484-660468ab23c3"
+        ],
+        "package_ndc": [
+          "0009-3169-01",
+          "0009-3169-06",
+          "0009-0215-01",
+          "0009-0215-05"
+        ],
+        "nui": [
+          "N0000009059",
+          "N0000175454",
+          "N0000180189",
+          "N0000000106",
+          "M0017805",
+          "N0000009911"
+        ],
+        "pharm_class_pe": [
+          "Genitourinary Arterial Vasodilation [PE]",
+          "Venous Vasodilation [PE]"
+        ],
+        "pharm_class_epc": [
+          "Prostaglandin Analog [EPC]",
+          "Prostaglandin E1 Agonist [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Prostaglandin Receptor Agonists [MoA]"
+        ],
+        "pharm_class_cs": [
+          "Prostaglandins [CS]"
+        ],
+        "unii": [
+          "F5TD010360"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "PROSTIN VR PEDIATRIC",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.5MG/ML"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20011220",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19971031",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "application_docs": [
+            {
+              "id": "20901",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/97/020755_caverject_toc.html",
+              "date": "20030807",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20030902",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3268",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20379slr017,20755slr005,21212slr002ltr.pdf",
+              "date": "20030909",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020755",
+      "sponsor_name": "PFIZER",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "CAVERJECT",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.01MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "CAVERJECT",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.02MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "CAVERJECT",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.005MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20200619",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19990430"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20200619",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA075196",
+      "sponsor_name": "MEITHEAL",
+      "openfda": {
+        "application_number": [
+          "ANDA075196"
+        ],
+        "brand_name": [
+          "ALPROSTADIL"
+        ],
+        "generic_name": [
+          "ALPROSTADIL"
+        ],
+        "manufacturer_name": [
+          "Meitheal Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "71288-206"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVASCULAR"
+        ],
+        "substance_name": [
+          "ALPROSTADIL"
+        ],
+        "rxcui": [
+          "237212"
+        ],
+        "spl_id": [
+          "7e1975e8-b348-400d-a3aa-9a3ac1cba3b0"
+        ],
+        "spl_set_id": [
+          "35d229e1-6947-435c-bf54-bfa09cca7e53"
+        ],
+        "package_ndc": [
+          "71288-206-01",
+          "71288-206-02"
+        ],
+        "nui": [
+          "N0000009059",
+          "N0000175454",
+          "N0000180189",
+          "N0000000106",
+          "M0017805",
+          "N0000009911"
+        ],
+        "pharm_class_pe": [
+          "Genitourinary Arterial Vasodilation [PE]",
+          "Venous Vasodilation [PE]"
+        ],
+        "pharm_class_epc": [
+          "Prostaglandin Analog [EPC]",
+          "Prostaglandin E1 Agonist [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Prostaglandin Receptor Agonists [MoA]"
+        ],
+        "pharm_class_cs": [
+          "Prostaglandins [CS]"
+        ],
+        "unii": [
+          "F5TD010360"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ALPROSTADIL",
+          "active_ingredients": [
+            {
+              "name": "ALPROSTADIL",
+              "strength": "0.5MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    }
+  ]
+}

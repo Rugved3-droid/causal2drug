@@ -1,0 +1,5 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+GUCY2C	D004715	Endometriosis	GCST90205183	UP	6	rs11056020	1.3475e-146	0.210218	0.00815312	664.8	-0.0108	0.0116	aligned_same	197	-0.0513752	0.0551807	0.351836	NEGATIVE	NEGATIVE	YES	
+LEPR	D004715	Endometriosis	GCST90205183	UP	10	rs6656451	3.2717e-310	0.427014	0.00800224	2847	0.0053	0.0114	aligned_flipped	877	0.0124118	0.026697	0.641994	POSITIVE	NEGATIVE	NO	
+PTGER2	D004715	Endometriosis	GCST90205183	UP	4	rs1254600	9.6528e-265	-0.355327	0.0102222	1208	-0.0085	0.0153	aligned_flipped	335	0.0239216	0.043059	0.578515	POSITIVE	NEGATIVE	NO	
+SRC	D004715	Endometriosis	GCST90205183	DOWN	2	rs79216575	3.3363e-19	-0.0923816	0.0103139	80.23	0.0109	0.0133	aligned_same	77	-0.117989	0.143968	0.412473	NEGATIVE	POSITIVE	NO	

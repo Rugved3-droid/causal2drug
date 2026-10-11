@@ -1,0 +1,10 @@
+{
+  "n_instrumented": 386,
+  "n_flagged": 196,
+  "pct": 50.77720207253886,
+  "launched_flagged": 16,
+  "launched_total": 27,
+  "ph3plus_flagged": 36,
+  "ph3plus_total": 60,
+  "cv_trait_flagged": 62
+}

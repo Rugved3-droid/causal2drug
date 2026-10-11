@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20100930",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "57",
+          "submission_status": "AP",
+          "submission_status_date": "20260310",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "85334",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/125249Orig1s057lbl.pdf",
+              "date": "20260312",
+              "type": "Label"
+            },
+            {
+              "id": "85335",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/125249Orig1s057ltr.pdf",
+              "date": "20260312",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "49",
+          "submission_status": "AP",
+          "submission_status_date": "20210318",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "66812",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/125249s049lbl.pdf",
+              "date": "20210319",
+              "type": "Label"
+            },
+            {
+              "id": "66823",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/125249Orig1s049ltr.pdf",
+              "date": "20210322",
+              "type": "Letter"
+            },
+            {
+              "id": "81541",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/125249Orig1s049.pdf",
+              "date": "20250312",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20080227",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "39876",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/125249lbl.pdf",
+              "date": "20080311",
+              "type": "Label"
+            },
+            {
+              "id": "43311",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2008/125249s000TOC.html",
+              "date": "20080502",
+              "type": "Review"
+            },
+            {
+              "id": "31869",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/125249s000ltr.pdf",
+              "date": "20080409",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "47",
+          "submission_status": "AP",
+          "submission_status_date": "20201218",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "65628",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/125249s047lbl.pdf",
+              "date": "20201221",
+              "type": "Label"
+            },
+            {
+              "id": "65672",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/125249Orig1s047ltr.pdf",
+              "date": "20201223",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "45",
+          "submission_status": "AP",
+          "submission_status_date": "20200212",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "submission_property_type": [
+            {
+              "code": "Orphan"
+            }
+          ],
+          "application_docs": [
+            {
+              "id": "64090",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2020/125249s045lbl.pdf",
+              "date": "20200724",
+              "type": "Label"
+            },
+            {
+              "id": "64097",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/125249Orig1s045ltr.pdf",
+              "date": "20200727",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "BLA125249",
+      "sponsor_name": "KINIKSA PHARMACEUTICALS (UK), LTD.",
+      "openfda": {
+        "application_number": [
+          "BLA125249"
+        ],
+        "brand_name": [
+          "ARCALYST"
+        ],
+        "generic_name": [
+          "RILONACEPT"
+        ],
+        "manufacturer_name": [
+          "Kiniksa Pharmaceuticals (UK), Ltd."
+        ],
+        "product_ndc": [
+          "73604-914"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "SUBCUTANEOUS"
+        ],
+        "substance_name": [
+          "RILONACEPT"
+        ],
+        "rxcui": [
+          "763453",
+          "763457"
+        ],
+        "spl_id": [
+          "11e22c54-9b9a-4f9f-8680-cb7327511a23"
+        ],
+        "spl_set_id": [
+          "ad965f38-dd22-4607-a673-2fb92f3b527a"
+        ],
+        "package_ndc": [
+          "73604-914-04",
+          "73604-914-01"
+        ],
+        "unii": [
+          "8K80YB5GMG"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ARCALYST",
+          "active_ingredients": [
+            {
+              "name": "RILONACEPT",
+              "strength": "220MG"
+            }
+          ],
+          "dosage_form": "VIAL",
+          "route": "SINGLE-USE",
+          "marketing_status": "Prescription"
+        }
+      ]
+    }
+  ]
+}

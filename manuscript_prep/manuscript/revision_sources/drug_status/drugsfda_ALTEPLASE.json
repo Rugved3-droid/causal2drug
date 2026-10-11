@@ -1,0 +1,364 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5071",
+          "submission_status": "AP",
+          "submission_status_date": "20050104",
+          "submission_public_notes": "Label for CATHFLO ACTIVASE",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "18561",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/103172s5071lbl.pdf",
+              "date": "20050727",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5268",
+          "submission_status": "AP",
+          "submission_status_date": "20220901",
+          "submission_public_notes": "Label for ACTIVASE",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "71996",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/103172Orig1s5268ltr.pdf",
+              "date": "20220902",
+              "type": "Letter"
+            },
+            {
+              "id": "72003",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2022/103172s5268lbl.pdf",
+              "date": "20220902",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5203",
+          "submission_status": "AP",
+          "submission_status_date": "20150213",
+          "submission_public_notes": "Label for ACTIVASE",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "43263",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/bla/2015/103172Orig1s5203.pdf",
+              "date": "20150825",
+              "type": "Review"
+            },
+            {
+              "id": "9373",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/103172Orig1s5203ltr.pdf",
+              "date": "20150217",
+              "type": "Letter"
+            },
+            {
+              "id": "18562",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/103172s5203lbl.pdf",
+              "date": "20150302",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5260",
+          "submission_status": "AP",
+          "submission_status_date": "20180228",
+          "submission_public_notes": "Label for CATHFLO ACTIVASE",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "52804",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/103172Orig1s5260ltr.pdf",
+              "date": "20180302",
+              "type": "Letter"
+            },
+            {
+              "id": "52969",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/103172s5260lbl.pdf",
+              "date": "20180315",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5009",
+          "submission_status": "AP",
+          "submission_status_date": "20020515",
+          "submission_class_code": "S",
+          "submission_class_code_description": "Supplement",
+          "application_docs": [
+            {
+              "id": "39634",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2002/altegen051502LB.pdf",
+              "date": "20040310",
+              "type": "Label"
+            },
+            {
+              "id": "9372",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/altegen051502L.htm",
+              "date": "20040310",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1036",
+          "submission_status": "AP",
+          "submission_status_date": "19950403",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5003",
+          "submission_status": "AP",
+          "submission_status_date": "20010904",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "39633",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2001/altegen090401LB.pdf",
+              "date": "20040312",
+              "type": "Label"
+            },
+            {
+              "id": "31563",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2001/altegen090401L.htm",
+              "date": "20040312",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19871113",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5267",
+          "submission_status": "AP",
+          "submission_status_date": "20201008",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "64886",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2020/103172Orig1s5267ltr.pdf",
+              "date": "20201009",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5259",
+          "submission_status": "AP",
+          "submission_status_date": "20180228",
+          "submission_public_notes": "Label for ACTIVASE",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "52801",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/103172Orig1s5259ltr.pdf",
+              "date": "20180302",
+              "type": "Letter"
+            },
+            {
+              "id": "52976",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/103172s5259lbl.pdf",
+              "date": "20180315",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1055",
+          "submission_status": "AP",
+          "submission_status_date": "19960618",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "48910",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/96/alteplase_toc.html",
+              "date": "20170705",
+              "type": "Review"
+            },
+            {
+              "id": "48913",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1996/altegen061896L.pdf",
+              "date": "20170706",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5253",
+          "submission_status": "AP",
+          "submission_status_date": "20170630",
+          "submission_public_notes": "Label for ACTIVASE",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "48888",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/103172s5253lbl.pdf",
+              "date": "20170703",
+              "type": "Label"
+            },
+            {
+              "id": "48903",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/103172Orig1s5253ltr.pdf",
+              "date": "20170705",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "BLA103172",
+      "sponsor_name": "GENENTECH",
+      "openfda": {
+        "application_number": [
+          "BLA103172"
+        ],
+        "brand_name": [
+          "CATHFLO ACTIVASE",
+          "ACTIVASE"
+        ],
+        "generic_name": [
+          "ALTEPLASE"
+        ],
+        "manufacturer_name": [
+          "Genentech, Inc."
+        ],
+        "product_ndc": [
+          "50242-041",
+          "50242-044",
+          "50242-085"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ALTEPLASE"
+        ],
+        "spl_id": [
+          "0c2938dd-2978-411f-bd76-208fc8754838",
+          "48ed2eb6-728a-41d8-b024-6b34e75dc4dc"
+        ],
+        "spl_set_id": [
+          "91ecdef2-95ff-42dd-a31c-c8a09cab3ad9",
+          "c669f77c-fa48-478b-a14b-80b20a0139c2"
+        ],
+        "package_ndc": [
+          "50242-041-64",
+          "50242-041-10",
+          "50242-044-13",
+          "50242-085-27"
+        ],
+        "unii": [
+          "1RXS4UE564"
+        ],
+        "rxcui": [
+          "1804799",
+          "1804802",
+          "1804804",
+          "1804806"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ACTIVASE",
+          "active_ingredients": [
+            {
+              "name": "ALTEPLASE",
+              "strength": "50MG/VIAL"
+            }
+          ],
+          "dosage_form": "VIAL",
+          "route": "SINGLE-USE",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "CATHFLO ACTIVASE",
+          "active_ingredients": [
+            {
+              "name": "ALTEPLASE",
+              "strength": "2MG/VIAL"
+            }
+          ],
+          "dosage_form": "VIAL",
+          "route": null,
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ACTIVASE",
+          "active_ingredients": [
+            {
+              "name": "ALTEPLASE",
+              "strength": "100MG/VIAL"
+            }
+          ],
+          "dosage_form": "VIAL",
+          "route": "SINGLE-USE",
+          "marketing_status": "Prescription"
+        }
+      ]
+    }
+  ]
+}

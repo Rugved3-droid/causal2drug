@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230526",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "74389",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2023/216203s000lbl.pdf",
+              "date": "20230530",
+              "type": "Label"
+            },
+            {
+              "id": "74390",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/216203s000lbl.pdf#page=24",
+              "date": "20230530",
+              "type": "Medication Guide"
+            },
+            {
+              "id": "74395",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/216203Orig1s000ltr.pdf",
+              "date": "20230530",
+              "type": "Letter"
+            },
+            {
+              "id": "74613",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216203Orig1s000TOC.html",
+              "date": "20230623",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20260806",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "86838",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/216203Orig1s003ltr.pdf",
+              "date": "20260810",
+              "type": "Letter"
+            },
+            {
+              "id": "86862",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/216203s003lbl.pdf",
+              "date": "20260811",
+              "type": "Label"
+            },
+            {
+              "id": "86863",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/216203s003lbl.pdf#page=24",
+              "date": "20260811",
+              "type": "Medication Guide"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA216203",
+      "sponsor_name": "LEXICON PHARMS INC",
+      "openfda": {
+        "application_number": [
+          "NDA216203"
+        ],
+        "brand_name": [
+          "INPEFA"
+        ],
+        "generic_name": [
+          "SOTAGLIFLOZIN"
+        ],
+        "manufacturer_name": [
+          "Lexicon Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "70183-221",
+          "70183-220",
+          "70183-241"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "SOTAGLIFLOZIN"
+        ],
+        "rxcui": [
+          "2638683",
+          "2638689",
+          "2638691",
+          "2638693"
+        ],
+        "spl_id": [
+          "2179079d-1c89-44b3-9b9c-2001d46310a1"
+        ],
+        "spl_set_id": [
+          "1a46614e-05f6-421a-b6f4-d6f8760d643a"
+        ],
+        "package_ndc": [
+          "70183-220-30",
+          "70183-220-07",
+          "70183-220-90",
+          "70183-221-30",
+          "70183-221-31",
+          "70183-221-07",
+          "70183-241-30"
+        ],
+        "nui": [
+          "N0000187059",
+          "N0000187058",
+          "N0000185503"
+        ],
+        "pharm_class_epc": [
+          "Sodium-Glucose Cotransporter 2 Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Sodium-Glucose Transporter 2 Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]"
+        ],
+        "unii": [
+          "6B4ZBS263Y"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "INPEFA",
+          "active_ingredients": [
+            {
+              "name": "SOTAGLIFLOZIN",
+              "strength": "400MG"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "INPEFA",
+          "active_ingredients": [
+            {
+              "name": "SOTAGLIFLOZIN",
+              "strength": "200MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET",
+          "route": "ORAL",
+          "marketing_status": "Prescription"
+        }
+      ]
+    }
+  ]
+}

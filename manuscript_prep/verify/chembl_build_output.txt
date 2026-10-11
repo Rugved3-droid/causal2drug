@@ -1,0 +1,28 @@
+targets at Phase III or Launched: S0 103, S0A 115, S0AB 141
+ChEMBL: ChEMBL_37 released 2026-05-01
+genes 141 ; with >=1 ChEMBL human target 138 ; distinct ChEMBL targets 379
+mRNA-target additions (manual map) for in-scope genes: {'APOB': ['CHEMBL2364185'], 'APOC3': ['CHEMBL4495602', 'CHEMBL4834388'], 'LPA': ['CHEMBL4662965'], 'PCSK9': ['CHEMBL4630662'], 'ANGPTL3': ['CHEMBL4622825'], 'SERPINC1': ['CHEMBL4634874'], 'VEGFA': ['CHEMBL4630576'], 'IRS1': ['CHEMBL4622821'], 'ADRB2': ['CHEMBL4630578']}
+mechanism rows 1688 ; distinct parent molecules 1397
+parent molecules with >=1 indication row: 1233
+distinct MeSH descriptors among phase>=3 indications: 984
+descriptors with no tree number returned: 0
+
+MANUAL_REVIEW.csv: 327 evidence rows for 32 targets where permissive = verified and strict = not verified
+  S0 launched 52: permissive 46, strict 32 ; permissive-only: ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, C5AR1, CACNA1C, EDNRA, EDNRB, GUCY1A1, GUCY1B1, TUBB, VEGFA
+  S0A launched 55: permissive 49, strict 35 ; permissive-only: ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, C5AR1, CACNA1C, EDNRA, EDNRB, GUCY1A1, GUCY1B1, TUBB, VEGFA
+  S0AB launched 66: permissive 58, strict 35 ; permissive-only: ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, C5AR1, CACNA1C, EDNRA, EDNRB, EPAS1, GHR, GLA, GUCY1A1, GUCY1B1, KLKB1, PDE4A, PDE4B, PDE4C, PDE4D, SERPING1, TUBB, VEGFA
+  S0AB Phase III 75: permissive 15 (ADORA1, ADORA2A, AVPR1A, BDKRB2, CACNA2D1, DPP4, F11, F12, GRIN1, HCN4, IL6R, PDE3A, SCN9A, SLC10A2, SLC6A2) ; strict 6 (ADORA2A, AVPR1A, DPP4, HCN4, PDE3A, SLC6A2)
+  strict-fail reasons: {'no direct link: every approved CV drug is linked through a family or group target': 20, 'no strictly cardiovascular approved indication on a directly linked drug': 12}
+
+rows (target x drug x indication, phase>=3): 8151
+   approved-indication rows: 3199 ; of which FLAG_approved_not_cv: 2359
+genes without any ChEMBL mechanism row: 10 -> ANXA5, APOA1, CNTFR, GPR55, HCN1, HCN2, HCN3, LPL, NRG1, SLC12A2
+Minikel Launched in S0: 52 targets -> {'YES approved drug with approved CV indication': 46, 'NO approved or phase 3 CV indication found': 2, 'no ChEMBL mechanism for this gene': 2, 'PARTIAL phase 3 CV indication only': 2}
+    not supported: AGT, ITGB2, LPL, PPARG, RXFP1, SLC12A2
+Minikel Phase III in S0: 51 targets -> {'NO approved or phase 3 CV indication found': 12, 'PARTIAL phase 3 CV indication only': 22, 'YES approved drug with approved CV indication': 9, 'no ChEMBL mechanism for this gene': 8} ; with an APPROVED CV drug in ChEMBL: ADORA2A, AVPR1A, AVPR2, DPP4, GRIN1, HCN4, IL6R, PDE3A, SLC6A2
+Minikel Launched in S0A: 55 targets -> {'YES approved drug with approved CV indication': 49, 'NO approved or phase 3 CV indication found': 2, 'no ChEMBL mechanism for this gene': 2, 'PARTIAL phase 3 CV indication only': 2}
+    not supported: AGT, ITGB2, LPL, PPARG, RXFP1, SLC12A2
+Minikel Phase III in S0A: 60 targets -> {'NO approved or phase 3 CV indication found': 13, 'PARTIAL phase 3 CV indication only': 27, 'YES approved drug with approved CV indication': 12, 'no ChEMBL mechanism for this gene': 8} ; with an APPROVED CV drug in ChEMBL: ADORA1, ADORA2A, AVPR1A, CACNA2D1, DPP4, F11, GRIN1, HCN4, IL6R, PDE3A, SCN9A, SLC6A2
+Minikel Launched in S0AB: 66 targets -> {'YES approved drug with approved CV indication': 58, 'NO approved or phase 3 CV indication found': 3, 'no ChEMBL mechanism for this gene': 2, 'PARTIAL phase 3 CV indication only': 3}
+    not supported: AGT, EGFR, ITGB2, LPL, PPARG, RXFP1, SLC12A2, TNF
+Minikel Phase III in S0AB: 75 targets -> {'NO approved or phase 3 CV indication found': 18, 'PARTIAL phase 3 CV indication only': 34, 'YES approved drug with approved CV indication': 15, 'no ChEMBL mechanism for this gene': 8} ; with an APPROVED CV drug in ChEMBL: ADORA1, ADORA2A, AVPR1A, BDKRB2, CACNA2D1, DPP4, F11, F12, GRIN1, HCN4, IL6R, PDE3A, SCN9A, SLC10A2, SLC6A2

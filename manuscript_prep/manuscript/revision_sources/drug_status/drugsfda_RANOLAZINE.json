@@ -1,0 +1,3103 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 30
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20210518",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA212930",
+      "sponsor_name": "ACCORD HLTHCARE",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220714",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220119",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA214035",
+      "sponsor_name": "VKT PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA214035"
+        ],
+        "brand_name": [
+          "RANOLAZINE"
+        ],
+        "generic_name": [
+          "RANOLAZINE"
+        ],
+        "manufacturer_name": [
+          "Torrent Pharma, Inc."
+        ],
+        "product_ndc": [
+          "13668-759",
+          "13668-760"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "RANOLAZINE"
+        ],
+        "rxcui": [
+          "616749",
+          "728231"
+        ],
+        "spl_id": [
+          "50a86547-6542-4e04-965c-ae0a36b72e9e"
+        ],
+        "spl_set_id": [
+          "d2454377-2abd-4d9f-85f1-12f1adbb10e5"
+        ],
+        "package_ndc": [
+          "13668-759-60",
+          "13668-760-60"
+        ],
+        "nui": [
+          "N0000175427",
+          "N0000190114",
+          "N0000185503",
+          "N0000182137",
+          "N0000187061"
+        ],
+        "pharm_class_epc": [
+          "Anti-anginal [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Cytochrome P450 3A Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]",
+          "Cytochrome P450 2D6 Inhibitors [MoA]",
+          "Organic Cation Transporter 2 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "A6IEZ5M406"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200122",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20191029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210482",
+      "sponsor_name": "ANI PHARMS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20220701",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20210128",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA212889",
+      "sponsor_name": "RISING",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190604",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20200124",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20200124",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA211829",
+      "sponsor_name": "SCIEGEN PHARMS",
+      "openfda": {
+        "application_number": [
+          "ANDA211829"
+        ],
+        "brand_name": [
+          "RANOLAZINE"
+        ],
+        "generic_name": [
+          "RANOLAZINE"
+        ],
+        "manufacturer_name": [
+          "Radha Pharmaceuticals, Inc",
+          "ScieGen Pharmaceuticals, Inc",
+          "Westminster Pharmaceuticals, LLC"
+        ],
+        "product_ndc": [
+          "77771-423",
+          "77771-424",
+          "50228-423",
+          "50228-424",
+          "69367-293",
+          "69367-294"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "RANOLAZINE"
+        ],
+        "rxcui": [
+          "616749",
+          "728231"
+        ],
+        "spl_id": [
+          "2db3da6f-14f6-4c55-ad22-55e475ad9f09",
+          "2a0ac71c-e53c-5ff9-e063-6394a90a4807",
+          "38a38464-5bd7-40e4-82fc-2fc5fe42cef8"
+        ],
+        "spl_set_id": [
+          "38d2833d-44b8-8d46-e063-6394a90a74d8",
+          "71d50258-75b7-4801-b0f4-c34fe883d57d",
+          "b91e88a0-04d0-4d0d-92d8-966b27a48e29"
+        ],
+        "package_ndc": [
+          "77771-423-60",
+          "77771-424-60",
+          "50228-423-30",
+          "50228-423-60",
+          "50228-423-05",
+          "50228-424-30",
+          "50228-424-60",
+          "50228-424-05",
+          "69367-293-60",
+          "69367-294-60"
+        ],
+        "nui": [
+          "N0000175427",
+          "N0000190114",
+          "N0000185503",
+          "N0000182137",
+          "N0000187061"
+        ],
+        "pharm_class_epc": [
+          "Anti-anginal [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Cytochrome P450 3A Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]",
+          "Cytochrome P450 2D6 Inhibitors [MoA]",
+          "Organic Cation Transporter 2 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "A6IEZ5M406"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200323",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA211865",
+      "sponsor_name": "SUNSHINE",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20210311",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA207690",
+      "sponsor_name": "AMNEAL",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20200122",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190819",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210188",
+      "sponsor_name": "CADILA",
+      "openfda": {
+        "application_number": [
+          "ANDA210188"
+        ],
+        "brand_name": [
+          "RANOLAZINE"
+        ],
+        "generic_name": [
+          "RANOLAZINE"
+        ],
+        "manufacturer_name": [
+          "Viona Pharmaceuticals Inc"
+        ],
+        "product_ndc": [
+          "72578-064",
+          "72578-065"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "RANOLAZINE"
+        ],
+        "rxcui": [
+          "616749",
+          "728231"
+        ],
+        "spl_id": [
+          "ca6a476b-e330-4618-8661-08ac1125fc3e"
+        ],
+        "spl_set_id": [
+          "00979fb3-d70f-493d-94ca-2914cbadaa9d"
+        ],
+        "package_ndc": [
+          "72578-064-14",
+          "72578-064-01",
+          "72578-064-05",
+          "72578-064-30",
+          "72578-064-77",
+          "72578-065-14",
+          "72578-065-01",
+          "72578-065-05",
+          "72578-065-30",
+          "72578-065-77"
+        ],
+        "nui": [
+          "N0000175427",
+          "N0000190114",
+          "N0000185503",
+          "N0000182137",
+          "N0000187061"
+        ],
+        "pharm_class_epc": [
+          "Anti-anginal [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Cytochrome P450 3A Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]",
+          "Cytochrome P450 2D6 Inhibitors [MoA]",
+          "Organic Cation Transporter 2 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "A6IEZ5M406"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20151215",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "28027",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/021526Orig1s028ltr.pdf",
+              "date": "20151216",
+              "type": "Letter"
+            },
+            {
+              "id": "37157",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/021526s028lbl.pdf",
+              "date": "20151217",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "34",
+          "submission_status": "AP",
+          "submission_status_date": "20190807",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "59641",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021526s034lbl.pdf",
+              "date": "20190808",
+              "type": "Label"
+            },
+            {
+              "id": "59665",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/021526Orig1s034ltr.pdf",
+              "date": "20190813",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "26",
+          "submission_status": "AP",
+          "submission_status_date": "20131219",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "28026",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/021526Orig1s026ltr.pdf",
+              "date": "20131220",
+              "type": "Letter"
+            },
+            {
+              "id": "37156",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021526s026lbl.pdf",
+              "date": "20131223",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20111221",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "37154",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021526s018lbl.pdf",
+              "date": "20111223",
+              "type": "Label"
+            },
+            {
+              "id": "5641",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021526s018ltr.pdf",
+              "date": "20111228",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20151110",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20120725",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "37155",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/021526s022lbl.pdf",
+              "date": "20120726",
+              "type": "Label"
+            },
+            {
+              "id": "5642",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/021526Orig1s022ltr.pdf",
+              "date": "20120730",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20081105",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "37152",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/021526s004lbl.pdf",
+              "date": "20081107",
+              "type": "Label"
+            },
+            {
+              "id": "5638",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/021526s004ltr.pdf",
+              "date": "20081106",
+              "type": "Letter"
+            },
+            {
+              "id": "21716",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2008/021526Orig1s004TOC.html",
+              "date": "20150116",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20110711",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5640",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2011/021526s014ltr.pdf",
+              "date": "20110713",
+              "type": "Letter"
+            },
+            {
+              "id": "15687",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021526s014lbl.pdf",
+              "date": "20110711",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20071217",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15685",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/021526s002lbl.pdf",
+              "date": "20071227",
+              "type": "Label"
+            },
+            {
+              "id": "28024",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/021526s002ltr.pdf",
+              "date": "20080109",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20100923",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "37153",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021526s012lbl.pdf",
+              "date": "20100929",
+              "type": "Label"
+            },
+            {
+              "id": "28025",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/021526s012ltr.pdf",
+              "date": "20100928",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "20160106",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "15689",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/021526s029lbl.pdf",
+              "date": "20160107",
+              "type": "Label"
+            },
+            {
+              "id": "28028",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/021526Orig1s029ltr.pdf",
+              "date": "20160107",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "20191029",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "60724",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021526s035lbl.pdf",
+              "date": "20191030",
+              "type": "Label"
+            },
+            {
+              "id": "60726",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/021526Orig1s035ltr.pdf",
+              "date": "20191030",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20140117",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20060127",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "5637",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/021526s000ltr.pdf",
+              "date": "20060208",
+              "type": "Letter"
+            },
+            {
+              "id": "21715",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021526_s000_Ranexa.html",
+              "date": "20060406",
+              "type": "Review"
+            },
+            {
+              "id": "37151",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021526s000lbl.pdf",
+              "date": "20060207",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "33",
+          "submission_status": "AP",
+          "submission_status_date": "20160422",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20131112",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "5643",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/021526Orig1s025ltr.pdf",
+              "date": "20131115",
+              "type": "Letter"
+            },
+            {
+              "id": "15688",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021526s025lbl.pdf",
+              "date": "20131114",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20090326",
+          "review_priority": "N/A",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "5639",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/021526s007ltr.pdf",
+              "date": "20090327",
+              "type": "Letter"
+            },
+            {
+              "id": "15686",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/021526s007lbl.pdf",
+              "date": "20090326",
+              "type": "Label"
+            },
+            {
+              "id": "21717",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2009/021526Orig1s007.pdf",
+              "date": "20140805",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA021526",
+      "sponsor_name": "MENARINI INTL",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "RANEXA",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "RANEXA",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG **Federal Register determination that product was not discontinued or withdrawn for safety or effectiveness reasons**"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20260805",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA214551",
+      "sponsor_name": "UMEDICA",
+      "openfda": {
+        "application_number": [
+          "ANDA214551"
+        ],
+        "brand_name": [
+          "RANOLAZINE"
+        ],
+        "generic_name": [
+          "RANOLAZINE"
+        ],
+        "manufacturer_name": [
+          "Umedica Laboratories USA Inc."
+        ],
+        "product_ndc": [
+          "60290-055",
+          "60290-056"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "RANOLAZINE"
+        ],
+        "rxcui": [
+          "616749",
+          "728231"
+        ],
+        "spl_id": [
+          "587551c1-2bad-d0a9-e063-6394a90aa672"
+        ],
+        "spl_set_id": [
+          "a624dc7f-921d-4554-a813-f72dca0133c3"
+        ],
+        "package_ndc": [
+          "60290-056-01",
+          "60290-056-03",
+          "60290-055-01",
+          "60290-055-03"
+        ],
+        "nui": [
+          "N0000175427",
+          "N0000190114",
+          "N0000185503",
+          "N0000182137",
+          "N0000187061"
+        ],
+        "pharm_class_epc": [
+          "Anti-anginal [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Cytochrome P450 3A Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]",
+          "Cytochrome P450 2D6 Inhibitors [MoA]",
+          "Organic Cation Transporter 2 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "A6IEZ5M406"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200212",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA212284",
+      "sponsor_name": "MANKIND PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA212284"
+        ],
+        "brand_name": [
+          "RANOLAZINE"
+        ],
+        "generic_name": [
+          "RANOLAZINE"
+        ],
+        "manufacturer_name": [
+          "Lifestar Pharma LLC"
+        ],
+        "product_ndc": [
+          "70756-703",
+          "70756-704"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "RANOLAZINE"
+        ],
+        "rxcui": [
+          "616749",
+          "728231"
+        ],
+        "spl_id": [
+          "124ce9a6-ff1b-475f-8feb-b31082a51d3c"
+        ],
+        "spl_set_id": [
+          "195c4b51-fec2-410d-8d90-487c536a8728"
+        ],
+        "package_ndc": [
+          "70756-703-60",
+          "70756-704-60"
+        ],
+        "nui": [
+          "N0000175427",
+          "N0000190114",
+          "N0000185503",
+          "N0000182137",
+          "N0000187061"
+        ],
+        "pharm_class_epc": [
+          "Anti-anginal [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Cytochrome P450 3A Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]",
+          "Cytochrome P450 2D6 Inhibitors [MoA]",
+          "Organic Cation Transporter 2 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "A6IEZ5M406"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190528",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20200315",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA208862",
+      "sponsor_name": "ACTAVIS ELIZABETH",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "TA",
+          "submission_status_date": "20160512",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA208174",
+      "sponsor_name": "TEVA PHARMS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1000MG"
+            }
+          ],
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "None (Tentative Approval)"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20191031",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20200122",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190528",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA211291",
+      "sponsor_name": "CIPLA",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20201130",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA209953",
+      "sponsor_name": "ALKEM LABS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA209953"
+        ],
+        "brand_name": [
+          "RANOLAZINE"
+        ],
+        "generic_name": [
+          "RANOLAZINE"
+        ],
+        "manufacturer_name": [
+          "Ascend Laboratories, LLC"
+        ],
+        "product_ndc": [
+          "67877-525",
+          "67877-526"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "RANOLAZINE"
+        ],
+        "rxcui": [
+          "616749",
+          "728231"
+        ],
+        "spl_id": [
+          "05aa3d63-f0b2-4aff-8c82-847eec936579"
+        ],
+        "spl_set_id": [
+          "5b254a8e-db88-49be-bb48-e6d2847f8ab3"
+        ],
+        "package_ndc": [
+          "67877-525-60",
+          "67877-525-38",
+          "67877-525-10",
+          "67877-526-60",
+          "67877-526-38",
+          "67877-526-05"
+        ],
+        "nui": [
+          "N0000175427",
+          "N0000190114",
+          "N0000185503",
+          "N0000182137",
+          "N0000187061"
+        ],
+        "pharm_class_epc": [
+          "Anti-anginal [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Cytochrome P450 3A Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]",
+          "Cytochrome P450 2D6 Inhibitors [MoA]",
+          "Organic Cation Transporter 2 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "A6IEZ5M406"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230725",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213085",
+      "sponsor_name": "PIRAMAL",
+      "openfda": {
+        "application_number": [
+          "ANDA213085"
+        ],
+        "brand_name": [
+          "RANOLAZINE"
+        ],
+        "generic_name": [
+          "RANOLAZINE"
+        ],
+        "manufacturer_name": [
+          "Zameer Pharmaceuticals LLC"
+        ],
+        "product_ndc": [
+          "90096-151",
+          "90096-152"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "RANOLAZINE"
+        ],
+        "rxcui": [
+          "616749",
+          "728231"
+        ],
+        "spl_id": [
+          "e64620da-e2d0-47d8-a75e-22a8b4db1183"
+        ],
+        "spl_set_id": [
+          "5f4fc8a4-2bd5-4378-8882-e739c951390e"
+        ],
+        "package_ndc": [
+          "90096-151-60",
+          "90096-152-60"
+        ],
+        "nui": [
+          "N0000175427",
+          "N0000190114",
+          "N0000185503",
+          "N0000182137",
+          "N0000187061"
+        ],
+        "pharm_class_epc": [
+          "Anti-anginal [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Cytochrome P450 3A Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]",
+          "Cytochrome P450 2D6 Inhibitors [MoA]",
+          "Organic Cation Transporter 2 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "A6IEZ5M406"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230316",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213083",
+      "sponsor_name": "UNICHEM",
+      "openfda": {
+        "application_number": [
+          "ANDA213083"
+        ],
+        "brand_name": [
+          "RANOLAZINE"
+        ],
+        "generic_name": [
+          "RANOLAZINE"
+        ],
+        "manufacturer_name": [
+          "Unichem Pharmaceuticals (USA), Inc."
+        ],
+        "product_ndc": [
+          "29300-296",
+          "29300-297"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "RANOLAZINE"
+        ],
+        "rxcui": [
+          "616749",
+          "728231"
+        ],
+        "spl_id": [
+          "429d55c7-1e90-4345-a6d4-59f689557f40"
+        ],
+        "spl_set_id": [
+          "e2a8c9f9-5f6a-4496-8fd6-2439e564db4f"
+        ],
+        "package_ndc": [
+          "29300-296-16",
+          "29300-296-01",
+          "29300-296-05",
+          "29300-297-16",
+          "29300-297-01",
+          "29300-297-52"
+        ],
+        "nui": [
+          "N0000175427",
+          "N0000190114",
+          "N0000185503",
+          "N0000182137",
+          "N0000187061"
+        ],
+        "pharm_class_epc": [
+          "Anti-anginal [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Cytochrome P450 3A Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]",
+          "Cytochrome P450 2D6 Inhibitors [MoA]",
+          "Organic Cation Transporter 2 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "A6IEZ5M406"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20230927",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210668",
+      "sponsor_name": "NOVAST LABS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250415",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA211361",
+      "sponsor_name": "JUBILANT GENERICS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20200429",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190528",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20191031",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA211707",
+      "sponsor_name": "SUN PHARM",
+      "openfda": {
+        "application_number": [
+          "ANDA211707"
+        ],
+        "brand_name": [
+          "RANOLAZINE"
+        ],
+        "generic_name": [
+          "RANOLAZINE"
+        ],
+        "manufacturer_name": [
+          "Sun Pharmaceutical Industries, Inc."
+        ],
+        "product_ndc": [
+          "63304-017",
+          "63304-018"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "RANOLAZINE"
+        ],
+        "rxcui": [
+          "616749",
+          "728231"
+        ],
+        "spl_id": [
+          "9d320810-99dc-4276-ab06-688b60cc957d"
+        ],
+        "spl_set_id": [
+          "c5848232-b7fd-4fe5-a543-16d6c4b5c0b1"
+        ],
+        "package_ndc": [
+          "63304-017-60",
+          "63304-017-28",
+          "63304-017-05",
+          "63304-018-60",
+          "63304-018-28",
+          "63304-018-05"
+        ],
+        "nui": [
+          "N0000175427",
+          "N0000190114",
+          "N0000185503",
+          "N0000182137",
+          "N0000187061"
+        ],
+        "pharm_class_epc": [
+          "Anti-anginal [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Cytochrome P450 3A Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]",
+          "Cytochrome P450 2D6 Inhibitors [MoA]",
+          "Organic Cation Transporter 2 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "A6IEZ5M406"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220427",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213517",
+      "sponsor_name": "PHARMAZONE",
+      "openfda": {
+        "application_number": [
+          "ANDA213517"
+        ],
+        "brand_name": [
+          "RANOLAZINE"
+        ],
+        "generic_name": [
+          "RANOLAZINE"
+        ],
+        "manufacturer_name": [
+          "A2A Integrated Pharmaceuticals",
+          "i3 Pharmaceuticals, LLC"
+        ],
+        "product_ndc": [
+          "73141-021",
+          "73141-022",
+          "72319-021",
+          "72319-022"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "RANOLAZINE"
+        ],
+        "rxcui": [
+          "616749",
+          "728231"
+        ],
+        "spl_id": [
+          "32becc54-372f-b7eb-e063-6294a90a48b0",
+          "163908d8-6b41-4e68-b14c-76faa57c7ac0"
+        ],
+        "spl_set_id": [
+          "9fb62878-c76a-4be2-99be-962ce2956af2",
+          "de3185bf-448a-15f7-e053-2995a90a9a2e"
+        ],
+        "package_ndc": [
+          "73141-021-02",
+          "73141-022-02",
+          "72319-021-02",
+          "72319-022-02"
+        ],
+        "nui": [
+          "N0000175427",
+          "N0000190114",
+          "N0000185503",
+          "N0000182137",
+          "N0000187061"
+        ],
+        "pharm_class_epc": [
+          "Anti-anginal [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Cytochrome P450 3A Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]",
+          "Cytochrome P450 2D6 Inhibitors [MoA]",
+          "Organic Cation Transporter 2 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "A6IEZ5M406"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200323",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA212781",
+      "sponsor_name": "QUAGEN",
+      "openfda": {
+        "application_number": [
+          "ANDA212781"
+        ],
+        "brand_name": [
+          "RANOLAZINE"
+        ],
+        "generic_name": [
+          "RANOLAZINE"
+        ],
+        "manufacturer_name": [
+          "SunGen Pharma LLC",
+          "AvKARE"
+        ],
+        "product_ndc": [
+          "70625-206",
+          "70625-207",
+          "42291-773",
+          "42291-774"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "RANOLAZINE"
+        ],
+        "rxcui": [
+          "616749",
+          "728231"
+        ],
+        "spl_id": [
+          "4dd57879-c7db-7079-e063-6294a90abcf7",
+          "48750ca3-393e-d2ec-e063-6294a90ab8f2"
+        ],
+        "spl_set_id": [
+          "f3c09979-a44a-4197-97d2-29a207b6fc73",
+          "b2a8dc3e-a880-5241-e053-2995a90a933a"
+        ],
+        "package_ndc": [
+          "70625-206-01",
+          "70625-206-02",
+          "70625-206-00",
+          "70625-207-01",
+          "70625-207-02",
+          "70625-207-00",
+          "42291-773-60",
+          "42291-774-60"
+        ],
+        "nui": [
+          "N0000175427",
+          "N0000190114",
+          "N0000185503",
+          "N0000182137",
+          "N0000187061"
+        ],
+        "pharm_class_epc": [
+          "Anti-anginal [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Cytochrome P450 3A Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]",
+          "Cytochrome P450 2D6 Inhibitors [MoA]",
+          "Organic Cation Transporter 2 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "A6IEZ5M406"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220505",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA212788",
+      "sponsor_name": "HETERO LABS LTD III",
+      "openfda": {
+        "application_number": [
+          "ANDA212788"
+        ],
+        "brand_name": [
+          "RANOLAZINE"
+        ],
+        "generic_name": [
+          "RANOLAZINE"
+        ],
+        "manufacturer_name": [
+          "Camber Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "31722-668",
+          "31722-669"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "RANOLAZINE"
+        ],
+        "rxcui": [
+          "616749",
+          "728231"
+        ],
+        "spl_id": [
+          "dedfd14d-159a-50cc-e053-2995a90a016b"
+        ],
+        "spl_set_id": [
+          "82948cdb-73af-4f3f-bd03-628ed0fdbfba"
+        ],
+        "package_ndc": [
+          "31722-668-60",
+          "31722-669-60"
+        ],
+        "nui": [
+          "N0000175427",
+          "N0000190114",
+          "N0000185503",
+          "N0000182137",
+          "N0000187061"
+        ],
+        "pharm_class_epc": [
+          "Anti-anginal [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Cytochrome P450 3A Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]",
+          "Cytochrome P450 2D6 Inhibitors [MoA]",
+          "Organic Cation Transporter 2 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "A6IEZ5M406"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20200224",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20191031",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190528",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210054",
+      "sponsor_name": "AJANTA PHARMA LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA210054"
+        ],
+        "brand_name": [
+          "RANOLAZINE"
+        ],
+        "generic_name": [
+          "RANOLAZINE"
+        ],
+        "manufacturer_name": [
+          "Ajanta Pharma USA Inc."
+        ],
+        "product_ndc": [
+          "27241-125",
+          "27241-126"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "RANOLAZINE"
+        ],
+        "rxcui": [
+          "616749",
+          "728231"
+        ],
+        "spl_id": [
+          "933f695e-e4f4-4c75-80fc-aea9a30aa13d"
+        ],
+        "spl_set_id": [
+          "8bfd1a61-547a-4847-ae4e-480b17da6272"
+        ],
+        "package_ndc": [
+          "27241-125-02",
+          "27241-125-05",
+          "27241-126-02",
+          "27241-126-05"
+        ],
+        "nui": [
+          "N0000175427",
+          "N0000190114",
+          "N0000185503",
+          "N0000182137",
+          "N0000187061"
+        ],
+        "pharm_class_epc": [
+          "Anti-anginal [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Cytochrome P450 3A Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]",
+          "Cytochrome P450 2D6 Inhibitors [MoA]",
+          "Organic Cation Transporter 2 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "A6IEZ5M406"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220228",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 3",
+          "submission_class_code_description": "Type 3 - New Dosage Form",
+          "application_docs": [
+            {
+              "id": "70316",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/216018Orig1s000ltr.pdf",
+              "date": "20220301",
+              "type": "Letter"
+            },
+            {
+              "id": "70340",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2022/216018s000lbl.pdf",
+              "date": "20220301",
+              "type": "Label"
+            },
+            {
+              "id": "72556",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/216018Orig1s000TOC.html",
+              "date": "20221103",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA216018",
+      "sponsor_name": "SPIL",
+      "openfda": {
+        "application_number": [
+          "NDA216018"
+        ],
+        "brand_name": [
+          "ASPRUZYO SPRINKLE"
+        ],
+        "generic_name": [
+          "RANOLAZINE"
+        ],
+        "manufacturer_name": [
+          "SUN PHARMACEUTICAL INDUSTRIES, INC."
+        ],
+        "product_ndc": [
+          "47335-625",
+          "47335-624"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "RANOLAZINE"
+        ],
+        "rxcui": [
+          "2594753",
+          "2594759",
+          "2594760",
+          "2594762"
+        ],
+        "spl_id": [
+          "2cd273e4-313f-3562-e063-6394a90ac135"
+        ],
+        "spl_set_id": [
+          "dd9f81e4-50da-4551-aed5-559d304df42e"
+        ],
+        "package_ndc": [
+          "47335-624-30",
+          "47335-624-60",
+          "47335-624-11",
+          "47335-625-30",
+          "47335-625-60",
+          "47335-625-11"
+        ],
+        "nui": [
+          "N0000175427",
+          "N0000190114",
+          "N0000185503",
+          "N0000182137",
+          "N0000187061"
+        ],
+        "pharm_class_epc": [
+          "Anti-anginal [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Cytochrome P450 3A Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]",
+          "Cytochrome P450 2D6 Inhibitors [MoA]",
+          "Organic Cation Transporter 2 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "A6IEZ5M406"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ASPRUZYO SPRINKLE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "GRANULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "ASPRUZYO SPRINKLE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "GRANULE, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200227",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA211745",
+      "sponsor_name": "MICRO LABS",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20200129",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190705",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200129",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA211082",
+      "sponsor_name": "GLENMARK PHARMS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA211082"
+        ],
+        "brand_name": [
+          "RANOLAZINE"
+        ],
+        "generic_name": [
+          "RANOLAZINE"
+        ],
+        "manufacturer_name": [
+          "Glenmark Pharmaceuticals Inc., USA"
+        ],
+        "product_ndc": [
+          "68462-319",
+          "68462-320"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "RANOLAZINE"
+        ],
+        "rxcui": [
+          "616749",
+          "728231"
+        ],
+        "spl_id": [
+          "891a4c1d-ed0c-4002-87d9-e395df0386d1"
+        ],
+        "spl_set_id": [
+          "0cf58732-c242-49b0-8e3f-248778b4458d"
+        ],
+        "package_ndc": [
+          "68462-319-60",
+          "68462-319-05",
+          "68462-320-60",
+          "68462-320-05"
+        ],
+        "nui": [
+          "N0000175427",
+          "N0000190114",
+          "N0000185503",
+          "N0000182137",
+          "N0000187061"
+        ],
+        "pharm_class_epc": [
+          "Anti-anginal [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Cytochrome P450 3A Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]",
+          "Cytochrome P450 2D6 Inhibitors [MoA]",
+          "Organic Cation Transporter 2 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "A6IEZ5M406"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20250204",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210407",
+      "sponsor_name": "TORRENT",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Discontinued",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20221223",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA209081",
+      "sponsor_name": "AUROBINDO PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA209081"
+        ],
+        "brand_name": [
+          "RANOLAZINE"
+        ],
+        "generic_name": [
+          "RANOLAZINE"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "59651-009",
+          "59651-010"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "RANOLAZINE"
+        ],
+        "rxcui": [
+          "616749",
+          "728231"
+        ],
+        "spl_id": [
+          "ee3c2383-a36a-4abe-9764-89f817798f28"
+        ],
+        "spl_set_id": [
+          "49873158-5c0a-41da-86a2-369ef6b0cbc8"
+        ],
+        "package_ndc": [
+          "59651-009-60",
+          "59651-009-18",
+          "59651-009-99",
+          "59651-010-60",
+          "59651-010-18",
+          "59651-010-99"
+        ],
+        "nui": [
+          "N0000175427",
+          "N0000190114",
+          "N0000185503",
+          "N0000182137",
+          "N0000187061"
+        ],
+        "pharm_class_epc": [
+          "Anti-anginal [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Cytochrome P450 3A Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]",
+          "Cytochrome P450 2D6 Inhibitors [MoA]",
+          "Organic Cation Transporter 2 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "A6IEZ5M406"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20200225",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20200818",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200225",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20130729",
+          "submission_class_code": "N/A",
+          "submission_class_code_description": "Not Applicable",
+          "application_docs": [
+            {
+              "id": "32080",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/201046Orig1s000ltr.pdf",
+              "date": "20130731",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20200225",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20200225",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA201046",
+      "sponsor_name": "CHARTWELL RX",
+      "openfda": {
+        "application_number": [
+          "ANDA201046"
+        ],
+        "brand_name": [
+          "RANOLAZINE"
+        ],
+        "generic_name": [
+          "RANOLAZINE"
+        ],
+        "manufacturer_name": [
+          "Lupin Pharmaceuticals, Inc."
+        ],
+        "product_ndc": [
+          "68180-354",
+          "68180-355"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "RANOLAZINE"
+        ],
+        "rxcui": [
+          "616749",
+          "728231"
+        ],
+        "spl_id": [
+          "e5f38101-deda-4a41-8c51-76edce7df3e8"
+        ],
+        "spl_set_id": [
+          "595821d7-1fbf-49a5-9c62-d78f27af39b4"
+        ],
+        "package_ndc": [
+          "68180-354-07",
+          "68180-354-02",
+          "68180-355-07",
+          "68180-355-02"
+        ],
+        "nui": [
+          "N0000175427",
+          "N0000190114",
+          "N0000185503",
+          "N0000182137",
+          "N0000187061"
+        ],
+        "pharm_class_epc": [
+          "Anti-anginal [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Cytochrome P450 3A Inhibitors [MoA]",
+          "P-Glycoprotein Inhibitors [MoA]",
+          "Cytochrome P450 2D6 Inhibitors [MoA]",
+          "Organic Cation Transporter 2 Inhibitors [MoA]"
+        ],
+        "unii": [
+          "A6IEZ5M406"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "500MG"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "RANOLAZINE",
+          "active_ingredients": [
+            {
+              "name": "RANOLAZINE",
+              "strength": "1GM"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "TABLET, EXTENDED RELEASE",
+          "route": "ORAL",
+          "marketing_status": "Prescription",
+          "te_code": "AB"
+        }
+      ]
+    }
+  ]
+}

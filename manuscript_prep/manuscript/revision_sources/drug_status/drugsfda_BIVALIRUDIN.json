@@ -1,0 +1,1739 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 16
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170706",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "48943",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/204876Orig1s000ltr.pdf",
+              "date": "20170711",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20200917",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20200917",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA204876",
+      "sponsor_name": "APOTEX",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BIVALIRUDIN",
+          "active_ingredients": [
+            {
+              "name": "BIVALIRUDIN",
+              "strength": "250MG/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190725",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "application_docs": [
+            {
+              "id": "59473",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/211215Orig1s000ltr.pdf",
+              "date": "20190726",
+              "type": "Letter"
+            },
+            {
+              "id": "59499",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/211215s000lbl.pdf",
+              "date": "20190730",
+              "type": "Label"
+            },
+            {
+              "id": "62107",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/211215Orig1s000TOC.html",
+              "date": "20200310",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20230509",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "74204",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/211215Orig1s002ltr.pdf",
+              "date": "20230510",
+              "type": "Letter"
+            },
+            {
+              "id": "74209",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/211215Orig1s002lbl.pdf",
+              "date": "20230510",
+              "type": "Label"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA211215",
+      "sponsor_name": "MAIA PHARMS INC",
+      "openfda": {
+        "application_number": [
+          "NDA211215"
+        ],
+        "brand_name": [
+          "BIVALIRUDIN"
+        ],
+        "generic_name": [
+          "BIVALIRUDIN"
+        ],
+        "manufacturer_name": [
+          "MAIA Pharmaceuticals, Inc.",
+          "Par Health USA, LLC"
+        ],
+        "product_ndc": [
+          "70511-142",
+          "42023-622"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "BIVALIRUDIN"
+        ],
+        "rxcui": [
+          "1997015"
+        ],
+        "spl_id": [
+          "c727199d-f4cd-4658-8fdf-568590beface",
+          "e7a51342-62b0-420f-ad3c-530e8d1409c1"
+        ],
+        "spl_set_id": [
+          "c727199d-f4cd-4658-8fdf-568590beface",
+          "91cf9d00-29e0-4357-a184-f70026c47edb"
+        ],
+        "package_ndc": [
+          "70511-142-50",
+          "70511-142-84",
+          "42023-622-01",
+          "42023-622-10"
+        ],
+        "nui": [
+          "N0000175980",
+          "N0000175518",
+          "N0000009963"
+        ],
+        "pharm_class_epc": [
+          "Anti-coagulant [EPC]",
+          "Direct Thrombin Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Thrombin Inhibitors [MoA]"
+        ],
+        "unii": [
+          "TN9BEX005G"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ANGIOMAX RTU",
+          "active_ingredients": [
+            {
+              "name": "BIVALIRUDIN",
+              "strength": "250MG/50ML (5MG/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20171122",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "50511",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/206551Orig1s000ltr.pdf",
+              "date": "20171127",
+              "type": "Letter"
+            },
+            {
+              "id": "10580",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/206551Orig1s000TAltr.pdf",
+              "date": "20160504",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20250218",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20250218",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20250218",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA206551",
+      "sponsor_name": "ACCORD HLTHCARE",
+      "openfda": {
+        "application_number": [
+          "ANDA206551"
+        ],
+        "brand_name": [
+          "BIVALIRUDIN"
+        ],
+        "generic_name": [
+          "BIVALIRUDIN"
+        ],
+        "manufacturer_name": [
+          "Accord Healthcare, Inc."
+        ],
+        "product_ndc": [
+          "16729-275"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "BIVALIRUDIN"
+        ],
+        "rxcui": [
+          "308769"
+        ],
+        "spl_id": [
+          "1fbdba30-8018-d7d3-e063-6294a90ae6b6"
+        ],
+        "spl_set_id": [
+          "c20969cb-72d4-469b-9bd8-332250d896c3"
+        ],
+        "package_ndc": [
+          "16729-275-03",
+          "16729-275-67"
+        ],
+        "nui": [
+          "N0000175980",
+          "N0000175518",
+          "N0000009963"
+        ],
+        "pharm_class_epc": [
+          "Anti-coagulant [EPC]",
+          "Direct Thrombin Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Thrombin Inhibitors [MoA]"
+        ],
+        "unii": [
+          "TN9BEX005G"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BIVALIRUDIN",
+          "active_ingredients": [
+            {
+              "name": "BIVALIRUDIN",
+              "strength": "250MG/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20050613",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "26105",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/020873s006ltr.pdf",
+              "date": "20050615",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "39",
+          "submission_status": "AP",
+          "submission_status_date": "20190702",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "59235",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/020873Orig1s039ltr.pdf",
+              "date": "20190705",
+              "type": "Letter"
+            },
+            {
+              "id": "59293",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2019/020873s039lbl.pdf",
+              "date": "20190710",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20020620",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3632",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20873s004LTR.pdf",
+              "date": "20020620",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20010514",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "37",
+          "submission_status": "AP",
+          "submission_status_date": "20181221",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "57005",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020873s037lbl.pdf",
+              "date": "20181226",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "29",
+          "submission_status": "AP",
+          "submission_status_date": "20130517",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "26108",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2013/020873Orig1s029ltr.pdf",
+              "date": "20130522",
+              "type": "Letter"
+            },
+            {
+              "id": "35558",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/020873s029lbl.pdf",
+              "date": "20130521",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "35",
+          "submission_status": "AP",
+          "submission_status_date": "20150903",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "27",
+          "submission_status": "AP",
+          "submission_status_date": "20121109",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "33",
+          "submission_status": "AP",
+          "submission_status_date": "20160510",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "25",
+          "submission_status": "AP",
+          "submission_status_date": "20120530",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "31",
+          "submission_status": "AP",
+          "submission_status_date": "20140807",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "23",
+          "submission_status": "AP",
+          "submission_status_date": "20100623",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "35557",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/020873s023lbl.pdf",
+              "date": "20100701",
+              "type": "Label"
+            },
+            {
+              "id": "3634",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/020873s023ltr.pdf",
+              "date": "20100629",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "20040507",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "26106",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/20873slr009ltr.pdf",
+              "date": "20040507",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20051130",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "26107",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/020873s011ltr.pdf",
+              "date": "20051205",
+              "type": "Letter"
+            },
+            {
+              "id": "35556",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/020873s011lbl.pdf",
+              "date": "20051205",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20010622",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20010402",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "36",
+          "submission_status": "AP",
+          "submission_status_date": "20160321",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "26109",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/020873Orig1s036ltr.pdf",
+              "date": "20160322",
+              "type": "Letter"
+            },
+            {
+              "id": "35559",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/020873s036lbl.pdf",
+              "date": "20160322",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20001215",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "53199",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/020873_Bivalirudin_Clinical_BPCA.pdf",
+              "date": "19000101",
+              "type": "Pediatric Medical Review"
+            },
+            {
+              "id": "53200",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/020873_Bivalirudin_Clinpharm_BPCA.pdf",
+              "date": "19000101",
+              "type": "Pediatric Clinical Pharmacology Review"
+            },
+            {
+              "id": "54031",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/pediatric/020873_Bivalirudin_Original_WR.pdf",
+              "date": "19000101",
+              "type": "Pediatric Written Request"
+            },
+            {
+              "id": "13658",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2000/20873lbl.pdf",
+              "date": "20001215",
+              "type": "Label"
+            },
+            {
+              "id": "21038",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20873_Angiomax.html",
+              "date": "20040408",
+              "type": "Review"
+            },
+            {
+              "id": "26104",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/20873ltr.pdf",
+              "date": "20001215",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "28",
+          "submission_status": "AP",
+          "submission_status_date": "20130215",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "34",
+          "submission_status": "AP",
+          "submission_status_date": "20160308",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "32",
+          "submission_status": "AP",
+          "submission_status_date": "20150529",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "30",
+          "submission_status": "AP",
+          "submission_status_date": "20130730",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20050902",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "3633",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/020873s014ltr.pdf",
+              "date": "20050908",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020873",
+      "sponsor_name": "SANDOZ",
+      "openfda": {
+        "application_number": [
+          "NDA020873"
+        ],
+        "brand_name": [
+          "BIVALIRUDIN"
+        ],
+        "generic_name": [
+          "BIVALIRUDIN"
+        ],
+        "manufacturer_name": [
+          "Civica, Inc.",
+          "Sandoz Inc"
+        ],
+        "product_ndc": [
+          "72572-035",
+          "0781-3158"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "BIVALIRUDIN"
+        ],
+        "rxcui": [
+          "308769"
+        ],
+        "spl_id": [
+          "53431803-dc0b-42dc-8766-e17c3dbdf4ea",
+          "6d393e10-b1f2-42b1-bc50-920309c144c6"
+        ],
+        "spl_set_id": [
+          "19a4afc5-151d-4d3c-bfef-48aa8797d695",
+          "ce56f806-7845-429d-a1ce-c2dbf79b22eb"
+        ],
+        "package_ndc": [
+          "72572-035-01",
+          "72572-035-10",
+          "0781-3158-94",
+          "0781-3158-95"
+        ],
+        "nui": [
+          "N0000175980",
+          "N0000175518",
+          "N0000009963"
+        ],
+        "pharm_class_epc": [
+          "Anti-coagulant [EPC]",
+          "Direct Thrombin Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Thrombin Inhibitors [MoA]"
+        ],
+        "unii": [
+          "TN9BEX005G"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ANGIOMAX",
+          "active_ingredients": [
+            {
+              "name": "BIVALIRUDIN",
+              "strength": "250MG/VIAL"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180601",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20190923",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA202471",
+      "sponsor_name": "MYLAN INSTITUTIONAL",
+      "openfda": {
+        "application_number": [
+          "ANDA202471"
+        ],
+        "brand_name": [
+          "BIVALIRUDIN"
+        ],
+        "generic_name": [
+          "BIVALIRUDIN"
+        ],
+        "manufacturer_name": [
+          "Mylan Institutional LLC"
+        ],
+        "product_ndc": [
+          "67457-256"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "BIVALIRUDIN"
+        ],
+        "rxcui": [
+          "308769"
+        ],
+        "spl_id": [
+          "664ba93e-5cde-4a01-bc5c-17ed394652e8"
+        ],
+        "spl_set_id": [
+          "95d150e7-f152-4091-b831-e469c9578a54"
+        ],
+        "package_ndc": [
+          "67457-256-00",
+          "67457-256-10"
+        ],
+        "nui": [
+          "N0000175980",
+          "N0000175518",
+          "N0000009963"
+        ],
+        "pharm_class_epc": [
+          "Anti-coagulant [EPC]",
+          "Direct Thrombin Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Thrombin Inhibitors [MoA]"
+        ],
+        "unii": [
+          "TN9BEX005G"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BIVALIRUDIN",
+          "active_ingredients": [
+            {
+              "name": "BIVALIRUDIN",
+              "strength": "250MG/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20210528",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA213078",
+      "sponsor_name": "HAINAN POLY",
+      "openfda": {
+        "application_number": [
+          "ANDA213078"
+        ],
+        "brand_name": [
+          "BIVALIRUDIN"
+        ],
+        "generic_name": [
+          "BIVALIRUDIN"
+        ],
+        "manufacturer_name": [
+          "Slate Run Pharmaceuticals, LLC"
+        ],
+        "product_ndc": [
+          "70436-025"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "BIVALIRUDIN"
+        ],
+        "rxcui": [
+          "308769"
+        ],
+        "spl_id": [
+          "c44f8757-1a09-ab1e-e053-2a95a90a44e1"
+        ],
+        "spl_set_id": [
+          "5d9a45c6-e234-4d56-9132-5e24e65852e6"
+        ],
+        "package_ndc": [
+          "70436-025-80",
+          "70436-025-82"
+        ],
+        "nui": [
+          "N0000175980",
+          "N0000175518",
+          "N0000009963"
+        ],
+        "pharm_class_epc": [
+          "Anti-coagulant [EPC]",
+          "Direct Thrombin Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Thrombin Inhibitors [MoA]"
+        ],
+        "unii": [
+          "TN9BEX005G"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BIVALIRUDIN",
+          "active_ingredients": [
+            {
+              "name": "BIVALIRUDIN",
+              "strength": "250MG/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20231121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20170526",
+          "submission_class_code": "N/A",
+          "submission_class_code_description": "Not Applicable",
+          "application_docs": [
+            {
+              "id": "48604",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/201577Orig1s000ltr.pdf",
+              "date": "20170531",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20191001",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA201577",
+      "sponsor_name": "DR REDDYS",
+      "openfda": {
+        "application_number": [
+          "ANDA201577"
+        ],
+        "brand_name": [
+          "BIVALIRUDIN"
+        ],
+        "generic_name": [
+          "BIVALIRUDIN"
+        ],
+        "manufacturer_name": [
+          "Dr. Reddy's Laboratories Limited"
+        ],
+        "product_ndc": [
+          "55111-652"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRACAVERNOUS"
+        ],
+        "substance_name": [
+          "BIVALIRUDIN"
+        ],
+        "rxcui": [
+          "308769"
+        ],
+        "spl_id": [
+          "2c95d0ae-12a5-4981-d4cf-99e26a7f5a69"
+        ],
+        "spl_set_id": [
+          "19beb2ae-6064-3c24-fe50-0cee86896979"
+        ],
+        "package_ndc": [
+          "55111-652-07",
+          "55111-652-37"
+        ],
+        "nui": [
+          "N0000175980",
+          "N0000175518",
+          "N0000009963"
+        ],
+        "pharm_class_epc": [
+          "Anti-coagulant [EPC]",
+          "Direct Thrombin Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Thrombin Inhibitors [MoA]"
+        ],
+        "unii": [
+          "TN9BEX005G"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BIVALIRUDIN",
+          "active_ingredients": [
+            {
+              "name": "BIVALIRUDIN",
+              "strength": "250MG/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "TA",
+          "submission_status_date": "20170202"
+        }
+      ],
+      "application_number": "ANDA091468",
+      "sponsor_name": "MYLAN LABS LTD",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BIVALIRUDIN",
+          "active_ingredients": [
+            {
+              "name": "BIVALIRUDIN",
+              "strength": "250MG/VIAL"
+            }
+          ],
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "None (Tentative Approval)"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "20191122",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20191122",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20191122",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "20191122",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150714",
+          "application_docs": [
+            {
+              "id": "18540",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/090811s000lbl.pdf",
+              "date": "20150716",
+              "type": "Label"
+            },
+            {
+              "id": "31497",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/090811Orig1s000ltr.pdf",
+              "date": "20150715",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA090811",
+      "sponsor_name": "HOSPIRA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BIVALIRUDIN",
+          "active_ingredients": [
+            {
+              "name": "BIVALIRUDIN",
+              "strength": "250MG/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150714",
+          "application_docs": [
+            {
+              "id": "39612",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/090816s000lbl.pdf",
+              "date": "20150716",
+              "type": "Label"
+            },
+            {
+              "id": "31498",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/090816Orig1s000ltr.pdf",
+              "date": "20150715",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA090816",
+      "sponsor_name": "HOSPIRA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BIVALIRUDIN",
+          "active_ingredients": [
+            {
+              "name": "BIVALIRUDIN",
+              "strength": "250MG/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20191023",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        }
+      ],
+      "application_number": "ANDA210031",
+      "sponsor_name": "SHUANGCHENG",
+      "openfda": {
+        "application_number": [
+          "ANDA210031"
+        ],
+        "brand_name": [
+          "BIVALIRUDIN"
+        ],
+        "generic_name": [
+          "BIVALIRUDIN"
+        ],
+        "manufacturer_name": [
+          "Avenacy, LLC",
+          "Hainan Shuangcheng Pharmaceuticals Co., Ltd."
+        ],
+        "product_ndc": [
+          "83634-400",
+          "52958-034"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "BIVALIRUDIN"
+        ],
+        "rxcui": [
+          "308769"
+        ],
+        "spl_id": [
+          "478e629f-0616-49ea-a154-a45387512920",
+          "463422b6-e6d2-4319-a95e-aed834c2c844"
+        ],
+        "spl_set_id": [
+          "42aa2630-83d6-433d-8277-0f672cf8d71d",
+          "61de12ff-e280-4bab-9804-43869ec45fa7"
+        ],
+        "package_ndc": [
+          "83634-400-41",
+          "83634-400-10",
+          "52958-034-01"
+        ],
+        "nui": [
+          "N0000175980",
+          "N0000175518",
+          "N0000009963"
+        ],
+        "pharm_class_epc": [
+          "Anti-coagulant [EPC]",
+          "Direct Thrombin Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Thrombin Inhibitors [MoA]"
+        ],
+        "unii": [
+          "TN9BEX005G"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BIVALIRUDIN",
+          "active_ingredients": [
+            {
+              "name": "BIVALIRUDIN",
+              "strength": "250MG/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20210414",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20161028",
+          "application_docs": [
+            {
+              "id": "45777",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/090189Orig1s000ltr.pdf",
+              "date": "20161102",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA090189",
+      "sponsor_name": "FRESENIUS KABI USA",
+      "openfda": {
+        "application_number": [
+          "ANDA090189"
+        ],
+        "brand_name": [
+          "BIVALIRUDIN"
+        ],
+        "generic_name": [
+          "BIVALIRUDIN"
+        ],
+        "manufacturer_name": [
+          "Fresenius Kabi USA, LLC"
+        ],
+        "product_ndc": [
+          "63323-562"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "BIVALIRUDIN"
+        ],
+        "rxcui": [
+          "308769"
+        ],
+        "spl_id": [
+          "2f51e657-4541-4458-8020-5063efc51eb7",
+          "c6dcd639-86b8-40e0-b18b-e2d4393f274b"
+        ],
+        "spl_set_id": [
+          "af943fa0-ab0f-4b62-9ff0-54ee24cdb772",
+          "50975be1-6d1f-497c-b989-1825a0fae1a7"
+        ],
+        "package_ndc": [
+          "63323-562-10",
+          "63323-562-41",
+          "63323-562-15"
+        ],
+        "nui": [
+          "N0000175980",
+          "N0000175518",
+          "N0000009963"
+        ],
+        "pharm_class_epc": [
+          "Anti-coagulant [EPC]",
+          "Direct Thrombin Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Thrombin Inhibitors [MoA]"
+        ],
+        "unii": [
+          "TN9BEX005G"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BIVALIRUDIN",
+          "active_ingredients": [
+            {
+              "name": "BIVALIRUDIN",
+              "strength": "250MG/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180727",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "32770",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/205962TAltr.pdf",
+              "date": "20151231",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190923",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA205962",
+      "sponsor_name": "EUGIA PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA205962"
+        ],
+        "brand_name": [
+          "BIVALIRUDIN"
+        ],
+        "generic_name": [
+          "BIVALIRUDIN"
+        ],
+        "manufacturer_name": [
+          "Eugia US LLC"
+        ],
+        "product_ndc": [
+          "55150-210"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "BIVALIRUDIN"
+        ],
+        "rxcui": [
+          "308769"
+        ],
+        "spl_id": [
+          "5648a9e0-d7bb-4b2b-9525-73842ae281a9"
+        ],
+        "spl_set_id": [
+          "e574d04f-67b4-4a84-9d66-8c2d54f95120"
+        ],
+        "package_ndc": [
+          "55150-210-10"
+        ],
+        "nui": [
+          "N0000175980",
+          "N0000175518",
+          "N0000009963"
+        ],
+        "pharm_class_epc": [
+          "Anti-coagulant [EPC]",
+          "Direct Thrombin Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Thrombin Inhibitors [MoA]"
+        ],
+        "unii": [
+          "TN9BEX005G"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BIVALIRUDIN",
+          "active_ingredients": [
+            {
+              "name": "BIVALIRUDIN",
+              "strength": "250MG/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "TA",
+          "submission_status_date": "20160914"
+        }
+      ],
+      "application_number": "ANDA091206",
+      "sponsor_name": "PLIVA HRVATSKA DOO",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BIVALIRUDIN",
+          "active_ingredients": [
+            {
+              "name": "BIVALIRUDIN",
+              "strength": "250MG/VIAL"
+            }
+          ],
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS",
+          "marketing_status": "None (Tentative Approval)"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20190923",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180716",
+          "submission_class_code": "N/A",
+          "submission_class_code_description": "Not Applicable"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190923",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA091602",
+      "sponsor_name": "MEITHEAL",
+      "openfda": {
+        "application_number": [
+          "ANDA091602"
+        ],
+        "brand_name": [
+          "BIVALIRUDIN"
+        ],
+        "generic_name": [
+          "BIVALIRUDIN"
+        ],
+        "manufacturer_name": [
+          "Meitheal Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "71288-427"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "BIVALIRUDIN"
+        ],
+        "rxcui": [
+          "308769"
+        ],
+        "spl_id": [
+          "2b20b742-4bab-4e5b-9d1b-9a7ca9e0daf7",
+          "79d8ee9d-bd04-4fb8-aa3b-61cef7be14f2"
+        ],
+        "spl_set_id": [
+          "4119b710-ef30-4e3e-b99a-38e42b4b3fca",
+          "26fb46f6-0088-42b8-b6f2-c67224776803"
+        ],
+        "package_ndc": [
+          "71288-427-10",
+          "71288-427-11",
+          "71288-427-91",
+          "71288-427-92"
+        ],
+        "nui": [
+          "N0000175980",
+          "N0000175518",
+          "N0000009963"
+        ],
+        "pharm_class_epc": [
+          "Anti-coagulant [EPC]",
+          "Direct Thrombin Inhibitor [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Thrombin Inhibitors [MoA]"
+        ],
+        "unii": [
+          "TN9BEX005G"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "BIVALIRUDIN",
+          "active_ingredients": [
+            {
+              "name": "BIVALIRUDIN",
+              "strength": "250MG/VIAL"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20171221",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "application_docs": [
+            {
+              "id": "50865",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/208374s000lbl.pdf",
+              "date": "20171226",
+              "type": "Label"
+            },
+            {
+              "id": "50918",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/208374Orig1s000ltr.pdf",
+              "date": "20171227",
+              "type": "Letter"
+            },
+            {
+              "id": "52671",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/208374Orig1s000TOC.html",
+              "date": "20180220",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20210108",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "65872",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2021/208374s002lbl.pdf",
+              "date": "20210108",
+              "type": "Label"
+            },
+            {
+              "id": "65891",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2021/208374Orig1s002ltr.pdf",
+              "date": "20210112",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA208374",
+      "sponsor_name": "BAXTER HLTHCARE CORP",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "BIVALIRUDIN IN 0.9% SODIUM CHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "BIVALIRUDIN",
+              "strength": "250MG/50ML (5MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "BIVALIRUDIN IN 0.9% SODIUM CHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "BIVALIRUDIN",
+              "strength": "500MG/100ML (5MG/ML)"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

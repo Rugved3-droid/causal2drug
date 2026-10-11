@@ -1,0 +1,2 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+SLC18A2	D002547	Cerebral Palsy	GCST90473360	DOWN	4	rs181440	4.7345e-126	-0.188758	0.00790386	570.3	0.0706747	0.0818581	aligned_flipped	130	-0.37442	0.433668	0.387928	NEGATIVE	POSITIVE	NO	

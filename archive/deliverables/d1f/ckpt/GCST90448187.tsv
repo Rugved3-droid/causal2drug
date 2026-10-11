@@ -1,0 +1,3 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+PDE5A	D011928	Raynaud Disease	GCST90448187	DOWN	2	rs10518336	2.2497e-54	0.134478	0.0086604	241.1	0.0333	0.0134	aligned_flipped	480	0.247624	0.0996446	0.0129524	POSITIVE	POSITIVE	YES	
+PTGIR	D011928	Raynaud Disease	GCST90448187	UP	4	rs75660000	1.722e-280	-0.34882	0.00974694	1281	-0.0009	0.0167	aligned_same	223	0.00258013	0.0478757	0.957021	POSITIVE	NEGATIVE	NO	

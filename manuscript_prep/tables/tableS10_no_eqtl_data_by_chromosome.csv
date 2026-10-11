@@ -1,0 +1,6 @@
+﻿Set,Targets,No eQTL data,...autosomal,...X-linked,...mitochondrial,...Y-linked,All X/Y/MT targets in set,X-linked with blood TPM >= 1,Mitochondrial with blood TPM >= 1,Autosomal no-eQTL-data with blood TPM < 1,Autosomal lower bound
+Primary set,726,217,188,27,2,0,29,12,2,180 / 182,27.0%
+Sensitivity 1 (original 630),630,180,157,21,2,0,23,8,2,149 / 151,25.9%
+Sensitivity 2,663,191,167,22,2,0,24,9,2,159 / 161,26.1%
+Sensitivity 3 (MeSH C14 only),594,164,144,18,2,0,20,6,2,137 / 139,25.1%
+"All 2,517 targets",2517,663,553,107,3,0,110,50,3,528 / 537,23.0%

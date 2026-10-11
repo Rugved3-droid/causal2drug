@@ -1,0 +1,2 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+DHODH	D008581	Meningitis	GCST90473300	DOWN	2	rs3213422	1.7666e-37	0.102017	0.00797365	163.7	0.0715151	0.0295356	aligned_flipped	173	0.701009	0.289516	0.0154643	POSITIVE	POSITIVE	YES	

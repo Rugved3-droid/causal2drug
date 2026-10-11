@@ -1,0 +1,19 @@
+block,section,emphasis,measure,value,of,basis_or_rule
+availability,Colocalization availability at cardiovascular target loci,R,Cardiovascular target loci screened,65,—,"R15 rule, cardiovascular subset"
+availability,Colocalization availability at cardiovascular target loci,R,Loci with a genome-wide significant disease signal in the gene window,3,of 65,disease GWAS p < 5×10⁻⁸
+availability,Colocalization availability at cardiovascular target loci,R,Loci yielding a usable credible-set colocalization,2,of 65,"coloc.susie, after the FIX 1 assertion"
+availability,Colocalization availability at cardiovascular target loci,H,Colocalization UNAVAILABLE,63 (96.9%),of 65,"method availability, not evidence"
+availability,Infrastructure attrition — disease GWAS cannot be region-queried,H,"Cardiovascular pairs lost (CV-EXTENDED, atlas definition)",265 (59.2%),of 448,PRIMARY figure
+availability,Infrastructure attrition — disease GWAS cannot be region-queried,R,"Cardiovascular pairs lost (CV-PRIMARY, strict definition)",218 (54.4%),of 401,"robustness, Analysis 2"
+availability,Infrastructure attrition — disease GWAS cannot be region-queried,R,Part C-conditioned sub-rate,57 (55.3%),of 103,SUB-RATE ONLY — conditioned on two unrelated Part C rules
+availability,The four accessions responsible for the 57 Part C-conditioned losses,R,GCST90029021,10 pairs,of 57,"plain gzip, no .tbi (HTTP 404) — not range-queryable"
+availability,The four accessions responsible for the 57 Part C-conditioned losses,R,GCST90043777,9 pairs,of 57,"plain gzip, no .tbi (HTTP 404) — not range-queryable"
+availability,The four accessions responsible for the 57 Part C-conditioned losses,R,GCST90044006,23 pairs,of 57,"plain gzip, no .tbi (HTTP 404) — not range-queryable"
+availability,The four accessions responsible for the 57 Part C-conditioned losses,R,GCST90080708,15 pairs,of 57,"plain gzip, no .tbi (HTTP 404) — not range-queryable"
+finemapping_diagnostics,corrected R15 vs flawed R14.1,R,Loci analysed,28 of 60 (32 superseded),6 of 106 screened,
+finemapping_diagnostics,corrected R15 vs flawed R14.1,R,Loci genome-wide significant on the disease side,1 / 28,6 / 6 (100%),
+finemapping_diagnostics,corrected R15 vs flawed R14.1,H,"DENTIST residual-z RMSE, gene-expression side — median",4.46,3.15,
+finemapping_diagnostics,corrected R15 vs flawed R14.1,H,"DENTIST residual-z RMSE, gene-expression side — loci above 2",93%,100%  (6/6),
+finemapping_diagnostics,corrected R15 vs flawed R14.1,R,"DENTIST residual-z RMSE, disease side — median",0.71  (n=27),1.70,
+finemapping_diagnostics,corrected R15 vs flawed R14.1,R,"DENTIST residual-z RMSE, disease side — loci above 2",0%  (0/27),33%  (2/6),
+finemapping_diagnostics,corrected R15 vs flawed R14.1,H,Credible-set pair returned,2 / 28 (7%)   WITHDRAWN,4 / 6 (67%),

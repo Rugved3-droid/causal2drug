@@ -1,0 +1,18 @@
+gene	mesh_id	mesh_term	gwas_acc	drug_direction	n_independent	lead_rsid	lead_p_exp	beta_exp	se_exp	F	beta_out_harm	se_out	harmonization	n_overlap	mr_beta	mr_se	mr_p	mr_direction	expected_direction	concordant	note
+AKR1B1	D014605	Uveitis	GCST90477735	DOWN	5									0							no_overlap_after_harmonization
+C5	D014605	Uveitis	GCST90477735	DOWN	15									0							no_overlap_after_harmonization
+DHFR	D014605	Uveitis	GCST90477735	DOWN	9									0							no_overlap_after_harmonization
+DHODH	D014605	Uveitis	GCST90477735	DOWN	2									0							no_overlap_after_harmonization
+FCGRT	D014605	Uveitis	GCST90477735	DOWN	4									0							no_overlap_after_harmonization
+IL6	D014605	Uveitis	GCST90477735	DOWN	2									0							no_overlap_after_harmonization
+IL6R	D014605	Uveitis	GCST90477735	DOWN	2									0							no_overlap_after_harmonization
+JAK1	D014605	Uveitis	GCST90477735	DOWN	1									0							no_overlap_after_harmonization
+JAK2	D014605	Uveitis	GCST90477735	DOWN	3									0							no_overlap_after_harmonization
+JAK3	D014605	Uveitis	GCST90477735	DOWN	1									0							no_overlap_after_harmonization
+MC1R	D014605	Uveitis	GCST90477735	UP	7									0							no_overlap_after_harmonization
+MTOR	D014605	Uveitis	GCST90477735	DOWN	4									0							no_overlap_after_harmonization
+SYK	D014605	Uveitis	GCST90477735	DOWN	11									0							no_overlap_after_harmonization
+TNF	D014605	Uveitis	GCST90477735	DOWN	3									0							no_overlap_after_harmonization
+TRPV1	D014605	Uveitis	GCST90477735	UP	1									0							no_overlap_after_harmonization
+TYK2	D014605	Uveitis	GCST90477735	DOWN	5									0							no_overlap_after_harmonization
+VEGFA	D014605	Uveitis	GCST90477735	DOWN	5									0							no_overlap_after_harmonization

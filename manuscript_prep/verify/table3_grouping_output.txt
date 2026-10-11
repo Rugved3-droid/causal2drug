@@ -1,0 +1,88 @@
+wrote D:\causal2drug\manuscript_prep\table3_grouping_proposal.csv (93 terms)
+
+Proposed extended set (original + rule A): 62 terms, 1879 pairs
+
+proposed_area_9                     terms   pairs   launched
+Other                                  20     404         16
+Cerebrovascular                         8     380          8
+Lipids / atherosclerosis                8     311         20
+Ischaemic heart disease                 6     257         27
+Heart failure / cardiomyopathy          6     198         11
+Pulmonary hypertension                  1     105          6
+Thrombosis                              4      92         16
+Arrhythmia                              8      66         11
+Hypertension                            1      66         10
+
+area_if_only_7                      terms   pairs   launched
+Other                                  27     781         24
+Lipids / atherosclerosis               13     559         43
+Heart failure / cardiomyopathy          6     198         11
+Pulmonary hypertension                  1     105          6
+Thrombosis                              6     104         20
+Arrhythmia                              8      66         11
+Hypertension                            1      66         10
+
+| area | MeSH term | pairs | Phase III | launched | source | note |
+|---|---|---|---|---|---|---|
+| Arrhythmia | Atrial Fibrillation | 33 | 6 | 5 | new |  |
+| Arrhythmia | Arrhythmias, Cardiac | 16 | 0 | 0 | new |  |
+| Arrhythmia | Ventricular Fibrillation | 6 | 0 | 4 | new |  |
+| Arrhythmia | Tachycardia, Ventricular | 4 | 0 | 1 | new |  |
+| Arrhythmia | Tachycardia, Supraventricular | 3 | 0 | 1 | new |  |
+| Arrhythmia | Long QT Syndrome | 2 | 0 | 0 | new |  |
+| Arrhythmia | Tachycardia | 1 | 0 | 0 | new |  |
+| Arrhythmia | Bradycardia | 1 | 0 | 0 | new |  |
+| Cerebrovascular | Brain Ischemia | 173 | 11 | 4 | orig | identical target list to Stroke in Minikel [7-area: Other] |
+| Cerebrovascular | Stroke | 173 | 11 | 4 | orig | identical target list to Brain Ischemia in Minikel [7-area: Other] |
+| Cerebrovascular | Cerebral Hemorrhage | 13 | 1 | 0 | new |  [7-area: Other] |
+| Cerebrovascular | Subarachnoid Hemorrhage | 10 | 0 | 0 | new |  [7-area: Other] |
+| Cerebrovascular | Cerebral Infarction | 6 | 0 | 0 | new |  [7-area: Other] |
+| Cerebrovascular | Intracranial Thrombosis | 3 | 0 | 0 | orig |  [7-area: Thrombosis] |
+| Cerebrovascular | Vasospasm, Intracranial | 1 | 0 | 0 | orig |  [7-area: Other] |
+| Cerebrovascular | CADASIL | 1 | 0 | 0 | new | monogenic small-vessel disease [7-area: Other] |
+| Heart failure / cardiomyopathy | Heart Failure | 151 | 15 | 10 | orig |  |
+| Heart failure / cardiomyopathy | Cardiomyopathies | 22 | 0 | 0 | orig |  |
+| Heart failure / cardiomyopathy | Endomyocardial Fibrosis | 9 | 0 | 0 | orig |  |
+| Heart failure / cardiomyopathy | Cardiomyopathy, Hypertrophic | 9 | 0 | 0 | orig |  |
+| Heart failure / cardiomyopathy | Edema, Cardiac | 5 | 0 | 1 | new |  |
+| Heart failure / cardiomyopathy | Myocarditis | 2 | 0 | 0 | orig | could be Other |
+| Hypertension | Hypertension | 66 | 8 | 10 | orig |  |
+| Ischaemic heart disease | Myocardial Infarction | 129 | 11 | 7 | new | 7-area fallback treats coronary disease as atherosclerotic [7-area: Lipids / atherosclerosis] |
+| Ischaemic heart disease | Coronary Restenosis | 45 | 2 | 6 | orig | post-intervention; could be Other [7-area: Lipids / atherosclerosis] |
+| Ischaemic heart disease | Angina Pectoris | 33 | 4 | 2 | new | same [7-area: Lipids / atherosclerosis] |
+| Ischaemic heart disease | Acute Coronary Syndrome | 28 | 8 | 1 | orig | same [7-area: Lipids / atherosclerosis] |
+| Ischaemic heart disease | Angina, Unstable | 13 | 0 | 7 | new | same [7-area: Lipids / atherosclerosis] |
+| Ischaemic heart disease | Coronary Thrombosis | 9 | 0 | 4 | orig | could equally be Thrombosis in both schemes [7-area: Thrombosis] |
+| Lipids / atherosclerosis | Atherosclerosis | 132 | 6 | 2 | orig |  |
+| Lipids / atherosclerosis | Hyperlipidemias | 76 | 6 | 4 | orig |  |
+| Lipids / atherosclerosis | Hypercholesterolemia | 47 | 2 | 3 | orig |  |
+| Lipids / atherosclerosis | Hypertriglyceridemia | 31 | 1 | 3 | orig |  |
+| Lipids / atherosclerosis | Hyperlipoproteinemia Type II | 12 | 1 | 3 | orig |  |
+| Lipids / atherosclerosis | Dyslipidemias | 7 | 0 | 3 | orig |  |
+| Lipids / atherosclerosis | Hyperlipoproteinemia Type I | 5 | 1 | 2 | orig |  |
+| Lipids / atherosclerosis | Hypoalphalipoproteinemias | 1 | 0 | 0 | orig |  |
+| Other | Cardiovascular Diseases | 170 | 5 | 1 | orig | generic parent term; 170 pairs |
+| Other | Peripheral Vascular Diseases | 56 | 4 | 2 | orig |  |
+| Other | Reperfusion Injury | 49 | 3 | 0 | new | not organ-specific in MeSH; includes non-cardiac reperfusion |
+| Other | Vasculitis | 26 | 6 | 2 | orig |  |
+| Other | Retinal Vein Occlusion | 20 | 1 | 2 | orig | ophthalmic vascular |
+| Other | Hypotension | 16 | 5 | 4 | orig | not Hypertension; opposite pharmacology |
+| Other | Intermittent Claudication | 11 | 1 | 0 | new | peripheral arterial |
+| Other | Raynaud Disease | 6 | 0 | 0 | orig |  |
+| Other | Vascular Diseases | 6 | 0 | 0 | orig | generic parent term |
+| Other | Retinal Artery Occlusion | 6 | 0 | 0 | orig | ophthalmic vascular |
+| Other | Optic Neuropathy, Ischemic | 6 | 1 | 0 | orig | ophthalmic vascular |
+| Other | Venous Insufficiency | 6 | 0 | 5 | orig |  |
+| Other | Aneurysm | 6 | 0 | 0 | orig |  |
+| Other | Aortic Valve Stenosis | 4 | 1 | 0 | orig | valvular |
+| Other | Capillary Leak Syndrome | 4 | 0 | 0 | orig |  |
+| Other | Thromboangiitis Obliterans | 4 | 1 | 0 | orig |  |
+| Other | Erythromelalgia | 4 | 0 | 0 | orig |  |
+| Other | Retinal Telangiectasis | 2 | 1 | 0 | orig | ophthalmic vascular |
+| Other | Endocarditis | 1 | 0 | 0 | orig |  |
+| Other | Pericarditis | 1 | 1 | 0 | orig |  |
+| Pulmonary hypertension | Hypertension, Pulmonary | 105 | 8 | 6 | orig |  |
+| Thrombosis | Thrombosis | 58 | 2 | 6 | orig |  |
+| Thrombosis | Venous Thrombosis | 20 | 0 | 3 | orig |  |
+| Thrombosis | Pulmonary Embolism | 11 | 1 | 4 | orig |  |
+| Thrombosis | Thrombophlebitis | 3 | 0 | 3 | orig |  |

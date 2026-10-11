@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "20091223",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12625",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/020484s013lbl.pdf",
+              "date": "20091230",
+              "type": "Label"
+            },
+            {
+              "id": "25027",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2009/020484s013ltr.pdf",
+              "date": "20091231",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20000714",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "12624",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2000/20484lbl.pdf",
+              "date": "20000714",
+              "type": "Label"
+            },
+            {
+              "id": "20677",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-484_Innohep.html",
+              "date": "20000714",
+              "type": "Review"
+            },
+            {
+              "id": "2590",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2000/20484ltr.pdf",
+              "date": "20000714",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "20081229",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2592",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/020484s011ltr.pdf",
+              "date": "20081230",
+              "type": "Letter"
+            },
+            {
+              "id": "34698",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/020484s011lbl.pdf",
+              "date": "20090102",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20030304",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "2591",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/20484slr003ltr.pdf",
+              "date": "20040607",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20001121",
+          "review_priority": "STANDARD",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "14",
+          "submission_status": "AP",
+          "submission_status_date": "20101007",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "12626",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/020484s014lbl.pdf",
+              "date": "20101012",
+              "type": "Label"
+            },
+            {
+              "id": "25028",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/020484s014ltr.pdf",
+              "date": "20101013",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20061107",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "25026",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/020484s006LTR.pdf",
+              "date": "20061109",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20020205",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "25025",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2002/20484s2ltr.pdf",
+              "date": "20020205",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA020484",
+      "sponsor_name": "LEO PHARMA AS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "INNOHEP",
+          "active_ingredients": [
+            {
+              "name": "TINZAPARIN SODIUM",
+              "strength": "20,000 IU/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DEPARTMENT OF HEALTH AND HUMAN SERVICES  
+Food and Drug Administration 
+Silver Spring  MD  20993 
+NDA 203568 
+NDA APPROVAL 
+Genzyme Corporation 
+Attention: Jill Hillier, PhD 
+Vice President, Regulatory Affairs 
+500 Kendall Street 
+Cambridge, MA 02142 
+Dear Dr. Hillier: 
+Please refer to your New Drug Application (NDA) dated March 29, 2012, received March 29, 
+2012, submitted under section 505(b) of the Federal Food, Drug, and Cosmetic Act (FDCA) for 
+Kynamro (mipomersen sodium) Injection, 200 mg/mL. 
+We acknowledge receipt of your amendments dated April 4, 11, and 12, May 11 and 25, June 4, 
+8, and 20, July 12, 16, and 25, September 5, 6, 11,13,14, 25, and 28, October 1, 3, and 24, 
+November 30, December 20, 2012, and January 29, 2013.  We also acknowledge receipt of your 
+emails dated January 14, 23, 24, and 25, 2013, that includes the agreed-upon labeling. 
+This new drug application provides for the use of Kynamro (mipomersen sodium) Injection as an 
+adjunct to lipid-lowering medications and diet to reduce low density lipoprotein-cholesterol 
+(LDL-C), apolipoprotein B (apo B), total cholesterol (TC), and non-high density lipoprotein-
+cholesterol (non-HDL-C) in patients with homozygous familial hypercholesterolemia (HoFH). 
+We have completed our review of this application, as amended.  It is approved, effective on the 
+date of this letter, for use as recommended in the enclosed agreed-upon labeling text. 
+CONTENT OF LABELING 
+As soon as possible, but no later than 14 days from the date of this letter, submit the content of 
+labeling [21 CFR 314.50(l)] in structured product labeling (SPL) format using the FDA 
+automated drug registration and listing system (eLIST), as described at 
+http://www.fda.gov/ForIndustry/DataStandards/StructuredProductLabeling/default.htm. Content 
+of labeling must be identical to the enclosed labeling [text for the package insert, text for the 
+Medication Guide, Instructions for Use (vial presentation), Instructions for Use (prefilled 
+syringe]. Information on submitting SPL files using eLIST may be found in the guidance for 
+industry SPL Standard for Content of Labeling Technical Qs and As, available at 
+http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/U 
+CM072392.pdf. 
+Reference ID: 3252315 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+NDA 203568 
+Page 2 
+The SPL will be accessible via publicly available labeling repositories.  
+We request that the labeling approved today be available on your website within 10 days of 
+receipt of this letter. 
+EXPIRY DATING PERIOD 
+Sufficient stability data has been submitted to support a 30-month expiration date for the glass 
+vial presentation and an 18-month expiration date for the prefilled glass syringe presentation 
+when stored at 2-8◦C (36-46◦F). 
+CARTON AND IMMEDIATE-CONTAINER LABELS 
+Submit final printed carton and immediate-container labels that are identical to the enclosed 
+carton and immediate-container labels as soon as they are available, but no more than 30 days 
+after they are printed.  Please submit these labels electronically according to the guidance for 
+industry Providing Regulatory Submissions in Electronic Format – Human Pharmaceutical 
+Product Applications and Related Submissions Using the eCTD Specifications (June 2008). 
+Alternatively, you may submit 12 paper copies, with 6 of the copies individually mounted on 
+heavy-weight paper or similar material.  For administrative purposes, designate this submission 
+“Final Printed Carton and Container Labels for approved NDA 203568.” Approval of this 
+submission by FDA is not required before the labeling is used. 
+Marketing the product with FPL that is not identical to the approved labeling text may render the 
+product misbranded and an unapproved new drug. 
+REQUIRED PEDIATRIC ASSESSMENTS 
+Under the Pediatric Research Equity Act (PREA) (21 U.S.C. 355c), all applications for new 
+active ingredients, new indications, new dosage forms, new dosing regimens, or new routes of 
+administration are required to contain an assessment of the safety and effectiveness of the 
+product for the claimed indication in pediatric patients unless this requirement is waived, 
+deferred, or inapplicable. 
+Because this drug product for this indication has an orphan drug designation, you are exempt 
+from this requirement. 
+POSTMARKETING REQUIREMENTS UNDER 505(o) 
+Section 505(o)(3) of the FDCA authorizes FDA to require holders of approved drug and 
+biological product applications to conduct postmarketing studies and clinical trials for certain 
+purposes, if FDA makes certain findings required by the statute. 
+We have determined that an analysis of spontaneous postmarketing adverse events reported 
+under subsection 505(k)(1) of the FDCA will not be sufficient to assess a known serious risk of 
+hepatic transaminase elevations and hepatic steatosis, or to assess signals of a serious risk of 
+Reference ID: 3252315 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NDA 203568 
+Page 3 
+malignancy (hepatocellular adenoma or carcinoma, and fibroma, fibrosarcoma, and fibrous 
+histiocytoma of the skin and subcutis), or to identify an unexpected serious risk when available 
+data indicate the potential for a serious risk of immune-mediated disorders. 
+Furthermore, the new pharmacovigilance system that FDA is required to establish under section 
+505(k)(3) of the FDCA will not be sufficient to assess these serious risks. 
+Therefore, based on appropriate scientific data, FDA has determined that you are required to 
+conduct the following: 
+1999-1 	 Development and validation of a sensitive assay to assess for the presence of 
+antibodies to double-stranded (ds) DNA to allow for testing of patients treated 
+with Kynamro (mipomersen sodium).   
+The timetable you submitted on January 23, 2013, states that you will conduct this study 
+according to the following schedule: 
+Final Report Submission:  December 31, 2013 
+1999-2 	 A study to assess for the presence of antibodies that bind native double-stranded 
+(ds) DNA among patients treated with Kynamro (mipomersen sodium).  The 
+study may be conducted with stored serum samples from patients treated with 
+Kynamro (mipomersen sodium) in the clinical development program, but should 
+include samples from patients who test negative as well as patients who test 
+positive for antibodies to mipomersen.  Among patients who develop anti-drug 
+antibodies, samples should be included from patients shortly after seroconversion 
+as well as from sustained responders. 
+The timetable you submitted on January 23, 2013, states that you will conduct this study 
+according to the following schedule: 
+Final Report Submission:  July 31, 2014 
+1999-3 	 A long-term prospective observational study (product exposure registry) of 
+patients with homozygous familial hypercholesterolemia (HoFH) treated with 
+Kynamro (mipomersen sodium) to evaluate known and potential serious risks 
+related to the use of Kynamro (mipomersen sodium), including hepatotoxicity 
+(hepatic transaminase elevations, hepatic steatosis), malignancy (hepatocellular 
+adenoma and carcinoma, and fibroma, fibrosarcoma, and fibrous histiocytoma of 
+the skin and subcutis), and new diagnoses of autoimmune disorders (lupus 
+erythematosus, antiphospholipid syndrome, rheumatoid arthritis, 
+glomerulonephritis).  The registry will in clude a sample of patients prescribed 
+Kynamro (mipomersen sodium) and continue for 10 years from the date of last 
+patient enrollment. 
+Reference ID: 3252315 

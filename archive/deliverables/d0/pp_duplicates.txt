@@ -1,0 +1,144 @@
+file: D:\causal2drug\data\raw\pp.tsv
+bytes: 3162501
+ends_with_newline: True
+CR_bytes_present: False
+total_lines_incl_header: 29477
+n_data_rows: 29476
+n_cols_header: 19
+field_count_histogram: {19: 29476}
+
+=== A. EXACT DUPLICATE FULL LINES ===
+n_distinct_lines_duplicated: 9
+n_excess_rows: 9
+count=2 | CCN2-D000086382	CCN2	D000086382	COVID-19		Preclinical	Preclinical		2	1						Preclinical	Preclinical	FALSE	
+count=2 | ERVW-1-D000086382	ERVW-1	D000086382	COVID-19		Preclinical	Preclinical		2	1						Preclinical	Preclinical	TRUE	
+count=2 | HARS-D049288	HARS	D049288	Muscular Dystrophies, Limb-Girdle	Phase II		Phase II	3		3	TRUE	TRUE	FALSE		Phase II		Phase II	TRUE	
+count=2 | HTR2A-D000086382	HTR2A	D000086382	COVID-19		Phase II	Phase II		4	3	TRUE	TRUE						FALSE	
+count=2 | OPRK1-D000086382	OPRK1	D000086382	COVID-19		Phase I	Phase I		3	2	TRUE							FALSE	
+count=2 | OPRM1-D000086382	OPRM1	D000086382	COVID-19		Phase I	Phase I		3	2	TRUE							FALSE	
+count=2 | PTGS1-D010001	PTGS1	D010001	Osteitis Deformans	Preclinical		Preclinical	1		1	FALSE							FALSE	
+count=2 | PTGS2-D010001	PTGS2	D010001	Osteitis Deformans	Preclinical		Preclinical	1		1	FALSE							FALSE	
+count=2 | RRM1-D010001	RRM1	D010001	Osteitis Deformans	Preclinical		Preclinical	1		1	FALSE				Preclinical		Preclinical	FALSE	
+
+=== B. DUPLICATE ti_uid ===
+n_distinct_ti_uid: 29460
+n_ti_uid_duplicated: 16
+--- ti_uid=CCN2-D000086382 count=2 ---
+   CCN2-D000086382	CCN2	D000086382	COVID-19		Preclinical	Preclinical		2	1						Preclinical	Preclinical	FALSE	
+   CCN2-D000086382	CCN2	D000086382	COVID-19		Preclinical	Preclinical		2	1						Preclinical	Preclinical	FALSE	
+--- ti_uid=DAO-D022124 count=2 ---
+   DAO-D022124	DAO	D022124	Hyperammonemia	Phase III		Phase III	4		4	TRUE	TRUE	TRUE	FALSE	Phase III		Phase III	TRUE	
+   DAO-D022124	DAO	D022124	Hyperammonemia	Preclinical		Preclinical	1		1	FALSE				Preclinical		Preclinical	TRUE	
+--- ti_uid=ERVW-1-D000086382 count=2 ---
+   ERVW-1-D000086382	ERVW-1	D000086382	COVID-19		Preclinical	Preclinical		2	1						Preclinical	Preclinical	TRUE	
+   ERVW-1-D000086382	ERVW-1	D000086382	COVID-19		Preclinical	Preclinical		2	1						Preclinical	Preclinical	TRUE	
+--- ti_uid=HARS-D049288 count=2 ---
+   HARS-D049288	HARS	D049288	Muscular Dystrophies, Limb-Girdle	Phase II		Phase II	3		3	TRUE	TRUE	FALSE		Phase II		Phase II	TRUE	
+   HARS-D049288	HARS	D049288	Muscular Dystrophies, Limb-Girdle	Phase II		Phase II	3		3	TRUE	TRUE	FALSE		Phase II		Phase II	TRUE	
+--- ti_uid=HRH1-D000086382 count=2 ---
+   HRH1-D000086382	HRH1	D000086382	COVID-19		Phase II	Phase II		4	3	TRUE	TRUE						FALSE	
+   HRH1-D000086382	HRH1	D000086382	COVID-19	Launched	Launched	Launched	5	6	5	TRUE	TRUE	TRUE	TRUE	Launched	Launched	Launched	FALSE	
+--- ti_uid=HTR2A-D000086382 count=2 ---
+   HTR2A-D000086382	HTR2A	D000086382	COVID-19		Phase II	Phase II		4	3	TRUE	TRUE						FALSE	
+   HTR2A-D000086382	HTR2A	D000086382	COVID-19		Phase II	Phase II		4	3	TRUE	TRUE						FALSE	
+--- ti_uid=IFNAR2-D012141 count=2 ---
+   IFNAR2-D012141	IFNAR2	D012141	Respiratory Tract Infections	Launched	Launched	Launched	5	6	5	TRUE	TRUE	TRUE	TRUE	Launched	Launched	Launched	FALSE	
+   IFNAR2-D012141	IFNAR2	D012141	Respiratory Tract Infections		Phase II	Phase II		4	3	TRUE	TRUE				Phase II	Phase II	FALSE	
+--- ti_uid=MAPK14-D000086382 count=2 ---
+   MAPK14-D000086382	MAPK14	D000086382	COVID-19		Phase II	Phase II		4	3	TRUE	TRUE						FALSE	
+   MAPK14-D000086382	MAPK14	D000086382	COVID-19		Phase II	Phase II		4	3	TRUE	TRUE				Phase II	Phase II	TRUE	
+--- ti_uid=MC1R-D010787 count=2 ---
+   MC1R-D010787	MC1R	D010787	Photosensitivity Disorders	Phase III		Phase III	4		4	TRUE	TRUE	TRUE	FALSE	Phase III		Phase III	TRUE	
+   MC1R-D010787	MC1R	D010787	Photosensitivity Disorders	Phase II		Phase II	3		3	TRUE	TRUE	FALSE		Phase II		Phase II	TRUE	
+--- ti_uid=OPRK1-D000086382 count=2 ---
+   OPRK1-D000086382	OPRK1	D000086382	COVID-19		Phase I	Phase I		3	2	TRUE							FALSE	
+   OPRK1-D000086382	OPRK1	D000086382	COVID-19		Phase I	Phase I		3	2	TRUE							FALSE	
+--- ti_uid=OPRM1-D000086382 count=2 ---
+   OPRM1-D000086382	OPRM1	D000086382	COVID-19		Phase I	Phase I		3	2	TRUE							FALSE	
+   OPRM1-D000086382	OPRM1	D000086382	COVID-19		Phase I	Phase I		3	2	TRUE							FALSE	
+--- ti_uid=PTGS1-D010001 count=2 ---
+   PTGS1-D010001	PTGS1	D010001	Osteitis Deformans	Preclinical		Preclinical	1		1	FALSE							FALSE	
+   PTGS1-D010001	PTGS1	D010001	Osteitis Deformans	Preclinical		Preclinical	1		1	FALSE							FALSE	
+--- ti_uid=PTGS2-D010001 count=2 ---
+   PTGS2-D010001	PTGS2	D010001	Osteitis Deformans	Preclinical		Preclinical	1		1	FALSE							FALSE	
+   PTGS2-D010001	PTGS2	D010001	Osteitis Deformans	Preclinical		Preclinical	1		1	FALSE							FALSE	
+--- ti_uid=RRM1-D010001 count=2 ---
+   RRM1-D010001	RRM1	D010001	Osteitis Deformans	Preclinical		Preclinical	1		1	FALSE				Preclinical		Preclinical	FALSE	
+   RRM1-D010001	RRM1	D010001	Osteitis Deformans	Preclinical		Preclinical	1		1	FALSE				Preclinical		Preclinical	FALSE	
+--- ti_uid=TGFB1-D000086382 count=2 ---
+   TGFB1-D000086382	TGFB1	D000086382	COVID-19		Phase II	Phase II		4	3	TRUE	TRUE						FALSE	
+   TGFB1-D000086382	TGFB1	D000086382	COVID-19		Phase II	Phase II		4	3	TRUE	TRUE				Phase I	Phase I	FALSE	
+--- ti_uid=TNFRSF1A-D000086382 count=2 ---
+   TNFRSF1A-D000086382	TNFRSF1A	D000086382	COVID-19		Phase II	Phase II		4	3	TRUE	TRUE						FALSE	
+   TNFRSF1A-D000086382	TNFRSF1A	D000086382	COVID-19		Phase II	Phase II		4	3	TRUE	TRUE				Phase II	Phase II	TRUE	
+
+=== C. DUPLICATE (gene, indication_mesh_id) PAIRS ===
+n_distinct_gene_indication_pairs: 29460
+n_pairs_duplicated: 16
+--- CCN2 / D000086382 count=2 ---
+   CCN2-D000086382	CCN2	D000086382	COVID-19		Preclinical	Preclinical		2	1						Preclinical	Preclinical	FALSE	
+   CCN2-D000086382	CCN2	D000086382	COVID-19		Preclinical	Preclinical		2	1						Preclinical	Preclinical	FALSE	
+--- DAO / D022124 count=2 ---
+   DAO-D022124	DAO	D022124	Hyperammonemia	Phase III		Phase III	4		4	TRUE	TRUE	TRUE	FALSE	Phase III		Phase III	TRUE	
+   DAO-D022124	DAO	D022124	Hyperammonemia	Preclinical		Preclinical	1		1	FALSE				Preclinical		Preclinical	TRUE	
+--- ERVW-1 / D000086382 count=2 ---
+   ERVW-1-D000086382	ERVW-1	D000086382	COVID-19		Preclinical	Preclinical		2	1						Preclinical	Preclinical	TRUE	
+   ERVW-1-D000086382	ERVW-1	D000086382	COVID-19		Preclinical	Preclinical		2	1						Preclinical	Preclinical	TRUE	
+--- HARS / D049288 count=2 ---
+   HARS-D049288	HARS	D049288	Muscular Dystrophies, Limb-Girdle	Phase II		Phase II	3		3	TRUE	TRUE	FALSE		Phase II		Phase II	TRUE	
+   HARS-D049288	HARS	D049288	Muscular Dystrophies, Limb-Girdle	Phase II		Phase II	3		3	TRUE	TRUE	FALSE		Phase II		Phase II	TRUE	
+--- HRH1 / D000086382 count=2 ---
+   HRH1-D000086382	HRH1	D000086382	COVID-19		Phase II	Phase II		4	3	TRUE	TRUE						FALSE	
+   HRH1-D000086382	HRH1	D000086382	COVID-19	Launched	Launched	Launched	5	6	5	TRUE	TRUE	TRUE	TRUE	Launched	Launched	Launched	FALSE	
+--- HTR2A / D000086382 count=2 ---
+   HTR2A-D000086382	HTR2A	D000086382	COVID-19		Phase II	Phase II		4	3	TRUE	TRUE						FALSE	
+   HTR2A-D000086382	HTR2A	D000086382	COVID-19		Phase II	Phase II		4	3	TRUE	TRUE						FALSE	
+--- IFNAR2 / D012141 count=2 ---
+   IFNAR2-D012141	IFNAR2	D012141	Respiratory Tract Infections	Launched	Launched	Launched	5	6	5	TRUE	TRUE	TRUE	TRUE	Launched	Launched	Launched	FALSE	
+   IFNAR2-D012141	IFNAR2	D012141	Respiratory Tract Infections		Phase II	Phase II		4	3	TRUE	TRUE				Phase II	Phase II	FALSE	
+--- MAPK14 / D000086382 count=2 ---
+   MAPK14-D000086382	MAPK14	D000086382	COVID-19		Phase II	Phase II		4	3	TRUE	TRUE						FALSE	
+   MAPK14-D000086382	MAPK14	D000086382	COVID-19		Phase II	Phase II		4	3	TRUE	TRUE				Phase II	Phase II	TRUE	
+--- MC1R / D010787 count=2 ---
+   MC1R-D010787	MC1R	D010787	Photosensitivity Disorders	Phase III		Phase III	4		4	TRUE	TRUE	TRUE	FALSE	Phase III		Phase III	TRUE	
+   MC1R-D010787	MC1R	D010787	Photosensitivity Disorders	Phase II		Phase II	3		3	TRUE	TRUE	FALSE		Phase II		Phase II	TRUE	
+--- OPRK1 / D000086382 count=2 ---
+   OPRK1-D000086382	OPRK1	D000086382	COVID-19		Phase I	Phase I		3	2	TRUE							FALSE	
+   OPRK1-D000086382	OPRK1	D000086382	COVID-19		Phase I	Phase I		3	2	TRUE							FALSE	
+--- OPRM1 / D000086382 count=2 ---
+   OPRM1-D000086382	OPRM1	D000086382	COVID-19		Phase I	Phase I		3	2	TRUE							FALSE	
+   OPRM1-D000086382	OPRM1	D000086382	COVID-19		Phase I	Phase I		3	2	TRUE							FALSE	
+--- PTGS1 / D010001 count=2 ---
+   PTGS1-D010001	PTGS1	D010001	Osteitis Deformans	Preclinical		Preclinical	1		1	FALSE							FALSE	
+   PTGS1-D010001	PTGS1	D010001	Osteitis Deformans	Preclinical		Preclinical	1		1	FALSE							FALSE	
+--- PTGS2 / D010001 count=2 ---
+   PTGS2-D010001	PTGS2	D010001	Osteitis Deformans	Preclinical		Preclinical	1		1	FALSE							FALSE	
+   PTGS2-D010001	PTGS2	D010001	Osteitis Deformans	Preclinical		Preclinical	1		1	FALSE							FALSE	
+--- RRM1 / D010001 count=2 ---
+   RRM1-D010001	RRM1	D010001	Osteitis Deformans	Preclinical		Preclinical	1		1	FALSE				Preclinical		Preclinical	FALSE	
+   RRM1-D010001	RRM1	D010001	Osteitis Deformans	Preclinical		Preclinical	1		1	FALSE				Preclinical		Preclinical	FALSE	
+--- TGFB1 / D000086382 count=2 ---
+   TGFB1-D000086382	TGFB1	D000086382	COVID-19		Phase II	Phase II		4	3	TRUE	TRUE						FALSE	
+   TGFB1-D000086382	TGFB1	D000086382	COVID-19		Phase II	Phase II		4	3	TRUE	TRUE				Phase I	Phase I	FALSE	
+--- TNFRSF1A / D000086382 count=2 ---
+   TNFRSF1A-D000086382	TNFRSF1A	D000086382	COVID-19		Phase II	Phase II		4	3	TRUE	TRUE						FALSE	
+   TNFRSF1A-D000086382	TNFRSF1A	D000086382	COVID-19		Phase II	Phase II		4	3	TRUE	TRUE				Phase II	Phase II	TRUE	
+
+=== D. KEY CARDINALITY ===
+distinct_genes: 2517
+distinct_indication_mesh_id: 1014
+
+=== E. CLASSIFICATION OF DUPLICATED ti_uid ===
+identical rows                       : 9 ['CCN2-D000086382', 'ERVW-1-D000086382', 'HARS-D049288', 'HTR2A-D000086382', 'OPRK1-D000086382', 'OPRM1-D000086382', 'PTGS1-D010001', 'PTGS2-D010001', 'RRM1-D010001']
+CONFLICT in outcome-bearing columns  : 4
+      DAO-D022124 -> differs in ['hcat', 'ccat', 'hcatnum', 'ccatnum', 'succ_p_1', 'succ_1_2', 'succ_2_3', 'succ_3_a', 'oto_hcat', 'oto_ccat']
+      HRH1-D000086382 -> differs in ['hcat', 'acat', 'ccat', 'hcatnum', 'acatnum', 'ccatnum', 'succ_2_3', 'succ_3_a', 'oto_hcat', 'oto_acat', 'oto_ccat']
+      IFNAR2-D012141 -> differs in ['hcat', 'acat', 'ccat', 'hcatnum', 'acatnum', 'ccatnum', 'succ_2_3', 'succ_3_a', 'oto_hcat', 'oto_acat', 'oto_ccat']
+      MC1R-D010787 -> differs in ['hcat', 'ccat', 'hcatnum', 'ccatnum', 'succ_2_3', 'succ_3_a', 'oto_hcat', 'oto_ccat']
+conflict only in oto_/orphan columns : 3
+      MAPK14-D000086382 -> differs in ['oto_acat', 'oto_ccat', 'orphan']
+      TGFB1-D000086382 -> differs in ['oto_acat', 'oto_ccat']
+      TNFRSF1A-D000086382 -> differs in ['oto_acat', 'oto_ccat', 'orphan']
+
+rows if dedup by identical-line : 29467
+rows if dedup by ti_uid         : 29460

@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20260213",
+          "review_priority": "STANDARD",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy",
+          "application_docs": [
+            {
+              "id": "85057",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2026/217202Orig1s001ltr.pdf",
+              "date": "20260218",
+              "type": "Letter"
+            },
+            {
+              "id": "85072",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2026/217202s001lbl.pdf",
+              "date": "20260218",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20241122",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "80329",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/217202s000lbl.pdf",
+              "date": "20241125",
+              "type": "Label"
+            },
+            {
+              "id": "80426",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/217202Orig1s000ltr.pdf",
+              "date": "20241126",
+              "type": "Letter"
+            },
+            {
+              "id": "80659",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/217202Orig1s000TOC.html",
+              "date": "20241220",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA217202",
+      "sponsor_name": "AOP HLTH US",
+      "openfda": {
+        "application_number": [
+          "NDA217202"
+        ],
+        "brand_name": [
+          "RAPIBLYK"
+        ],
+        "generic_name": [
+          "LANDIOLOL"
+        ],
+        "manufacturer_name": [
+          "AOP Orphan Pharmaceuticals GmbH"
+        ],
+        "product_ndc": [
+          "84381-110"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "LANDIOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "2712074",
+          "2712079"
+        ],
+        "spl_id": [
+          "54d1f634-8cd7-78c6-e063-6394a90aa9fd"
+        ],
+        "spl_set_id": [
+          "27e7f20f-78a4-f1a9-e063-6394a90ae465"
+        ],
+        "package_ndc": [
+          "84381-110-01"
+        ],
+        "unii": [
+          "G8HQ634Y17"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "RAPIBLYK",
+          "active_ingredients": [
+            {
+              "name": "LANDIOLOL HYDROCHLORIDE",
+              "strength": "EQ 280MG BASE/VIAL"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "POWDER",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription"
+        }
+      ]
+    }
+  ]
+}

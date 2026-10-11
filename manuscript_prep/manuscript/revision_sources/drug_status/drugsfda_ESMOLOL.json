@@ -1,0 +1,1728 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-09",
+    "results": {
+      "skip": 0,
+      "limit": 99,
+      "total": 13
+    }
+  },
+  "results": [
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "20240502",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "78392",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2024/205703Orig1s003ltr.pdf",
+              "date": "20240503",
+              "type": "Letter"
+            },
+            {
+              "id": "78406",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2024/205703s003lbl.pdf",
+              "date": "20240506",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20160407",
+          "review_priority": "STANDARD",
+          "submission_class_code": "TYPE 5",
+          "submission_class_code_description": "Type 5 - New Formulation or New Manufacturer",
+          "application_docs": [
+            {
+              "id": "40497",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/205703s000lbl.pdf",
+              "date": "20160408",
+              "type": "Label"
+            },
+            {
+              "id": "46049",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/205703Orig1s000TOC.html",
+              "date": "20161020",
+              "type": "Review"
+            },
+            {
+              "id": "46050",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/205703Orig1s000SumR.pdf",
+              "date": "20161020",
+              "type": "Summary Review"
+            },
+            {
+              "id": "32705",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/205703Orig1s000ltr.pdf",
+              "date": "20140416",
+              "type": "Letter"
+            },
+            {
+              "id": "32706",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/205703Orig1s000ltr.pdf",
+              "date": "20160411",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA205703",
+      "sponsor_name": "HQ SPCLT PHARMA",
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "Yes",
+          "brand_name": "ESMOLOL HYDROCHLORIDE DOUBLE STRENGTH IN PLASTIC CONTAINER",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "2GM/100ML (20MG/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "Yes",
+          "brand_name": "ESMOLOL HYDROCHLORIDE IN PLASTIC CONTAINER",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "2.5GM/250ML (10MG/ML)"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "SOLUTION",
+          "route": "INTRAVENOUS",
+          "marketing_status": "Prescription"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150220",
+          "submission_class_code": "N/A",
+          "submission_class_code_description": "Not Applicable"
+        }
+      ],
+      "application_number": "ANDA201126",
+      "sponsor_name": "AM REGENT",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ESMOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "10MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20221213",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "73137",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/216603Orig1s000ltr.pdf",
+              "date": "20230110",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20241015",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20241015",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA216603",
+      "sponsor_name": "AMNEAL",
+      "openfda": {
+        "application_number": [
+          "ANDA216603"
+        ],
+        "brand_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "ESMOLOL HYDROCHLORIDE IN SODIUM CHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Amneal Pharmaceuticals LLC"
+        ],
+        "product_ndc": [
+          "70121-1716",
+          "70121-1717"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "979432",
+          "1736541"
+        ],
+        "spl_id": [
+          "9fb24e34-22d9-43e6-b611-39e17092e76f"
+        ],
+        "spl_set_id": [
+          "4cfdfa50-579b-43e7-bc0a-e831d3099bfd"
+        ],
+        "package_ndc": [
+          "70121-1716-7",
+          "70121-1716-3",
+          "70121-1717-7",
+          "70121-1717-3"
+        ],
+        "unii": [
+          "V05260LC8D"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ESMOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "1GM/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ESMOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "2GM/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19861231",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "TYPE 1",
+          "submission_class_code_description": "Type 1 - New Molecular Entity",
+          "application_docs": [
+            {
+              "id": "40902",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/19-386_ Brevibloc.html",
+              "date": "20041004",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "11",
+          "submission_status": "AP",
+          "submission_status_date": "19931124",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20236",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/019386_S011_BREVIBLOC.pdf",
+              "date": "20080219",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "3",
+          "submission_status": "AP",
+          "submission_status_date": "19921218",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "48",
+          "submission_status": "AP",
+          "submission_status_date": "20150814",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "19880815",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "40903",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/019386_S001&S002_BREVIBLOC_INJ.pdf",
+              "date": "20071206",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "46",
+          "submission_status": "AP",
+          "submission_status_date": "20140320",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "18",
+          "submission_status": "AP",
+          "submission_status_date": "20010216",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "40907",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/019386_S018_BREVIBLOC_INJECTION.pdf",
+              "date": "20070914",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "24",
+          "submission_status": "AP",
+          "submission_status_date": "20030818",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "1312",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/19386scf024ltr.pdf",
+              "date": "20030826",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "16",
+          "submission_status": "AP",
+          "submission_status_date": "20000119",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "22",
+          "submission_status": "AP",
+          "submission_status_date": "20030528",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "40909",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/019386_S022_Brevibloc.pdf",
+              "date": "20070706",
+              "type": "Review"
+            },
+            {
+              "id": "17381",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/19386scm022ltr.pdf",
+              "date": "20030530",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "8",
+          "submission_status": "AP",
+          "submission_status_date": "19921218",
+          "submission_class_code": "EFFICACY",
+          "submission_class_code_description": "Efficacy"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "20",
+          "submission_status": "AP",
+          "submission_status_date": "20030127",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "1310",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/19386scf019,02ltr.pdf",
+              "date": "20030127",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "19880815",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20233",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/019386_S004&S006_BREVIBLOC.pdf",
+              "date": "20071206",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "19940113",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20237",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/019386_S012_BREVIBLOC.pdf",
+              "date": "20080219",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "19880815",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "40905",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/019386_S004&S006_BREVIBLOC.pdf",
+              "date": "20071206",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "10",
+          "submission_status": "AP",
+          "submission_status_date": "19930701",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20235",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/019386_S010_BREVIBLOC_INJECTION.pdf",
+              "date": "20080219",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "19880815",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40904",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/019386_S001&S002_BREVIBLOC_INJ.pdf",
+              "date": "20071206",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "55",
+          "submission_status": "AP",
+          "submission_status_date": "20250923",
+          "review_priority": "N/A",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "84137",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/019386Orig1s055lbl.pdf",
+              "date": "20251112",
+              "type": "Label"
+            },
+            {
+              "id": "84138",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/019386Orig1s055ltr.pdf",
+              "date": "20251112",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "47",
+          "submission_status": "AP",
+          "submission_status_date": "20150126",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "39",
+          "submission_status": "AP",
+          "submission_status_date": "20071106",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "17382",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/019386s039ltr.pdf",
+              "date": "20071108",
+              "type": "Letter"
+            },
+            {
+              "id": "33734",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/019386s039lbl.pdf",
+              "date": "20071107",
+              "type": "Label"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "53",
+          "submission_status": "AP",
+          "submission_status_date": "20230615",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "74506",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2023/019386s053lbl.pdf",
+              "date": "20230616",
+              "type": "Label"
+            },
+            {
+              "id": "74538",
+              "url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/019386Orig1s053ltr.pdf",
+              "date": "20230616",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "43",
+          "submission_status": "AP",
+          "submission_status_date": "20121211",
+          "review_priority": "UNKNOWN",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "11498",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/019386s043lbl.pdf",
+              "date": "20121213",
+              "type": "Label"
+            },
+            {
+              "id": "17383",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2012/019386Orig1s043ltr.pdf",
+              "date": "20121213",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "41",
+          "submission_status": "AP",
+          "submission_status_date": "20130813",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "19",
+          "submission_status": "AP",
+          "submission_status_date": "20030127",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "17380",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/19386scf019,02ltr.pdf",
+              "date": "20030127",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "17",
+          "submission_status": "AP",
+          "submission_status_date": "20010126",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20239",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/019386_S017_BREVIBLOC_INJECTION.pdf",
+              "date": "20070914",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "9",
+          "submission_status": "AP",
+          "submission_status_date": "19911021",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "20234",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/019386_S009_BREVIBLOC_INJECTION.pdf",
+              "date": "20080219",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20000223",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20238",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/019386_S015_BREVIBLOC_INJECTION.pdf",
+              "date": "20070914",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "21",
+          "submission_status": "AP",
+          "submission_status_date": "20030225",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "40908",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/19-386s021.html",
+              "date": "20030708",
+              "type": "Review"
+            },
+            {
+              "id": "1311",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/19386scf021ltr.pdf",
+              "date": "20030310",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "19890511",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling",
+          "application_docs": [
+            {
+              "id": "40906",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/019386_S007_BREVIBLOC.pdf",
+              "date": "20071206",
+              "type": "Review"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "13",
+          "submission_status": "AP",
+          "submission_status_date": "19951004",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "19890526",
+          "review_priority": "PRIORITY",
+          "submission_class_code": "MANUF (CMC)",
+          "submission_class_code_description": "Manufacturing (CMC)",
+          "application_docs": [
+            {
+              "id": "20232",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/019386_S005_BREVIBLOC.pdf",
+              "date": "20071206",
+              "type": "Review"
+            }
+          ]
+        }
+      ],
+      "application_number": "NDA019386",
+      "sponsor_name": "BAXTER HLTHCARE",
+      "openfda": {
+        "application_number": [
+          "NDA019386"
+        ],
+        "brand_name": [
+          "BREVIBLOC",
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Baxter Healthcare Company",
+          "Baxter Healthcare Corporation"
+        ],
+        "product_ndc": [
+          "10019-668",
+          "10019-672",
+          "10019-120",
+          "10019-666",
+          "10019-670",
+          "10019-055",
+          "10019-115",
+          "10019-075"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "979432",
+          "979434",
+          "1736541",
+          "1736543",
+          "1736546",
+          "1736547"
+        ],
+        "spl_id": [
+          "49715de2-87bb-47f3-b039-66328a124bd8",
+          "55268328-025c-40f6-9815-edca2c80a97e",
+          "5880588d-ee12-4ca7-ac0b-489d65babf3a",
+          "bdacaca6-d18e-41c8-817b-5e50df336ad1"
+        ],
+        "spl_set_id": [
+          "220a07b8-5c68-41a3-8705-fd91f14c50b4",
+          "f0a56c07-8f0f-4499-8d00-f13a966bf988",
+          "9c593cdb-cdfe-4492-8862-9b05116aa25e",
+          "595cc3d5-1306-4828-aefa-5595219ffd62"
+        ],
+        "package_ndc": [
+          "10019-668-10",
+          "10019-672-10",
+          "10019-120-39",
+          "10019-120-01",
+          "10019-666-10",
+          "10019-670-10",
+          "10019-115-39",
+          "10019-115-01",
+          "10019-075-87",
+          "10019-055-61"
+        ],
+        "unii": [
+          "V05260LC8D"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "006",
+          "reference_drug": "Yes",
+          "brand_name": "BREVIBLOC",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "10MG/ML"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "004",
+          "reference_drug": "Yes",
+          "brand_name": "BREVIBLOC IN PLASTIC CONTAINER",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "1GM/100ML"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "BREVIBLOC",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "250MG/ML"
+            }
+          ],
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "007",
+          "reference_drug": "No",
+          "brand_name": "BREVIBLOC",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "20MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        },
+        {
+          "product_number": "005",
+          "reference_drug": "Yes",
+          "brand_name": "BREVIBLOC DOUBLE STRENGTH IN PLASTIC CONTAINER",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "2GM/100ML"
+            }
+          ],
+          "reference_standard": "Yes",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "003",
+          "reference_drug": "No",
+          "brand_name": "BREVIBLOC",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "10MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20221202",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20240604",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA214172",
+      "sponsor_name": "HQ SPCLT PHARMA",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ESMOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "1GM/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ESMOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "2GM/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20220321",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20240709",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA216244",
+      "sponsor_name": "EUGIA PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA216244"
+        ],
+        "brand_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "ESMOLOL HYDROCHLORIDE IN SODIUM CHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Eugia US LLC"
+        ],
+        "product_ndc": [
+          "55150-420",
+          "55150-194",
+          "55150-421"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "979432",
+          "1736541",
+          "1736546"
+        ],
+        "spl_id": [
+          "5aebd586-47c6-4e19-88e3-ef0ecb1cc875"
+        ],
+        "spl_set_id": [
+          "ac22475d-2d78-469f-9435-b403ac4ee380"
+        ],
+        "package_ndc": [
+          "55150-194-10",
+          "55150-420-01",
+          "55150-420-10",
+          "55150-421-01",
+          "55150-421-10"
+        ],
+        "unii": [
+          "V05260LC8D"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ESMOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "2GM/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ESMOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "1GM/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180608",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "54893",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/206608Orig1s000ltr.pdf",
+              "date": "20180716",
+              "type": "Letter"
+            }
+          ]
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20240319",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA206608",
+      "sponsor_name": "MYLAN LABS LTD",
+      "openfda": {
+        "application_number": [
+          "ANDA206608"
+        ],
+        "brand_name": [
+          "ESMOLOL HYDROCHLORIDE IN SODIUM CHLORIDE"
+        ],
+        "generic_name": [
+          "ESMOLOL HYDROCHLORIDE IN SODIUM CHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Mylan Institutional LLC"
+        ],
+        "product_ndc": [
+          "67457-657",
+          "67457-658"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "979432",
+          "1736541"
+        ],
+        "spl_id": [
+          "4fdea9d3-714d-4d54-9c23-bde0edd85b59"
+        ],
+        "spl_set_id": [
+          "01ad7942-99c3-40ee-9cfb-272fb6c44e2b"
+        ],
+        "package_ndc": [
+          "67457-658-10",
+          "67457-657-25"
+        ],
+        "unii": [
+          "V05260LC8D"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ESMOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "1GM/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ESMOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "2GM/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20190814",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "2",
+          "submission_status": "AP",
+          "submission_status_date": "20230810",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA208538",
+      "sponsor_name": "GLAND",
+      "openfda": {
+        "application_number": [
+          "ANDA208538"
+        ],
+        "brand_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Gland Pharma Limited"
+        ],
+        "product_ndc": [
+          "68083-211"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1736546"
+        ],
+        "spl_id": [
+          "91f3287c-e1f4-48a0-a37e-74da91240a2d"
+        ],
+        "spl_set_id": [
+          "017023a9-00f0-4284-861f-a3634d4fdb17"
+        ],
+        "package_ndc": [
+          "68083-211-01",
+          "68083-211-25"
+        ],
+        "unii": [
+          "V05260LC8D"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ESMOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "10MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "12",
+          "submission_status": "AP",
+          "submission_status_date": "20241107",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "15",
+          "submission_status": "AP",
+          "submission_status_date": "20241107",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "6",
+          "submission_status": "AP",
+          "submission_status_date": "20100729",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20050502"
+        }
+      ],
+      "application_number": "ANDA076474",
+      "sponsor_name": "MYLAN INSTITUTIONAL",
+      "openfda": {
+        "application_number": [
+          "ANDA076474"
+        ],
+        "brand_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Mylan Institutional LLC"
+        ],
+        "product_ndc": [
+          "67457-182"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1736546"
+        ],
+        "spl_id": [
+          "677a4e72-7b0a-4f6c-b82e-091d93588566"
+        ],
+        "spl_set_id": [
+          "94f069f9-dd52-4a69-a103-ebdb4294f088"
+        ],
+        "package_ndc": [
+          "67457-182-00",
+          "67457-182-10"
+        ],
+        "unii": [
+          "V05260LC8D"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ESMOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "10MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "7",
+          "submission_status": "AP",
+          "submission_status_date": "20240709",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20150723",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN",
+          "application_docs": [
+            {
+              "id": "10458",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2015/205520Orig1s000ltr.pdf",
+              "date": "20150728",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA205520",
+      "sponsor_name": "EUGIA PHARMA",
+      "openfda": {
+        "application_number": [
+          "ANDA205520"
+        ],
+        "brand_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Eugia US LLC"
+        ],
+        "product_ndc": [
+          "55150-194",
+          "55150-420",
+          "55150-421"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "979432",
+          "1736541",
+          "1736546"
+        ],
+        "spl_id": [
+          "5aebd586-47c6-4e19-88e3-ef0ecb1cc875"
+        ],
+        "spl_set_id": [
+          "ac22475d-2d78-469f-9435-b403ac4ee380"
+        ],
+        "package_ndc": [
+          "55150-194-10",
+          "55150-420-01",
+          "55150-420-10",
+          "55150-421-01",
+          "55150-421-10"
+        ],
+        "unii": [
+          "V05260LC8D"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ESMOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "10MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20180608",
+          "review_priority": "STANDARD",
+          "submission_class_code": "UNKNOWN"
+        },
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20251022",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        }
+      ],
+      "application_number": "ANDA207107",
+      "sponsor_name": "SAGENT PHARMS INC",
+      "openfda": {
+        "application_number": [
+          "ANDA207107"
+        ],
+        "brand_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Sagent Pharmaceuticals"
+        ],
+        "product_ndc": [
+          "25021-308",
+          "25021-309"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "979432",
+          "1736541"
+        ],
+        "spl_id": [
+          "f18c8af9-7dbb-44c2-b1eb-9d0d908f9c9b"
+        ],
+        "spl_set_id": [
+          "f12fb0fd-fa05-49fc-b5e3-a2050b816ef2"
+        ],
+        "package_ndc": [
+          "25021-308-84",
+          "25021-309-82"
+        ],
+        "unii": [
+          "V05260LC8D"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ESMOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "1GM/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ESMOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "2GM/100ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "5",
+          "submission_status": "AP",
+          "submission_status_date": "20160408",
+          "review_priority": "STANDARD",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20050502"
+        }
+      ],
+      "application_number": "ANDA076573",
+      "sponsor_name": "FRESENIUS KABI USA",
+      "openfda": {
+        "application_number": [
+          "ANDA076573"
+        ],
+        "brand_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "generic_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "manufacturer_name": [
+          "Fresenius Kabi USA, LLC"
+        ],
+        "product_ndc": [
+          "63323-652",
+          "63323-661"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "INTRAVENOUS"
+        ],
+        "substance_name": [
+          "ESMOLOL HYDROCHLORIDE"
+        ],
+        "rxcui": [
+          "1736546"
+        ],
+        "spl_id": [
+          "961c04d5-1f12-4095-a4b9-1842574f7f97"
+        ],
+        "spl_set_id": [
+          "fdc9cea8-0eb4-4930-9e1c-d44bfa9346d2"
+        ],
+        "package_ndc": [
+          "63323-661-04",
+          "63323-661-14",
+          "63323-652-01",
+          "63323-652-10"
+        ],
+        "unii": [
+          "V05260LC8D"
+        ]
+      },
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ESMOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "10MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued",
+          "te_code": "AP"
+        },
+        {
+          "product_number": "002",
+          "reference_drug": "No",
+          "brand_name": "ESMOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "20MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Discontinued"
+        }
+      ]
+    },
+    {
+      "submissions": [
+        {
+          "submission_type": "SUPPL",
+          "submission_number": "4",
+          "submission_status": "AP",
+          "submission_status_date": "20080411",
+          "submission_class_code": "LABELING",
+          "submission_class_code_description": "Labeling"
+        },
+        {
+          "submission_type": "ORIG",
+          "submission_number": "1",
+          "submission_status": "AP",
+          "submission_status_date": "20040810",
+          "application_docs": [
+            {
+              "id": "8893",
+              "url": "http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/76323ltr.pdf",
+              "date": "20040811",
+              "type": "Letter"
+            }
+          ]
+        }
+      ],
+      "application_number": "ANDA076323",
+      "sponsor_name": "HIKMA PHARMS",
+      "products": [
+        {
+          "product_number": "001",
+          "reference_drug": "No",
+          "brand_name": "ESMOLOL HYDROCHLORIDE",
+          "active_ingredients": [
+            {
+              "name": "ESMOLOL HYDROCHLORIDE",
+              "strength": "10MG/ML"
+            }
+          ],
+          "reference_standard": "No",
+          "dosage_form": "INJECTABLE",
+          "route": "INJECTION",
+          "marketing_status": "Prescription",
+          "te_code": "AP"
+        }
+      ]
+    }
+  ]
+}

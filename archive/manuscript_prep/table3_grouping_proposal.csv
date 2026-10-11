@@ -1,0 +1,94 @@
+﻿mesh_id,mesh_term,minikel_areas,minikel_top_level,source,pairs,phase3_pairs,launched_pairs,proposed_area_9,area_if_only_7,note
+D001281,Atrial Fibrillation,"cardiovascular, signs/symptoms",C23,"RULE A addition: filed C23, tagged cardiovascular",33,6,5,Arrhythmia,Arrhythmia,
+D001145,"Arrhythmias, Cardiac","cardiovascular, signs/symptoms",C23,"RULE A addition: filed C23, tagged cardiovascular",16,0,0,Arrhythmia,Arrhythmia,
+D014693,Ventricular Fibrillation,"cardiovascular, signs/symptoms",C23,"RULE A addition: filed C23, tagged cardiovascular",6,0,4,Arrhythmia,Arrhythmia,
+D017180,"Tachycardia, Ventricular","cardiovascular, signs/symptoms",C23,"RULE A addition: filed C23, tagged cardiovascular",4,0,1,Arrhythmia,Arrhythmia,
+D013617,"Tachycardia, Supraventricular","cardiovascular, signs/symptoms",C23,"RULE A addition: filed C23, tagged cardiovascular",3,0,1,Arrhythmia,Arrhythmia,
+D008133,Long QT Syndrome,"cardiovascular, congenital, signs/symptoms",C23,"RULE A addition: filed C23, tagged cardiovascular",2,0,0,Arrhythmia,Arrhythmia,
+D013610,Tachycardia,"cardiovascular, signs/symptoms",C23,"RULE A addition: filed C23, tagged cardiovascular",1,0,0,Arrhythmia,Arrhythmia,
+D001919,Bradycardia,"cardiovascular, signs/symptoms",C23,"RULE A addition: filed C23, tagged cardiovascular",1,0,0,Arrhythmia,Arrhythmia,
+D002545,Brain Ischemia,"neurology, cardiovascular",C14,original set: C14 top-level,173,11,4,Cerebrovascular,Other,identical target list to Stroke in Minikel
+D020521,Stroke,"neurology, cardiovascular",C14,original set: C14 top-level,173,11,4,Cerebrovascular,Other,identical target list to Brain Ischemia in Minikel
+D002543,Cerebral Hemorrhage,"neurology, cardiovascular, signs/symptoms",C23,"RULE A addition: filed C23, tagged cardiovascular",13,1,0,Cerebrovascular,Other,
+D013345,Subarachnoid Hemorrhage,"neurology, cardiovascular, signs/symptoms",C23,"RULE A addition: filed C23, tagged cardiovascular",10,0,0,Cerebrovascular,Other,
+D002544,Cerebral Infarction,"neurology, cardiovascular, signs/symptoms",C23,"RULE A addition: filed C23, tagged cardiovascular",6,0,0,Cerebrovascular,Other,
+D020767,Intracranial Thrombosis,"neurology, cardiovascular",C14,original set: C14 top-level,3,0,0,Cerebrovascular,Thrombosis,
+D020301,"Vasospasm, Intracranial","neurology, cardiovascular",C14,original set: C14 top-level,1,0,0,Cerebrovascular,Other,
+D046589,CADASIL,"neurology, cardiovascular, congenital, signs/symptoms",C23,"RULE A addition: filed C23, tagged cardiovascular",1,0,0,Cerebrovascular,Other,monogenic small-vessel disease
+D006333,Heart Failure,cardiovascular,C14,original set: C14 top-level,151,15,10,Heart failure / cardiomyopathy,Heart failure / cardiomyopathy,
+D009202,Cardiomyopathies,cardiovascular,C14,original set: C14 top-level,22,0,0,Heart failure / cardiomyopathy,Heart failure / cardiomyopathy,
+D004719,Endomyocardial Fibrosis,cardiovascular,C14,original set: C14 top-level,9,0,0,Heart failure / cardiomyopathy,Heart failure / cardiomyopathy,
+D002312,"Cardiomyopathy, Hypertrophic",cardiovascular,C14,original set: C14 top-level,9,0,0,Heart failure / cardiomyopathy,Heart failure / cardiomyopathy,
+D004489,"Edema, Cardiac","cardiovascular, signs/symptoms",C23,"RULE A addition: filed C23, tagged cardiovascular",5,0,1,Heart failure / cardiomyopathy,Heart failure / cardiomyopathy,
+D009205,Myocarditis,cardiovascular,C14,original set: C14 top-level,2,0,0,Heart failure / cardiomyopathy,Heart failure / cardiomyopathy,could be Other
+D006973,Hypertension,cardiovascular,C14,original set: C14 top-level,66,8,10,Hypertension,Hypertension,
+D009203,Myocardial Infarction,"cardiovascular, signs/symptoms",C23,"RULE A addition: filed C23, tagged cardiovascular",129,11,7,Ischaemic heart disease,Lipids / atherosclerosis,7-area fallback treats coronary disease as atherosclerotic
+D023903,Coronary Restenosis,cardiovascular,C14,original set: C14 top-level,45,2,6,Ischaemic heart disease,Lipids / atherosclerosis,post-intervention; could be Other
+D000787,Angina Pectoris,"cardiovascular, signs/symptoms",C23,"RULE A addition: filed C23, tagged cardiovascular",33,4,2,Ischaemic heart disease,Lipids / atherosclerosis,same
+D054058,Acute Coronary Syndrome,cardiovascular,C14,original set: C14 top-level,28,8,1,Ischaemic heart disease,Lipids / atherosclerosis,same
+D000789,"Angina, Unstable","cardiovascular, signs/symptoms",C23,"RULE A addition: filed C23, tagged cardiovascular",13,0,7,Ischaemic heart disease,Lipids / atherosclerosis,same
+D003328,Coronary Thrombosis,cardiovascular,C14,original set: C14 top-level,9,0,4,Ischaemic heart disease,Thrombosis,could equally be Thrombosis in both schemes
+D050197,Atherosclerosis,cardiovascular,C14,original set: C14 top-level,132,6,2,Lipids / atherosclerosis,Lipids / atherosclerosis,
+D006949,Hyperlipidemias,metabolic,C18,original set: lipid token,76,6,4,Lipids / atherosclerosis,Lipids / atherosclerosis,
+D006937,Hypercholesterolemia,metabolic,C18,original set: lipid token,47,2,3,Lipids / atherosclerosis,Lipids / atherosclerosis,
+D015228,Hypertriglyceridemia,metabolic,C18,original set: lipid token,31,1,3,Lipids / atherosclerosis,Lipids / atherosclerosis,
+D006938,Hyperlipoproteinemia Type II,"congenital, metabolic",C18,original set: lipid token,12,1,3,Lipids / atherosclerosis,Lipids / atherosclerosis,
+D050171,Dyslipidemias,metabolic,C18,original set: lipid token,7,0,3,Lipids / atherosclerosis,Lipids / atherosclerosis,
+D008072,Hyperlipoproteinemia Type I,"congenital, metabolic",C18,original set: lipid token,5,1,2,Lipids / atherosclerosis,Lipids / atherosclerosis,
+D052456,Hypoalphalipoproteinemias,"congenital, metabolic",C18,original set: lipid token,1,0,0,Lipids / atherosclerosis,Lipids / atherosclerosis,
+D002318,Cardiovascular Diseases,cardiovascular,C14,original set: C14 top-level,170,5,1,Other,Other,generic parent term; 170 pairs
+D016491,Peripheral Vascular Diseases,cardiovascular,C14,original set: C14 top-level,56,4,2,Other,Other,
+D015427,Reperfusion Injury,"cardiovascular, signs/symptoms",C23,"RULE A addition: filed C23, tagged cardiovascular",49,3,0,Other,Other,not organ-specific in MeSH; includes non-cardiac reperfusion
+D014657,Vasculitis,cardiovascular,C14,original set: C14 top-level,26,6,2,Other,Other,
+D012170,Retinal Vein Occlusion,"ophthalmology, cardiovascular",C14,original set: C14 top-level,20,1,2,Other,Other,ophthalmic vascular
+D007022,Hypotension,cardiovascular,C14,original set: C14 top-level,16,5,4,Other,Other,not Hypertension; opposite pharmacology
+D007383,Intermittent Claudication,"cardiovascular, signs/symptoms",C23,"RULE A addition: filed C23, tagged cardiovascular",11,1,0,Other,Other,peripheral arterial
+D011928,Raynaud Disease,cardiovascular,C14,original set: C14 top-level,6,0,0,Other,Other,
+D014652,Vascular Diseases,cardiovascular,C14,original set: C14 top-level,6,0,0,Other,Other,generic parent term
+D015356,Retinal Artery Occlusion,"ophthalmology, cardiovascular",C14,original set: C14 top-level,6,0,0,Other,Other,ophthalmic vascular
+D018917,"Optic Neuropathy, Ischemic","neurology, ophthalmology, cardiovascular",C14,original set: C14 top-level,6,1,0,Other,Other,ophthalmic vascular
+D014689,Venous Insufficiency,cardiovascular,C14,original set: C14 top-level,6,0,5,Other,Other,
+D000783,Aneurysm,cardiovascular,C14,original set: C14 top-level,6,0,0,Other,Other,
+D001024,Aortic Valve Stenosis,cardiovascular,C14,original set: C14 top-level,4,1,0,Other,Other,valvular
+D019559,Capillary Leak Syndrome,cardiovascular,C14,original set: C14 top-level,4,0,0,Other,Other,
+D013919,Thromboangiitis Obliterans,cardiovascular,C14,original set: C14 top-level,4,1,0,Other,Other,
+D004916,Erythromelalgia,cardiovascular,C14,original set: C14 top-level,4,0,0,Other,Other,
+D058456,Retinal Telangiectasis,"ophthalmology, cardiovascular",C14,original set: C14 top-level,2,1,0,Other,Other,ophthalmic vascular
+D004696,Endocarditis,cardiovascular,C14,original set: C14 top-level,1,0,0,Other,Other,
+D010493,Pericarditis,cardiovascular,C14,original set: C14 top-level,1,1,0,Other,Other,
+D006976,"Hypertension, Pulmonary","respiratory, cardiovascular",C14,original set: C14 top-level,105,8,6,Pulmonary hypertension,Pulmonary hypertension,
+D013927,Thrombosis,cardiovascular,C14,original set: C14 top-level,58,2,6,Thrombosis,Thrombosis,
+D020246,Venous Thrombosis,cardiovascular,C14,original set: C14 top-level,20,0,3,Thrombosis,Thrombosis,
+D011655,Pulmonary Embolism,"respiratory, cardiovascular",C14,original set: C14 top-level,11,1,4,Thrombosis,Thrombosis,
+D013924,Thrombophlebitis,cardiovascular,C14,original set: C14 top-level,3,0,3,Thrombosis,Thrombosis,
+D015140,"Dementia, Vascular","neurology, cardiovascular, psychiatry",F03,"GROUP B (not proposed): filed F03, tagged cardiovascular",6,1,0,Cerebrovascular,Other,GROUP B
+D016657,Cerebral Amyloid Angiopathy,"neurology, cardiovascular, metabolic",C18,"GROUP B (not proposed): filed C18, tagged cardiovascular",3,0,0,Cerebrovascular,Other,GROUP B
+D002311,"Cardiomyopathy, Dilated","cardiovascular, congenital",C16,"GROUP B (not proposed): filed C16, tagged cardiovascular",9,1,0,Heart failure / cardiomyopathy,Heart failure / cardiomyopathy,GROUP B
+D058065,Diabetic Cardiomyopathies,"cardiovascular, endocrine",C19,"GROUP B (not proposed): filed C19, tagged cardiovascular",3,1,0,Heart failure / cardiomyopathy,Heart failure / cardiomyopathy,GROUP B
+D003930,Diabetic Retinopathy,"ophthalmology, cardiovascular, endocrine",C19,"GROUP B (not proposed): filed C19, tagged cardiovascular",99,2,2,Other,Other,GROUP B
+D017719,Diabetic Foot,"cardiovascular, dermatology, endocrine",C19,"GROUP B (not proposed): filed C19, tagged cardiovascular",37,4,1,Other,Other,GROUP B
+D001528,Behcet Syndrome,"ophthalmology, cardiovascular, congenital, dermatology",C17,"GROUP B (not proposed): filed C17, tagged cardiovascular",16,1,5,Other,Other,GROUP B
+D013683,"Telangiectasia, Hereditary Hemorrhagic","cardiovascular, hematology, congenital",C16,"GROUP B (not proposed): filed C16, tagged cardiovascular",11,0,0,Other,Other,GROUP B
+D054179,"Angioedemas, Hereditary","cardiovascular, congenital, dermatology, immune",C20,"GROUP B (not proposed): filed C20, tagged cardiovascular",10,2,2,Other,Other,GROUP B
+D004535,Ehlers-Danlos Syndrome,"cardiovascular, hematology, congenital, dermatology",C17,"GROUP B (not proposed): filed C17, tagged cardiovascular",5,5,0,Other,Other,GROUP B
+D014890,Granulomatosis with Polyangiitis,"respiratory, cardiovascular, immune",C20,"GROUP B (not proposed): filed C20, tagged cardiovascular",5,0,2,Other,Other,GROUP B
+D014647,Varicose Ulcer,"cardiovascular, dermatology",C17,"GROUP B (not proposed): filed C17, tagged cardiovascular",5,2,0,Other,Other,GROUP B
+D015267,Churg-Strauss Syndrome,"cardiovascular, hematology, immune",C20,"GROUP B (not proposed): filed C20, tagged cardiovascular",4,1,0,Other,Other,GROUP B
+D013625,Takayasu Arteritis,"cardiovascular, dermatology",C17,"GROUP B (not proposed): filed C17, tagged cardiovascular",4,3,0,Other,Other,GROUP B
+D013771,Tetralogy of Fallot,"cardiovascular, congenital",C16,"GROUP B (not proposed): filed C16, tagged cardiovascular",3,0,0,Other,Other,GROUP B
+D000795,Fabry Disease,"neurology, cardiovascular, congenital, metabolic",C18,"GROUP B (not proposed): filed C18, tagged cardiovascular",3,1,1,Other,Other,GROUP B
+D055953,Microscopic Polyangiitis,"neurology, cardiovascular, immune",C20,"GROUP B (not proposed): filed C20, tagged cardiovascular",3,0,2,Other,Other,GROUP B
+D014424,Turner Syndrome,"cardiovascular, congenital, endocrine",C19,"GROUP B (not proposed): filed C19, tagged cardiovascular",3,0,1,Other,Other,GROUP B
+D017241,MELAS Syndrome,"musculoskeletal, neurology, cardiovascular, congenital, metabolic",C18,"GROUP B (not proposed): filed C18, tagged cardiovascular",3,0,0,Other,Other,GROUP B
+D009080,Mucocutaneous Lymph Node Syndrome,"cardiovascular, hematology, dermatology",C17,"GROUP B (not proposed): filed C17, tagged cardiovascular",3,0,1,Other,Other,GROUP B
+D009634,Noonan Syndrome,"musculoskeletal, cardiovascular, congenital, dermatology",C17,"GROUP B (not proposed): filed C17, tagged cardiovascular",3,0,0,Other,Other,GROUP B
+D004374,"Ductus Arteriosus, Patent","cardiovascular, congenital",C16,"GROUP B (not proposed): filed C16, tagged cardiovascular",2,0,0,Other,Other,GROUP B
+D006623,von Hippel-Lindau Disease,"neurology, cardiovascular, congenital",C16,"GROUP B (not proposed): filed C16, tagged cardiovascular",1,0,1,Other,Other,GROUP B
+D000799,Angioedema,"cardiovascular, dermatology, immune",C20,"GROUP B (not proposed): filed C20, tagged cardiovascular",1,0,0,Other,Other,GROUP B
+D052120,Glycogen Storage Disease Type IIb,"neurology, cardiovascular, congenital, metabolic",C18,"GROUP B (not proposed): filed C18, tagged cardiovascular",1,0,0,Other,Other,GROUP B
+D058088,Sarcoglycanopathies,"musculoskeletal, respiratory, neurology, cardiovascular, congenital",C16,"GROUP B (not proposed): filed C16, tagged cardiovascular",1,0,0,Other,Other,GROUP B
+D008382,Marfan Syndrome,"musculoskeletal, cardiovascular, congenital, dermatology",C17,"GROUP B (not proposed): filed C17, tagged cardiovascular",1,0,0,Other,Other,GROUP B
+D001260,Ataxia Telangiectasia,"neurology, cardiovascular, congenital, metabolic, immune",C20,"GROUP B (not proposed): filed C20, tagged cardiovascular",1,0,0,Other,Other,GROUP B
+D006330,"Heart Defects, Congenital","cardiovascular, congenital",C16,"GROUP B (not proposed): filed C16, tagged cardiovascular",1,0,1,Other,Other,GROUP B
+D001165,Arteriovenous Malformations,"cardiovascular, congenital",C16,"GROUP B (not proposed): filed C16, tagged cardiovascular",1,0,0,Other,Other,GROUP B
+D016738,Alagille Syndrome,"digestive, cardiovascular, congenital",C16,"GROUP B (not proposed): filed C16, tagged cardiovascular",1,1,0,Other,Other,GROUP B

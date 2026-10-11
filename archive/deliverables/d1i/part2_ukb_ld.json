@@ -1,0 +1,24 @@
+{
+  "reference": "UKB LD (PolyFun/Weissbrod), broad-alkesgroup-ukbb-ld",
+  "block": "chr5_74000001_77000001",
+  "n_reference": 337000,
+  "ancestry": "British (UK Biobank)",
+  "build": "GRCh37",
+  "n_variants": 276,
+  "ld_condition_number": Infinity,
+  "dentist_rmse_gwas": 7.119267816095113,
+  "dentist_rmse_eqtl": 1.6258346862895425,
+  "abf_PP3": 0.9999999999899956,
+  "abf_PP4": 1.0047485198341213e-11,
+  "susie_PP4": 0.9956763365843004,
+  "n_cs_exposure": 3,
+  "n_cs_outcome": 5,
+  "outcome_cs_tops": [
+    "rs1423527",
+    "rs115543819",
+    "rs10473972",
+    "rs12660028",
+    "rs1544755"
+  ],
+  "cs_tops_rs12916": false
+}

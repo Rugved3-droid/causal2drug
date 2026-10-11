@@ -1,0 +1,2 @@
+gene	gwas_acc	mesh_term	n_merged	eqtl_lead_rsid	eqtl_lead_z	gwas_lead_rsid	gwas_lead_z	gwas_genome_wide_sig	lead_r2	lead_dist_bp	abf_gap	abf_PP3	abf_PP4	susie_PP4	n_cs_exposure	n_cs_outcome	dentist_rmse_eqtlgen	dentist_rmse_gwas	note
+PPARG	GCST90399686	Asthma	398	rs1619599	31.81	rs138316828	5.554	True	0.0002	167154	17.587	0.995307	2.29208e-05	0.00305885	4	1	2.885	0.8549	

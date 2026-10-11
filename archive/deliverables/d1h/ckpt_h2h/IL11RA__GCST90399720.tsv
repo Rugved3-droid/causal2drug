@@ -1,0 +1,2 @@
+gene	gwas_acc	mesh_term	n_eqtlgen	n_gtex	eqtlgen_lead_z	gtex_lead_z	PP4_eqtlgen	PP3_eqtlgen	PP4_gtexblood	PP3_gtexblood	gap_eqtlgen	gap_gtex	note
+IL11RA	GCST90399720	Idiopathic Pulmonary Fibrosis	351	520	61.59	5.789	0.0333413	0.0152905	0.0391714	0.0268298	6.130	6.531	

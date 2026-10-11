@@ -1,0 +1,17 @@
+
+=== CV-PRIMARY (C14 only): 594 targets, 44 launched ===
+  as shipped (12 unmapped)                   {'UNMAPPED': 4, 'ABSENT': 15, 'INSTRUMENTED': 23, 'TESTED_NULL': 2}
+                                             Class A (absent+tested-null) 17 / 44 = 38.6% ; absent only 15 = 34.1%
+  after unmapped resolution (PROVISIONAL)    {'INSTRUMENTED': 26, 'ABSENT': 15, 'TESTED_NULL': 3}
+                                             Class A (absent+tested-null) 18 / 44 = 40.9% ; absent only 15 = 34.1%
+  launched by ACTIVE label (acat) only: 0 ; by HISTORICAL (hcat) only: 0 ; both: 44
+
+=== ORIGINAL 630 (C14 + lipid tokens): 630 targets, 52 launched ===
+  as shipped (12 unmapped)                   {'UNMAPPED': 4, 'ABSENT': 18, 'INSTRUMENTED': 27, 'TESTED_NULL': 3}
+                                             Class A (absent+tested-null) 21 / 52 = 40.4% ; absent only 18 = 34.6%
+  after unmapped resolution (PROVISIONAL)    {'INSTRUMENTED': 30, 'ABSENT': 18, 'TESTED_NULL': 4}
+                                             Class A (absent+tested-null) 22 / 52 = 42.3% ; absent only 18 = 34.6%
+  launched by ACTIVE label (acat) only: 0 ; by HISTORICAL (hcat) only: 0 ; both: 52
+
+'20' as computed by src/a2_robustness.py:84 (CV-PRIMARY membership, phase taken over the EXTENDED set): 20
+  of these, NOT launched in any CV-PRIMARY indication: [('ANGPTL3', 1), ('APOB', 1), ('NPC1L1', 1)]

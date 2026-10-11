@@ -1,0 +1,8 @@
+[A01] raw rows 29476; after dedup+drop 29456; genes 2517; indications 1014
+[A02] CV terms by rule 93 (with >=1 pair: 93); token-only terms 7; pairs 2128; TARGETS 726
+[A03] launched (phase 5) targets in primary set: 66
+[A04] GTF gene records 57905
+[A05] HGNC approved records 45233
+[A06] mapping: {'gtf_unique_symbol': 711, 'hgnc_fix': 12, 'UNRESOLVED': 3}
+[A06] unresolved: ['MIR195', 'MIR29B1', 'MIR92A1']
+[A06] hgnc-fixed: ['ACE', 'ADGRE1', 'ANGPTL8', 'CCN1', 'CXCL8', 'FIGNL2', 'GRK2', 'GUCY1A1', 'GUCY1B1', 'ITGB3', 'TLR9', 'VEGFD']

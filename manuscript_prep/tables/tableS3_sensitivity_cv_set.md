@@ -1,0 +1,45 @@
+**Supplementary Table S3. Instrument status under each definition of the cardiovascular set**
+
+|  | Targets | Instrumented | No eQTL data (lower bound) | ...autosomal gene not tested | ...X-linked / mitochondrial, not analysed | Autosomal-only lower bound | No qualifying instrument | Uninstrumentable, upper bound | Unresolved gene record |
+|---|---|---|---|---|---|---|---|---|---|
+| Primary set - all targets | 726 | 443 (61.0%) | 217 (29.9%) | 188 | 27 / 2 | 188 / 697 (27.0%) | 63 (8.7%) | 280 (38.6%) | 3 |
+| Primary set - Preclinical | 323 | 196 (60.7%) | 97 (30.0%) | 85 | 10 / 2 | 85 / 311 (27.3%) | 29 (9.0%) | 126 (39.0%) | 1 |
+| Primary set - Phase I | 91 | 53 (58.2%) | 26 (28.6%) | 20 | 6 / 0 | 20 / 85 (23.5%) | 10 (11.0%) | 36 (39.6%) | 2 |
+| Primary set - Phase II | 171 | 105 (61.4%) | 57 (33.3%) | 48 | 9 / 0 | 48 / 162 (29.6%) | 9 (5.3%) | 66 (38.6%) | 0 |
+| Primary set - Phase III | 75 | 50 (66.7%) | 14 (18.7%) | 14 | 0 / 0 | 14 / 75 (18.7%) | 11 (14.7%) | 25 (33.3%) | 0 |
+| Primary set - Launched | 66 | 39 (59.1%) | 23 (34.8%) | 21 | 2 / 0 | 21 / 64 (32.8%) | 4 (6.1%) | 27 (40.9%) | 0 |
+| Primary set - launched, drug ever approved by FDA or EMA | 33 | 21 (63.6%) | 9 (27.3%) | 8 | 1 / 0 | 8 / 32 (25.0%) | 3 (9.1%) | 12 (36.4%) | 0 |
+| Primary set - launched, verified strict | 35 | 22 (62.9%) | 10 (28.6%) | 9 | 1 / 0 | 9 / 34 (26.5%) | 3 (8.6%) | 13 (37.1%) | 0 |
+| Primary set - launched, verified permissive | 58 | 34 (58.6%) | 20 (34.5%) | 18 | 2 / 0 | 18 / 56 (32.1%) | 4 (6.9%) | 24 (41.4%) | 0 |
+| Sensitivity 1 (original 630) - all targets | 630 | 391 (62.1%) | 180 (28.6%) | 157 | 21 / 2 | 157 / 607 (25.9%) | 57 (9.0%) | 237 (37.6%) | 2 |
+| Sensitivity 1 (original 630) - Preclinical | 297 | 183 (61.6%) | 85 (28.6%) | 75 | 8 / 2 | 75 / 287 (26.1%) | 29 (9.8%) | 114 (38.4%) | 0 |
+| Sensitivity 1 (original 630) - Phase I | 90 | 58 (64.4%) | 23 (25.6%) | 19 | 4 / 0 | 19 / 86 (22.1%) | 7 (7.8%) | 30 (33.3%) | 2 |
+| Sensitivity 1 (original 630) - Phase II | 140 | 87 (62.1%) | 45 (32.1%) | 37 | 8 / 0 | 37 / 132 (28.0%) | 8 (5.7%) | 53 (37.9%) | 0 |
+| Sensitivity 1 (original 630) - Phase III | 51 | 33 (64.7%) | 9 (17.6%) | 8 | 1 / 0 | 8 / 50 (16.0%) | 9 (17.6%) | 18 (35.3%) | 0 |
+| Sensitivity 1 (original 630) - Launched | 52 | 30 (57.7%) | 18 (34.6%) | 18 | 0 / 0 | 18 / 52 (34.6%) | 4 (7.7%) | 22 (42.3%) | 0 |
+| Sensitivity 1 (original 630) - launched, drug ever approved by FDA or EMA | 30 | 19 (63.3%) | 8 (26.7%) | 8 | 0 / 0 | 8 / 30 (26.7%) | 3 (10.0%) | 11 (36.7%) | 0 |
+| Sensitivity 1 (original 630) - launched, verified strict | 32 | 20 (62.5%) | 9 (28.1%) | 9 | 0 / 0 | 9 / 32 (28.1%) | 3 (9.4%) | 12 (37.5%) | 0 |
+| Sensitivity 1 (original 630) - launched, verified permissive | 46 | 26 (56.5%) | 16 (34.8%) | 16 | 0 / 0 | 16 / 46 (34.8%) | 4 (8.7%) | 20 (43.5%) | 0 |
+| Sensitivity 2 - all targets | 663 | 409 (61.7%) | 191 (28.8%) | 167 | 22 / 2 | 167 / 639 (26.1%) | 60 (9.0%) | 251 (37.9%) | 3 |
+| Sensitivity 2 - Preclinical | 300 | 181 (60.3%) | 89 (29.7%) | 79 | 8 / 2 | 79 / 290 (27.2%) | 29 (9.7%) | 118 (39.3%) | 1 |
+| Sensitivity 2 - Phase I | 93 | 59 (63.4%) | 23 (24.7%) | 19 | 4 / 0 | 19 / 89 (21.3%) | 9 (9.7%) | 32 (34.4%) | 2 |
+| Sensitivity 2 - Phase II | 155 | 96 (61.9%) | 50 (32.3%) | 41 | 9 / 0 | 41 / 146 (28.1%) | 9 (5.8%) | 59 (38.1%) | 0 |
+| Sensitivity 2 - Phase III | 60 | 41 (68.3%) | 10 (16.7%) | 10 | 0 / 0 | 10 / 60 (16.7%) | 9 (15.0%) | 19 (31.7%) | 0 |
+| Sensitivity 2 - Launched | 55 | 32 (58.2%) | 19 (34.5%) | 18 | 1 / 0 | 18 / 54 (33.3%) | 4 (7.3%) | 23 (41.8%) | 0 |
+| Sensitivity 2 - launched, drug ever approved by FDA or EMA | 33 | 21 (63.6%) | 9 (27.3%) | 8 | 1 / 0 | 8 / 32 (25.0%) | 3 (9.1%) | 12 (36.4%) | 0 |
+| Sensitivity 2 - launched, verified strict | 35 | 22 (62.9%) | 10 (28.6%) | 9 | 1 / 0 | 9 / 34 (26.5%) | 3 (8.6%) | 13 (37.1%) | 0 |
+| Sensitivity 2 - launched, verified permissive | 49 | 28 (57.1%) | 17 (34.7%) | 16 | 1 / 0 | 16 / 48 (33.3%) | 4 (8.2%) | 21 (42.9%) | 0 |
+| Sensitivity 3 (MeSH C14 only) - all targets | 594 | 373 (62.8%) | 164 (27.6%) | 144 | 18 / 2 | 144 / 574 (25.1%) | 55 (9.3%) | 219 (36.9%) | 2 |
+| Sensitivity 3 (MeSH C14 only) - Preclinical | 294 | 178 (60.5%) | 84 (28.6%) | 74 | 8 / 2 | 74 / 284 (26.1%) | 32 (10.9%) | 116 (39.5%) | 0 |
+| Sensitivity 3 (MeSH C14 only) - Phase I | 85 | 56 (65.9%) | 23 (27.1%) | 18 | 5 / 0 | 18 / 80 (22.5%) | 4 (4.7%) | 27 (31.8%) | 2 |
+| Sensitivity 3 (MeSH C14 only) - Phase II | 121 | 81 (66.9%) | 33 (27.3%) | 29 | 4 / 0 | 29 / 117 (24.8%) | 7 (5.8%) | 40 (33.1%) | 0 |
+| Sensitivity 3 (MeSH C14 only) - Phase III | 50 | 32 (64.0%) | 9 (18.0%) | 8 | 1 / 0 | 8 / 49 (16.3%) | 9 (18.0%) | 18 (36.0%) | 0 |
+| Sensitivity 3 (MeSH C14 only) - Launched | 44 | 26 (59.1%) | 15 (34.1%) | 15 | 0 / 0 | 15 / 44 (34.1%) | 3 (6.8%) | 18 (40.9%) | 0 |
+| Sensitivity 3 (MeSH C14 only) - launched, drug ever approved by FDA or EMA | 24 | 17 (70.8%) | 5 (20.8%) | 5 | 0 / 0 | 5 / 24 (20.8%) | 2 (8.3%) | 7 (29.2%) | 0 |
+| Sensitivity 3 (MeSH C14 only) - launched, verified strict | 26 | 18 (69.2%) | 6 (23.1%) | 6 | 0 / 0 | 6 / 26 (23.1%) | 2 (7.7%) | 8 (30.8%) | 0 |
+| Sensitivity 3 (MeSH C14 only) - launched, verified permissive | 40 | 24 (60.0%) | 13 (32.5%) | 13 | 0 / 0 | 13 / 40 (32.5%) | 3 (7.5%) | 16 (40.0%) | 0 |
+| All 2,517 Minikel targets (any therapeutic area) | 2517 | 1603 (63.7%) | 663 (26.3%) | 553 | 107 / 3 | 553 / 2407 (23.0%) | 236 (9.4%) | 899 (35.7%) | 15 |
+
+Instrumented: at least one eQTLGen whole-blood cis-eQTL at P<5×10⁻⁸ within the gene body ±100 kb. No eQTL data: the gene is not among the 19,250 genes eQTLGen tested; its sub-types are autosomal genes not tested, and X-linked and mitochondrial genes, which eQTLGen did not analyse (no target is Y-linked). The autosomal-only lower bound is autosomal no-eQTL-data targets over targets not on X, Y or MT. No qualifying instrument: tested, but no variant meets the criterion. The upper bound is no eQTL data plus no qualifying instrument and is reported only as a bound.
+
+The evidence rows on which the two ChEMBL rules disagree were reviewed and the strict rule was retained. Ever approved by FDA or EMA: the strict rule, and at least one of the target's strict-rule drugs has an approval record in Drugs@FDA or the EMA medicines table; this is the definition of 'approved' used in the text. Two of the 33 rest on an indication that is cardiovascular only in a broad sense: NR3C1 (dexamethasone, prednisolone and prednisone; ChEMBL approved indication myocarditis) and MS4A1 (rituximab; systemic vasculitis). Both are instrumented, so they enter the denominator only. Strict: an approved drug linked directly to the gene (single protein, specific complex or mRNA) has an approved indication that sits only in cardiovascular MeSH branches. Permissive: any ChEMBL link, any approved indication under MeSH C14 or a lipid term.
