@@ -159,12 +159,16 @@ Paths are relative to `D:\causal2drug\manuscript_prep\`. Run commands from `D:\c
 | 151 | Results 1 | LPA no eQTL data, phase III | `manuscript/recovery_out/lead_findings_output.txt` : 6 | `python manuscript_prep\manuscript\recovery_scripts\lead_findings.py` |
 | 152 | Results 1 | NPC1L1 tested without a qualifying instrument | `manuscript/recovery_out/lead_findings_output.txt` : 5 | `python manuscript_prep\manuscript\recovery_scripts\lead_findings.py` |
 | 153 | Results 1 | HMGCR, CETP, LDLR, LPL instrumented | `manuscript/recovery_out/lead_findings_output.txt` : 8 | `python manuscript_prep\manuscript\recovery_scripts\lead_findings.py` |
-| 154 | Abstract; Results 5; Discussion | heart failure: 21 locked = 4 microRNA + 1 mitochondrial + 16 nuclear protein-coding; 11 of 16 never assayed | `manuscript/recovery_out/lead_findings_output.txt` : 12 | `python manuscript_prep\manuscript\recovery_scripts\lead_findings.py` |
+| 154 | Abstract; Results 5; Discussion | heart failure: 21 locked = 4 microRNA + 1 mitochondrial + 16 other protein-coding; 11 of 16 never assayed | `manuscript/recovery_out/lead_findings_output.txt` : 12 | `python manuscript_prep\manuscript\recovery_scripts\lead_findings.py` |
 | 155 | Results 4 | all areas: 57 locked = 9 microRNA + 2 mitochondrial + 46 protein-coding; 24 never assayed, 22 assayed | `manuscript/recovery_out/lead_findings_output.txt` : 13 | `python manuscript_prep\manuscript\recovery_scripts\lead_findings.py` |
 | 156 | Results 5; Discussion | DMD locked (assayed, no candidate) | `manuscript/recovery_out/lead_findings_output.txt` : 14 | `python manuscript_prep\manuscript\recovery_scripts\lead_findings.py` |
 | 157 | Results 5; Discussion | PLN locked (never assayed) | `manuscript/recovery_out/lead_findings_output.txt` : 15 | `python manuscript_prep\manuscript\recovery_scripts\lead_findings.py` |
 | 158 | Results 6 | liver: no candidate for PCSK9 | `manuscript/recovery_out/tableS23_output.txt` : 8 | `python manuscript_prep\manuscript\recovery_scripts\make_table_s23.py` |
 | 159 | Results 6 | liver: no candidate for ANGPTL3, APOC3, APOB | `manuscript/recovery_out/tableS23_output.txt` : 4 | `python manuscript_prep\manuscript\recovery_scripts\make_table_s23.py` |
+| 160 | Abstract; Results 1; Discussion | 10 lipid targets with landmark genetic evidence, all in the set: 6 uninstrumentable, 4 instrumented | `manuscript/recovery_out/lead_findings_output.txt` : 27 | `python manuscript_prep\manuscript\recovery_scripts\lead_findings.py` |
+| 161 | Results 1 | GTEx whole blood holds a qualifying variant for PCSK9 | `manuscript/recovery_out/lead_findings_output.txt` : 28 | `python manuscript_prep\manuscript\recovery_scripts\lead_findings.py` |
+| 162 | Results 1 | Table 2 shows a GTEx whole-blood instrument for PCSK9 | `manuscript/display/table2_named_targets.md` : 11 | `python manuscript_prep\manuscript\recovery_scripts\make_recovery_outputs.py` |
+| 163 | Table 3 footnote | never assayed: 9 microRNA and 2 mitochondrial overall; 4 and 1 in heart failure | `manuscript/recovery_out/lead_findings_output.txt` : 29 | `python manuscript_prep\manuscript\recovery_scripts\lead_findings.py` |
 
 ## Numbers not carried by a single output line
 
@@ -188,4 +192,4 @@ Paths are relative to `D:\causal2drug\manuscript_prep\`. Run commands from `D:\c
 | Results 5 | kidney cortex is the smallest tissue sample | gtex_v8_tissue_sample_sizes.csv | minimum eqtl_samples among tissues with eGenes | 73 |
 | Results 7 | sites of drug action for SLC5A1, ITGA2B, NPC1L1 | manuscript/revision_sources/drug_status.csv, column label_mechanism_text; drug_status/extra_openfda_brand_name_Zetia.json | FDA label mechanism-of-action text | quoted in Table 2 |
 
-Entries traced: 159; UNVERIFIED: 0.
+Entries traced: 163; UNVERIFIED: 0.

@@ -16,7 +16,7 @@
 | Sensitivity 2 | No qualifying instrument | secreted | 14 / 60 | 125 / 407 | 0.69 | 0.36-1.29 | 0.291 |
 | All 2,517 targets | No eQTL data | tissue restricted | 543 / 596 | 943 / 1588 | 7.01 | 5.19-9.45 | 2.21×10⁻⁵² |
 | All 2,517 targets | No qualifying instrument | tissue restricted | 156 / 232 | 943 / 1588 | 1.40 | 1.05-1.88 | 0.0257 |
-| All 2,517 targets | No eQTL data | secreted | 223 / 622 | 381 / 1591 | 1.77 | 1.45-2.17 | 3.04×10⁻⁰⁸ |
+| All 2,517 targets | No eQTL data | secreted | 223 / 622 | 381 / 1591 | 1.77 | 1.45-2.17 | 3.04×10⁻⁸ |
 | All 2,517 targets | No qualifying instrument | secreted | 46 / 232 | 381 / 1591 | 0.79 | 0.56-1.11 | 0.184 |
 
 Human Protein Atlas annotation. Tissue restricted: RNA tissue specificity 'Tissue enriched', 'Group enriched' or 'Tissue enhanced' versus 'Low tissue specificity'. Odds ratio with Woolf 95% CI; Fisher exact p.

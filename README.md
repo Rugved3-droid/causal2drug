@@ -1,10 +1,12 @@
-# causal2drug — cardiovascular drug targets invisible to whole-blood expression instruments
+# causal2drug — cardiovascular drug targets invisible to eQTLGen whole-blood expression instruments
 
-Code, rule documents and derived data for the study "Cardiovascular Drug Targets Invisible to Whole-Blood Expression Instruments: A Target-Level Map of Where Candidate Instruments Exist" (Parmar R, Fahim M).
+Code, rule documents and derived data for the study "Cardiovascular Drug Targets Invisible to eQTLGen Whole-Blood Expression Instruments: A Target-Level Map of Where Candidate Instruments Exist" (Parmar R, Fahim M).
 
 The study asks, for 726 targets with a cardiovascular drug programme, whether eQTLGen whole
 blood supplies a cis-eQTL instrument, and, for the 280 that it does not, whether a candidate
-instrument exists in another GTEx v8 tissue or in a published plasma cis-pQTL table.
+instrument exists in another GTEx v8 tissue or in a published plasma cis-pQTL table. The gap is
+specific to eQTLGen: 6 of 10 lipid targets with landmark human genetic evidence have no eQTLGen
+instrument (PCSK9, APOC3, ANGPTL3, APOB, NPC1L1, LPA), while GTEx whole blood holds one for PCSK9.
 
 ## Where to start
 

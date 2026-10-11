@@ -113,7 +113,7 @@ def reg_status(g):
             other.append(d["drug"] + (" (no FDA record; EMA: %s)" % ", ".join(est).lower()
                                       if est else " (no FDA or EMA central record)"))
     head = ("Marketed: %d of %d drugs" % (len(mk), len(ds)) if mk else
-            "NO CURRENTLY MARKETED DRUG FOUND" if dc else
+            "No currently marketed drug found" if dc else
             "Current marketing not confirmed in either source")
     parts = [head]
     if dc:
@@ -216,6 +216,8 @@ TABLES.append(("table2_named_targets", "Table 2",
                 "Drugs@FDA or the EMA medicines table, so approval by either agency could not "
                 "be confirmed from these sources. PLG is kept in this table and is not used as "
                 "a named example elsewhere.",
+                "P values below 1\u00d710\u207b\u00b3\u2070\u2070 are derived from the \u2212log10 P "
+                "reported in the source table, rounded to the nearest power of 10.",
                 "'Approved' in this study means ever approved by the FDA or the EMA for a "
                 "cardiovascular indication; the cardiovascular indication is taken from "
                 "ChEMBL and the approval record from the two agencies' databases."],
@@ -269,7 +271,11 @@ TABLES.append(("table3_recovery_tiers", "Table 3",
                 "proteomic studies measured the protein. The tiers were defined after the "
                 "first results were seen.",
                 "A target is counted in every indication area in which it has a programme, so "
-                "area rows do not sum to the total. Percentages are of the row."],
+                "area rows do not sum to the total. Percentages are of the row.",
+                "Never-assayed counts include microRNA and mitochondrial genes, which no plasma "
+                "protein panel can measure (9 and 2 overall; 4 and 1 among heart failure and "
+                "cardiomyopathy targets), so they exceed the protein-coding counts given in the "
+                "text."],
                ["", "Targets", TLAB[0], TLAB[1], "Locked, total",
                 "Locked: never assayed", "Locked: assayed, no instrument"], r3))
 
@@ -442,7 +448,8 @@ def style(v):
     if not isinstance(v, str):
         return v
     v = _re.sub(r"(?<![\w.])(\d+(?:\.\d+)?)e-(\d+)\b",
-                lambda m: "%s\u00d710%s" % (m.group(1), ("-" + m.group(2)).translate(_SUP)), v)
+                lambda m: "%s\u00d710%s" % (m.group(1),
+                                           ("-" + str(int(m.group(2)))).translate(_SUP)), v)
     v = v.replace("p < 5\u00d710", "P<5\u00d710").replace("p<5\u00d710", "P<5\u00d710")
     v = v.replace("+/- 100 kb", "\u00b1100 kb").replace("+/-100 kb", "\u00b1100 kb")
     v = v.replace("+-100 kb", "\u00b1100 kb").replace("+- 100 kb", "\u00b1100 kb")

@@ -248,12 +248,18 @@ N += [
  ("Results 1", "LPA no eQTL data, phase III", "LEAD", r"^\[L01\] LPA\s+eQTLGen: NO_EQTL_DATA\s+phase: Phase III"),
  ("Results 1", "NPC1L1 tested without a qualifying instrument", "LEAD", r"^\[L01\] NPC1L1\s+eQTLGen: NO_QUALIFYING_INSTRUMENT"),
  ("Results 1", "HMGCR, CETP, LDLR, LPL instrumented", "LEAD", r"^\[L03\] for contrast, HMGCR\s+eQTLGen: INSTRUMENTED"),
- ("Abstract; Results 5; Discussion", "heart failure: 21 locked = 4 microRNA + 1 mitochondrial + 16 nuclear protein-coding; 11 of 16 never assayed", "LEAD", r"^\[L04\] heart failure / cardiomyopathy: uninstrumentable 70; locked 21 = 4 microRNA genes \+ 1 mitochondrial genes \+ 16 nuclear protein-coding genes; of the 16 protein-coding, never assayed by any proteomic study: 11"),
- ("Results 4", "all areas: 57 locked = 9 microRNA + 2 mitochondrial + 46 protein-coding; 24 never assayed, 22 assayed", "LEAD", r"^\[L04\] all areas: uninstrumentable 280; locked 57 = 9 microRNA genes \+ 2 mitochondrial genes \+ 46 nuclear protein-coding genes; of the 46 protein-coding, never assayed by any proteomic study: 24 .*assayed without a candidate: 22"),
+ ("Abstract; Results 5; Discussion", "heart failure: 21 locked = 4 microRNA + 1 mitochondrial + 16 other protein-coding; 11 of 16 never assayed", "LEAD", r"^\[L04\] heart failure / cardiomyopathy: uninstrumentable 70; locked 21 = 4 microRNA genes \+ 1 mitochondrial genes \+ 16 other protein-coding genes; of those 16, never assayed by any proteomic study: 11"),
+ ("Results 4", "all areas: 57 locked = 9 microRNA + 2 mitochondrial + 46 protein-coding; 24 never assayed, 22 assayed", "LEAD", r"^\[L04\] all areas: uninstrumentable 280; locked 57 = 9 microRNA genes \+ 2 mitochondrial genes \+ 46 other protein-coding genes; of those 46, never assayed by any proteomic study: 24 .*assayed without a candidate: 22"),
  ("Results 5; Discussion", "DMD locked (assayed, no candidate)", "LEAD", r"^\[L05\] DMD\s+phase Preclinical; tier locked: assayed, no instrument"),
  ("Results 5; Discussion", "PLN locked (never assayed)", "LEAD", r"^\[L05\] PLN\s+phase Preclinical; tier locked: never assayed"),
  ("Results 6", "liver: no candidate for PCSK9", "S23", r"^\[S23\] PCSK9\s+Liver \(n=208\): no"),
  ("Results 6", "liver: no candidate for ANGPTL3, APOC3, APOB", "S23", r"^\[S23\] APOB\s+Liver \(n=208\): no"),
+]
+N += [
+ ("Abstract; Results 1; Discussion", "10 lipid targets with landmark genetic evidence, all in the set: 6 uninstrumentable, 4 instrumented", "LEAD", r"^\[L07\] lipid targets with landmark human genetic evidence: 10, all in the set; uninstrumentable 6 \(PCSK9, APOC3, ANGPTL3, APOB, NPC1L1, LPA\); instrumented 4 \(HMGCR, CETP, LDLR, LPL\)"),
+ ("Results 1", "GTEx whole blood holds a qualifying variant for PCSK9", "LEAD", r"^\[L08\] PCSK9 in GTEx v8 whole blood: tested True; qualifying variant True"),
+ ("Results 1", "Table 2 shows a GTEx whole-blood instrument for PCSK9", "T2", r"^\| PCSK9 \|.*\| Yes \|"),
+ ("Table 3 footnote", "never assayed: 9 microRNA and 2 mitochondrial overall; 4 and 1 in heart failure", "LEAD", r"^\[L09\] never-assayed locked targets: 35 overall, of which microRNA genes 9 and mitochondrial genes 2; 16 in heart failure / cardiomyopathy, of which microRNA genes 4 and mitochondrial genes 1"),
 ]
 EXTRA_REV = [
  ("Results 8; Table S22", "overlap upper limits 4.0%, 0.8%, 5.1% of the outcome sample", "sample sizes above", "52,363 / 1,320,016 = 3.97% (PCSK9, ANGPTL3); 10,708 / 1,320,016 = 0.81% (APOC3); 52,363 / 1,028,980 = 5.09% (REN)", "upper limits, not measured overlap"),

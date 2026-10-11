@@ -9,8 +9,21 @@
 [L03] for contrast, CETP   eQTLGen: INSTRUMENTED
 [L03] for contrast, LDLR   eQTLGen: INSTRUMENTED
 [L03] for contrast, LPL    eQTLGen: INSTRUMENTED
-[L04] heart failure / cardiomyopathy: uninstrumentable 70; locked 21 = 4 microRNA genes + 1 mitochondrial genes + 16 nuclear protein-coding genes; of the 16 protein-coding, never assayed by any proteomic study: 11 (ADRB3, AVPR1B, AVPR2, CYP11B1, CYP11B2, HCN4, HDAC6, HTR4, MAS1, PLN, SUMO1); assayed without a candidate: 5 (DMD, GHRHR, GRK2, HDAC2, NRG2)
-[L04] all areas: uninstrumentable 280; locked 57 = 9 microRNA genes + 2 mitochondrial genes + 46 nuclear protein-coding genes; of the 46 protein-coding, never assayed by any proteomic study: 24 (list in Table S15); assayed without a candidate: 22 (list in Table S15)
+[L04] heart failure / cardiomyopathy: uninstrumentable 70; locked 21 = 4 microRNA genes + 1 mitochondrial genes + 16 other protein-coding genes; of those 16, never assayed by any proteomic study: 11 (ADRB3, AVPR1B, AVPR2, CYP11B1, CYP11B2, HCN4, HDAC6, HTR4, MAS1, PLN, SUMO1); assayed without a candidate: 5 (DMD, GHRHR, GRK2, HDAC2, NRG2)
+[L04] all areas: uninstrumentable 280; locked 57 = 9 microRNA genes + 2 mitochondrial genes + 46 other protein-coding genes; of those 46, never assayed by any proteomic study: 24 (list in Table S15); assayed without a candidate: 22 (list in Table S15)
 [L05] DMD   phase Preclinical; tier locked: assayed, no instrument; GTEx tissues tested 48; proteomic studies that assayed it: UKB-PPP
 [L05] PLN   phase Preclinical; tier locked: never assayed; GTEx tissues tested 49; proteomic studies that assayed it: none
 [L05] HCN4  phase Phase III; tier locked: never assayed; GTEx tissues tested 25; proteomic studies that assayed it: none
+[L06] PCSK9    in the 726-target set: yes; eQTLGen status: NO_EQTL_DATA
+[L06] APOC3    in the 726-target set: yes; eQTLGen status: NO_EQTL_DATA
+[L06] ANGPTL3  in the 726-target set: yes; eQTLGen status: NO_EQTL_DATA
+[L06] APOB     in the 726-target set: yes; eQTLGen status: NO_EQTL_DATA
+[L06] NPC1L1   in the 726-target set: yes; eQTLGen status: NO_QUALIFYING_INSTRUMENT
+[L06] LPA      in the 726-target set: yes; eQTLGen status: NO_EQTL_DATA
+[L06] HMGCR    in the 726-target set: yes; eQTLGen status: INSTRUMENTED
+[L06] CETP     in the 726-target set: yes; eQTLGen status: INSTRUMENTED
+[L06] LDLR     in the 726-target set: yes; eQTLGen status: INSTRUMENTED
+[L06] LPL      in the 726-target set: yes; eQTLGen status: INSTRUMENTED
+[L07] lipid targets with landmark human genetic evidence: 10, all in the set; uninstrumentable 6 (PCSK9, APOC3, ANGPTL3, APOB, NPC1L1, LPA); instrumented 4 (HMGCR, CETP, LDLR, LPL)
+[L08] PCSK9 in GTEx v8 whole blood: tested True; qualifying variant True; lead P 8.79e-14
+[L09] never-assayed locked targets: 35 overall, of which microRNA genes 9 and mitochondrial genes 2; 16 in heart failure / cardiomyopathy, of which microRNA genes 4 and mitochondrial genes 1

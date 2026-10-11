@@ -359,7 +359,8 @@ def style(v):
     if not isinstance(v, str):
         return v
     v = _re.sub(r"(?<![\w.])(\d+(?:\.\d+)?)e-(\d+)\b",
-                lambda m: "%s\u00d710%s" % (m.group(1), ("-" + m.group(2)).translate(_SUP)), v)
+                lambda m: "%s\u00d710%s" % (m.group(1),
+                                           ("-" + str(int(m.group(2)))).translate(_SUP)), v)
     v = v.replace("p < 5\u00d710", "P<5\u00d710").replace("p<5\u00d710", "P<5\u00d710")
     v = v.replace("+/- 100 kb", "\u00b1100 kb").replace("+/-100 kb", "\u00b1100 kb")
     v = v.replace("+-100 kb", "\u00b1100 kb").replace("+- 100 kb", "\u00b1100 kb")

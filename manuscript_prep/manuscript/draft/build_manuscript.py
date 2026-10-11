@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Build manuscript.md / manuscript.docx and supplement.docx, and count words.
+"""Build manuscript.md / manuscript_FINAL.docx and supplement.docx, and count words.
 
     python manuscript_prep/manuscript/draft/fetch_refs.py        # once; resolves DOIs
     python manuscript_prep/manuscript/draft/build_manuscript.py
@@ -74,7 +74,7 @@ def to_docx(md_path, docx_path):
     except RuntimeError as e:
         if "permission denied" not in str(e).lower():
             raise
-        alt = docx_path.replace(".docx", "_FINAL.docx")
+        alt = docx_path.replace(".docx", "_v2.docx")
         pypandoc.convert_file(md_path, "docx", outputfile=alt, extra_args=args)
         print("NOTE: %s is open in another program; wrote %s instead"
               % (os.path.basename(docx_path), os.path.basename(alt)))
@@ -169,7 +169,73 @@ body = body.replace("[[WORDCOUNT]]", "{:,}".format(counts["total"]))
 body = re.sub(r"<!--.*?-->\n?", "", body)
 out_md = os.path.join(MS, "manuscript.md")
 open(out_md, "w", encoding="utf-8", newline="\n").write(body)
-to_docx(out_md, os.path.join(MS, "manuscript.docx"))
+DOCX = to_docx(out_md, os.path.join(MS, "manuscript_FINAL.docx"))
+
+
+def landscape_table2(path):
+    """Put Table 2 (12 columns) on its own landscape section and set its column widths."""
+    import copy
+    from docx import Document
+    from docx.oxml import OxmlElement
+    from docx.oxml.ns import qn
+    from docx.shared import Inches, Pt
+    d = Document(path)
+    body = d.element.body
+    kids = list(body.iterchildren())
+
+    def text(el):
+        return "".join(t.text or "" for t in el.iter(qn("w:t")))
+    i2 = next(i for i, k in enumerate(kids) if k.tag == qn("w:p") and text(k).startswith("Table 2."))
+    i3 = next(i for i, k in enumerate(kids) if k.tag == qn("w:p") and text(k).startswith("Table 3."))
+    final = body.find(qn("w:sectPr"))
+
+    def sect(landscape):
+        sp = copy.deepcopy(final)
+        pg = sp.find(qn("w:pgSz"))
+        if pg is None:
+            pg = OxmlElement("w:pgSz")
+            sp.insert(0, pg)
+        w, h = ("15840", "12240") if landscape else ("12240", "15840")
+        pg.set(qn("w:w"), w)
+        pg.set(qn("w:h"), h)
+        if landscape:
+            pg.set(qn("w:orient"), "landscape")
+        elif pg.get(qn("w:orient")) is not None:
+            del pg.attrib[qn("w:orient")]
+        return sp
+
+    def end_section(par, landscape):
+        ppr = par.find(qn("w:pPr"))
+        if ppr is None:
+            ppr = OxmlElement("w:pPr")
+            par.insert(0, ppr)
+        ppr.append(sect(landscape))
+    prev2 = next(k for k in reversed(kids[:i2]) if k.tag == qn("w:p"))
+    prev3 = next(k for k in reversed(kids[:i3]) if k.tag == qn("w:p"))
+    end_section(prev2, False)          # everything before Table 2: portrait
+    end_section(prev3, True)           # Table 2 with its footnotes: landscape
+    tbl_el = next(k for k in kids[i2:i3] if k.tag == qn("w:tbl"))
+    tbl = next(t for t in d.tables if t._tbl is tbl_el)
+    ncol = len(tbl.columns)
+    rel = [0.62, 1.15, 1.2, 1.05, 0.8, 0.8, 0.42, 1.55, 0.45, 0.62, 0.62, 0.62][:ncol]
+    rel += [0.6] * (ncol - len(rel))
+    scale = 9.0 / sum(rel)             # 11 in wide page, 1 in margins
+    tbl.autofit = False
+    for row in tbl.rows:
+        for j, cell in enumerate(row.cells):
+            cell.width = Inches(rel[j] * scale)
+            for par in cell.paragraphs:
+                for run in par.runs:
+                    run.font.size = Pt(6.5)
+    d.save(path)
+    return ncol
+
+
+try:
+    print("Table 2 set on a landscape section; columns: %d" % landscape_table2(DOCX))
+except Exception as exc:                                         # noqa: BLE001
+    print("NOTE: landscape step failed: %r" % (exc,))
+print("manuscript written to %s" % os.path.basename(DOCX))
 
 n_display = 6
 wc = ["# WORD_COUNT", "",

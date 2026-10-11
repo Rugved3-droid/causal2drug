@@ -1,40 +1,40 @@
 ﻿Target,Highest phase,Indication areas,eQTLGen status,"Tissues, n",Tissues with a candidate instrument (lead p; GTEx v8 eQTL sample size),Proteomic studies that assayed it
 ABCG5,Preclinical,Lipids / atherosclerosis,No eQTL data,1,Spleen (6×10⁻¹¹; n=227),none
 ABCG8,Preclinical,Lipids / atherosclerosis,No eQTL data,2,Colon Transverse (1.1×10⁻¹⁶; n=368); Adipose Subcutaneous (1.6×10⁻¹¹; n=581),none
-ADRA1B,Launched,Other,No eQTL data,2,Cultured fibroblasts (8.8×10⁻¹¹; n=483); Skin Not Sun Exposed Suprapubic (5.2×10⁻⁰⁹; n=517),none
+ADRA1B,Launched,Other,No eQTL data,2,Cultured fibroblasts (8.8×10⁻¹¹; n=483); Skin Not Sun Exposed Suprapubic (5.2×10⁻⁹; n=517),none
 ADRA1D,Launched,Other,No eQTL data,2,Testis (1.5×10⁻²³; n=322); Brain Cortex (3.4×10⁻¹¹; n=205),none
-APLN,Phase I,Heart failure / cardiomyopathy; Pulmonary hypertension; Other; Unspecified CV,No eQTL data,1,Esophagus Muscularis (1.7×10⁻⁰⁹; n=465),deCODE; Fenland
-AQP4,Phase I,Cerebrovascular,No eQTL data,4,Testis (3.3×10⁻²²; n=322); Pituitary (1.5×10⁻¹⁴; n=237); Ovary (1.9×10⁻¹¹; n=167); Nerve Tibial (2.6×10⁻⁰⁹; n=532),deCODE
+APLN,Phase I,Heart failure / cardiomyopathy; Pulmonary hypertension; Other; Unspecified CV,No eQTL data,1,Esophagus Muscularis (1.7×10⁻⁹; n=465),deCODE; Fenland
+AQP4,Phase I,Cerebrovascular,No eQTL data,4,Testis (3.3×10⁻²²; n=322); Pituitary (1.5×10⁻¹⁴; n=237); Ovary (1.9×10⁻¹¹; n=167); Nerve Tibial (2.6×10⁻⁹; n=532),deCODE
 AR,Phase II,Lipids / atherosclerosis; Heart failure / cardiomyopathy; Other,No eQTL data,4,Thyroid (5.2×10⁻¹³; n=574); Brain Nucleus accumbens basal ganglia (1.9×10⁻¹¹; n=202); Brain Frontal Cortex BA9 (5.2×10⁻¹¹; n=175); Cultured fibroblasts (4.4×10⁻¹⁰; n=483),none
 ATP1A1,Preclinical,Heart failure / cardiomyopathy,No qualifying instrument,1,Esophagus Mucosa (4.9×10⁻¹²; n=497),none
-BDKRB1,Phase II,Other,No eQTL data,6,Brain Cerebellum (1.5×10⁻²²; n=209); Brain Cerebellar Hemisphere (1.5×10⁻¹⁶; n=175); Esophagus Mucosa (1.1×10⁻¹³; n=497); Brain Cortex (5.9×10⁻¹³; n=205); Nerve Tibial (2.4×10⁻¹¹; n=532); Pancreas (4.9×10⁻⁰⁹; n=305),none
-BDKRB2,Phase III,Hypertension; Other,No eQTL data,8,Brain Cerebellum (3.6×10⁻³³; n=209); Brain Cerebellar Hemisphere (8.4×10⁻²⁶; n=175); Lung (6.2×10⁻¹⁸; n=515); Esophagus Mucosa (2×10⁻¹⁴; n=497); Spleen (2.4×10⁻¹²; n=227); Brain Putamen basal ganglia (8.8×10⁻¹¹; n=170); Cultured fibroblasts (3.6×10⁻⁰⁸; n=483); Breast Mammary Tissue (4.1×10⁻⁰⁸; n=396),none
-CACNA1G,Phase II,Ischaemic heart disease; Hypertension; Cerebrovascular,No eQTL data,2,Cultured fibroblasts (9.8×10⁻¹¹; n=483); Lung (8.7×10⁻⁰⁹; n=515),none
-CACNA2D1,Phase III,Ischaemic heart disease; Arrhythmia; Hypertension,No eQTL data,6,Skin Not Sun Exposed Suprapubic (2.7×10⁻²³; n=517); Skin Sun Exposed Lower leg (2.4×10⁻²⁰; n=605); Adipose Subcutaneous (5.3×10⁻¹⁴; n=581); Esophagus Mucosa (7.8×10⁻¹⁴; n=497); Cultured fibroblasts (7.1×10⁻⁰⁹; n=483); Lung (1.2×10⁻⁰⁸; n=515),none
+BDKRB1,Phase II,Other,No eQTL data,6,Brain Cerebellum (1.5×10⁻²²; n=209); Brain Cerebellar Hemisphere (1.5×10⁻¹⁶; n=175); Esophagus Mucosa (1.1×10⁻¹³; n=497); Brain Cortex (5.9×10⁻¹³; n=205); Nerve Tibial (2.4×10⁻¹¹; n=532); Pancreas (4.9×10⁻⁹; n=305),none
+BDKRB2,Phase III,Hypertension; Other,No eQTL data,8,Brain Cerebellum (3.6×10⁻³³; n=209); Brain Cerebellar Hemisphere (8.4×10⁻²⁶; n=175); Lung (6.2×10⁻¹⁸; n=515); Esophagus Mucosa (2×10⁻¹⁴; n=497); Spleen (2.4×10⁻¹²; n=227); Brain Putamen basal ganglia (8.8×10⁻¹¹; n=170); Cultured fibroblasts (3.6×10⁻⁸; n=483); Breast Mammary Tissue (4.1×10⁻⁸; n=396),none
+CACNA1G,Phase II,Ischaemic heart disease; Hypertension; Cerebrovascular,No eQTL data,2,Cultured fibroblasts (9.8×10⁻¹¹; n=483); Lung (8.7×10⁻⁹; n=515),none
+CACNA2D1,Phase III,Ischaemic heart disease; Arrhythmia; Hypertension,No eQTL data,6,Skin Not Sun Exposed Suprapubic (2.7×10⁻²³; n=517); Skin Sun Exposed Lower leg (2.4×10⁻²⁰; n=605); Adipose Subcutaneous (5.3×10⁻¹⁴; n=581); Esophagus Mucosa (7.8×10⁻¹⁴; n=497); Cultured fibroblasts (7.1×10⁻⁹; n=483); Lung (1.2×10⁻⁸; n=515),none
 CHRNA3,Phase II,Hypertension,No eQTL data,7,Muscle Skeletal (4.1×10⁻⁶⁶; n=706); Brain Caudate basal ganglia (1.3×10⁻³⁶; n=194); Nerve Tibial (2.4×10⁻³⁴; n=532); Brain Nucleus accumbens basal ganglia (6.4×10⁻²⁴; n=202); Brain Putamen basal ganglia (1.4×10⁻²²; n=170); Colon Sigmoid (5.8×10⁻¹¹; n=318); Testis (7.8×10⁻¹¹; n=322),none
 CHRNB4,Phase II,Hypertension,No eQTL data,2,Testis (5.2×10⁻²⁷; n=322); Esophagus Mucosa (1.1×10⁻¹¹; n=497),none
-CMA1,Phase II,Ischaemic heart disease; Heart failure / cardiomyopathy; Unspecified CV,No eQTL data,6,Skin Sun Exposed Lower leg (1.5×10⁻¹⁵; n=605); Skin Not Sun Exposed Suprapubic (3.5×10⁻¹⁵; n=517); Esophagus Mucosa (1.5×10⁻¹¹; n=497); Adipose Subcutaneous (3.2×10⁻¹⁰; n=581); Esophagus Muscularis (6.5×10⁻¹⁰; n=465); Nerve Tibial (1.1×10⁻⁰⁸; n=532),deCODE; Fenland
-CRHR1,Phase II,Unspecified CV,No eQTL data,6,Breast Mammary Tissue (4.7×10⁻²⁴; n=396); Adipose Visceral Omentum (1.3×10⁻²²; n=469); Adipose Subcutaneous (5.4×10⁻¹⁸; n=581); Nerve Tibial (4.1×10⁻¹⁴; n=532); Esophagus Muscularis (2.5×10⁻¹⁰; n=465); Muscle Skeletal (4.6×10⁻⁰⁸; n=706),UKB-PPP
-CYP7A1,Preclinical,Lipids / atherosclerosis; Heart failure / cardiomyopathy,No eQTL data,4,Spleen (1.3×10⁻¹⁸; n=227); Nerve Tibial (1.7×10⁻¹⁰; n=532); Adipose Subcutaneous (8.4×10⁻⁰⁹; n=581); Breast Mammary Tissue (1.3×10⁻⁰⁸; n=396),none
+CMA1,Phase II,Ischaemic heart disease; Heart failure / cardiomyopathy; Unspecified CV,No eQTL data,6,Skin Sun Exposed Lower leg (1.5×10⁻¹⁵; n=605); Skin Not Sun Exposed Suprapubic (3.5×10⁻¹⁵; n=517); Esophagus Mucosa (1.5×10⁻¹¹; n=497); Adipose Subcutaneous (3.2×10⁻¹⁰; n=581); Esophagus Muscularis (6.5×10⁻¹⁰; n=465); Nerve Tibial (1.1×10⁻⁸; n=532),deCODE; Fenland
+CRHR1,Phase II,Unspecified CV,No eQTL data,6,Breast Mammary Tissue (4.7×10⁻²⁴; n=396); Adipose Visceral Omentum (1.3×10⁻²²; n=469); Adipose Subcutaneous (5.4×10⁻¹⁸; n=581); Nerve Tibial (4.1×10⁻¹⁴; n=532); Esophagus Muscularis (2.5×10⁻¹⁰; n=465); Muscle Skeletal (4.6×10⁻⁸; n=706),UKB-PPP
+CYP7A1,Preclinical,Lipids / atherosclerosis; Heart failure / cardiomyopathy,No eQTL data,4,Spleen (1.3×10⁻¹⁸; n=227); Nerve Tibial (1.7×10⁻¹⁰; n=532); Adipose Subcutaneous (8.4×10⁻⁹; n=581); Breast Mammary Tissue (1.3×10⁻⁸; n=396),none
 DLG4,Phase I,Cerebrovascular,No qualifying instrument,1,Muscle Skeletal (6.5×10⁻¹⁷; n=706),UKB-PPP; deCODE; Fenland
-DRD1,Phase II,Heart failure / cardiomyopathy; Unspecified CV,No eQTL data,2,Adipose Visceral Omentum (8.9×10⁻¹²; n=469); Adipose Subcutaneous (4.1×10⁻⁰⁸; n=581),none
-DRD2,Phase I,Pulmonary hypertension,No eQTL data,4,Esophagus Muscularis (1.1×10⁻¹⁴; n=465); Adipose Subcutaneous (9.5×10⁻¹¹; n=581); Esophagus Gastroesophageal Junction (7.1×10⁻¹⁰; n=330); Stomach (9.6×10⁻⁰⁹; n=324),none
+DRD1,Phase II,Heart failure / cardiomyopathy; Unspecified CV,No eQTL data,2,Adipose Visceral Omentum (8.9×10⁻¹²; n=469); Adipose Subcutaneous (4.1×10⁻⁸; n=581),none
+DRD2,Phase I,Pulmonary hypertension,No eQTL data,4,Esophagus Muscularis (1.1×10⁻¹⁴; n=465); Adipose Subcutaneous (9.5×10⁻¹¹; n=581); Esophagus Gastroesophageal Junction (7.1×10⁻¹⁰; n=330); Stomach (9.6×10⁻⁹; n=324),none
 DRD3,Phase I,Pulmonary hypertension,No eQTL data,1,Testis (2.2×10⁻²⁷; n=322),none
-EDNRA,Launched,Lipids / atherosclerosis; Heart failure / cardiomyopathy; Hypertension; Pulmonary hypertension; Other; Unspecified CV,No eQTL data,3,Esophagus Mucosa (7.4×10⁻¹⁷; n=497); Skin Not Sun Exposed Suprapubic (3.2×10⁻¹⁰; n=517); Testis (1.4×10⁻⁰⁹; n=322),none
-EDNRB,Launched,Heart failure / cardiomyopathy; Hypertension; Pulmonary hypertension; Cerebrovascular; Other; Unspecified CV,No eQTL data,1,Esophagus Muscularis (4×10⁻⁰⁸; n=465),UKB-PPP
-EEF2K,Preclinical,Unspecified CV,No qualifying instrument,3,Cultured fibroblasts (5.2×10⁻¹⁰; n=483); Muscle Skeletal (1.1×10⁻⁰⁹; n=706); Nerve Tibial (1.9×10⁻⁰⁹; n=532),deCODE; Fenland
+EDNRA,Launched,Lipids / atherosclerosis; Heart failure / cardiomyopathy; Hypertension; Pulmonary hypertension; Other; Unspecified CV,No eQTL data,3,Esophagus Mucosa (7.4×10⁻¹⁷; n=497); Skin Not Sun Exposed Suprapubic (3.2×10⁻¹⁰; n=517); Testis (1.4×10⁻⁹; n=322),none
+EDNRB,Launched,Heart failure / cardiomyopathy; Hypertension; Pulmonary hypertension; Cerebrovascular; Other; Unspecified CV,No eQTL data,1,Esophagus Muscularis (4×10⁻⁸; n=465),UKB-PPP
+EEF2K,Preclinical,Unspecified CV,No qualifying instrument,3,Cultured fibroblasts (5.2×10⁻¹⁰; n=483); Muscle Skeletal (1.1×10⁻⁹; n=706); Nerve Tibial (1.9×10⁻⁹; n=532),deCODE; Fenland
 FGF1,Preclinical,Cerebrovascular,No eQTL data,6,Nerve Tibial (2.7×10⁻⁹⁷; n=532); Cultured fibroblasts (2.2×10⁻³²; n=483); Testis (2.8×10⁻²⁹; n=322); Brain Spinal cord cervical c-1 (2.2×10⁻¹²; n=126); Muscle Skeletal (2.1×10⁻¹⁰; n=706); Skin Not Sun Exposed Suprapubic (7.4×10⁻¹⁰; n=517),deCODE
 FGF4,Preclinical,Heart failure / cardiomyopathy; Other,No eQTL data,1,Nerve Tibial (1.2×10⁻¹⁴; n=532),deCODE; Fenland
-FKBP8,Preclinical,Cerebrovascular,No qualifying instrument,2,Nerve Tibial (1.6×10⁻¹⁰; n=532); Cultured fibroblasts (3.4×10⁻⁰⁸; n=483),none
+FKBP8,Preclinical,Cerebrovascular,No qualifying instrument,2,Nerve Tibial (1.6×10⁻¹⁰; n=532); Cultured fibroblasts (3.4×10⁻⁸; n=483),none
 FZD4,Preclinical,Cerebrovascular,No qualifying instrument,1,Testis (5.1×10⁻¹⁰; n=322),none
 GABRA5,Phase II,Cerebrovascular,No eQTL data,9,Esophagus Muscularis (2.7×10⁻⁷²; n=465); Thyroid (3.6×10⁻³⁸; n=574); Esophagus Gastroesophageal Junction (5.7×10⁻³⁶; n=330); Esophagus Mucosa (7.6×10⁻³⁶; n=497); Testis (1.1×10⁻²¹; n=322); Pancreas (1.9×10⁻²¹; n=305); Colon Sigmoid (7.9×10⁻¹⁷; n=318); Stomach (3.9×10⁻¹³; n=324); Prostate (1.8×10⁻¹⁰; n=221),none
-GCGR,Preclinical,Ischaemic heart disease; Heart failure / cardiomyopathy; Unspecified CV,No eQTL data,9,Nerve Tibial (3.7×10⁻⁵⁴; n=532); Spleen (5×10⁻²⁴; n=227); Lung (5.7×10⁻¹⁸; n=515); Colon Sigmoid (1×10⁻¹³; n=318); Adipose Subcutaneous (1.5×10⁻¹²; n=581); Esophagus Muscularis (3.3×10⁻¹⁰; n=465); Esophagus Gastroesophageal Junction (6.7×10⁻¹⁰; n=330); Adipose Visceral Omentum (1.7×10⁻⁰⁸; n=469); Skin Not Sun Exposed Suprapubic (2.7×10⁻⁰⁸; n=517),none
+GCGR,Preclinical,Ischaemic heart disease; Heart failure / cardiomyopathy; Unspecified CV,No eQTL data,9,Nerve Tibial (3.7×10⁻⁵⁴; n=532); Spleen (5×10⁻²⁴; n=227); Lung (5.7×10⁻¹⁸; n=515); Colon Sigmoid (1×10⁻¹³; n=318); Adipose Subcutaneous (1.5×10⁻¹²; n=581); Esophagus Muscularis (3.3×10⁻¹⁰; n=465); Esophagus Gastroesophageal Junction (6.7×10⁻¹⁰; n=330); Adipose Visceral Omentum (1.7×10⁻⁸; n=469); Skin Not Sun Exposed Suprapubic (2.7×10⁻⁸; n=517),none
 GPC3,Preclinical,Pulmonary hypertension,No eQTL data,1,Cultured fibroblasts (6.5×10⁻³²; n=483),deCODE; Fenland
-GPR119,Phase II,Lipids / atherosclerosis,No eQTL data,1,Testis (4.8×10⁻⁰⁹; n=322),none
+GPR119,Phase II,Lipids / atherosclerosis,No eQTL data,1,Testis (4.8×10⁻⁹; n=322),none
 GRIN2B,Phase I,Cerebrovascular; Other,No eQTL data,1,Nerve Tibial (1.5×10⁻¹¹; n=532),UKB-PPP
-GRM4,Phase I,Cerebrovascular,No eQTL data,3,Brain Cerebellum (4.9×10⁻²²; n=209); Brain Cerebellar Hemisphere (1.1×10⁻¹¹; n=175); Pancreas (4.4×10⁻⁰⁹; n=305),none
-HCN2,Phase III,Ischaemic heart disease; Heart failure / cardiomyopathy; Arrhythmia,No qualifying instrument,2,Esophagus Mucosa (8.1×10⁻⁴²; n=497); Cultured fibroblasts (4.2×10⁻⁰⁸; n=483),none
-HRH3,Phase II,Lipids / atherosclerosis,No eQTL data,1,Brain Cerebellum (7.2×10⁻⁰⁹; n=209),none
+GRM4,Phase I,Cerebrovascular,No eQTL data,3,Brain Cerebellum (4.9×10⁻²²; n=209); Brain Cerebellar Hemisphere (1.1×10⁻¹¹; n=175); Pancreas (4.4×10⁻⁹; n=305),none
+HCN2,Phase III,Ischaemic heart disease; Heart failure / cardiomyopathy; Arrhythmia,No qualifying instrument,2,Esophagus Mucosa (8.1×10⁻⁴²; n=497); Cultured fibroblasts (4.2×10⁻⁸; n=483),none
+HRH3,Phase II,Lipids / atherosclerosis,No eQTL data,1,Brain Cerebellum (7.2×10⁻⁹; n=209),none
 HTR7,Phase I,Pulmonary hypertension,No qualifying instrument,3,Cultured fibroblasts (2.6×10⁻¹⁵; n=483); Adipose Subcutaneous (5.1×10⁻¹³; n=581); Colon Sigmoid (7×10⁻¹⁰; n=318),deCODE; Fenland
 IL1A,Phase II,Lipids / atherosclerosis; Ischaemic heart disease; Thrombosis; Other,No eQTL data,2,Skin Sun Exposed Lower leg (4.1×10⁻²⁶; n=605); Skin Not Sun Exposed Suprapubic (1.3×10⁻¹⁷; n=517),UKB-PPP; deCODE; Fenland
 IL1B,Launched,Lipids / atherosclerosis; Ischaemic heart disease; Heart failure / cardiomyopathy; Cerebrovascular; Other; Unspecified CV,No qualifying instrument,2,Testis (6.8×10⁻²⁶; n=322); Skin Sun Exposed Lower leg (4.7×10⁻¹¹; n=605),UKB-PPP; deCODE; Fenland
@@ -45,29 +45,29 @@ KCNJ1,Phase I,Heart failure / cardiomyopathy; Hypertension,No eQTL data,3,Skin N
 MC5R,Preclinical,Other,No eQTL data,1,Testis (1.1×10⁻¹⁴; n=322),none
 MCU,Preclinical,Unspecified CV,No qualifying instrument,2,Brain Cerebellum (8.5×10⁻²⁹; n=209); Brain Cerebellar Hemisphere (8.9×10⁻¹⁴; n=175),none
 MTNR1B,Preclinical,Cerebrovascular,No eQTL data,1,Testis (2.1×10⁻¹⁵; n=322),none
-NOX1,Preclinical,Unspecified CV,No eQTL data,6,Small Intestine Terminal Ileum (4.1×10⁻¹⁷; n=174); Brain Cerebellum (6.7×10⁻⁰⁹; n=209); Brain Cerebellar Hemisphere (6.8×10⁻⁰⁹; n=175); Nerve Tibial (2.8×10⁻⁰⁸; n=532); Colon Transverse (2.9×10⁻⁰⁸; n=368); Brain Caudate basal ganglia (3.5×10⁻⁰⁸; n=194),none
+NOX1,Preclinical,Unspecified CV,No eQTL data,6,Small Intestine Terminal Ileum (4.1×10⁻¹⁷; n=174); Brain Cerebellum (6.7×10⁻⁹; n=209); Brain Cerebellar Hemisphere (6.8×10⁻⁹; n=175); Nerve Tibial (2.8×10⁻⁸; n=532); Colon Transverse (2.9×10⁻⁸; n=368); Brain Caudate basal ganglia (3.5×10⁻⁸; n=194),none
 NOX4,Preclinical,Cerebrovascular,No eQTL data,1,Cultured fibroblasts (8.7×10⁻²³; n=483),none
 NPC1L1,Launched,Lipids / atherosclerosis,No qualifying instrument,2,Adipose Subcutaneous (1.7×10⁻¹⁸; n=581); Testis (9.2×10⁻¹⁰; n=322),none
-NPR1,Phase II,Heart failure / cardiomyopathy; Hypertension; Pulmonary hypertension; Unspecified CV,No eQTL data,2,Esophagus Gastroesophageal Junction (4.5×10⁻⁰⁹; n=330); Colon Sigmoid (6.8×10⁻⁰⁹; n=318),UKB-PPP
-NPY2R,Preclinical,Lipids / atherosclerosis; Other,No eQTL data,10,Brain Caudate basal ganglia (6.2×10⁻²⁸; n=194); Brain Cortex (2.2×10⁻²²; n=205); Brain Putamen basal ganglia (3×10⁻²¹; n=170); Brain Spinal cord cervical c-1 (1.5×10⁻²⁰; n=126); Brain Substantia nigra (1.7×10⁻¹⁸; n=114); Brain Hippocampus (4.6×10⁻¹⁶; n=165); Brain Amygdala (3.6×10⁻¹⁵; n=129); Brain Hypothalamus (6.6×10⁻⁰⁹; n=170); Brain Anterior cingulate cortex BA24 (8.3×10⁻⁰⁹; n=147); Brain Frontal Cortex BA9 (3.1×10⁻⁰⁸; n=175),none
-NPY4R,Preclinical,Ischaemic heart disease; Heart failure / cardiomyopathy; Arrhythmia; Thrombosis; Other,No eQTL data,3,Skin Not Sun Exposed Suprapubic (4.8×10⁻²⁹; n=517); Skin Sun Exposed Lower leg (1.2×10⁻¹⁹; n=605); Colon Transverse (2.9×10⁻⁰⁹; n=368),none
-NTRK1,Preclinical,Ischaemic heart disease,No qualifying instrument,2,Nerve Tibial (9.7×10⁻¹²; n=532); Brain Nucleus accumbens basal ganglia (4.2×10⁻⁰⁸; n=202),deCODE; Fenland
+NPR1,Phase II,Heart failure / cardiomyopathy; Hypertension; Pulmonary hypertension; Unspecified CV,No eQTL data,2,Esophagus Gastroesophageal Junction (4.5×10⁻⁹; n=330); Colon Sigmoid (6.8×10⁻⁹; n=318),UKB-PPP
+NPY2R,Preclinical,Lipids / atherosclerosis; Other,No eQTL data,10,Brain Caudate basal ganglia (6.2×10⁻²⁸; n=194); Brain Cortex (2.2×10⁻²²; n=205); Brain Putamen basal ganglia (3×10⁻²¹; n=170); Brain Spinal cord cervical c-1 (1.5×10⁻²⁰; n=126); Brain Substantia nigra (1.7×10⁻¹⁸; n=114); Brain Hippocampus (4.6×10⁻¹⁶; n=165); Brain Amygdala (3.6×10⁻¹⁵; n=129); Brain Hypothalamus (6.6×10⁻⁹; n=170); Brain Anterior cingulate cortex BA24 (8.3×10⁻⁹; n=147); Brain Frontal Cortex BA9 (3.1×10⁻⁸; n=175),none
+NPY4R,Preclinical,Ischaemic heart disease; Heart failure / cardiomyopathy; Arrhythmia; Thrombosis; Other,No eQTL data,3,Skin Not Sun Exposed Suprapubic (4.8×10⁻²⁹; n=517); Skin Sun Exposed Lower leg (1.2×10⁻¹⁹; n=605); Colon Transverse (2.9×10⁻⁹; n=368),none
+NTRK1,Preclinical,Ischaemic heart disease,No qualifying instrument,2,Nerve Tibial (9.7×10⁻¹²; n=532); Brain Nucleus accumbens basal ganglia (4.2×10⁻⁸; n=202),deCODE; Fenland
 OPRD1,Preclinical,Ischaemic heart disease; Heart failure / cardiomyopathy,No eQTL data,2,Testis (1.2×10⁻¹⁵; n=322); Adipose Visceral Omentum (8.9×10⁻¹¹; n=469),none
-OPRM1,Preclinical,Ischaemic heart disease,No eQTL data,1,Testis (4.5×10⁻⁰⁹; n=322),none
+OPRM1,Preclinical,Ischaemic heart disease,No eQTL data,1,Testis (4.5×10⁻⁹; n=322),none
 PRKACA,Preclinical,Ischaemic heart disease; Other; Unspecified CV,No qualifying instrument,1,Esophagus Mucosa (2×10⁻²⁶; n=497),deCODE
-PTGER3,Phase II,Thrombosis; Other; Unspecified CV,No qualifying instrument,6,Skin Sun Exposed Lower leg (5.4×10⁻⁶⁶; n=605); Skin Not Sun Exposed Suprapubic (8.2×10⁻⁴¹; n=517); Brain Frontal Cortex BA9 (2.5×10⁻¹²; n=175); Adipose Subcutaneous (2×10⁻¹⁰; n=581); Brain Cortex (1.4×10⁻⁰⁹; n=205); Minor Salivary Gland (1.2×10⁻⁰⁸; n=144),none
+PTGER3,Phase II,Thrombosis; Other; Unspecified CV,No qualifying instrument,6,Skin Sun Exposed Lower leg (5.4×10⁻⁶⁶; n=605); Skin Not Sun Exposed Suprapubic (8.2×10⁻⁴¹; n=517); Brain Frontal Cortex BA9 (2.5×10⁻¹²; n=175); Adipose Subcutaneous (2×10⁻¹⁰; n=581); Brain Cortex (1.4×10⁻⁹; n=205); Minor Salivary Gland (1.2×10⁻⁸; n=144),none
 PYCARD,Preclinical,Cerebrovascular,No qualifying instrument,3,Esophagus Mucosa (1.6×10⁻²⁰; n=497); Skin Sun Exposed Lower leg (9.3×10⁻¹¹; n=605); Cultured fibroblasts (5.8×10⁻¹⁰; n=483),none
 RHOA,Preclinical,Pulmonary hypertension; Unspecified CV,No qualifying instrument,1,Muscle Skeletal (4.8×10⁻¹⁹; n=706),deCODE; Fenland
 RXFP1,Launched,Lipids / atherosclerosis; Ischaemic heart disease; Heart failure / cardiomyopathy; Unspecified CV,No eQTL data,1,Cultured fibroblasts (7.1×10⁻¹³; n=483),deCODE; Fenland
-RXRG,Preclinical,Lipids / atherosclerosis,No eQTL data,5,Nerve Tibial (4.9×10⁻¹¹; n=532); Muscle Skeletal (1.3×10⁻¹⁰; n=706); Adipose Subcutaneous (2.3×10⁻¹⁰; n=581); Colon Sigmoid (1.1×10⁻⁰⁸; n=318); Testis (1.4×10⁻⁰⁸; n=322),none
+RXRG,Preclinical,Lipids / atherosclerosis,No eQTL data,5,Nerve Tibial (4.9×10⁻¹¹; n=532); Muscle Skeletal (1.3×10⁻¹⁰; n=706); Adipose Subcutaneous (2.3×10⁻¹⁰; n=581); Colon Sigmoid (1.1×10⁻⁸; n=318); Testis (1.4×10⁻⁸; n=322),none
 SCN1A,Phase II,Arrhythmia; Pulmonary hypertension; Thrombosis; Unspecified CV,No eQTL data,4,Testis (7.4×10⁻³³; n=322); Brain Cortex (6.2×10⁻¹²; n=205); Brain Nucleus accumbens basal ganglia (4.3×10⁻¹¹; n=202); Brain Cerebellum (1.7×10⁻¹⁰; n=209),none
 SLC22A12,Phase II,Heart failure / cardiomyopathy,No eQTL data,1,Adipose Subcutaneous (5.4×10⁻¹⁵; n=581),none
-SLC5A1,Launched,Heart failure / cardiomyopathy,No eQTL data,3,Thyroid (8.5×10⁻¹⁸; n=574); Spleen (4.7×10⁻¹⁴; n=227); Nerve Tibial (1.8×10⁻⁰⁹; n=532),none
-SREBF2,Phase I,Lipids / atherosclerosis; Other,No qualifying instrument,2,Cultured fibroblasts (1.2×10⁻⁰⁸; n=483); Testis (1.8×10⁻⁰⁸; n=322),none
-SSTR2,Phase II,Other,No eQTL data,1,Testis (2.6×10⁻⁰⁹; n=322),none
-SSTR4,Preclinical,Unspecified CV,No eQTL data,3,Brain Cerebellum (8.6×10⁻¹²; n=209); Brain Nucleus accumbens basal ganglia (8.8×10⁻¹⁰; n=202); Brain Cerebellar Hemisphere (8×10⁻⁰⁹; n=175),none
+SLC5A1,Launched,Heart failure / cardiomyopathy,No eQTL data,3,Thyroid (8.5×10⁻¹⁸; n=574); Spleen (4.7×10⁻¹⁴; n=227); Nerve Tibial (1.8×10⁻⁹; n=532),none
+SREBF2,Phase I,Lipids / atherosclerosis; Other,No qualifying instrument,2,Cultured fibroblasts (1.2×10⁻⁸; n=483); Testis (1.8×10⁻⁸; n=322),none
+SSTR2,Phase II,Other,No eQTL data,1,Testis (2.6×10⁻⁹; n=322),none
+SSTR4,Preclinical,Unspecified CV,No eQTL data,3,Brain Cerebellum (8.6×10⁻¹²; n=209); Brain Nucleus accumbens basal ganglia (8.8×10⁻¹⁰; n=202); Brain Cerebellar Hemisphere (8×10⁻⁹; n=175),none
 TLR8,Phase I,Lipids / atherosclerosis; Cerebrovascular,No eQTL data,1,Adipose Subcutaneous (5×10⁻¹⁵; n=581),none
-TMSB4X,Phase II,Ischaemic heart disease,No eQTL data,1,Nerve Tibial (4.1×10⁻⁰⁸; n=532),none
-UCN2,Phase I,Heart failure / cardiomyopathy,No eQTL data,3,Skin Sun Exposed Lower leg (5.9×10⁻¹⁵; n=605); Esophagus Mucosa (1.2×10⁻⁰⁸; n=497); Testis (4.2×10⁻⁰⁸; n=322),none
+TMSB4X,Phase II,Ischaemic heart disease,No eQTL data,1,Nerve Tibial (4.1×10⁻⁸; n=532),none
+UCN2,Phase I,Heart failure / cardiomyopathy,No eQTL data,3,Skin Sun Exposed Lower leg (5.9×10⁻¹⁵; n=605); Esophagus Mucosa (1.2×10⁻⁸; n=497); Testis (4.2×10⁻⁸; n=322),none
 UCN3,Phase II,Heart failure / cardiomyopathy,No eQTL data,1,Colon Sigmoid (6.8×10⁻¹⁶; n=318),deCODE
 XDH,Phase II,Heart failure / cardiomyopathy; Pulmonary hypertension; Other,No eQTL data,3,Cultured fibroblasts (1.2×10⁻²⁶; n=483); Esophagus Mucosa (9.6×10⁻²¹; n=497); Thyroid (3.3×10⁻¹⁵; n=574),deCODE
